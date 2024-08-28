@@ -1,36 +1,38 @@
-name: Translate Documentation
+name: Translate GitBook Documentation
 
 on:
   push:
     branches:
       - main
+    paths:
+      - 'docs/**'  # Adjust the path to your docs directory if needed
 
 jobs:
   translate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository content
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          pip install openai
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install openai
 
-      - name: Translate files
-        run: |
-          python3 translate.py
+    - name: Translate Documentation
+      run: |
+        python translate.py
 
-      - name: Commit translated content
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "GitHub Actions Bot"
-          git add .
-          git commit -m "Translated content to Swedish using OpenAI"
-          git push origin main
+    - name: Commit translated files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions Bot"
+        git add .
+        git commit -m "Translate GitBook docs to Swedish"
+        git push origin main
