@@ -1,5 +1,5 @@
 import os
-from openai import OpenAI
+import openai
 
 # Set up your OpenAI API key (this should be stored as a GitHub Secret for security)
 openai.api_key = os.getenv("OPENAI_API_KEY")
