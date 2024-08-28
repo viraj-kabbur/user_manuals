@@ -28,7 +28,7 @@ def translate_file(file_path, target_language="Swedish"):
         file.write(translated_content)
 
 # Recursively translate all markdown files in the docs directory
-for subdir, dirs, files in os.walk('teacher'):
+for subdir, dirs, files in os.walk('school-admin'):
     for file in files:
         if file.endswith('.md'):
             translate_file(os.path.join(subdir, file))
