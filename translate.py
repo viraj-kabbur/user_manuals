@@ -1,8 +1,9 @@
 import os
-from OpenAI import OpenAI
+import OpenAI from "openai";
+const openai = new OpenAI();
 
 # Set up your OpenAI API key (this should be stored as a GitHub Secret for security)
-OpenAI.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def translate_text(text, target_language="Swedish"):
     prompt = f"Translate the following English text to {target_language}: \n\n{text}\n\n"
