@@ -7,6 +7,6 @@
     "start": "node translate.js"
   },
   "dependencies": {
-    "openai": "^4.0.0"  // Replace with the latest version
+    "openai": "^4.0.0" 
   }
 }
