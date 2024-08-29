@@ -1,23 +1,17 @@
 import os
-from openai import OpenAI
+import openai
 
-client = OpenAI(
-# Set up your OpenAI API key
-api_key = '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',
-)
+# Set up your OpenAI API key (ensure this is correct and properly set)
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def translate_text(text, target_language="Swedish"):
+    prompt = f"Translate the following English text to {target_language}: \n\n{text}\n\n"
 
     # Use the Completion.create method for text-based completion
-    response = client.chat.completions.create(
-        model="gpt-4",  # You can change this model if needed
-        messages=[
-        {
-            "role": "user",
-            "content": "Translate the following English text to swedish: \n\n{text}\n\n"
-        }
-    ],
-        max_tokens=100000,
+    response = openai.Completion.create(
+        model="text-davinci-003",  # Use a text-based model like "text-davinci-003"
+        prompt=prompt,
+        max_tokens=1000,
         temperature=0.5,
     )
     
