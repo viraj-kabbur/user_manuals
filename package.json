@@ -1,6 +1,7 @@
 {
   "name": "gitbook-translation",
   "version": "1.0.0",
+  "type": "module",
   "description": "A script to translate GitBook documentation using OpenAI",
   "main": "translate.js",
   "scripts": {
