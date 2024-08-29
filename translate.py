@@ -3,7 +3,7 @@ from openai import OpenAI
 
 client = OpenAI(
 # Set up your OpenAI API key
-api_key = os.environ.get("OPENAI_API_KEY"),
+api_key = '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',
 )
 
 def translate_text(text, target_language="Swedish"):
