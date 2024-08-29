@@ -1,38 +1,36 @@
-import os
 import openai
+import os
 
-# Set up your OpenAI API key (ensure this is correct and properly set)
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Set your OpenAI API key here
+openai.api_key = "YOUR_OPENAI_API_KEY"
 
-def translate_text(text, target_language="Swedish"):
-    prompt = f"Translate the following English text to {target_language}: \n\n{text}\n\n"
+def translate_text(text, target_language):
+    # Construct the prompt for translation
+    prompt = f"Translate the following text to {target_language}: \n\n{text}"
 
-    # Use the Completion.create method for text-based completion
-    response = openai.Completion.create(
-        model="gpt-4",  # Use a text-based model like "text-davinci-003"
-        prompt=prompt,
-        max_tokens=1000,
-        temperature=0.5,
+    # Use the OpenAI API to generate a translation
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": prompt}
+        ],
+        max_tokens=2048,
+        temperature=0.3,
     )
-    
-    translated_text = response.choices[0].text.strip()
+
+    translated_text = response['choices'][0]['message']['content'].strip()
     return translated_text
 
-def translate_file(file_path, target_language="Swedish"):
-    with open(file_path, 'r', encoding='utf-8') as file:
+# Example of how you might read content from a file and translate it
+def translate_gitbook_content():
+    with open('path/to/your/gitbook/file.md', 'r', encoding='utf-8') as file:
         content = file.read()
-    
-    translated_content = translate_text(content, target_language)
-    
-    # Write the translated content to a new file
-    output_file_path = file_path.replace('.md', f'_{target_language.lower()}.md')
-    with open(output_file_path, 'w', encoding='utf-8') as file:
+
+    translated_content = translate_text(content, "Swedish")  # Specify the target language
+
+    with open('path/to/your/gitbook/file_sv.md', 'w', encoding='utf-8') as file:
         file.write(translated_content)
 
-    print(f"Translated {file_path} to {output_file_path}")
-
-# Recursively translate all markdown files in the docs directory
-for subdir, dirs, files in os.walk('docs'):
-    for file in files:
-        if file.endswith('.md'):
-            translate_file(os.path.join(subdir, file))
+if __name__ == "__main__":
+    translate_gitbook_content()
