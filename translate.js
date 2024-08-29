@@ -14,7 +14,7 @@ const openai = new OpenAIApi(configuration);
 const translateText = async (text, targetLanguage = "Swedish") => {
   const prompt = `Translate the following English text to ${targetLanguage}:\n\n${text}`;
 
-  const response = await openai.createCompletion({
+  const response = await openai.chat.completions.create({
     model: "text-davinci-003", 
     prompt: prompt,
     max_tokens: 100000,
