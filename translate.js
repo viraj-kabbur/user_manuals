@@ -12,7 +12,7 @@ const openai = new OpenAIApi(configuration);
 
 // Function to translate text using OpenAI API
 const translateText = async (text, targetLanguage = "Swedish") => {
-  const prompt = `Translate the following English text to ${targetLanguage}:\n\n${text}`;
+  const prompt = `Translate the following English text to ${targetLanguage}:\n\n${text} in .md format`;
 
   try {
     const response = await openai.chat.completions.create({
