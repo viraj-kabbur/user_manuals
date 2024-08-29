@@ -15,7 +15,7 @@ const translateText = async (text, targetLanguage = "Swedish") => {
   const prompt = `Translate the following English text to ${targetLanguage}:\n\n${text}`;
 
   const response = await openai.chat.completions.create({
-    model: "gpt-4", 
+    model: "gpt-3.5-turbo", 
     prompt: prompt,
     max_tokens: 100000,
     temperature: 0.5,
