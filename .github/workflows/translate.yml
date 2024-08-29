@@ -27,6 +27,8 @@ jobs:
         pip show openai
         pip install --upgrade openai
 
+    - name: Set up environment variables
+      run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
     - name: Translate Documentation
       run: |
