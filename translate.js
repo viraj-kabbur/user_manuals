@@ -1,4 +1,5 @@
 import fs from 'fs';
+import dotenv from 'dotenv';
 import path from 'path';
 import OpenAIApi from 'openai';
 import Configuration from 'openai';
