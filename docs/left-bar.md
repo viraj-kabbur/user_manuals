@@ -1,4 +1,4 @@
-# Left Bar g
+# Left Bar
 
 ## <mark style="background-color:red;">Left Bar of the Dashboard</mark>
 
