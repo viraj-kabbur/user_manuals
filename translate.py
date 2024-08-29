@@ -1,42 +1,30 @@
-import os.path
-from openai import OpenAI
+import os
+import openai
 
-client = OpenAI()
-
-# Set up your OpenAI API key (this should be stored as a GitHub Secret for security)
-client.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def translate_text(text, target_language="Swedish"):
     prompt = f"Translate the following English text to {target_language}: \n\n{text}\n\n"
-    
-    response = client.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": f"You are a translator that translates text to {target_language}."},
-            {"role": "user", "content": prompt}
-        ],
-        max_tokens=100000,
+    response = openai.Completion.create(
+        engine="text-davinci-003",  # Adjust the model as needed
+        prompt=prompt,
+        max_tokens=1024,
+        n=1,
+        stop=None,
         temperature=0.5,
     )
-    
-    translated_text = response['choices'][0]['message']['content'].strip()
-    return translated_text
+    return response.choices[0].text.strip()
 
-def translate_file(file_path, target_language="Swedish"):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
-    translated_content = translate_text(content, target_language)
-    with open(file_path.replace('.md', f'_{target_language.lower()}.md'), 'w', encoding='utf-8') as file:
-        file.write(translated_content)
+def translate_files(directory="docs"):
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            if file.endswith(".md"):
+                file_path = os.path.join(root, file)
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                translated_content = translate_text(content)
+                new_file_path = file_path.replace(".md", f"_{target_language.lower()}.md")
+                with open(new_file_path, 'w', encoding='utf-8') as f:
+                    f.write(translated_content)
 
-# Recursively translate all markdown files in the docs directory
-for subdir, dirs, files in os.walk('docs'):
-    for file in files:
-        if file.endswith('.md'):
-            file_path = os.path.join(subdir, file)
-            translate_file(file_path)
-if os.path.exists(file_path):
-    translate_file(file_path)
-else:
-    print(f"File not found: {file_path}")
-print(f"Translating file: {file_path}")
+translate_files()
