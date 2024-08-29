@@ -20,7 +20,7 @@ const translateText = async (text, targetLanguage = "Swedish") => {
       { role: "system", content: "You are a helpful assistant that translates text." },
       { role: "user", content: "translate following text to swedish" }
     ],
-    max_tokens: 16350,
+    max_tokens: 4000,
     temperature: 0.5,
   });
 
