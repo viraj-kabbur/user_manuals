@@ -3,14 +3,14 @@ from openai import OpenAI
 
 client = OpenAI(
 # Set up your OpenAI API key
-api_key = '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',
+api_key = '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',
 )
 
 def translate_text(text, target_language="Swedish"):
 
     # Use the Completion.create method for text-based completion
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",  # You can change this model if needed
+        model="gpt-4",  # You can change this model if needed
         messages=[
         {
             "role": "user",
