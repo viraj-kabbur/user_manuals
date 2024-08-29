@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'docs/**'  # Adjust the path to your docs directory if needed
+      - 'docs/**'
 
 jobs:
   translate:
@@ -27,7 +27,6 @@ jobs:
 
     - name: Set up environment variables
       run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
-
 
     - name: Translate Documentation
       run: python translate.py
