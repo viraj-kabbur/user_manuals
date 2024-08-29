@@ -1,14 +1,13 @@
 import os.path
-from openai import OpenAI
-client = OpenAI()
+import openai
 
 # Set up your OpenAI API key (this should be stored as a GitHub Secret for security)
-client.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def translate_text(text, target_language="Swedish"):
     prompt = f"Translate the following English text to {target_language}: \n\n{text}\n\n"
     
-    response = client.completions.create(
+    response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": f"You are a translator that translates text to {target_language}."},
