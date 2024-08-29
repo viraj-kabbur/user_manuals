@@ -8,13 +8,13 @@ client.api_key = os.getenv("OPENAI_API_KEY")
 def translate_text(text, target_language="Swedish"):
     prompt = f"Translate the following English text to {target_language}: \n\n{text}\n\n"
     
-    response = client.chat.completions.create(
+    response = client.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": f"You are a translator that translates text to {target_language}."},
             {"role": "user", "content": prompt}
         ],
-        max_tokens=1500,
+        max_tokens=100000,
         temperature=0.5,
     )
     
