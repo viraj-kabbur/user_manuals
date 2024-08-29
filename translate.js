@@ -18,9 +18,8 @@ const translateText = async (text, targetLanguage = "Swedish") => {
     model: "gpt-3.5-turbo", 
     messages: [
       { role: "system", content: "You are a helpful assistant that translates text." },
-      { role: "user", content: prompt }
+      { role: "user", content: ${prompt} }
     ],
-    prompt: prompt,
     max_tokens: 100000,
     temperature: 0.5,
   });
