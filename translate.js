@@ -28,12 +28,12 @@ const translateText = async (text, targetLanguage = "Swedish") => {
   if (response && response.data && response.data.choices && response.data.choices.length > 0) {
       return response.data.choices[0].text.trim();
     } else {
-      console.error("OpenAI   
+      console.log("OpenAI   
  API call failed or unexpected response format:", response);
       return ""; // Handle empty response or error
     }
   } catch (error) {
-    console.error("Error during OpenAI API call:", error);
+    console.log("Error during OpenAI API call:", error);
     return ""; // Handle API call error
   }
 };
