@@ -8,7 +8,7 @@ def translate_text(text, target_language="Swedish"):
     prompt = f"Translate the following English text to {target_language}: \n\n{text}\n\n"
 
     # Use the Completion.create method for text-based completion
-    response = openai.ChatCompletion.create(
+    response = openai.Completion.create(
         model="gpt-4",  # Use a text-based model like "text-davinci-003"
         prompt=prompt,
         max_tokens=1000,
