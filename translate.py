@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set your OpenAI API key here
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = os.environ.get("YOUR_OPENAI_API_KEY")
 
 def translate_text(text, target_language):
     # Construct the prompt for translation
