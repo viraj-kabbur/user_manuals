@@ -26,7 +26,7 @@ const translateText = async (text, targetLanguage = "Swedish") => {
   });
 
   if (response && response.data && response.data.choices && response.data.choices.length > 0) {
-      return response.data.choices[0].text.trim();
+      throw new Error("Unexpected response structure: " + JSON.stringify(response.data));
     } else {
       console.error("OpenAI API call failed or unexpected response format:", response);
       return ""; // Handle empty response or error
