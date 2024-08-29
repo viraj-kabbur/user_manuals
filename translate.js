@@ -14,7 +14,8 @@ const openai = new OpenAIApi(configuration);
 const translateText = async (text, targetLanguage = "Swedish") => {
   const prompt = `Translate the following English text to ${targetLanguage}:\n\n${text}`;
 
-  const response = await openai.chat.completions.create({
+  try {
+    const response = await openai.chat.completions.create({
     model: "gpt-3.5-turbo", 
     messages: [
       { role: "system", content: "You are a helpful assistant that translates text." },
@@ -24,7 +25,17 @@ const translateText = async (text, targetLanguage = "Swedish") => {
     temperature: 0.5,
   });
 
-  return response.data.choices[0].text.trim();
+  if (response && response.data && response.data.choices && response.data.choices.length > 0) {
+      return response.data.choices[0].text.trim();
+    } else {
+      console.error("OpenAI   
+ API call failed or unexpected response format:", response);
+      return ""; // Handle empty response or error
+    }
+  } catch (error) {
+    console.error("Error during OpenAI API call:", error);
+    return ""; // Handle API call error
+  }
 };
 
 // Function to translate a file and save the translated content
