@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
-import { Configuration, OpenAIApi } from 'openai';
+import OpenAIApi from 'openai';
+import Configuration from 'openai';
+dotenv.config();
 
 // Set up your OpenAI API key from environment variables
 const configuration = new Configuration({
