@@ -33,4 +33,10 @@ def translate_file(file_path, target_language="Swedish"):
 for subdir, dirs, files in os.walk('docs'):
     for file in files:
         if file.endswith('.md'):
-            translate_file(os.path.join(subdir, file))
+            file_path = os.path.join(subdir, file)
+            translate_file(file_path)
+if os.path.exists(file_path):
+    translate_file(file_path)
+else:
+    print(f"File not found: {file_path}")
+print(f"Translating file: {file_path}")
