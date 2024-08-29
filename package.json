@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-translation",
+  "version": "1.0.0",
+  "description": "A script to translate GitBook documentation using OpenAI",
+  "main": "translate.js",
+  "scripts": {
+    "start": "node translate.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"  // Replace with the latest version
+  }
+}
