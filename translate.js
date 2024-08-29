@@ -1,9 +1,8 @@
 import fs from 'fs';
-import dotenv from 'dotenv';
 import path from 'path';
 import OpenAIApi from 'openai';
 import Configuration from 'openai';
-dotenv.config();
+
 
 // Set up your OpenAI API key from environment variables
 const configuration = new Configuration({
@@ -16,9 +15,9 @@ const translateText = async (text, targetLanguage = "Swedish") => {
   const prompt = `Translate the following English text to ${targetLanguage}:\n\n${text}`;
 
   const response = await openai.createCompletion({
-    model: "text-davinci-003", // Use a text completion model
+    model: "text-davinci-003", 
     prompt: prompt,
-    max_tokens: 1000,
+    max_tokens: 100000,
     temperature: 0.5,
   });
 
