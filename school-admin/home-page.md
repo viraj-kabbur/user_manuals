@@ -1,32 +1,32 @@
 ---
-description: Acts like an Index for all the Pages that are in this user manual.
-cover: ../.gitbook/assets/Logo (7).svg
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
+Beskrivning: Fungerar som ett index för alla sidor som finns i denna användarhandbok.
+omslag: ../.gitbook/tillgångar/Logo (7).svg
+omslagY: 0
+layout: 0
+  omslag:
+    synlig: sann
+    storlek: hjälte
+  titel:
+    synlig: sann
+  beskrivning:
+    synlig: sann
   tableOfContents:
-    visible: true
+    synlig: sann
   outline:
-    visible: true
-  pagination:
-    visible: true
+    synlig: sann
+  paginering:
+    synlig: sann
 ---
 
-# Home Page
+# Hem sida
 
-In order to save time, you will find links of specific pages that you might want to go to.&#x20;
+För att spara tid hittar du länkar till specifika sidor som du kanske vill gå till.&#x20;
 
-There are questions mentioned above every link which are common, and you may have them in your mind. If you find the question that you had in your mind, just click on the link associated with it.
+Det finns frågor som nämns ovanför varje länk som är vanliga, och du kanske har dem i ditt sinne. Om du hittar den fråga som du hade i ditt sinne, klicka bara på länken som är associerad med den.
 
 
 
-Link below will take you to the understanding of the functionalities of the Dashboard and how they work. Recommended for first time users.
+Länken nedan tar dig till förståelsen av funktionerna i Dashboard och hur de fungerar. Rekommenderas för förstagångsanvändare.
 
 {% content-ref url="dashboard-layout/" %}
 [dashboard-layout](dashboard-layout/)
@@ -34,51 +34,51 @@ Link below will take you to the understanding of the functionalities of the Dash
 
 ***
 
-Link below will help School Admins on how to manage students -
+Länken nedan kommer att hjälpa skoladministratörer om hur man hanterar studenter - 
 
-* How to Import/Add students to the game?
-* How to Deallocate students?
-* How do Licenses work?
+* Hur importerar/lägger man till elever i spelet?
+* Hur tar man bort elever?
+* Hur fungerar licenser?
 
-{% content-ref url="managing-students/" %}
-[managing-students](managing-students/)
+{% content-ref url="hantering-studenter/" %}
+[hantering-studenter](hantering-studenter/)
 {% endcontent-ref %}
 
 ***
 
-Link below will help School admins on managing Teachers -
+Länken nedan kommer att hjälpa skoladministratörer att hantera lärare
 
-* Adding teachers
-* Viewing Teachers&#x20;
-* License policy for Teachers
+* Lägga till lärare
+* Visa lärare&#x20;
+* Licenspolicy för lärare
 
-{% content-ref url="managing-teachers-and-viewing-them.md" %}
-[managing-teachers-and-viewing-them.md](managing-teachers-and-viewing-them.md)
+{% content-ref url="hantera-lärare-och-visa-them.md" %}
+[hantera-lärare-och-visa-them.md](hantera-lärare-och-visa-them.md)
 {% endcontent-ref %}
 
 ***
 
-Link below will help School Admins understand about classes -
+Länken nedan kommer att hjälpa skoladministratörer att förstå om klasser
 
-* What are classes?
-* How do they work?
-* How can you create them?
-* View classes
+* Vad är klasser?
+* Hur fungerar de?
+* Hur kan du skapa dem?
+* Visa klasser
 
-{% content-ref url="class-with-global-citizenship-assignment.md" %}
+{% content-ref url="klass-med-globalt-medborgarskap-uppdrag.md" %}
 [class-with-global-citizenship-assignment.md](class-with-global-citizenship-assignment.md)
 {% endcontent-ref %}
 
 ***
 
-Link below will help School Admins understand about Lesson Plans -
+Länken nedan hjälper skoladministratörer att förstå om lektionsplaner
 
-* What are Lesson Plans?
-* How do they work?
-* Lesson Plan Features
+* Vad är lektionsplaner?
+* Hur fungerar de?
+* Funktioner för lektionsplan
 
-{% content-ref url="class-with-assignment-+-lesson-plan.md" %}
-[class-with-assignment-+-lesson-plan.md](class-with-assignment-+-lesson-plan.md)
+{% content-ref url="klass-med-uppgift-+-lektionsplan.md" %}
+[klass-med-uppgift-+-lektionsplan.md](klass-med-uppgift-+-lektionsplan.md)
 {% endcontent-ref %}
 
 ***
