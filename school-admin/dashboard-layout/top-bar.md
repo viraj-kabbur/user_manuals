@@ -1,74 +1,41 @@
+# Översta fältet
 
-# Toppmeny
+## <mark style=”background-color:blue;”>Övre fältet i instrumentpanelen</mark>.
 
-## <mark style="background-color:red;">Toppmenyn i Instrumentpanelen</mark>
 
-### <mark style="background-color:red;">1. Hem</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+### <mark style=”background-color:blue;”>1. Användarprofil</mark>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 102011.png" alt=""><figcaption><p>Efter att ha scrollat ner på hemsidan</p></figcaption></figure>
+<figure><img src=”../../.gitbook/assets/Image 28-02-24 at 12.40 PM.jpg” alt=””><figcaption><p>Referera till den markerade delen</p></figcaption></figure>
 
-Hemsidan ger dig en översikt över alla de viktigaste funktionerna som är tillgängliga för dig som Skoladministratör.&#x20;
+Ditt namn kommer att visas i det övre högra hörnet tillsammans med en cirkulär bild. När du klickar på den får du tre olika alternativ.
 
-**Verktyg för Klasskapande** - kan användas för att tilldela olika uppgifter och uppdrag till eleverna. Globalt Medborgarskapsuppdrag, lektionsplaner och deras användningsområden diskuteras vidare.
+* Mitt konto - kan användas för att redigera information som namn, användarnamn, lösenord, adress och e-post.
+* Redigera avatar - kan användas för att redigera bilden som ska visas tillsammans med ditt användarnamn.
+* Logga ut - för att logga ut från den aktuella sessionen.
 
-**Skolhantering och Data** - låter dig kontrollera antalet elever och deras status. Antal lärare och deras status kan också kontrolleras. Skolspelsdata ger dig en omfattande översikt över statistik och data för alla klasser du har skapat. Personlig speldatav består av statistik och information om de spel du personligen deltagit i.
 
-### <mark style="background-color:red;">2. Enhetslista</mark>
 
-Ger dig kontroll över de enheter där ditt konto är inloggat. RealLives tillåter Skoladministratörer att använda sitt konto på 3 olika enheter. Om användaren av någon anledning vill ta bort en enhets åtkomst kan de göra det genom att klicka på knappen 'Ta bort enhet'.
+### <mark style=”background-color:blue;”>2. Notifieringsblock</mark> <figure
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 104059.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=”../../.gitbook/assets/2 noti.jpg” alt=””><figcaption><p>Hänvisa till den markerade delen</p></figcaption></figure>
 
-### <mark style="background-color:red;">3. Min Spelinstrumentpanel</mark>
+Meddelandepanelen som symboliseras av en klockikon ger uppdateringar i realtid om olika händelser eller aktiviteter som är relevanta för användaren. Dessa uppdateringar kan omfatta nya påminnelser, systemvarningar eller statusändringar.
 
-En spelinstrumentpanel är ett centraliserat gränssnitt som visar viktig spelinformation som spelarstatistik, prestationer och spårning av framsteg.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105442.png" alt=""><figcaption></figcaption></figure>
 
-RealLives Min Spelinstrumentpanel är indelad i tre delar -
+### <mark style=”background-color:blue;”>3. språk</mark> <figure
 
-**SDG som jag valt när jag skapade ett liv** -
+<figure><img src=”../../.gitbook/assets/3.jpg” alt=””><figcaption><p>Referera till den markerade delen</p></figcaption></figure>
 
-De hållbara utvecklingsmålen (SDG) av FN är en uppsättning av 17 sammanlänkade globala mål som syftar till att ta itu med pressande utmaningar som fattigdom, ojämlikhet, klimatförändringar och miljöförstöring. När du vill spela ett liv kan du välja ett SDG och starta ditt liv. Du kan göra detta genom att klicka på Lev ett Liv på din hemsida och sedan välja det tredje alternativet som visas på sidan nedan.
+Världsikonen på vänster sida av meddelandeblocket hjälper till att ändra det språk som du vill interagera med RealLives på. För närvarande är engelska och koreanska de två språk som stöds med stöd för fler språk inom en snar framtid.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105858.png" alt=""><figcaption></figcaption></figure>
+### Notera - Aktivt konto visar den aktuella statusen för ditt konto.
 
-#### Organ donerade av mig -&#x20;
 
-Visar antalet organ som donerats av dig i alla liv som spelats.&#x20;
 
-#### Min Speldatab -&#x20;
+### <mark style=”background-color:blue;”>4. tillgängliga licenser</mark> <figure
 
-Ger information om de liv som har slutförts eller är ofullständiga, länder som täckts under spelet och även de brev som skrivits och SDG-kommentarer. Antal manliga och kvinnliga liv specificeras också.
+<figure><img src=”../../.gitbook/assets/5.jpg” alt=””><figcaption><p>Referera till den markerade delen</p></figcaption></figure>
 
-### <mark style="background-color:red;">4. Världsdata + SDG-verktyg</mark>
-
-**RealLives Världsdata Lärverktyg**
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 110827.png" alt=""><figcaption></figcaption></figure>
-
-### 1. FN:s Hållbara Utvecklingsmål (SDG) Verktyg  <img src="../../.gitbook/assets/sdggoalstoolicon.svg" alt="" data-size="original">
-
-**Beskrivning:**
-
-1. Lär dig om SDG-statusen för länder.2. Jämför SDG-landspoäng och rang.3. SDG-landsjämförelsedeclarationsgenerator.
-
-### &#x20;2. Landsdiskriminering Lärverktyg & Datavisualisering  <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
-
-**Beskrivning:**
-
-Jämför två länder för att förstå skillnaden i socioekonomiska, hälso- och demografiska data med hjälp av datavisualisering och dynamiska deklarationer genererade av data.
-
-### 3. Jämför Landsdata ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
-
-**Beskrivning:**
-
-Ett komplett verktyg för att jämföra landsdata med Lorenzkurvan, trasig stegeskala, SDG-utmaningar och landgrupper.
-
-### 4. Landgrupps Jämförelse ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
-
-**Beskrivning:**
-
-Upplev 100+ landgrupper. Lär dig om skillnaderna mellan länder inom en landgrupp.
+Tillgängliga licenser finns högst upp på instrumentpanelen och visar den totala kapaciteten för användare som kan läggas till av skoladministratören och hjälper också till att ange de aktuella användare som har tilldelats. En användare/elev motsvarar en licens.
