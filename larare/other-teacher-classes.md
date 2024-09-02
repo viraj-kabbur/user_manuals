@@ -1,14 +1,14 @@
-# Other Teacher Classes
+# Andra Lärares Klasser
 
-List of classes created by other Teachers can be viewed here.
+Här kan du se en lista över klasser skapade av andra lärare.
 
-Two options are present -
+Två alternativ finns:
 
-* View classes which are having Assignments + Lesson Plan
-* View classes which are having just the Global Citizenship Assignments without any Lesson Plans.
+* Visa klasser som har Uppdrag + Lektioner
+* Visa klasser som endast har Globala Medborgarskapsuppdrag utan några Lektioner
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 123205.png" alt=""><figcaption></figcaption></figure>
 
-The Action button on the right side of each class can be used to see the status of that particular class. Status shows the list of Teacher and Students enrolled in that class.&#x20;
+Åtgärds-knappen till höger om varje klass kan användas för att se statusen för just den klassen. Status visar listan över lärare och studenter som är inskrivna i den klassen.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 123214 (1).png" alt=""><figcaption></figcaption></figure>
