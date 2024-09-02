@@ -1,99 +1,87 @@
 ---
-description: >-
-  This page describes about the various features and functionalities of the
-  Assignments available in the game.
+description: Den här sidan beskriver de olika funktionerna och egenskaperna hos uppgifterna som finns tillgängliga i spelet.
 ---
 
-# Class with Assignment + Lesson Plan
+# Klass med Uppgift + Lektionsplan
 
-### <mark style="background-color:blue;">What are Classes with Global Citizenship Assignment?</mark>
+### <mark style="background-color:blue;">Vad är Klasser med Globalt Medborgarskapsuppgift?</mark>
 
-A class with a global citizenship assignment that encompasses 14 subjects such as diseases, human geography, economics, and more is likely designed to provide students with a comprehensive understanding of the interconnectedness of various global issues and the role of individuals as global citizens.
+En klass med en global medborgarskapsuppgift som omfattar 14 ämnen såsom sjukdomar, mänsklig geografi, ekonomi och mer, är sannolikt utformad för att ge eleverna en omfattande förståelse för hur olika globala frågor är sammanlänkade och individernas roll som globala medborgare.
 
-Overall, a class with such a diverse range of subjects aims to equip students with the knowledge, skills, and perspectives necessary to understand and address complex global challenges as informed and engaged citizens of the world.
+Sammantaget syftar en klass med ett så brett spektrum av ämnen till att utrusta eleverna med kunskaper, färdigheter och perspektiv som behövs för att förstå och ta itu med komplexa globala utmaningar som informerade och engagerade världens medborgare.
 
-Also, there are more than 240 parameters with respect to the 14 subjects.
+Dessutom finns det mer än 240 parametrar med avseende på de 14 ämnena.
 
-### <mark style="background-color:blue;">Lesson Plan -</mark>&#x20;
+### <mark style="background-color:blue;">Lektionsplan -</mark>&#x20;
 
-**Lesson Plan is an additional feature which works on top of the classes.**
+**Lektionsplan är en extra funktion som fungerar ovanpå klasserna.**
 
-A lesson plan is a detailed outline or guide designed by educators to structure and organize a teaching session or class period. It typically includes objectives, instructional materials, activities, assessments, and timelines, aiming to facilitate effective teaching and learning. Lesson plans serve as roadmaps for teachers, helping them to deliver content in a structured and coherent manner while catering to the needs and abilities of their students.
+En lektionsplan är en detaljerad plan eller guide utformad av lärare för att strukturera och organisera en undervisningssession eller lektion. Den innehåller vanligtvis mål, undervisningsmaterial, aktiviteter, bedömningar och tidslinjer, och syftar till att underlätta effektiv undervisning och lärande. Lektionsplaner fungerar som vägkartor för lärare, vilket hjälper dem att leverera innehållet på ett strukturerat och sammanhängande sätt samtidigt som de tillgodoser behoven och förmågorna hos sina elever.
 
+### <mark style="background-color:blue;">Hur kommer man åt det?</mark>
 
+Klass med Globalt Medborgarskapsuppgift kan nås genom att bläddra i vänsterfältet på instrumentpanelen och hitta en flik med samma namn. När du har klickat på knappen som säger Klass med Globalt Medborgarskapsuppgift, får du dessa alternativ.
 
-### <mark style="background-color:blue;">How to access?</mark>
+1. Skapa Klass - låter dig skapa klasser.
+2. Lista över Klasser - visar dig listan över klasser som redan finns (skapade av lärarna).
+3. Mitt Uppgifts- och Lektionsplansförråd - Lektionsplaner som du har skapat visas här.
+4. Mitt Uppgifts- och Lektionsplansförråd (Skola) - Lektionsplaner skapade av andra lärare visas här.
 
-Class with Global Citizenship Assignment can be accessed by scrolling on the left bar of the dashboard and finding a tab named the same. Once you have clicked on the button saying Class with Global Citizenship Assignment, you will get these options.
+### <mark style="background-color:blue;">Skapa Klass -</mark>&#x20;
 
-1. Create Class - allows you to create classes.
-2. List of Classes - shows you the list of classes that already exist (made by the teachers)
-3. My Assignment + Lesson Plan Repository - Lesson Plans created by you will be shown here.
-4. My Assignment + Lesson Plan Repository (School) - Lesson Plans created by other Teachers will be shown here.
+### **Steg 1 - Välj ett Ämne**
 
-
-
-### <mark style="background-color:blue;">Create Class -</mark>&#x20;
-
-### **Step 1 - Choose a Subject**
-
-Let's say we chose Human Geography. After choosing Human Geography we get the parameters which are included in it. These parameters can also be called as assignments. The teacher can choose any 1 assignment they want to assign to the students. Human Geography has 26 assignments to choose from.
+Låt oss säga att vi valde Mänsklig Geografi. Efter att ha valt Mänsklig Geografi får vi parametrarna som ingår i det. Dessa parametrar kan också kallas uppgifter. Läraren kan välja vilken uppgift de vill tilldela eleverna. Mänsklig Geografi har 26 uppgifter att välja mellan.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 112905 (1).png" alt=""><figcaption></figcaption></figure>
 
-### Step 2 - Choose an assignment
+### Steg 2 - Välj en Uppgift
 
-Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the teacher has to press the + button located on the right side.
+Anta att vi valde <mark style="background-color:red;">Födas i ett land med den minsta befolkningen</mark> (nummer 1 uppifrån). För att tilldela denna uppgift måste läraren trycka på + knappen som finns på höger sida.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Once clicked a page like the following will open up -
+När du klickat öppnas en sida som ser ut så här:
 
-* Lesson name can be given
-* Images can be added for reference
-* Youtube video links can be added for reference
-* Overview and Objectives can be mentioned for the students to let them know what is expected from them
-* Procedures and Way of Assessment can be mentioned
+* Lektionsnamn kan anges.
+* Bilder kan läggas till som referens.
+* Youtube-videolänkar kan läggas till som referens.
+* Översikt och Mål kan anges för att eleverna ska veta vad som förväntas av dem.
+* Procedurer och Sätt att Bedöma kan anges.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 113808.png" alt=""><figcaption></figcaption></figure>
 
-* You can save these Lesson Plans and create a class later or Save them and create a class immediately.
+* Du kan spara dessa lektionsplaner och skapa en klass senare eller spara dem och skapa en klass omedelbart.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 113816.png" alt=""><figcaption></figcaption></figure>
 
-Done, that is how you can create a class with a lesson plan.
+Klart, så här skapar du en klass med en lektionsplan.
 
+### <mark style="background-color:blue;">Lista över Klasser -</mark>&#x20;
 
+Efter att ha skapat en klass framgångsrikt kan du visa klassen genom att klicka på Lista över Klasser under Klass med Globalt Medborgarskapsuppgift (vänsterfältet på instrumentpanelen).&#x20;
 
-
-
-### <mark style="background-color:blue;">List of Classes -</mark>&#x20;
-
-After successfully creating a class, you can view the class by clicking on List of Classes under Class with Global Citizenship Assignment (left bar of the dashboard).&#x20;
-
-This is the preview of list of classes.
+Detta är en förhandsvisning av listan över klasser.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 115225.png" alt=""><figcaption></figcaption></figure>
 
+### <mark style="background-color:blue;">Mitt Uppgifts- och Lektionsplansförråd -</mark>
 
+Detta förråd visar listan över lektionsplaner som du som lärare har skapat. Om läraren någon gång inte vill skapa en klass (lägga till elever i en uppgift) men vill skapa en lektionsplan och spara den, så att de i framtiden med hjälp av den lektionsplanen kan skapa en klass, kan de göra det genom att klicka på _"Spara och skapa klass senare"_ medan de skapar klassen (som nämnts ovan).
 
-### <mark style="background-color:blue;">My Assignment + Lesson Plan Repository -</mark>
-
-This Repository shows the list of lesson plans created by you as the Teacher. If at any time the Teacher does not wish to create a class (adding students to an assignment) but wants to create a lesson plan and save it, so that in future with the help of that lesson plan they can create a class, they can do so by clicking on _'Save and create class later'_ while creating the class (mentioned above)
-
-* Then whenever the need arises to use that lesson plan and create a class, they can come to this repository and click on create a class.&#x20;
-* Teacher can also View/Edit the lesson plan they had created by clicking on the yellow button.
+* När behovet av att använda den lektionsplanen och skapa en klass uppstår, kan de gå till detta förråd och klicka på "Skapa en klass".&#x20;
+* Läraren kan också visa/redigera den lektionsplan de har skapat genom att klicka på den gula knappen.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 115925.png" alt=""><figcaption></figcaption></figure>
 
 ###
 
-### <mark style="background-color:blue;">My Assignment + Lesson Plan Repository (School) -</mark>
+### <mark style="background-color:blue;">Mitt Uppgifts- och Lektionsplansförråd (Skola) -</mark>
 
-Shows the list of lesson plans created by other Teachers. Note that you as a Teacher can make changes to these lesson plans similar to how you made changes to your own lesson plans.
+Visar listan över lektionsplaner som skapats av andra lärare. Observera att du som lärare kan göra ändringar i dessa lektionsplaner på samma sätt som du gjorde ändringar i dina egna lektionsplaner.
 
-* The lesson plans created by other Teachers can be used by you to create classes.&#x20;
-* You can make changes to the lesson plans, even if you do not wish to create classes with the help of them.
-* This Repository allows Teachers to collaborate and help each other out.&#x20;
+* Lektionsplaner som skapats av andra lärare kan användas av dig för att skapa klasser.&#x20;
+* Du kan göra ändringar i lektionsplanerna, även om du inte vill skapa klasser med hjälp av dem.
+* Detta förråd gör det möjligt för lärare att samarbeta och hjälpa varandra.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 120107.png" alt=""><figcaption></figcaption></figure>
