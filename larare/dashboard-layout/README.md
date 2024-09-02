@@ -1,19 +1,16 @@
----
-description: An overview of the dashboard's layout and purpose.
+=---
+description: En översikt av instrumentpanelens layout och syfte.
 ---
 
-# Dashboard Layout
+# Instrumentpanelens Layout
 
-This is how the dashboard looks like once you login and start the game. The Dashboard can be further divided into two parts for easy understanding.
+Så här ser instrumentpanelen ut när du loggar in och startar spelet. Instrumentpanelen kan vidare delas in i två delar för att underlätta förståelsen.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 100043.png" alt=""><figcaption></figcaption></figure>
 
-We have divided the dashboard into two parts for easy understanding&#x20;
+Vi har delat upp instrumentpanelen i två delar för att underlätta förståelsen&#x20;
 
-
-
-1. <mark style="background-color:blue;">**Top Bar**</mark> - Highlighted by blue, mainly focuses on informative content which is personal to the user. Example would be changing your name or password or checking notifications.
-2. <mark style="background-color:red;">**Left Bar**</mark> - Highlighted by red, used for administrative purposes. Example would be importing students or creating classes with lesson plans.
+1. <mark style="background-color:blue;">**Toppmeny**</mark> - Markerad med blått, fokuserar främst på informativt innehåll som är personligt för användaren. Exempel skulle vara att ändra ditt namn eller lösenord eller kontrollera aviseringar.
+2. <mark style="background-color:red;">**Vänstermeny**</mark> - Markerad med rött, används för administrativa ändamål. Exempel skulle vara att importera elever eller skapa klasser med lektionsplaner.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 101214.png" alt=""><figcaption></figcaption></figure>
-
