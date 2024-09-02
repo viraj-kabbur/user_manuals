@@ -1,97 +1,95 @@
-# Vänster bar
+# Left Bar
 
-## <mark style=”background-color:red;”>Vänstra fältet på instrumentpanelen</mark> ### <mark style=”background-color:red;”>1.
-
-
-
-### <mark style=”background-color:red;”>1. Hem</mark>&#x20;
-
-<figure><img src=”../../.gitbook/assets/10.png” alt=””><figcaption></figcaption></figure>
-
-<figure><img src=”../../.gitbook/assets/Screenshot 2024-02-29 102011.png” alt=””><figcaption><p>Efter att ha scrollat ner på startsidan</p></figcaption></figure>
-
-Hemsidan ger dig en översikt över alla de viktigaste funktionerna som är tillgängliga för dig som skoladministratör.&#x20;
-
-**Class Creation Tools** - kan användas för att tilldela olika uppgifter och uppdrag till studenter. Global Citizensip Assignments, Lesson Plans och deras användningsfall diskuteras vidare.
-
-**School Management and Data** - gör att du kan kontrollera antalet studenter och deras status. Antal lärare och deras status kan också kontrolleras. School game data ger dig en heltäckande bild av statistik och data för alla de klasser du har skapat. Personliga speldata består av statistik och information om de spel som du personligen har deltagit i.
+## <mark style="background-color:red;">Left Bar of the Dashboard</mark>
 
 
 
-### <mark style=”background-color:red;”>2. Enhetslista</mark>>.
+### <mark style="background-color:red;">1. Home</mark>&#x20;
 
-Ger dig kontroll över de enheter där ditt konto är inloggat. RealLives tillåter skoladministratörer att använda sitt konto på 3 olika enheter. Om användaren av någon anledning vill ta bort åtkomsten till en enhet kan de göra det genom att klicka på knappen ”Ta bort enhet”.
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=”../../.gitbook/assets/Screenshot 2024-03-11 104059.png” alt=””><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 102011.png" alt=""><figcaption><p>After scrolling down the home page</p></figcaption></figure>
 
+Home Page gives you an overview of the all the major features that are available for you as a School Admin.&#x20;
 
+**Class Creation Tools** - can be used to assign various tasks and assignments to students. Global Citizensip Assignments, Lesson Plans and their use cases are further discussed.
 
-
-
-### <mark style=”background-color:red;”>3. Min spelkontrollpanel</mark>
-
-En spelkontrollpanel är ett centraliserat gränssnitt som visar viktig spelinformation som spelarstatistik, prestationer och framstegsspårning.&#x20;
-
-<figure><img src=”../../.gitbook/assets/Screenshot 2024-03-11 105442.png” alt=””><figcaption></figcaption></figure>
-
-RealLives My Game Dashboard är uppdelad i tre delar -
+**School Management and Data** - allows you to check the number of Students and their status. Number of Teachers and their status can also be checked. School game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
 
 
 
-**SDG som jag valde när jag skapade ett liv** -
+### <mark style="background-color:red;">2. Device List</mark>
 
-FN:s mål för hållbar utveckling (SDG) är en uppsättning av 17 sammankopplade globala mål som syftar till att ta itu med pressande utmaningar som fattigdom, ojämlikhet, klimatförändringar och miljöförstöring. När du vill spela ett liv kan du välja vilket SDG som helst och starta ditt liv. Du kan göra det genom att klicka på Live a Life på din startsida och sedan välja det tredje alternativet som visas på sidan nedan.
+Gives you control over the devices where your account is logged in. RealLives allows School Admins to use their account on 3 different devices. If for any reason the user wants to remove a device's access they can do so by clicking on the 'Remove Device' button.
 
-<figure><img src=”../../.gitbook/assets/Screenshot 2024-03-11 105858.png” alt=””><figcaption></figcaption></figure>
-
-#### Organ donerade av mig -&#x20;
-
-Visar antalet organ som donerats av dig under alla spelade liv.&#x20;
-
-#### Mina speldata -&#x20;
-
-Ger information om de liv som har slutförts eller är ofullständiga, länder som har besökts under spelets gång samt brev som har skrivits och SDG-kommentarer. Antal manliga och kvinnliga liv anges också.
-
-
-
-### <mark style=”background-color:red;”>4. Världsdata + SDG-verktyg</mark>
-
-**RealLives verktyg för lärande om världsdata**
-
-<figure><img src=”../../.gitbook/assets/Screenshot 2024-03-11 110827.png” alt=””><figcaption></figcaption></figure>
-
-### 1. FN:s verktyg för hållbara utvecklingsmål (SDGs) <img src=”../../.gitbook/assets/sdggoalstoolicon.svg” alt=”” data-size=”original”>
-
-**Beskrivning:**
-
-1\. Lär dig om länders SDG-status.
-2\. Jämför SDG-landspoäng och -rankning.\\
-3\. SDG land jämförande uttalande generator.
-
-
-
-### &#x20;2. Verktyg för lärande om landsskillnader och datavisualisering <img src=”../../.gitbook/assets/image (1).png” alt=”” data-size=”original”>
-
-**Beskrivning:**
-
-Jämför två länder för att förstå skillnaderna i socioekonomiska, hälsomässiga och demografiska data med hjälp av datavisualisering och dynamiska uttalanden som genereras av data.
-
-
-
-### 3. Jämför landdata ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
-
-**Beskrivning:**
-
-Ett komplett verktyg för att jämföra landdata med Lorenz-kurvan, trasig stege, SDG-utmaningar och landgrupper.
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 104059.png" alt=""><figcaption></figcaption></figure>
 
 
 
 
 
-### 4. Jämförelse av landgrupper ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
+### <mark style="background-color:red;">3. My Game Dashboard</mark>
 
-**Beskrivning:**
+A game dashboard is a centralized interface displaying essential game information such as player stats, achievements, and progress tracking.&#x20;
 
-Upplev 100+ landgrupper. Lär dig mer om skillnaderna mellan länder inom en landgrupp.
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105442.png" alt=""><figcaption></figcaption></figure>
 
-Translated with DeepL.com (free version)
+RealLives My Game Dashboard is divided into three parts -
+
+
+
+**SDG chosen by me while creating a life** -
+
+The Sustainable Development Goals (SDGs) by the United Nations are a set of 17 interconnected global objectives aimed at addressing pressing challenges such as poverty, inequality, climate change, and environmental degradation. When you want play a life, you can choose any SDG and start your life. You can do so by clicking on Live a Life on your home page then choosing the third option shown in the page below.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105858.png" alt=""><figcaption></figcaption></figure>
+
+#### Organs Donated by me -&#x20;
+
+Shows the number of Organs donated by you in all of the lives played.&#x20;
+
+#### My Gameplay Data -&#x20;
+
+Gives information about the lives which have been completed or are incomplete, Countries covered while playing and also the letters written and SDG comments. Number of Male and Female lives are also specified.
+
+
+
+### <mark style="background-color:red;">4. World Data + SDG Tools</mark>
+
+**RealLives World Data Learning Tools**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 110827.png" alt=""><figcaption></figcaption></figure>
+
+### 1. UN's Sustainable Development Goals (SDGs) Tool  <img src="../../.gitbook/assets/sdggoalstoolicon.svg" alt="" data-size="original">
+
+**Description:**
+
+1\. Learn SDG status of Countries.\
+2\. Compare SDG country score and rank.\
+3\. SDG country comparative statement generator.
+
+
+
+### &#x20;2. Country Disparity Learning Tool & Data Visualisation  <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+**Description:**
+
+Compare two countries to understand the disparity of socio-economic, health and demographic data with the help of data visualization and dynamic statements generated by the data.
+
+
+
+### 3. Compare Country Data ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
+
+**Description:**
+
+A complete tool for comparing country data with the Lorenz curve, broken ladder scale, SDG challenges and country groups.
+
+
+
+
+
+### 4. Country Groups Comparison ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
+
+**Description:**
+
+Experience 100+ country groups. Learn about the disparities between countries within a country group.
