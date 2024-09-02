@@ -1,41 +1,33 @@
-# Översta fältet
+# Toppmeny
 
-## <mark style="background-color:blue;">Övre fältet i instrumentpanelen</mark>
-
-
+## <mark style="background-color:blue;">Toppmeny på Instrumentpanelen</mark>
 
 ### <mark style="background-color:blue;">1. Användarprofil</mark>
 
-<figure><img src="../../.gitbook/assets/Image 28-02-24 at 12.40 PM.jpg" alt=""><figcaption><p>Hänvisa till den markerade delen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Image 28-02-24 at 12.40 PM.jpg" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
-Ditt namn kommer att visas i det övre högra hörnet tillsammans med en cirkulär bild. När du klickar på den får du tre olika alternativ.
+Ditt namn visas i det övre högra hörnet tillsammans med en cirkulär bild. När du klickar på den får du tre olika alternativ.
 
 * Mitt konto - kan användas för att redigera information som namn, användarnamn, lösenord, adress och e-post.
-* Redigera avatar - kan användas för att redigera bilden som ska visas tillsammans med ditt användarnamn.
-* Logout - för att logga ut från den aktuella sessionen.
+* Redigera avatar - kan användas för att redigera bilden som visas tillsammans med ditt användarnamn.
+* Logga ut - för att logga ut från den aktuella sessionen.
 
+### <mark style="background-color:blue;">2. Notifikationsfält</mark>
 
+<figure><img src="../../.gitbook/assets/2 noti.jpg" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
-### <mark style="background-color:blue;">2. Meddelande block</mark>
+Notifikationspanelen, symboliserad av en klockikon, ger realtidsuppdateringar om olika händelser eller aktiviteter som är relevanta för användaren. Dessa uppdateringar kan inkludera nya påminnelser, systemvarningar eller ändringar i status.
 
-<figure><img src="../../.gitbook/assets/2 noti.jpg" alt=""><figcaption><p>Hänvisa till den markerade delen</p></figcaption></figure>
+### <mark style="background-color:blue;">3. Språk</mark>
 
-Meddelandepanelen som symboliseras av en klocka ger uppdateringar i realtid om olika händelser eller aktiviteter som är relevanta för användaren. Dessa uppdateringar kan omfatta nya påminnelser, systemvarningar eller statusändringar.
+<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
+Världskartan på vänster sida av notifikationsblocket hjälper dig att byta språk som du vill använda för att interagera med RealLives. För närvarande stöds engelska och koreanska, med stöd för fler språk inom en snar framtid.
 
+### Notering - Aktivt Konto visar den aktuella statusen för ditt konto.
 
-### <mark style="background-color:blue;">3. språk</mark>
+### <mark style="background-color:blue;">4. Tillgängliga Licenser</mark>
 
-<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption><p>Hänvisa till den markerade delen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
-Världsikonen på vänster sida av meddelandeblocket hjälper till att ändra det språk som du vill interagera med RealLives på. För närvarande är engelska och koreanska de två språk som stöds med stöd för fler språk inom en snar framtid.
-
-### Notera - Aktivt konto visar den aktuella statusen för ditt konto.
-
-
-
-### <mark style="background-color:blue;">4. Tillgängliga licenser</mark>.
-
-<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption><p>Hänvisa till den markerade delen</p></figcaption></figure>
-
-Tillgängliga licenser finns högst upp på instrumentpanelen och visar den totala kapaciteten för användare som kan läggas till av skoladministratören och hjälper också till att ange de aktuella användare som har tilldelats. En användare/elev motsvarar en licens.
+Placerad längst upp på instrumentpanelen visar tillgängliga licenser den totala kapaciteten av användare som kan läggas till av skoladmin och hjälper också till att indikera de nuvarande användarna som har tilldelats. En användare/student motsvarar en licens.
