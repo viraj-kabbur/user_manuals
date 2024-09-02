@@ -1,44 +1,44 @@
 ---
-cover: .gitbook/assets/homeimage23.jpg
-coverY: 0
+omslag: .gitbook/assets/homeimage23.jpg
+omslagY: 0
 ---
 
-# Live a Life
+# Lev ett liv
 
-RealLives is a gamified simulation that brings home the challenge of life in its many splendors and complexities. In the simulation, you will test your mettle against the many unpredictable life conditions that occur in the course of a lifetime – from birth to death.
+RealLives är en spelifierad simulering som tar hem utmaningen med livet i dess många prakt och komplexitet. I simuleringen kommer du att testa din förmåga mot de många oförutsägbara livsvillkor som uppstår under en livstid - från födsel till död.
 
-And in RealLives, you can play billions of such lives, in different cultures and nations on earth - without ever repeating any lifetime!
+Och i RealLives kan du spela miljarder sådana liv, i olika kulturer och nationer på jorden - utan att någonsin upprepa någon livstid!
 
-As a School Admin you can play the game and be born in any life you wish to, by simply clicking on the 'Live a Life' button. Play demo game below.
+Som skoladministratör kan du spela spelet och födas i vilket liv du vill genom att helt enkelt klicka på knappen ”Live a Life”. Spela demo-spelet nedan.
 
-{% @arcade/embed flowId="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
+{% @arcade/embed flowId=”EkCEv2nN5BHVG7qWnw80” url=”https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80” %}
 
-{% embed url="https://reallivesworld.com/website/academic/" %}
-Go to Website
+{% embed url=”https://reallivesworld.com/website/academic/” %}
+Gå till webbplatsen
 {% endembed %}
 
-Once clicked, you will be asked to choose a language, currently you can play RealLives in English and Korean with support for multiple languages coming soon.
+När du har klickat på den kommer du att bli ombedd att välja språk, för närvarande kan du spela RealLives på engelska och koreanska med stöd för flera språk som kommer snart.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-11 132854.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=”.gitbook/assets/Screenshot 2024-03-11 132854.png” alt=””><figcaption></figcaption></figure>
 
-We are extremely thrilled to announce a groundbreaking update to your RealLives experience. Our collaboration with ChatGPT is not just about leveraging AI; it's about enriching your gaming experience, making each life lived in RealLives more meaningful, and providing insights that extend beyond the game
+Vi är oerhört glada över att kunna presentera en banbrytande uppdatering av din RealLives-upplevelse. Vårt samarbete med ChatGPT handlar inte bara om att utnyttja AI; det handlar om att berika din spelupplevelse, göra varje liv som levs i RealLives mer meningsfullt och ge insikter som sträcker sig bortom spelet
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-11 132903.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=”.gitbook/assets/Screenshot 2024-03-11 132903.png” alt=””><figcaption></figcaption></figure>
 
-When you enter the simulation, you can choose your character attributes (such as country of birth, gender, etc) by clicking on the 'Design a New Life', or you can allow the simulation to randomly allocate the attributes (by directly clicking on 'Live a Life'). All the previous data of your previous lives can also be accessed here.
+När du går in i simuleringen kan du välja dina karaktärsattribut (t.ex. födelseland, kön etc.) genom att klicka på ”Designa ett nytt liv”, eller så kan du låta simuleringen slumpmässigt tilldela attributen (genom att direkt klicka på ”Lev ett liv”). Alla tidigare uppgifter om dina tidigare liv kan också nås här.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-11 132923.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=”.gitbook/assets/Screenshot 2024-03-11 132923.png” alt=””><figcaption></figcaption></figure>
 
-Explore the interface to learn the various attributes of your new life. You will see Personal characteristics (like Happiness, Intelligence, Strength, wisdom, etc), as well as information about your family, and the resources possessed by your family.
+Utforska gränssnittet för att lära dig de olika egenskaperna i ditt nya liv. Du kommer att se personliga egenskaper (som lycka, intelligens, styrka, visdom etc.), samt information om din familj och de resurser som din familj har.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-03-11 133915.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=”.gitbook/assets/Screenshot 2024-03-11 133915.png” alt=””><figcaption></figcaption></figure>
 
-When you click on the circular ‘Age a Year’ button, you will advance in age and be updated with the latest life events that happen to you or your family. You will also need to take decisions in some life problems. (These events and life problems are calculated on the basis of statistically accurate data of the country that you are born in)
+När du klickar på den cirkulära knappen ”Age a Year” kommer du att avancera i ålder och bli uppdaterad med de senaste livshändelserna som händer dig eller din familj. Du kommer också att behöva fatta beslut om vissa livsproblem. (Dessa händelser och livsproblem beräknas på grundval av statistiskt korrekta uppgifter från det land där du är född)
 
-All such events are automatically added to your Life Journal, which is a summary of your life experience. You are encouraged to write your responses to these various events, and this will be added to your Life-Journal.
+Alla sådana händelser läggs automatiskt till i din Life Journal, som är en sammanfattning av din livserfarenhet. Du uppmuntras att skriva dina svar på dessa olika händelser, och detta kommer att läggas till i din Life-Journal.
 
-As you advance in age, you will be able to handle the 6 aspects of your life; Education, Career, Finance, Relationships, Residence, and Leisure - to create a satisfactory life experience for yourself.
+När du blir äldre kommer du att kunna hantera de sex aspekterna av ditt liv - utbildning, karriär, ekonomi, relationer, bostad och fritid - för att skapa en tillfredsställande livserfarenhet för dig själv.
 
-At the end of your life in the game, you can take stock of your entire life. At this point RealLives provides several tools for reflecting on your experience.
+I slutet av ditt liv i spelet kan du göra ett bokslut över hela ditt liv. RealLives tillhandahåller då flera verktyg för att reflektera över din upplevelse.
 
 ***
