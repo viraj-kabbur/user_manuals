@@ -1,41 +1,74 @@
-# Top Bar
 
-## <mark style="background-color:blue;">Top Bar of the Dashboard</mark>
+# Toppmeny
 
+## <mark style="background-color:red;">Toppmenyn i Instrumentpanelen</mark>
 
+### <mark style="background-color:red;">1. Hem</mark>&#x20;
 
-### <mark style="background-color:blue;">1. User Profile</mark>
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Image 28-02-24 at 12.40 PM.jpg" alt=""><figcaption><p>Refer to the higlighted portion</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 102011.png" alt=""><figcaption><p>Efter att ha scrollat ner på hemsidan</p></figcaption></figure>
 
-Your name will be displayed on the top right corner along with a circular image. On clicking it, you get three different options.
+Hemsidan ger dig en översikt över alla de viktigaste funktionerna som är tillgängliga för dig som Skoladministratör.&#x20;
 
-* My Account - can be used to edit information like name, username, password, address and email.
-* Edit Avatar - can be used to edit image to be displayed along with your username.
-* Logout - for logging out of the current session.
+**Verktyg för Klasskapande** - kan användas för att tilldela olika uppgifter och uppdrag till eleverna. Globalt Medborgarskapsuppdrag, lektionsplaner och deras användningsområden diskuteras vidare.
 
+**Skolhantering och Data** - låter dig kontrollera antalet elever och deras status. Antal lärare och deras status kan också kontrolleras. Skolspelsdata ger dig en omfattande översikt över statistik och data för alla klasser du har skapat. Personlig speldatav består av statistik och information om de spel du personligen deltagit i.
 
+### <mark style="background-color:red;">2. Enhetslista</mark>
 
-### <mark style="background-color:blue;">2. Notification Block</mark>
+Ger dig kontroll över de enheter där ditt konto är inloggat. RealLives tillåter Skoladministratörer att använda sitt konto på 3 olika enheter. Om användaren av någon anledning vill ta bort en enhets åtkomst kan de göra det genom att klicka på knappen 'Ta bort enhet'.
 
-<figure><img src="../../.gitbook/assets/2 noti.jpg" alt=""><figcaption><p>Refer to the highlighted portion</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 104059.png" alt=""><figcaption></figcaption></figure>
 
-The notification panel symbolised by a bell icon provides real-time updates on various events or activities relevant to the user. These updates can include new reminders, system alerts, or changes in status.
+### <mark style="background-color:red;">3. Min Spelinstrumentpanel</mark>
 
+En spelinstrumentpanel är ett centraliserat gränssnitt som visar viktig spelinformation som spelarstatistik, prestationer och spårning av framsteg.&#x20;
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105442.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:blue;">3. Language</mark>
+RealLives Min Spelinstrumentpanel är indelad i tre delar -
 
-<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption><p>Refer to the highlighted portion</p></figcaption></figure>
+**SDG som jag valt när jag skapade ett liv** -
 
-The world icon on the left side of the notification block helps to change the language, in which you want to interact with RealLives. Currently, English and Korean are the two languages which are supported with support for more languages in the near future.
+De hållbara utvecklingsmålen (SDG) av FN är en uppsättning av 17 sammanlänkade globala mål som syftar till att ta itu med pressande utmaningar som fattigdom, ojämlikhet, klimatförändringar och miljöförstöring. När du vill spela ett liv kan du välja ett SDG och starta ditt liv. Du kan göra detta genom att klicka på Lev ett Liv på din hemsida och sedan välja det tredje alternativet som visas på sidan nedan.
 
-### Note - Active Account shows the current status of your account.
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105858.png" alt=""><figcaption></figcaption></figure>
 
+#### Organ donerade av mig -&#x20;
 
+Visar antalet organ som donerats av dig i alla liv som spelats.&#x20;
 
-### <mark style="background-color:blue;">4. Available Licenses</mark>
+#### Min Speldatab -&#x20;
 
-<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption><p>Refer to the highlighted portion</p></figcaption></figure>
+Ger information om de liv som har slutförts eller är ofullständiga, länder som täckts under spelet och även de brev som skrivits och SDG-kommentarer. Antal manliga och kvinnliga liv specificeras också.
 
-Situated on top of the dashboard, available licenses displays the total capacity of users which can be added by the school admin and also helps in indicating the current users that have been allocated. One user/student equals one license.
+### <mark style="background-color:red;">4. Världsdata + SDG-verktyg</mark>
+
+**RealLives Världsdata Lärverktyg**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 110827.png" alt=""><figcaption></figcaption></figure>
+
+### 1. FN:s Hållbara Utvecklingsmål (SDG) Verktyg  <img src="../../.gitbook/assets/sdggoalstoolicon.svg" alt="" data-size="original">
+
+**Beskrivning:**
+
+1. Lär dig om SDG-statusen för länder.2. Jämför SDG-landspoäng och rang.3. SDG-landsjämförelsedeclarationsgenerator.
+
+### &#x20;2. Landsdiskriminering Lärverktyg & Datavisualisering  <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+**Beskrivning:**
+
+Jämför två länder för att förstå skillnaden i socioekonomiska, hälso- och demografiska data med hjälp av datavisualisering och dynamiska deklarationer genererade av data.
+
+### 3. Jämför Landsdata ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
+
+**Beskrivning:**
+
+Ett komplett verktyg för att jämföra landsdata med Lorenzkurvan, trasig stegeskala, SDG-utmaningar och landgrupper.
+
+### 4. Landgrupps Jämförelse ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
+
+**Beskrivning:**
+
+Upplev 100+ landgrupper. Lär dig om skillnaderna mellan länder inom en landgrupp.
