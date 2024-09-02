@@ -1,30 +1,23 @@
 ---
 description: >-
-  We previously saw how the Home Page funtions and what features it provides.
-  Now, let's take a dive into all of it's features, one by one.
+  Vi har tidigare sett hur startsidan fungerar och vilka funktioner den erbjuder.
+  Nu ska vi dyka in i alla dess funktioner, en efter en.
 ---
 
-# Managing Students
+# Hantering av Elever
 
-## <mark style="background-color:blue;">Student Management</mark>
+## <mark style="background-color:blue;">Elevhantering</mark>
 
-### Students Tab offers two features
+### Elevfliken erbjuder två funktioner
 
-1. Adding Students
+1. Lägga till Elever
 
 {% content-ref url="adding-students.md" %}
 [adding-students.md](adding-students.md)
 {% endcontent-ref %}
 
-2. Viewing Students (Allocated and Deallocated)
+2. Visa Elever (Allokerade och Avallokerade)
 
 {% content-ref url="viewing-students.md" %}
 [viewing-students.md](viewing-students.md)
 {% endcontent-ref %}
-
-
-
-
-
-##
-
