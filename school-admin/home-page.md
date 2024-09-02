@@ -1,7 +1,7 @@
 ---
-Beskrivning: Fungerar som ett index för alla sidor som finns i denna användarhandbok.
-omslag: ../.gitbook/tillgångar/Logo (7).svg
-omslagY: 0
+description: Fungerar som ett index för alla sidor som finns i denna användarmanual.
+cover: ../.gitbook/assets/Logo (7).svg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -18,15 +18,13 @@ layout:
     visible: true
 ---
 
-# Hem sida
+# Startsida
 
 För att spara tid hittar du länkar till specifika sidor som du kanske vill gå till.&#x20;
 
-Det finns frågor som nämns ovanför varje länk som är vanliga, och du kanske har dem i ditt sinne. Om du hittar den fråga som du hade i ditt sinne, klicka bara på länken som är associerad med den.
+Det finns frågor nämnda ovanför varje länk som är vanliga, och du kanske har dem i åtanke. Om du hittar frågan du hade i åtanke, klicka bara på länken som är kopplad till den.
 
-
-
-Länken nedan tar dig till förståelsen av funktionerna i Dashboard och hur de fungerar. Rekommenderas för förstagångsanvändare.
+Länken nedan tar dig till förståelsen av instrumentpanelens funktioner och hur de fungerar. Rekommenderas för första gången användare.
 
 {% content-ref url="dashboard-layout/" %}
 [dashboard-layout](dashboard-layout/)
@@ -34,51 +32,49 @@ Länken nedan tar dig till förståelsen av funktionerna i Dashboard och hur de 
 
 ***
 
-Länken nedan kommer att hjälpa skoladministratörer om hur man hanterar studenter - 
+Länken nedan hjälper skoladministratörer att hantera elever -
 
 * Hur importerar/lägger man till elever i spelet?
-* Hur tar man bort elever?
+* Hur avallokerar man elever?
 * Hur fungerar licenser?
 
-{% content-ref url="hantering-studenter/" %}
-[hantering-studenter](hantering-studenter/)
+{% content-ref url="managing-students/" %}
+[managing-students](managing-students/)
 {% endcontent-ref %}
 
 ***
 
-Länken nedan kommer att hjälpa skoladministratörer att hantera lärare
+Länken nedan hjälper skoladministratörer att hantera lärare -
 
 * Lägga till lärare
 * Visa lärare&#x20;
 * Licenspolicy för lärare
 
-{% content-ref url="hantera-lärare-och-visa-them.md" %}
-[hantera-lärare-och-visa-them.md](hantera-lärare-och-visa-them.md)
+{% content-ref url="managing-teachers-and-viewing-them.md" %}
+[managing-teachers-and-viewing-them.md](managing-teachers-and-viewing-them.md)
 {% endcontent-ref %}
 
 ***
 
-Länken nedan kommer att hjälpa skoladministratörer att förstå om klasser
+Länken nedan hjälper skoladministratörer att förstå klasser -
 
 * Vad är klasser?
 * Hur fungerar de?
 * Hur kan du skapa dem?
 * Visa klasser
 
-{% content-ref url="klass-med-globalt-medborgarskap-uppdrag.md" %}
+{% content-ref url="class-with-global-citizenship-assignment.md" %}
 [class-with-global-citizenship-assignment.md](class-with-global-citizenship-assignment.md)
 {% endcontent-ref %}
 
 ***
 
-Länken nedan hjälper skoladministratörer att förstå om lektionsplaner
+Länken nedan hjälper skoladministratörer att förstå lektionsplaner -
 
 * Vad är lektionsplaner?
 * Hur fungerar de?
-* Funktioner för lektionsplan
+* Funktioner i lektionsplaner
 
-{% content-ref url="klass-med-uppgift-+-lektionsplan.md" %}
-[klass-med-uppgift-+-lektionsplan.md](klass-med-uppgift-+-lektionsplan.md)
+{% content-ref url="class-with-assignment-+-lesson-plan.md" %}
+[class-with-assignment-+-lesson-plan.md](class-with-assignment-+-lesson-plan.md)
 {% endcontent-ref %}
-
-***
