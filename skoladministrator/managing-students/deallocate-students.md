@@ -1,21 +1,19 @@
-# Deallocate Students
+# Avallokera Elever
 
-**Deallocating Students can help the Organisation in saving their licenses, the license which is recovered after deallocating a student can be used to allocate another student in place**.
+**Att avallokera elever kan hjälpa organisationen att spara sina licenser, och licensen som återvinns efter att en elev har avallokerats kan användas för att allokera en annan elev istället.**
 
+### <mark style="background-color:blue;">Hur avallokerar man en elev?</mark>
 
+Gå helt enkelt till Elevsektionen som finns i vänsterfältet på instrumentpanelen och leta efter knappen för tilldelade elever under den. Om den inte syns, se till att du har tryckt på pilen bredvid Elevsektionen och att du har hela listan med funktioner synlig.
 
-### <mark style="background-color:blue;">How to Deallocate a Student?</mark>
+Tryck på knappen för listan över tilldelade elever, när detta är gjort kommer en sida som denna att visas -&#x20;
 
-Simply head on to Students section situated in the Left Bar of the Dashboard and look for allocated student button under it. If not seen make sure you have pressed the arrow next to Students section and you have the full list of functionalities.
-
-Press the allocated student list button, once done a page like this wil be shown -&#x20;
-
-Note down the available licenses - <mark style="background-color:red;">246</mark>
+Notera de tillgängliga licenserna - <mark style="background-color:red;">246</mark>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 163704.png" alt=""><figcaption></figcaption></figure>
 
-The 'X' can be pressed to deallocate a student which was previously allocated.
+'X'-knappen kan tryckas för att avallokera en elev som tidigare var tilldelad.
 
-The student was deallocated. Also, the number of licenses increased from <mark style="background-color:red;">246 to 247.</mark>
+Eleven avallokerades. Antalet licenser ökade också från <mark style="background-color:red;">246 till 247.</mark>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 164159.png" alt=""><figcaption></figcaption></figure>
