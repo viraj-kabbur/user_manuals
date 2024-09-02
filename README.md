@@ -19,11 +19,11 @@ Gå till webbplatsen
 
 När du har klickat på den kommer du att bli ombedd att välja språk, för närvarande kan du spela RealLives på engelska och koreanska med stöd för flera språk som kommer snart.
 
-<figure><img src=”.gitbook/assets/Screenshot 2024-03-11 132854.png” alt=””><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-03-11 132854.png" alt=""><figcaption></figcaption></figure>
 
 Vi är oerhört glada över att kunna presentera en banbrytande uppdatering av din RealLives-upplevelse. Vårt samarbete med ChatGPT handlar inte bara om att utnyttja AI; det handlar om att berika din spelupplevelse, göra varje liv som levs i RealLives mer meningsfullt och ge insikter som sträcker sig bortom spelet
 
-<figure><img src=”.gitbook/assets/Screenshot 2024-03-11 132903.png” alt=””><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-03-11 132903.png" alt=""><figcaption></figcaption></figure>
 
 När du går in i simuleringen kan du välja dina karaktärsattribut (t.ex. födelseland, kön etc.) genom att klicka på ”Designa ett nytt liv”, eller så kan du låta simuleringen slumpmässigt tilldela attributen (genom att direkt klicka på ”Lev ett liv”). Alla tidigare uppgifter om dina tidigare liv kan också nås här.
 
