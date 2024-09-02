@@ -1,41 +1,33 @@
-# Top Bar
+# Toppmeny
 
-## <mark style="background-color:blue;">Top Bar of the Dashboard</mark>
+## <mark style="background-color:blue;">Toppmenyn på Instrumentpanelen</mark>
 
+### <mark style="background-color:blue;">1. Användarprofil</mark>
 
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
-### <mark style="background-color:blue;">1. User Profile</mark>
+Ditt namn visas i det övre högra hörnet tillsammans med en cirkulär bild. När du klickar på den får du tre olika alternativ.
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Refer to the higlighted portion</p></figcaption></figure>
+* Mitt Konto - kan användas för att redigera information som namn, användarnamn, lösenord, adress och e-post.
+* Redigera Avatar - kan användas för att redigera bilden som visas tillsammans med ditt användarnamn.
+* Logga ut - för att logga ut från den aktuella sessionen &#x20;
 
-Your name will be displayed on the top right corner along with a circular image. On clicking it, you get three different options.
+### <mark style="background-color:blue;">2. Notifikationsfält</mark>
 
-* My Account - can be used to edit information like name, username, password, address and email.
-* Edit Avatar - can be used to edit image to be displayed along with your username.
-* Logout - for logging out of the current session &#x20;
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
+Notifikationspanelen, symboliserad av en klockikon, ger realtidsuppdateringar om olika händelser eller aktiviteter som är relevanta för användaren. Dessa uppdateringar kan inkludera nya påminnelser, systemvarningar eller ändringar i status.
 
+### <mark style="background-color:blue;">3. Språk</mark>
 
-### <mark style="background-color:blue;">2. Notification Block</mark>
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Refer to the highlighted portion</p></figcaption></figure>
+Världskartan på vänster sida av notifikationsblocket hjälper dig att byta språk som du vill använda för att interagera med RealLives. För närvarande stöds engelska och koreanska, med stöd för fler språk inom en snar framtid.
 
-The notification panel symbolised by a bell icon provides real-time updates on various events or activities relevant to the user. These updates can include new reminders, system alerts, or changes in status.
+### Notering - Aktivt Konto visar den aktuella statusen för ditt konto.
 
+### <mark style="background-color:blue;">4. Tillgängliga Licenser</mark>
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 100043 (1).png" alt=""><figcaption><p>Se den markerade delen</p></figcaption></figure>
 
-### <mark style="background-color:blue;">3. Language</mark>
-
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Refer to the highlighted portion</p></figcaption></figure>
-
-The world icon on the left side of the notification block helps to change the language in which you want to interact with RealLives. Currently, English and Korean are the two languages which are supported with support for more languages in the near future.
-
-### Note - Active Account shows the current status of your account.
-
-
-
-### <mark style="background-color:blue;">4. Available Licenses</mark>
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 100043 (1).png" alt=""><figcaption><p>Refer to the highlighted portion</p></figcaption></figure>
-
-Situated on top of the dashboard, available licenses displays the total capacity of users which can be added by the school admin and also helps in indicating the current users that have been allocated. One user/student equals one license.
+Placerad längst upp på instrumentpanelen visar tillgängliga licenser den totala kapaciteten av användare som kan läggas till av skoladmin och hjälper också till att indikera de nuvarande användarna som har tilldelats. En användare/elev motsvarar en licens.
