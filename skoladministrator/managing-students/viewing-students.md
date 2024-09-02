@@ -1,29 +1,25 @@
 ---
-description: This page describes how to view allocated and de-allocated students.
+description: Den här sidan beskriver hur man visar allokerade och avallokerade elever.
 ---
 
-# Viewing Students
+# Visa Elever
 
-Once you are on the Home page and scroll down to the Students tab, you can click on it and scroll down to go to the view section. It will look like this -&#x20;
+När du är på startsidan och scrollar ner till Elevfliken, kan du klicka på den och scrolla ner för att gå till visningssektionen. Det kommer att se ut så här -&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131932.png" alt=""><figcaption></figcaption></figure>
 
+### <mark style="background-color:blue;">Visa allokerade elever -</mark>&#x20;
 
+När du klickar på visa, kan du se de allokerade eleverna så här -
 
-### <mark style="background-color:blue;">Viewing allocated students -</mark>&#x20;
+Detta är en lista över elever med aktiva licenser.
 
-Once you click on view, you can see the allocated students like so -
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131939.png" alt=""><figcaption><p>Lista över allokerade elever</p></figcaption></figure>
 
-This is a list of students with active licenses.
+### <mark style="background-color:blue;">Visa avallokerade elever -</mark>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131939.png" alt=""><figcaption><p>List of allocated students</p></figcaption></figure>
+När du klickar på visa, kan du se de avallokerade eleverna så här -
 
+Detta är en lista över elever med inaktiva licenser.
 
-
-### <mark style="background-color:blue;">Viewing de-allocated students -</mark>
-
-Once you click on view, you can see the de-allocated students like so -
-
-This is a list of students with inactive licenses.
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131954.png" alt=""><figcaption><p>List of de-allocated students</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131954.png" alt=""><figcaption><p>Lista över avallokerade elever</p></figcaption></figure>
