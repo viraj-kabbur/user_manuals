@@ -1,5 +1,5 @@
 ---
-description: Acts like an Index for all the Pages that are in this user manual.
+description: Fungerar som ett index för alla sidor som finns i denna användarmanual.
 cover: ../.gitbook/assets/Logo (7).svg
 coverY: 0
 layout:
@@ -18,15 +18,13 @@ layout:
     visible: true
 ---
 
-# Home Page
+# Startsida
 
-In order to save time, you will find links of specific pages that you might want to go to.&#x20;
+För att spara tid hittar du länkar till specifika sidor som du kanske vill gå till.&#x20;
 
-There are questions mentioned above every link which are common, and you may have them in your mind. If you find the question that you had in your mind, just click on the link associated with it.
+Det finns frågor nämnda ovanför varje länk som är vanliga, och du kanske har dem i åtanke. Om du hittar frågan du hade i åtanke, klicka bara på länken som är kopplad till den.
 
-
-
-Link below will take you to the understanding of the functionalities of the Dashboard and how they work. Recommended for first time users.
+Länken nedan tar dig till förståelsen av instrumentpanelens funktioner och hur de fungerar. Rekommenderas för första gången användare.
 
 {% content-ref url="dashboard-layout/" %}
 [dashboard-layout](dashboard-layout/)
@@ -34,13 +32,11 @@ Link below will take you to the understanding of the functionalities of the Dash
 
 ***
 
+Länken nedan hjälper lärare att förstå lektionsplaner -
 
-
-Link below will help Teachers understand about Lesson Plans -
-
-* What are Lesson Plans?
-* How do they work?
-* Lesson Plan Features
+* Vad är lektionsplaner?
+* Hur fungerar de?
+* Funktioner i lektionsplaner
 
 {% content-ref url="class-with-assignment-+-lesson-plan.md" %}
 [class-with-assignment-+-lesson-plan.md](class-with-assignment-+-lesson-plan.md)
@@ -48,20 +44,15 @@ Link below will help Teachers understand about Lesson Plans -
 
 ***
 
+Länken nedan hjälper lärare att förstå klasser -
 
-
-Link below will help Teachers understand about classes -
-
-* What are classes?
-* How do they work?
-* How can you create them?
-* View classes
+* Vad är klasser?
+* Hur fungerar de?
+* Hur kan du skapa dem?
+* Visa klasser
 
 {% content-ref url="class-with-global-citizenship-assignment.md" %}
 [class-with-global-citizenship-assignment.md](class-with-global-citizenship-assignment.md)
 {% endcontent-ref %}
 
 ***
-
-
-
