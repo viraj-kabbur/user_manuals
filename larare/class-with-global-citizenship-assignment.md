@@ -1,67 +1,57 @@
 ---
-description: >-
-  This page describes about the various features and functionalities of the
-  Assignments available in the game.
+description: Den här sidan beskriver de olika funktionerna och egenskaperna hos uppgifterna som finns tillgängliga i spelet.
 ---
 
-# Class with Global Citizenship Assignment
+# Klass med Globalt Medborgarskapsuppgift
 
-### <mark style="background-color:blue;">What are Classes with Global Citizenship Assignment?</mark>
+### <mark style="background-color:blue;">Vad är Klasser med Globalt Medborgarskapsuppgift?</mark>
 
-A class with a global citizenship assignment that encompasses 14 subjects such as diseases, human geography, economics, and more is likely designed to provide students with a comprehensive understanding of the interconnectedness of various global issues and the role of individuals as global citizens.
+En klass med en global medborgarskapsuppgift som omfattar 14 ämnen såsom sjukdomar, mänsklig geografi, ekonomi och mer, är sannolikt utformad för att ge eleverna en omfattande förståelse för hur olika globala frågor är sammanlänkade och individernas roll som globala medborgare.
 
-Also, there are more than 240 parameters with respect to the 14 subjects.
+Dessutom finns det mer än 240 parametrar med avseende på de 14 ämnena.
 
+### <mark style="background-color:blue;">Hur kommer man åt det?</mark>
 
+Klass med Globalt Medborgarskapsuppgift kan nås genom att bläddra i vänsterdelen av instrumentpanelen och hitta en flik med samma namn. När du har klickat på knappen som säger Klass med Globalt Medborgarskapsuppgift får du två alternativ.
 
-### <mark style="background-color:blue;">How to access?</mark>
+1. Skapa Klass - låter dig skapa klasser.
+2. Lista över Klasser - visar dig listan över klasser som redan finns.
 
-Class with Global Citizenship Assignment can be accessed by scrolling on the left part of the dashboard and finding a tab named the same. Once you have clicked on the button saying Class with Global Citizenship Assignment, you will get two options.
+### <mark style="background-color:blue;">Skapa Klass -</mark>
 
-1. Create Class - allows you to create classes.
-2. List of Classes - shows you the list of classes that already exist.
+När du klickar på skapa klass öppnas en sida som ser ut så här:
 
+### **Steg 1 - Välj ett Ämne**
 
-
-### <mark style="background-color:blue;">Create Class -</mark>
-
-Once you click on create class, a page like the following will open up
-
-### **Step 1 - Choose a Subject**
-
-We have been given 14 Subjects to choose from. These subjects contain various assignments. The Teacher can choose any one subject and then go ahead and choose an assignment. Let's say for this example we chose Human Geography.
+Vi har 14 ämnen att välja mellan. Dessa ämnen innehåller olika uppgifter. Läraren kan välja ett ämne och sedan gå vidare och välja en uppgift. Låt oss säga att vi valde Mänsklig Geografi.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-### Step 2 - Choose an assignment
+### Steg 2 - Välj en Uppgift
 
-These are the various assignments in the subject of Human Geography. The Teacher can choose any one. Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the teacher has to press the + button located on the right side.
+Dessa är de olika uppgifterna inom ämnet Mänsklig Geografi. Läraren kan välja en av dem. Anta att vi valde <mark style="background-color:red;">Födas i ett land med den minsta befolkningen</mark> (nummer 1 uppifrån). För att tilldela denna uppgift måste läraren trycka på + knappen som finns på höger sida.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Once clicked a page like the following will open up -
-
-
+När du klickat öppnas en sida som ser ut så här:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 122522.png" alt=""><figcaption></figcaption></figure>
 
-Functionalities of a class -
+Funktioner för en klass -
 
-* Class Name - helps in ordering different classes and identifying them easily.
-* End Date - gives a deadline to students to complete the assignment.
-* Age Group - specifies which students to be assigned based on their age.
-* Class Description - can be used to give a brief understanding of what is to be done by the students.
-* Only allocated students can be assigned, also the teacher can choose which students are to be added to the class. As seen in the example Linda and John are added but Student 1 hasn't been added to the class.
-* Similarly, teachers can also be added to the class. In the page attached below, out of all teachers, only Serena Matthews has been added.
+* Klassnamn - hjälper till att ordna olika klasser och identifiera dem enkelt.
+* Slutdatum - ger ett deadline till eleverna för att slutföra uppgiften.
+* Åldersgrupp - specificerar vilka elever som ska tilldelas baserat på deras ålder.
+* Klassbeskrivning - kan användas för att ge en kort förståelse av vad som ska göras av eleverna.
+* Endast tilldelade elever kan läggas till, och läraren kan välja vilka elever som ska läggas till i klassen. Som i exemplet är Linda och John tillagda, men Student 1 har inte lagts till i klassen.
+* På samma sätt kan också lärare läggas till i klassen. På sidan som är bifogad nedan är endast Serena Matthews tillagd bland alla lärare.
 
-Once done with everything, the teacher can click the button which says Create a Class (upon scrolling down) and thus a class will be created.
+När allt är klart kan läraren klicka på knappen som säger Skapa en Klass (genom att rulla ner) och så kommer en klass att skapas.
 
+### <mark style="background-color:blue;">Visa Klasser</mark>
 
+Efter att ha skapat en klass framgångsrikt kan du visa klassen genom att klicka på Lista över Klasser under Klass med Globalt Medborgarskapsuppgift (vänsterfältet på instrumentpanelen).&#x20;
 
-### <mark style="background-color:blue;">Viewing Classes</mark>
-
-After successfully creating a class, you can view the class by clicking on List of Classes under Class with Global Citizenship Assignment (left bar of the dashboard).&#x20;
-
-This is the preview of list of classes.
+Detta är en förhandsvisning av listan över klasser.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
