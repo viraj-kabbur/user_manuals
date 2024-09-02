@@ -1,15 +1,15 @@
-# School Gameplay Data
+# Skolans Speldata
 
-#### All the Data of the school will be displayed here. Graphs and Pie-charts are used as a method of representation for easier understanding.
+#### All data related to the school will be displayed here. Graphs and pie charts are used for easier understanding.
 
-Total Students, allocated students, total Teachers, Countries covered, Licenses used along with Weekly reports, are all displayed here.
+Total number of students, allocated students, total teachers, covered countries, licenses used, and weekly reports are all displayed here.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 131635.png" alt=""><figcaption></figcaption></figure>
 
-#### Distribution of Lives and Top SDG's -
+#### Fördelning av Liv och Topp SDG's -
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 131706.png" alt=""><figcaption></figcaption></figure>
 
-#### Leaderboards -&#x20;
+#### Topplistor -
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 131713.png" alt=""><figcaption></figcaption></figure>
