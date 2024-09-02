@@ -1,14 +1,14 @@
-# My Gameplay Data
+# Min Speldata
 
-Comprehensive data about the lives you have played. Data is filtered in the following parameters and can be viewed by accessing the specific tab.
+Omfattande data om de liv du har spelat. Data filtreras enligt följande parametrar och kan ses genom att komma åt den specifika fliken.
 
-For example, if you played a life and were born in indoneasia. Eventually as you played along, you made different decisions because of different situations. Those decisions and the data associated with it will be visible in these sections. Let's say in a game, as a healthy male you were asked to donate blood and you did, then that will be shown in the Blood Donation section. Even if you donate blood in multiple lives, it will be shown with respect to the person you played as.
+Till exempel, om du spelade ett liv och föddes i Indonesien. När du spelade vidare, gjorde du olika beslut beroende på olika situationer. Dessa beslut och den data som är kopplad till dem kommer att visas i dessa sektioner. Låt oss säga att i ett spel, som en frisk man, blev du ombedd att donera blod och du gjorde det, då kommer det att visas i sektionen för Blodgivning. Även om du donerar blod i flera liv, kommer det att visas med hänsyn till den person du spelade som.
 
-* Religions I was born in
-* Sustainable development goals Comments
-* Sustainable development goals Data
-* Orbituary
-* Letters to Characters
-* Blood Donation
-* Organ Donation
-* Feedback and Bug report
+* Religioner jag föddes i
+* Kommentarer om hållbara utvecklingsmål
+* Data om hållbara utvecklingsmål
+* Dödsannonser
+* Brev till karaktärer
+* Blodgivning
+* Organdonation
+* Feedback och buggrapporter
