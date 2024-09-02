@@ -1,5 +1,5 @@
-# Teachers
+# Lärare
 
-Displays the list of Teachers, School admins in a School along with their usernames and id's.
+Visar listan över lärare och skoladministratörer i en skola tillsammans med deras användarnamn och ID.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
