@@ -1,96 +1,88 @@
-# Left Bar
 
-## <mark style="background-color:red;">Left Bar of the Dashboard</mark>
+# Vänster Meny
 
+## <mark style="background-color:red;">Vänster Meny i Instrumentpanelen</mark>
 
-
-### <mark style="background-color:red;">1. Home</mark>&#x20;
+### <mark style="background-color:red;">1. Hem</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 102011.png" alt=""><figcaption><p>After scrolling down the home page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 102011.png" alt=""><figcaption><p>Efter att ha scrollat ner på hemsidan</p></figcaption></figure>
 
-Home Page gives you an overview of the all the major features that are available for you as a School Admin.&#x20;
+Hemsidan ger dig en översikt över alla de viktigaste funktionerna som är tillgängliga för dig som Skoladministratör.&#x20;
 
-**Class Creation Tools** - can be used to assign various tasks and assignments to students. Global Citizensip Assignments, Lesson Plans and their use cases are further discussed.
+**Verktyg för Klasskapande** - kan användas för att tilldela olika uppgifter och uppdrag till eleverna. Globalt Medborgarskapsuppdrag, lektionsplaner och deras användningsområden diskuteras vidare.
 
-**School Management and Data** - allows you to check the number of Students and their status. Number of Teachers and their status can also be checked. School game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
+**Skolhantering och Data** - låter dig kontrollera antalet elever och deras status. Antal lärare och deras status kan också kontrolleras. Skolspelsdata ger dig en omfattande översikt över statistik och data för alla klasser du har skapat. Personlig speldatav består av statistik och information om de spel du personligen deltagit i.
 
 
 
-### <mark style="background-color:red;">2. Device List</mark>
+### <mark style="background-color:red;">2. Enhetslista</mark>
 
-Gives you control over the devices where your account is logged in. RealLives allows School Admins to use their account on 3 different devices. If for any reason the user wants to remove a device's access they can do so by clicking on the 'Remove Device' button.
+Ger dig kontroll över de enheter där ditt konto är inloggat. RealLives tillåter Skoladministratörer att använda sitt konto på 3 olika enheter. Om användaren av någon anledning vill ta bort en enhets åtkomst kan de göra det genom att klicka på knappen 'Ta bort enhet'.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 104059.png" alt=""><figcaption></figcaption></figure>
 
 
 
+### <mark style="background-color:red;">3. Min Spelinstrumentpanel</mark>
 
-
-### <mark style="background-color:red;">3. My Game Dashboard</mark>
-
-A game dashboard is a centralized interface displaying essential game information such as player stats, achievements, and progress tracking.&#x20;
+En spelinstrumentpanel är ett centraliserat gränssnitt som visar viktig spelinformation som spelarstatistik, prestationer och spårning av framsteg.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105442.png" alt=""><figcaption></figcaption></figure>
 
-RealLives My Game Dashboard is divided into three parts -
+RealLives Min Spelinstrumentpanel är indelad i tre delar -
 
 
 
-**SDG chosen by me while creating a life** -
+**SDG som jag valt när jag skapade ett liv** -
 
-The Sustainable Development Goals (SDGs) by the United Nations are a set of 17 interconnected global objectives aimed at addressing pressing challenges such as poverty, inequality, climate change, and environmental degradation. When you want play a life, you can choose any SDG and start your life. You can do so by clicking on Live a Life on your home page then choosing the third option shown in the page below.
+De hållbara utvecklingsmålen (SDG) av FN är en uppsättning av 17 sammanlänkade globala mål som syftar till att ta itu med pressande utmaningar som fattigdom, ojämlikhet, klimatförändringar och miljöförstöring. När du vill spela ett liv kan du välja ett SDG och starta ditt liv. Du kan göra detta genom att klicka på Lev ett Liv på din hemsida och sedan välja det tredje alternativet som visas på sidan nedan.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 105858.png" alt=""><figcaption></figcaption></figure>
 
-#### Organs Donated by me -&#x20;
+#### Organ donerade av mig -&#x20;
 
-Shows the number of Organs donated by you in all of the lives played.&#x20;
+Visar antalet organ som donerats av dig i alla liv som spelats.&#x20;
 
-#### My Gameplay Data -&#x20;
+#### Min Speldatab -&#x20;
 
-Gives information about the lives which have been completed or are incomplete, Countries covered while playing and also the letters written and SDG comments. Number of Male and Female lives are also specified.
+Ger information om de liv som har slutförts eller är ofullständiga, länder som täckts under spelet och även de brev som skrivits och SDG-kommentarer. Antal manliga och kvinnliga liv specificeras också.
 
 
 
-### <mark style="background-color:red;">4. World Data + SDG Tools</mark>
+### <mark style="background-color:red;">4. Världsdata + SDG-verktyg</mark>
 
-**RealLives World Data Learning Tools**
+**RealLives Världsdata Lärverktyg**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 110827.png" alt=""><figcaption></figcaption></figure>
 
-### 1. UN's Sustainable Development Goals (SDGs) Tool  <img src="../../.gitbook/assets/sdggoalstoolicon.svg" alt="" data-size="original">
+### 1. FN:s Hållbara Utvecklingsmål (SDG) Verktyg  <img src="../../.gitbook/assets/sdggoalstoolicon.svg" alt="" data-size="original">
 
-**Description:**
+**Beskrivning:**
 
-1\. Learn SDG status of Countries.\
-2\. Compare SDG country score and rank.\
-3\. SDG country comparative statement generator.
+1. Lär dig om SDG-statusen för länder.2. Jämför SDG-landspoäng och rang.3. SDG-landsjämförelsedeclarationsgenerator.
 
 
 
-### &#x20;2. Country Disparity Learning Tool & Data Visualisation  <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+### &#x20;2. Landsdiskriminering Lärverktyg & Datavisualisering  <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
 
-**Description:**
+**Beskrivning:**
 
-Compare two countries to understand the disparity of socio-economic, health and demographic data with the help of data visualization and dynamic statements generated by the data.
-
-
-
-### 3. Compare Country Data ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
-
-**Description:**
-
-A complete tool for comparing country data with the Lorenz curve, broken ladder scale, SDG challenges and country groups.
+Jämför två länder för att förstå skillnaden i socioekonomiska, hälso- och demografiska data med hjälp av datavisualisering och dynamiska deklarationer genererade av data.
 
 
 
+### 3. Jämför Landsdata ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
+
+**Beskrivning:**
+
+Ett komplett verktyg för att jämföra landsdata med Lorenzkurvan, trasig stegeskala, SDG-utmaningar och landgrupper.
 
 
-### 4. Country Groups Comparison ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
 
-**Description:**
+### 4. Landgrupps Jämförelse ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
 
-Experience 100+ country groups. Learn about the disparities between countries within a country group.
+**Beskrivning:**
 
+Upplev 100+ landgrupper. Lär dig om skillnaderna mellan länder inom en landgrupp.
