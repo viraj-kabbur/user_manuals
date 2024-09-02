@@ -1,5 +1,5 @@
-# Feedback / Bug Report
+# Feedback / Buggrapport
 
-If a user is finding any problems or difficulties, they can let us know by going to the Feedback section in the left bar and describing what is the problem that they are facing. For easier understanding of the problem please attach a screenshot. We will try our best to resolve any problem and respond to any feedback.
+Om en användare upplever några problem eller svårigheter kan de meddela oss genom att gå till Feedback-sektionen i vänsterfältet och beskriva vilket problem de har. För att underlätta förståelsen av problemet, vänligen bifoga en skärmdump. Vi kommer att göra vårt bästa för att lösa eventuella problem och svara på all feedback.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 132257.png" alt=""><figcaption></figcaption></figure>
