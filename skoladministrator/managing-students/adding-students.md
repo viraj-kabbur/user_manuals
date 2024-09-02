@@ -1,165 +1,145 @@
-# Adding Students
+# Lägga till Elever
 
-## <mark style="background-color:blue;">Adding/Importing Students</mark>
+## <mark style="background-color:blue;">Lägga till/Importera Elever</mark>
 
-We have three ways to Import Students into the game -
+Vi har tre sätt att importera elever till spelet -
 
-1. Importing with the help of E-mail (Reccomended)
-2. Importing without E-mail
-3. Adding Single Student&#x20;
+1. Importera med hjälp av e-post (Rekommenderas)
+2. Importera utan e-post
+3. Lägga till enskild elev&#x20;
 
-Let's see how each method works.
+Låt oss se hur varje metod fungerar.
 
+### <mark style="background-color:blue;">1. Importera Elever med hjälp av E-post</mark>
 
+**För skolor som använder e-post för elever rekommenderas det att ange elevens e-postadress. Ska användas när flera elever ska läggas till.**
 
-### <mark style="background-color:blue;">1. Importing Students with the help of E-mail</mark>
+* När uppgifter och klasser skapas kommer eleverna att få meddelanden via e-post.
+* Elever som importeras med hjälp av e-post får sina användarnamn inställda som den e-postadress som anges här.
 
-**For schools that use email for students, it is recommended to provide the student's email address. Should be used when multiple students have to be added.**
+När du väljer detta alternativ kommer följande sida att öppnas.
 
-* When assignments and classes are created, students will receive notifications via email.
-* Students imported using emails have their usernames set as the email which is provided here.
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105859.png" alt=""><figcaption><p>Importera Elever med E-post</p></figcaption></figure>
 
-Once you choose this option the following page will open up.
+### Steg 1 -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105859.png" alt=""><figcaption><p>Import Students by E-mail</p></figcaption></figure>
+Först klickar du på den röda knappen som laddar ner ett exempel på ett Excel-ark som detta -
 
-### Step 1 -
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Exempel på Excel-ark</p></figcaption></figure>
 
-First click on the red button which will download a sample excel sheet like this -
+Så här ser exempelarket ut, som du kan se finns det en kolumn som heter användarnamn. För referens har vi redan lagt till två e-postadresser. Allt du behöver göra är att fylla i e-postadresserna för de elever du vill lägga till i spelet. När du har lagt till deras e-postadresser, spara detta Excel-ark.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
+### Steg 2 -
 
-This is how the sample excel sheet will look like, as you can see there is a column which says username. For reference we have already added two e-mails. All you have to do is fill the e-mails of the students you wish to add to the game. Once you add their e-mails, save this excel sheet.
-
-
-
-### Step 2 -
-
-Click on the browse button which is highlighted by white colour just below the red button. After doing this a page like this will open up.
+Klicka på bläddringsknappen som är markerad med vit färg precis under den röda knappen. Efter detta öppnas en sida som ser ut så här.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 110657.png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the e-mails. Once done, then click on the Import button situated below the browse button. You will get Student Import Successful Prompt. Now the students who were in the list will recieve unique links on their e-mails, all they have to do is click those links and register themselves on realLives.
+Allt du behöver göra är att välja Excel-filen där du har fyllt i e-postadresserna. När det är klart, klicka på Importera-knappen som finns under bläddringsknappen. Du kommer att få en bekräftelse på att importen av elever har lyckats. Nu kommer eleverna som var på listan att få unika länkar via e-post, allt de behöver göra är att klicka på dessa länkar och registrera sig på RealLives.
 
+### <mark style="background-color:blue;">Exempel på hur ett e-postmeddelande ser ut och hur man registrerar sig för första gången</mark>
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>E-post mottagen av eleven</p></figcaption></figure>
 
-### <mark style="background-color:blue;">Example of how an e-mail looks and how to register for the first time</mark>
+#### När eleven mottar e-postmeddelandet behöver de bara klicka på registreringsknappen och en ny flik öppnas så här -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>E-mail recieved by the student</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/99.png" alt=""><figcaption><p>Registrering för första gången</p></figcaption></figure>
 
-#### Once the Student recieves the e-mail, they have to just click on the register button and a new tab will be opened like so -
+#### Eleven måste fylla i alla parametrar som anges och sedan klicka på skicka-knappen. Nu kommer ett nytt konto att skapas för eleven som de kan komma åt genom att använda sin e-postadress som användarnamn och det lösenord som de har angett vid registreringen.
 
-<figure><img src="../../.gitbook/assets/99.png" alt=""><figcaption><p>Registration for the first time</p></figcaption></figure>
+### <mark style="background-color:red;">Notering -</mark>&#x20;
 
-#### The student has to fill in all the parameters mentioned, then click on the submit button. Now a new account will be created for the student which they can access by using their e-mail as the username and the password they have set while registering.
+Se till att du anger e-postadresser som inte tidigare har registrerats på RealLives. Om du anger e-postadresser som redan har registrerats kommer du att få en sådan uppmaning -&#x20;
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112343.png" alt=""><figcaption><p>Felmeddelande för redan använda e-postadresser</p></figcaption></figure>
 
+### <mark style="background-color:blue;">2. Importera Elever utan E-post</mark>
 
-### <mark style="background-color:red;">Note -</mark>&#x20;
+**Om din skola inte tillhandahåller e-postadresser till eleverna:**
 
-Make sure you enter e-mails which have not been previously registered on realLives. If you enter e-mails which have already been registered, you will get such a prompt -&#x20;
+* Eleverna kommer endast att få meddelanden om nya uppgifter och klasser genom sina instrumentpaneler.
+* Elever som importeras genom att välja detta alternativ får sina användarnamn genererade av systemet. De kan senare ändra användarnamnet från sin instrumentpanel.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112343.png" alt=""><figcaption><p>Error prompt for already used e-mails</p></figcaption></figure>
+När du väljer detta alternativ kommer följande sida att öppnas.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114334.png" alt=""><figcaption><p>Importera Elever utan E-post</p></figcaption></figure>
 
+### Steg 1 -
 
-### <mark style="background-color:blue;">2. Importing Students without e-mail</mark>
+Först klickar du på den röda knappen som laddar ner ett exempel på ett Excel-ark som detta -
 
-**If your school doesn't provide e-mails to the students:**
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Exempel på Excel-ark</p></figcaption></figure>
 
-* Students will only receive notifications about new assignments and classes through their dashboards.
-* Students imported by selecting this option will have their usernames set by the system. They can later change the username from their dashboard.
+Så här ser exempelarket ut, som du kan se finns det 5 kolumner: Förnamn, Efternamn, Ålder, Kön och Årskurs. För referens har vi redan lagt till information om två elever. Allt du behöver göra är att fylla i informationen om de elever du vill lägga till i spelet. När du har lagt till deras information, spara detta Excel-ark.
 
-Once you choose this option the following page will open up.
+### Steg 2 -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114334.png" alt=""><figcaption><p>Import Students without e-mail</p></figcaption></figure>
-
-
-
-### Step 1 -
-
-First click on the red button which will download a sample excel sheet like this -
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
-
-This is how the sample excel sheet will look like, as you can see there are 5 columns Firstname, Lastname, Age, Gender and Grade. For reference we have already added information of two students. All you have to do is fill the information of the students you wish to add to the game. Once you add their information, save this excel sheet.
-
-
-
-### Step 2 -
-
-Click on the browse button which is highlighted by white colour just below the red button. After doing so, a page like this will open up.
+Klicka på bläddringsknappen som är markerad med vit färg precis under den röda knappen. Efter att ha gjort detta kommer en sida som ser ut så här att öppnas.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 115300.png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the information about the students. Once done, then click on the Save button situated below the browse button. You will get Student Import Successful Prompt.&#x20;
+Allt du behöver göra är att välja Excel-filen där du har fyllt i informationen om eleverna. När det är klart, klicka sedan på Spara-knappen som finns under bläddringsknappen. Du kommer att få en bekräftelse på att importen av elever har lyckats.&#x20;
 
+### Steg 3 -
 
-
-### Step 3 -
-
-You can check if the students have been added by going to the Students tab located in the Left Bar of the Dashboard and clicking on Allocated Students.
+Du kan kontrollera om eleverna har lagts till genom att gå till Elevfliken som finns i vänsterfältet på instrumentpanelen och klicka på Tilldelade elever.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 120102 (1).png" alt=""><figcaption></figcaption></figure>
 
-For reference we had added John's and Linda's information in the Excel sheet above and uploaded it on the game, hence John and Linda have been added as students into the system.
+För referens hade vi lagt till Johns och Lindas information i Excel-arket ovan och laddat upp det i spelet, och därför har John och Linda lagts till som elever i systemet.
 
-### <mark style="background-color:red;">Note -</mark>
+### <mark style="background-color:red;">Notering -</mark>
 
-Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system, to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.&#x20;
+Eftersom vi inte lade till elevernas e-postadresser kan eleverna inte använda sina e-postadresser för att logga in. Därför måste eleverna använda de unika användarnamn som genererats av systemet för att logga in på spelet. Dessutom är registreringsprocessen för elever som har lagts till i spelet utan deras e-postadresser annorlunda.&#x20;
 
-The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)&#x20;
+Eleven måste gå till inloggningssidan [https://reallivesworld.com/login](https://reallivesworld.com/login)&#x20;
 
-Once here, they will have to enter their unique username provided by the Teacher, and the default password which will be - 12345678
+Väl där måste de ange sitt unika användarnamn som tillhandahålls av läraren och standardlösenordet som kommer att vara - 12345678
 
-Upon logging in the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
+När de loggar in i spelet kan eleven ändra sitt lösenord genom att besöka sin profil och gå till Mitt konto för ökad integritet.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 123745 (1).png" alt=""><figcaption></figcaption></figure>
 
+### <mark style="background-color:blue;">3. Lägga till enskild elev</mark>
 
+**Lägg till en enskild elev genom att fylla i formuläret manuellt. Bör endast användas när en enskild elev ska läggas till. Om det finns flera elever kan läraren använda de andra två metoderna som nämns ovan som är mindre tidskrävande och mycket mer effektiva.**
 
-### <mark style="background-color:blue;">3. Adding Single Student</mark>
-
-**Add a single student by filling up the form manually. Should be used only when a single student is to be added. If there are multiple students, the teacher can use the other two ways mentioned above which are less time consuming and much more efficient.**
-
-There are two ways you can add the student manually.&#x20;
+Det finns två sätt att lägga till eleven manuellt.&#x20;
 
 ### <mark style="background-color:blue;">Scenario 1 -</mark>
 
-The first scenario would be where the student has a valid school e-mail. The teacher can go ahead by entering all the necessary information and setting the password by themselves, which the student can change later on. The e-mail entered will act as the username for the student, and all updates will be sent on that e-mail. Once the Teacher has filled in all the details, they have to save it.&#x20;
+Det första scenariot skulle vara där eleven har en giltig skol-e-postadress. Läraren kan gå vidare genom att ange all nödvändig information och själv ställa in lösenordet, som eleven kan ändra senare. E-postadressen som anges kommer att fungera som användarnamn för eleven, och alla uppdateringar skickas till den e-postadressen. När läraren har fyllt i alla detaljer måste de spara det.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 124602.png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher can go to the Students section of the Left Bar of the dashboard and then click on Allocated Students.
+Sedan, för att kontrollera om eleven har lagts till i spelet, kan läraren gå till Elevfliken i vänsterfältet på instrumentpanelen och sedan klicka på Tilldelade elever.
 
-&#x20;As you can see Linda Jones has been successfully added.
+&#x20;Som du kan se har Linda Jones lagts till framgångsrikt.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130858.png" alt=""><figcaption></figcaption></figure>
 
-After this the student can go to - [https://reallivesworld.com/login](https://reallivesworld.com/login)
+Efter detta kan eleven gå till - [https://reallivesworld.com/login](https://reallivesworld.com/login)
 
-Here, they would enter their e-mail as the username and the password which is set by the teacher.
+Här anger de sin e-postadress som användarnamn och det lösenord som är inställt av läraren.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Student login</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Elevinloggning</p></figcaption></figure>
 
 ### <mark style="background-color:blue;">Scenario 2 -</mark>
 
-The second scenario would be where the student does not have a valid school e-mail. In such a case the Teacher will fill all the necessary information except the e-mail and save it.&#x20;
+Det andra scenariot skulle vara där eleven inte har en giltig skol-e-postadress. I ett sådant fall kommer läraren att fylla i all nödvändig information förutom e-postadressen och spara det.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130500.png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher can go to the Students section of the left part of the dashboard and then click on Allocated Students. As you can see Chuck Bass has been successfully added.
+Sedan, för att kontrollera om eleven har lagts till i spelet, kan läraren gå till Elevfliken i vänsterfältet på instrumentpanelen och sedan klicka på Tilldelade elever. Som du kan se har Chuck Bass lagts till framgångsrikt.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130512.png" alt=""><figcaption></figcaption></figure>
 
-Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.&#x20;
+Eftersom vi inte lade till elevernas e-postadresser kan eleverna inte använda sina e-postadresser för att logga in. Därför måste eleverna använda de unika användarnamn som genererats av systemet för att logga in på spelet. Dessutom är registreringsprocessen för elever som har lagts till i spelet utan deras e-postadresser annorlunda.&#x20;
 
-The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)&#x20;
+Eleven måste gå till inloggningssidan [https://reallivesworld.com/login](https://reallivesworld.com/login)&#x20;
 
-Once here, they will have to enter their unique username (in this case chuckbass10000884 which is mentioned in the username column) provided by the Teacher, and the default password set by the teacher.
+Väl där måste de ange sitt unika användarnamn (i detta fall chuckbass10000884 som nämns i användarnamnskolumnen) tillhandahållet av läraren och standardlösenordet som ställts in av läraren.
 
-Upon logging in to the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
+När de loggar in i spelet kan eleven ändra sitt lösenord genom att besöka sin profil och gå till Mitt konto för ökad integritet.
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
