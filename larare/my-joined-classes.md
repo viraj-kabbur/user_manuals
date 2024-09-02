@@ -1,10 +1,10 @@
-# My Joined Classes
+# Mina Gånga Klasser
 
-Shows the list of classes joined by you. In order to join a class, a Teacher has to be invited by the creator of the other class. A teacher cannot directly join any class, they have to be invited to join.
+Visar listan över klasser som du har gått med i. För att gå med i en klass måste en lärare bli inbjuden av skaparen av den andra klassen. En lärare kan inte gå med i någon klass direkt; de måste bli inbjudna.
 
-Two options are present -&#x20;
+Två alternativ finns:
 
-* View classes you have joined having Assignments + Lesson Plan
-* View classes you have joined which are having just the Global Citizenship Assignments without any Lesson Plans.
+* Visa klasser du har gått med i som har Uppdrag + Lektioner
+* Visa klasser du har gått med i som endast har Globala Medborgarskapsuppdrag utan några Lektioner
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 124418.png" alt=""><figcaption></figcaption></figure>
