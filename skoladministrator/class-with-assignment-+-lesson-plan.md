@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page describes about the various features and functionalities of the
-  Assignments and the lesson plans available in the game.
+  Den här sidan beskriver de olika funktionerna och egenskaperna hos
+  uppgifter och lektionsplaner som är tillgängliga i spelet.
 cover: >-
   https://images.unsplash.com/photo-1614899099690-3bd319d25f99?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxrbm93bGVkZ2V8ZW58MHx8fHwxNzA5MjA4OTU5fDA&ixlib=rb-4.0.3&q=85
 coverY: -65
@@ -21,40 +21,39 @@ layout:
     visible: true
 ---
 
-# Class with Assignment + Lesson Plan
+# Klass med Uppgift + Lektionsplan
 
-### <mark style="background-color:blue;">What are Class with Assignment + Lesson Plan?</mark>
+### <mark style="background-color:blue;">Vad är Klass med Uppgift + Lektionsplan?</mark>
 
-#### Very similar to Class with Global Citizenship Assignment, essentially it is the same process that was seen in creating a class and assigning students different assignments related to different Subjects. For more information click on the link below -
+#### Mycket likt Klass med Globalt Medborgarskapsuppgift, i grunden är det samma process som sågs vid skapandet av en klass och tilldelning av elever olika uppgifter relaterade till olika ämnen. För mer information, klicka på länken nedan -
 
 {% content-ref url="class-with-global-citizenship-assignment.md" %}
 [class-with-global-citizenship-assignment.md](class-with-global-citizenship-assignment.md)
 {% endcontent-ref %}
 
-**The procedure of creating a class with lesson plan is similar to the procedure mentioned in the link above. First take a look at that and then refer to how a lesson plan works.**
+**Förfarandet för att skapa en klass med lektionsplan är liknande det som nämns i länken ovan. Titta först på det och sedan på hur en lektionsplan fungerar.**
 
-**Can be accessed from the Left Bar of the Dashboard.**
+**Kan nås från vänsterfältet på instrumentpanelen.**
 
 
+### <mark style="background-color:blue;">Lektionsplan -</mark>&#x20;
 
-### <mark style="background-color:blue;">Lesson Plan -</mark>&#x20;
+**Lektionsplan är en extra funktion som fungerar ovanpå klasserna.**&#x20;
 
-**Lesson Plan is an additional feature which works on top of the classes.**&#x20;
+En lektionsplan är en detaljerad plan eller guide utformad av lärare för att strukturera och organisera en undervisningssession eller lektion. Den innehåller vanligtvis mål, undervisningsmaterial, aktiviteter, bedömningar och tidslinjer, och syftar till att underlätta effektiv undervisning och lärande. Lektionsplaner fungerar som vägkartor för lärare, vilket hjälper dem att leverera innehållet på ett strukturerat och sammanhängande sätt samtidigt som de tillgodoser behoven och förmågorna hos sina elever.
 
-A lesson plan is a detailed outline or guide designed by educators to structure and organize a teaching session or class period. It typically includes objectives, instructional materials, activities, assessments, and timelines, aiming to facilitate effective teaching and learning. Lesson plans serve as roadmaps for teachers, helping them to deliver content in a structured and coherent manner while catering to the needs and abilities of their students.
+#### Funktioner -
 
-#### Features -
+* Lektionsnamn kan anges
+* Bilder kan läggas till som referens
+* Youtube-videolänkar kan läggas till som referens
+* Översikt och Mål kan anges för eleverna för att låta dem veta vad som förväntas av dem
+* Procedurer och Sätt att Bedöma kan anges
 
-* Lesson name can be given
-* Images can be added for reference
-* Youtube video links can be added for reference
-* Overview and Objectives can be mentioned for the students to let them know what is expected from them
-* Procedures and Way of Assessment can be mentioned
-
-All the information mentioned above will be visible to the students.
+All information som nämns ovan kommer att vara synlig för eleverna.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-29 171101.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-29 171107.png" alt=""><figcaption></figcaption></figure>
 
-* You can save these Lesson Plans and create a class later or Save them and create a class immediately.
+* Du kan spara dessa lektionsplaner och skapa en klass senare eller spara dem och skapa en klass omedelbart.
