@@ -2,20 +2,20 @@
 Beskrivning: Fungerar som ett index för alla sidor som finns i denna användarhandbok.
 omslag: ../.gitbook/tillgångar/Logo (7).svg
 omslagY: 0
-layout: 0
-  omslag:
-    synlig: sann
-    storlek: hjälte
-  titel:
-    synlig: sann
-  beskrivning:
-    synlig: sann
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
   tableOfContents:
-    synlig: sann
+    visible: true
   outline:
-    synlig: sann
-  paginering:
-    synlig: sann
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Hem sida
