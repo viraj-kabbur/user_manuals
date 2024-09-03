@@ -1,12 +1,12 @@
 # Skolans Speldata
 
-#### All data related to the school will be displayed here. Graphs and pie charts are used for easier understanding.
+#### All data relaterad till skolan visas här. Diagram och cirkeldiagram används för att underlätta förståelsen.
 
-Total number of students, allocated students, total teachers, covered countries, licenses used, and weekly reports are all displayed here.
+Totalt antal elever, tilldelade elever, totalt antal lärare, täckta länder, använda licenser och veckovisa rapporter visas här.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 131635.png" alt=""><figcaption></figcaption></figure>
 
-#### Fördelning av Liv och Topp SDG's -
+#### Fördelning av Liv och Topp-SDGs -
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 131706.png" alt=""><figcaption></figcaption></figure>
 
