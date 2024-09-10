@@ -41,7 +41,7 @@ layout:
 
 **Lesson Plan is an additional feature which works on top of the classes.**&#x20;
 
-A lesson plan is a detailed outline or guide designed by educators to structure and organize a teaching session or class period. It typically includes objectives, instructional materials, activities, assessments, and timelines, aiming to facilitate effective teaching and learning. Lesson plans serve as roadmaps for teachers, helping them to deliver content in a structured and coherent manner while catering to the needs and abilities of their students.
+A lesson plan is a detailed outline or guide designed by educators to structure and organize a teaching session or class period. It typically includes objectives, instructional materials, activities, assessments, and timelines, aiming to facilitate effective teaching and learning. Lesson plans serve as roadmaps for Teachers/Professors, helping them to deliver content in a structured and coherent manner while catering to the needs and abilities of their students.
 
 #### Features -
 
