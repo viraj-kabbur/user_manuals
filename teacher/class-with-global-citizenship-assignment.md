@@ -29,13 +29,13 @@ Once you click on create class, a page like the following will open up
 
 ### **Step 1 - Choose a Subject**
 
-We have been given 14 Subjects to choose from. These subjects contain various assignments. The Teacher can choose any one subject and then go ahead and choose an assignment. Let's say for this example we chose Human Geography.
+We have been given 14 Subjects to choose from. These subjects contain various assignments. The Teacher/Professor can choose any one subject and then go ahead and choose an assignment. Let's say for this example we chose Human Geography.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2 - Choose an assignment
 
-These are the various assignments in the subject of Human Geography. The Teacher can choose any one. Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the teacher has to press the + button located on the right side.
+These are the various assignments in the subject of Human Geography. The Teacher/Professor can choose any one. Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the Teacher/Professor has to press the + button located on the right side.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,10 +51,10 @@ Functionalities of a class -
 * End Date - gives a deadline to students to complete the assignment.
 * Age Group - specifies which students to be assigned based on their age.
 * Class Description - can be used to give a brief understanding of what is to be done by the students.
-* Only allocated students can be assigned, also the teacher can choose which students are to be added to the class. As seen in the example Linda and John are added but Student 1 hasn't been added to the class.
-* Similarly, teachers can also be added to the class. In the page attached below, out of all teachers, only Serena Matthews has been added.
+* Only allocated students can be assigned, also the Teacher/Professor can choose which students are to be added to the class. As seen in the example Linda and John are added but Student 1 hasn't been added to the class.
+* Similarly, Teachers/Professors can also be added to the class. In the page attached below, out of all Teachers/Professors, only Serena Matthews has been added.
 
-Once done with everything, the teacher can click the button which says Create a Class (upon scrolling down) and thus a class will be created.
+Once done with everything, the Teacher/Professor can click the button which says Create a Class (upon scrolling down) and thus a class will be created.
 
 
 
