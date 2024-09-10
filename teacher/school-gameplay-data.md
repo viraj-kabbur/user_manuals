@@ -1,8 +1,8 @@
-# School Gameplay Data
+# School/University Gameplay Data
 
-#### All the Data of the school will be displayed here. Graphs and Pie-charts are used as a method of representation for easier understanding.
+#### All the Data of the School/University will be displayed here. Graphs and Pie-charts are used as a method of representation for easier understanding.
 
-Total Students, allocated students, total Teachers, Countries covered, Licenses used along with Weekly reports, are all displayed here.
+Total Students, allocated students, total Teachers/Professors, Countries covered, Licenses used along with Weekly reports, are all displayed here.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 131635.png" alt=""><figcaption></figcaption></figure>
 
