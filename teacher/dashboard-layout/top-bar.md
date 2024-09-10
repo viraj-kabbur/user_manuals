@@ -38,4 +38,4 @@ The world icon on the left side of the notification block helps to change the la
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 100043 (1).png" alt=""><figcaption><p>Refer to the highlighted portion</p></figcaption></figure>
 
-Situated on top of the dashboard, available licenses displays the total capacity of users which can be added by the school admin and also helps in indicating the current users that have been allocated. One user/student equals one license.
+Situated on top of the dashboard, available licenses displays the total capacity of users which can be added by the School/University admin and also helps in indicating the current users that have been allocated. One student equals one license.
