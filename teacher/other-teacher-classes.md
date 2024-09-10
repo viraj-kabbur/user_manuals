@@ -1,6 +1,6 @@
-# Other Teacher Classes
+# Other Teachers/Professors Classes
 
-List of classes created by other Teachers can be viewed here.
+List of classes created by other Teachers/Professors can be viewed here.
 
 Two options are present -
 
@@ -9,6 +9,6 @@ Two options are present -
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 123205.png" alt=""><figcaption></figcaption></figure>
 
-The Action button on the right side of each class can be used to see the status of that particular class. Status shows the list of Teacher and Students enrolled in that class.&#x20;
+The Action button on the right side of each class can be used to see the status of that particular class. Status shows the list of Teachers/Professors and Students enrolled in that class.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 123214 (1).png" alt=""><figcaption></figcaption></figure>
