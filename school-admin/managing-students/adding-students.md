@@ -14,7 +14,7 @@ Let's see how each method works.
 
 ### <mark style="background-color:blue;">1. Importing Students with the help of E-mail</mark>
 
-**For schools that use email for students, it is recommended to provide the student's email address. Should be used when multiple students have to be added.**
+**For Schools/Universities that use email for students, it is recommended to provide the student's email address. Should be used when multiple students have to be added.**
 
 * When assignments and classes are created, students will receive notifications via email.
 * Students imported using emails have their usernames set as the email which is provided here.
@@ -65,7 +65,7 @@ Make sure you enter e-mails which have not been previously registered on realLiv
 
 ### <mark style="background-color:blue;">2. Importing Students without e-mail</mark>
 
-**If your school doesn't provide e-mails to the students:**
+**If your School/University doesn't provide e-mails to the students:**
 
 * Students will only receive notifications about new assignments and classes through their dashboards.
 * Students imported by selecting this option will have their usernames set by the system. They can later change the username from their dashboard.
@@ -110,7 +110,7 @@ Because we did not add e-mails of students, the students cannot use their e-mail
 
 The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)&#x20;
 
-Once here, they will have to enter their unique username provided by the Teacher, and the default password which will be - 12345678
+Once here, they will have to enter their unique username provided by the Teacher/Professor, and the default password which will be - 12345678
 
 Upon logging in the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
 
@@ -120,17 +120,17 @@ Upon logging in the game the Student can change their password by visiting their
 
 ### <mark style="background-color:blue;">3. Adding Single Student</mark>
 
-**Add a single student by filling up the form manually. Should be used only when a single student is to be added. If there are multiple students, the teacher can use the other two ways mentioned above which are less time consuming and much more efficient.**
+**Add a single student by filling up the form manually. Should be used only when a single student is to be added. If there are multiple students, the Teacher/Professor can use the other two ways mentioned above which are less time consuming and much more efficient.**
 
 There are two ways you can add the student manually.&#x20;
 
 ### <mark style="background-color:blue;">Scenario 1 -</mark>
 
-The first scenario would be where the student has a valid school e-mail. The teacher can go ahead by entering all the necessary information and setting the password by themselves, which the student can change later on. The e-mail entered will act as the username for the student, and all updates will be sent on that e-mail. Once the Teacher has filled in all the details, they have to save it.&#x20;
+The first scenario would be where the student has a valid School/University e-mail. The Teacher/Professor can go ahead by entering all the necessary information and setting the password by themselves, which the student can change later on. The e-mail entered will act as the username for the student, and all updates will be sent on that e-mail. Once the Teacher/Professor has filled in all the details, they have to save it.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 124602.png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher can go to the Students section of the Left Bar of the dashboard and then click on Allocated Students.
+Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the Left Bar of the dashboard and then click on Allocated Students.
 
 &#x20;As you can see Linda Jones has been successfully added.
 
@@ -138,7 +138,7 @@ Then, to check if the student has been added to the game, the Teacher can go to 
 
 After this the student can go to - [https://reallivesworld.com/login](https://reallivesworld.com/login)
 
-Here, they would enter their e-mail as the username and the password which is set by the teacher.
+Here, they would enter their e-mail as the username and the password which is set by the Teacher/Professor.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Student login</p></figcaption></figure>
 
@@ -146,11 +146,11 @@ Here, they would enter their e-mail as the username and the password which is se
 
 ### <mark style="background-color:blue;">Scenario 2 -</mark>
 
-The second scenario would be where the student does not have a valid school e-mail. In such a case the Teacher will fill all the necessary information except the e-mail and save it.&#x20;
+The second scenario would be where the student does not have a valid School/University e-mail. In such a case the Teacher/Professor will fill all the necessary information except the e-mail and save it.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130500.png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher can go to the Students section of the left part of the dashboard and then click on Allocated Students. As you can see Chuck Bass has been successfully added.
+Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the left part of the dashboard and then click on Allocated Students. As you can see Chuck Bass has been successfully added.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130512.png" alt=""><figcaption></figcaption></figure>
 
@@ -158,7 +158,7 @@ Because we did not add e-mails of students, the students cannot use their e-mail
 
 The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)&#x20;
 
-Once here, they will have to enter their unique username (in this case chuckbass10000884 which is mentioned in the username column) provided by the Teacher, and the default password set by the teacher.
+Once here, they will have to enter their unique username (in this case chuckbass10000884 which is mentioned in the username column) provided by the Teacher/Professor, and the default password set by the Teacher/Professor.
 
 Upon logging in to the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
 
