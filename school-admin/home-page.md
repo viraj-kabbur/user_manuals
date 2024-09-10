@@ -20,11 +20,9 @@ layout:
 
 # Home Page
 
-In order to save time, you will find links of specific pages that you might want to go to.&#x20;
+In order to save time, you will find links of specific pages that you might want to go to.
 
 There are questions mentioned above every link which are common, and you may have them in your mind. If you find the question that you had in your mind, just click on the link associated with it.
-
-
 
 Link below will take you to the understanding of the functionalities of the Dashboard and how they work. Recommended for first time users.
 
@@ -49,11 +47,11 @@ Link below will help School/University Admins on how to manage students -
 Link below will help School/University admins on managing Teachers/Professors -
 
 * Adding Teachers/Professors
-* Viewing Teachers/Professors&#x20;
+* Viewing Teachers/Professors
 * License policy for Teachers/Professors
 
-{% content-ref url="managing-teachers/professors-and-viewing-them.md" %}
-[managing-teachers/professors-and-viewing-them.md](managing-teachers/professors-and-viewing-them.md)
+{% content-ref url="managing-teachers-and-viewing-them.md" %}
+[managing-teachers-and-viewing-them.md](managing-teachers-and-viewing-them.md)
 {% endcontent-ref %}
 
 ***
@@ -80,5 +78,3 @@ Link below will help School/University Admins understand about Lesson Plans -
 {% content-ref url="class-with-assignment-+-lesson-plan.md" %}
 [class-with-assignment-+-lesson-plan.md](class-with-assignment-+-lesson-plan.md)
 {% endcontent-ref %}
-
-***School/University
