@@ -10,17 +10,17 @@
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 102011.png" alt=""><figcaption><p>After scrolling down the home page</p></figcaption></figure>
 
-Home Page gives you an overview of the all the major features that are available for you as a School Admin.&#x20;
+Home Page gives you an overview of the all the major features that are available for you as a School/University Admin.&#x20;
 
 **Class Creation Tools** - can be used to assign various tasks and assignments to students. Global Citizensip Assignments, Lesson Plans and their use cases are further discussed.
 
-**School Management and Data** - allows you to check the number of Students and their status. Number of Teachers and their status can also be checked. School game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
+**School/University Management and Data** - allows you to check the number of Students and their status. Number of Teachers/Professors and their status can also be checked. School/University game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
 
 
 
 ### <mark style="background-color:red;">2. Device List</mark>
 
-Gives you control over the devices where your account is logged in. RealLives allows School Admins to use their account on 3 different devices. If for any reason the user wants to remove a device's access they can do so by clicking on the 'Remove Device' button.
+Gives you control over the devices where your account is logged in. RealLives allows School/University Admins to use their account on 3 different devices. If for any reason the user wants to remove a device's access they can do so by clicking on the 'Remove Device' button.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 104059.png" alt=""><figcaption></figcaption></figure>
 
