@@ -9,7 +9,7 @@ RealLives is a gamified simulation that brings home the challenge of life in its
 
 And in RealLives, you can play billions of such lives, in different cultures and nations on earth - without ever repeating any lifetime!
 
-As a Teacher you can play the game and be born in any life you wish to, by simply clicking on the 'Live a Life' button. Play demo game below.
+As a Teacher/Professor you can play the game and be born in any life you wish to, by simply clicking on the 'Live a Life' button. Play demo game below.
 
 {% @arcade/embed flowId="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
 
