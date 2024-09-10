@@ -24,7 +24,7 @@ Also, there are more than 240 parameters with respect to the 14 subjects.
 Class with Global Citizenship Assignment can be accessed by scrolling on the left bar of the dashboard and finding a tab named the same. Once you have clicked on the button saying Class with Global Citizenship Assignment, you will get two options.
 
 1. Create Class - allows you to create classes.
-2. List of Classes - shows you the list of classes that already exist (made by the teachers)
+2. List of Classes - shows you the list of classes that already exist (created by the Teacher/Professor)
 
 
 
@@ -34,7 +34,7 @@ Once you click on create class, a page like the following will open up
 
 ### **Step 1 - Choose a Subject**
 
-We have been given 14 Subjects to choose from. These subjects contain various assignments. The Teacher can choose any one subject and then go ahead and choose an assignment. Let's say for this example we chose Human Geography.
+We have been given 14 Subjects to choose from. These subjects contain various assignments. The Teacher/Professor can choose any one subject and then go ahead and choose an assignment. For this example we chose Human Geography.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-29 155213.png" alt=""><figcaption><p>Create a Class</p></figcaption></figure>
 
@@ -42,7 +42,7 @@ We have been given 14 Subjects to choose from. These subjects contain various as
 
 ### Step 2 - Choose an assignment
 
-These are the various assignments in the subject of Human Geography. The Teacher can choose any one. Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the teacher has to press the + button located on the right side.
+These are the various assignments in the subject of Human Geography. The Teacher/Professor can choose any one. Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the Teacher/Professor has to press the + button located on the right side.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-29 160338.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,12 +56,12 @@ Let's see the functionalities of a class one by one -
 * End Date - gives a deadline to students to complete the assignment.
 * Age Group - specifies which students are to be assigned based on their age.
 * Class Description - can be used to give a brief understanding of what is to be done by the students.
-* Only allocated students can be assigned, also the teacher can choose which students are to be added to the class. As seen in the example Linda and John are added but Student 1 hasn't been added to the class.
-* Similarly, teachers can also be added to the class . In the page attached below, out of all the teachers, only Serena Matthews has been added.
+* Only allocated students can be assigned, also the Teacher/Professor can choose which students are to be added to the class. As seen in the example Linda and John are added but Student 1 hasn't been added to the class.
+* Similarly, Teacher/Professor can also be added to the class . In the page attached below, out of all the Teachers/Professors, only Serena Matthews has been added.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-29 161248.png" alt=""><figcaption></figcaption></figure>
 
-Once done with everything, the teacher or the school admin can click the button which says Create a Class, and thus a class will be created.
+Once done with everything, the Teacher/Professor or the School/University admin can click the button which says Create a Class, and thus a class will be created.
 
 
 
