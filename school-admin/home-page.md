@@ -48,8 +48,8 @@ Link below will help School/University Admins on how to manage students -
 
 Link below will help School/University admins on managing Teachers/Professors -
 
-* Adding teachers/professors
-* Viewing Teachers/professors&#x20;
+* Adding Teachers/Professors
+* Viewing Teachers/Professors&#x20;
 * License policy for Teachers/Professors
 
 {% content-ref url="managing-teachers/professors-and-viewing-them.md" %}
