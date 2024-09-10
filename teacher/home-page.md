@@ -36,7 +36,7 @@ Link below will take you to the understanding of the functionalities of the Dash
 
 
 
-Link below will help Teachers understand about Lesson Plans -
+Link below will help Teacher/Professor understand about Lesson Plans -
 
 * What are Lesson Plans?
 * How do they work?
@@ -50,7 +50,7 @@ Link below will help Teachers understand about Lesson Plans -
 
 
 
-Link below will help Teachers understand about classes -
+Link below will help Teacher/Professor understand about classes -
 
 * What are classes?
 * How do they work?
