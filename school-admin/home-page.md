@@ -34,7 +34,7 @@ Link below will take you to the understanding of the functionalities of the Dash
 
 ***
 
-Link below will help School Admins on how to manage students -
+Link below will help School/University Admins on how to manage students -
 
 * How to Import/Add students to the game?
 * How to Deallocate students?
@@ -46,19 +46,19 @@ Link below will help School Admins on how to manage students -
 
 ***
 
-Link below will help School admins on managing Teachers -
+Link below will help School/University admins on managing Teachers/Professors -
 
-* Adding teachers
-* Viewing Teachers&#x20;
-* License policy for Teachers
+* Adding teachers/professors
+* Viewing Teachers/professors&#x20;
+* License policy for Teachers/Professors
 
-{% content-ref url="managing-teachers-and-viewing-them.md" %}
-[managing-teachers-and-viewing-them.md](managing-teachers-and-viewing-them.md)
+{% content-ref url="managing-teachers/professors-and-viewing-them.md" %}
+[managing-teachers/professors-and-viewing-them.md](managing-teachers/professors-and-viewing-them.md)
 {% endcontent-ref %}
 
 ***
 
-Link below will help School Admins understand about classes -
+Link below will help School/University Admins understand about classes -
 
 * What are classes?
 * How do they work?
@@ -71,7 +71,7 @@ Link below will help School Admins understand about classes -
 
 ***
 
-Link below will help School Admins understand about Lesson Plans -
+Link below will help School/University Admins understand about Lesson Plans -
 
 * What are Lesson Plans?
 * How do they work?
@@ -81,4 +81,4 @@ Link below will help School Admins understand about Lesson Plans -
 [class-with-assignment-+-lesson-plan.md](class-with-assignment-+-lesson-plan.md)
 {% endcontent-ref %}
 
-***
+***School/University
