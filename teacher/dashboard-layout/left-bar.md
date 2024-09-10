@@ -12,7 +12,7 @@ Home Page gives you an overview of all the major features that are available for
 
 **Class Creation Tools** - can be used to assign various tasks and assignments to students. As you further scroll down on the home page, Global Citizensip Assignments, Lesson Plans and their use cases are further discussed.
 
-**School Management and Data** - allows you to check the number of Students and their status. Number of Teachers/Professors and their status can also be checked. School game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
+**School/University Management and Data** - allows you to check the number of Students and their status. Number of Teachers/Professors and their status can also be checked. School/University game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
 
 
 
@@ -91,4 +91,3 @@ A complete tool for comparing country data with the Lorenz curve, broken ladder 
 **Description:**
 
 Experience 100+ country groups. Learn about the disparities between countries within a country group.
-
