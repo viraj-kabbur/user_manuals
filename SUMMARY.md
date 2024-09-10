@@ -11,7 +11,7 @@
   * [Adding Students](school-admin/managing-students/adding-students.md)
   * [Viewing Students](school-admin/managing-students/viewing-students.md)
   * [Deallocate Students](school-admin/managing-students/deallocate-students.md)
-* [Managing Teachers/Professors and Viewing them](school-admin/managing-teachers-and-viewing-them.md)
+* [Managing Teachers/Professors and viewing them](school-admin/managing-teachers-and-viewing-them.md)
 * [Class with Global Citizenship Assignment](school-admin/class-with-global-citizenship-assignment.md)
 * [Class with Assignment + Lesson Plan](school-admin/class-with-assignment-+-lesson-plan.md)
 * [Feedback for this manual](school-admin/feedback-for-this-manual.md)
