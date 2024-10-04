@@ -4,7 +4,7 @@
 
 RealBoard에 익숙하지 않다면, RealBoard 매뉴얼을 참조하세요 -&#x20;
 
-{% embed url="https://realboardmanual.reallivesworld.com/teacher-en" %}
+{% embed url="https://realboardmanual.reallivesworld.com/teacher-ko" %}
 
 ## 1. RealBoard로 글로벌 시민 수업 생성하기
 
