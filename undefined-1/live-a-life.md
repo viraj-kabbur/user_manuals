@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/homeimage21 (1).jpg
 coverY: 79.66814159292035
 ---
 
-# 인생을 살아보기
+# 삶을 살다
 
 RealLives는 삶의 다채로움과 복잡함 속에서 인생의 도전을 게임화한 시뮬레이션입니다. 이 시뮬레이션에서 여러분은 태어남부터 죽음까지, 인생에서 발생하는 수많은 예측 불가능한 조건들에 맞서며 자신의 능력을 시험하게 됩니다.
 
@@ -11,7 +11,7 @@ RealLives에서는 지구상의 다양한 문화와 국가에서 수십억 번�
 
 교사/교수로서 '인생을 살아보기(Live a Life)' 버튼을 클릭하여 원하는 인생을 선택해 게임을 시작할 수 있습니다. 아래에서 데모 게임을 플레이해보세요.
 
-{% @arcade/embed flowId="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
+{% embed url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
 
 {% embed url="https://reallivesworld.com/website/academic/" %}
 웹사이트로 이동
