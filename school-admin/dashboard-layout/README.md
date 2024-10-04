@@ -6,7 +6,7 @@ description: An overview of the dashboard's layout and purpose.
 
 This is how the dashboard looks like once you login and start the game. The Dashboard can be further divided into two parts for easy understanding.
 
-<figure><img src="../../.gitbook/assets/Image 28-02-24 at 12.40 PM (2).jpg" alt=""><figcaption><p>Home Page of RealLives</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-10-04 104700.png" alt=""><figcaption><p>Home Page of RealLives</p></figcaption></figure>
 
 We have divided the dashboard into two parts for easy understanding&#x20;
 
@@ -17,4 +17,5 @@ We have divided the dashboard into two parts for easy understanding&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/Image 28-02-24 at 12.40 PM (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design(7).png" alt=""><figcaption></figcaption></figure>
+
