@@ -1,29 +1,29 @@
 ---
-description: This page describes how to view allocated and de-allocated students.
+description: 이 페이지는 할당된 학생과 할당 해제된 학생을 보는 방법에 대해 설명합니다.
 ---
 
-# Viewing Students
+# 학생 보기
 
-Once you are on the Home page and scroll down to the Students tab, you can click on it and scroll down to go to the view section. It will look like this -&#x20;
+홈 페이지에서 아래로 스크롤하여 '학생' 탭으로 이동한 후 클릭하여 보기 섹션으로 이동할 수 있습니다. 화면은 다음과 같이 보일 것입니다 -&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131932.png" alt=""><figcaption></figcaption></figure>
 
 
 
-### <mark style="background-color:blue;">Viewing allocated students -</mark>&#x20;
+### <mark style="background-color:blue;">할당된 학생 보기 -</mark>&#x20;
 
-Once you click on view, you can see the allocated students like so -
+'보기'를 클릭하면 할당된 학생들을 다음과 같이 볼 수 있습니다 -
 
-This is a list of students with active licenses.
+이 목록은 활성 라이선스를 가진 학생들입니다.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131939.png" alt=""><figcaption><p>List of allocated students</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131939.png" alt=""><figcaption><p>할당된 학생 목록</p></figcaption></figure>
 
 
 
-### <mark style="background-color:blue;">Viewing de-allocated students -</mark>
+### <mark style="background-color:blue;">할당 해제된 학생 보기 -</mark>
 
-Once you click on view, you can see the de-allocated students like so -
+'보기'를 클릭하면 할당 해제된 학생들을 다음과 같이 볼 수 있습니다 -
 
-This is a list of students with inactive licenses.
+이 목록은 비활성 라이선스를 가진 학생들입니다.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131954.png" alt=""><figcaption><p>List of de-allocated students</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 131954.png" alt=""><figcaption><p>할당 해제된 학생 목록</p></figcaption></figure>
