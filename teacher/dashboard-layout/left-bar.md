@@ -4,11 +4,13 @@
 
 ### <mark style="background-color:red;">1. Home</mark>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-11 104739.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-10-04 104700.png" alt=""><figcaption></figcaption></figure>
 
 Home Page gives you an overview of all the major features that are available for you as a Teacher/Professor.
 
-**Class Creation Tools -** **Global Citizensip Assignments Class with RealBoard:** can be used to assign various tasks and assignments to students.&#x20;
+**Class Creation Tools -** **Global Citizensip Assignments Class with RealBoard:** can be used to assign various tasks and assignments to students. \
+For in-depth information on how to create a class with RealBoard, check out this section - \
+
 
 **School/University Management and Data** - allows you to check the number of Students and their status. Number of Teachers/Professors and their status can also be checked. School/University game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
 
