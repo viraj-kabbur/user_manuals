@@ -1,10 +1,10 @@
-# My Joined Classes
+# 내가 참여한 수업
 
-Shows the list of classes joined by you. In order to join a class, a Teacher/Professor has to be invited by the creator of the other class. A Teacher/Professor cannot directly join any class, they have to be invited to join.
+당신이 참여한 수업 목록을 보여줍니다. 수업에 참여하려면, 다른 수업의 생성자로부터 초대를 받아야 합니다. 교사/교수는 직접 수업에 참여할 수 없으며, 반드시 초대를 받아야 합니다.
 
-Two options are present -&#x20;
+두 가지 옵션이 있습니다 -&#x20;
 
-* View classes you have joined having Assignments + Lesson Plan
-* View classes you have joined which are having just the Global Citizenship Assignments without any Lesson Plans.
+* 과제 + 수업 계획이 있는 참여한 수업 보기
+* 수업 계획 없이 글로벌 시민 과제만 있는 참여한 수업 보기
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 124418.png" alt=""><figcaption></figcaption></figure>
