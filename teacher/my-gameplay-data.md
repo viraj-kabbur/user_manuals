@@ -1,14 +1,14 @@
-# My Gameplay Data
+# 내 게임 데이터
 
-Comprehensive data about the lives you have played. Data is filtered in the following parameters and can be viewed by accessing the specific tab.
+당신이 플레이한 삶에 대한 종합적인 데이터입니다. 데이터는 다음과 같은 매개변수로 필터링되며, 특정 탭에 접속하여 확인할 수 있습니다.
 
-For example, if you played a life and were born in Indonesia. Eventually as you played along, you made different decisions because of different situations. Those decisions and the data associated with it will be visible in these sections. Let's say in a game, as a healthy male you were asked to donate blood and you did, then that will be shown in the Blood Donation section. Even if you donate blood in multiple lives, it will be shown with respect to the person you played as.
+예를 들어, 당신이 인도네시아에서 태어난 삶을 플레이했다고 가정해 봅시다. 게임을 진행하면서 다양한 상황에 따라 여러 결정을 내리게 되었습니다. 그러한 결정과 관련된 데이터는 각 섹션에서 확인할 수 있습니다. 예를 들어, 게임에서 건강한 남성으로서 혈액을 기증하라는 요청을 받고 이를 수행했다면, 그 정보는 혈액 기증 섹션에 표시됩니다. 여러 삶에서 혈액을 기증했더라도, 각각의 플레이한 인물에 따라 기록이 표시됩니다.
 
-* Religions I was born in
-* Sustainable development goals Comments
-* Sustainable development goals Data
-* Obituary
-* Letters to Characters
-* Blood Donation
-* Organ Donation
-* Feedback and Bug report
+* 내가 태어난 종교
+* 지속 가능한 개발 목표(SDG) 댓글
+* 지속 가능한 개발 목표(SDG) 데이터
+* 부고
+* 캐릭터에게 보낸 편지
+* 혈액 기증
+* 장기 기증
+* 피드백 및 버그 보고
