@@ -1,67 +1,66 @@
 ---
 description: >-
-  This page describes about the various features and functionalities of the
-  Assignments available in the game.
+  이 페이지는 게임 내에서 제공되는 글로벌 시민 과제가 포함된 수업의 다양한 기능과 특징에 대해 설명합니다.
 ---
 
-# Class with Global Citizenship Assignment
+# 글로벌 시민 과제가 포함된 수업
 
-### <mark style="background-color:blue;">What are Classes with Global Citizenship Assignment?</mark>
+### <mark style="background-color:blue;">글로벌 시민 과제가 포함된 수업이란 무엇인가요?</mark>
 
-A class with a global citizenship assignment that encompasses 14 subjects such as diseases, human geography, economics, and more is likely designed to provide students with a comprehensive understanding of the interconnectedness of various global issues and the role of individuals as global citizens.
+질병, 인간 지리, 경제 등 14개의 과목을 포함하는 글로벌 시민 과제가 포함된 수업은 학생들에게 다양한 글로벌 문제들의 상호 연결성과 개인이 글로벌 시민으로서의 역할을 이해할 수 있도록 설계되었습니다.
 
-Also, there are more than 240 parameters with respect to the 14 subjects.
-
-
-
-### <mark style="background-color:blue;">How to access?</mark>
-
-Class with Global Citizenship Assignment can be accessed by scrolling on the left part of the dashboard and finding a tab named the same. Once you have clicked on the button saying Class with Global Citizenship Assignment, you will get two options.
-
-1. Create Class - allows you to create classes.
-2. List of Classes - shows you the list of classes that already exist.
+또한, 14개 과목과 관련된 240개 이상의 매개변수가 있습니다.
 
 
 
-### <mark style="background-color:blue;">Create Class -</mark>
+### <mark style="background-color:blue;">접근 방법</mark>
 
-Once you click on create class, a page like the following will open up
+글로벌 시민 과제가 포함된 수업은 대시보드의 왼쪽에서 해당 탭을 찾아 클릭하여 접근할 수 있습니다. 글로벌 시민 과제가 포함된 수업 버튼을 클릭하면 두 가지 옵션이 나타납니다.
 
-### **Step 1 - Choose a Subject**
+1. 수업 만들기 - 수업을 만들 수 있습니다.
+2. 수업 목록 - 기존에 만들어진 수업 목록을 보여줍니다.
 
-We have been given 14 Subjects to choose from. These subjects contain various assignments. The Teacher/Professor can choose any one subject and then go ahead and choose an assignment. Let's say for this example we chose Human Geography.
+
+
+### <mark style="background-color:blue;">수업 만들기 -</mark>
+
+수업 만들기를 클릭하면 다음과 같은 페이지가 열립니다.
+
+### **1단계 - 과목 선택하기**
+
+14개의 과목이 주어집니다. 이 과목들은 다양한 과제를 포함하고 있습니다. 교사/교수는 한 가지 과목을 선택한 다음 과제를 선택할 수 있습니다. 예를 들어, 이번에는 인간 지리를 선택했다고 가정해 봅시다.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-### Step 2 - Choose an assignment
+### 2단계 - 과제 선택하기
 
-These are the various assignments in the subject of Human Geography. The Teacher/Professor can choose any one. Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the Teacher/Professor has to press the + button located on the right side.
+이것은 인간 지리 과목의 다양한 과제들입니다. 교사/교수는 원하는 과제를 하나 선택할 수 있습니다. 예를 들어, <mark style="background-color:red;">가장 인구가 적은 나라에서 태어나기</mark>를 선택한다고 가정합니다(위에서 첫 번째). 이 과제를 할당하려면 교사/교수가 오른쪽에 있는 + 버튼을 눌러야 합니다.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Once clicked a page like the following will open up -
+버튼을 클릭하면 다음과 같은 페이지가 열립니다 -
 
 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 122522.png" alt=""><figcaption></figcaption></figure>
 
-Functionalities of a class -
+수업의 기능 -
 
-* Class Name - helps in ordering different classes and identifying them easily.
-* End Date - gives a deadline to students to complete the assignment.
-* Age Group - specifies which students to be assigned based on their age.
-* Class Description - can be used to give a brief understanding of what is to be done by the students.
-* Only allocated students can be assigned, also the Teacher/Professor can choose which students are to be added to the class. As seen in the example Linda and John are added but Student 1 hasn't been added to the class.
-* Similarly, Teachers/Professors can also be added to the class. In the page attached below, out of all Teachers/Professors, only Serena Matthews has been added.
+* 수업 이름 - 다양한 수업을 정리하고 쉽게 식별할 수 있습니다.
+* 종료일 - 학생들이 과제를 완료해야 하는 마감일을 지정합니다.
+* 연령 그룹 - 나이에 따라 학생들을 할당할 수 있습니다.
+* 수업 설명 - 학생들이 해야 할 과제에 대한 간단한 이해를 제공할 수 있습니다.
+* 할당된 학생만이 과제를 할당받을 수 있으며, 교사/교수는 어떤 학생들을 수업에 추가할지 선택할 수 있습니다. 예시에서 볼 수 있듯이 린다(Linda)와 존(John)이 추가되었지만, 학생 1(Student 1)은 수업에 추가되지 않았습니다.
+* 마찬가지로 교사/교수도 수업에 추가할 수 있습니다. 아래 페이지에서 볼 수 있듯이 모든 교사/교수 중에서 세레나 매튜스(Serena Matthews)만 추가되었습니다.
 
-Once done with everything, the Teacher/Professor can click the button which says Create a Class (upon scrolling down) and thus a class will be created.
+모든 작업을 완료한 후, 교사/교수는 아래로 스크롤하여 "수업 만들기(Create a Class)" 버튼을 클릭하면 수업이 생성됩니다.
 
 
 
-### <mark style="background-color:blue;">Viewing Classes</mark>
+### <mark style="background-color:blue;">수업 보기</mark>
 
-After successfully creating a class, you can view the class by clicking on List of Classes under Class with Global Citizenship Assignment (left bar of the dashboard).&#x20;
+성공적으로 수업을 생성한 후, 대시보드 왼쪽의 글로벌 시민 과제가 포함된 수업 아래에 있는 수업 목록(List of Classes)을 클릭하여 수업을 볼 수 있습니다.&#x20;
 
-This is the preview of list of classes.
+다음은 수업 목록의 미리 보기입니다.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
