@@ -123,7 +123,7 @@ In the **Class Description** field, you can provide an overview of what the clas
 
 
 
-**Step 6: Add teacher/professors**
+**Step 6: Add teacher/professor**
 
 **Select teacher/professors:** You can also assign additional teachers/professors to the class.
 
