@@ -1,19 +1,16 @@
 ---
-description: An overview of the dashboard's layout and purpose.
+description: 대시보드의 레이아웃과 목적에 대한 개요입니다.
 ---
 
-# Dashboard Layout
+# 대시보드 레이아웃
 
-This is how the dashboard looks like once you login and start the game. The Dashboard can be further divided into two parts for easy understanding.
+로그인하고 게임을 시작하면 대시보드는 이렇게 보입니다. 대시보드는 이해를 돕기 위해 두 부분으로 나눌 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-10-04 104700.png" alt=""><figcaption></figcaption></figure>
 
-We have divided the dashboard into two parts for easy understanding&#x20;
+우리는 대시보드를 두 부분으로 나누어 설명합니다&#x20;
 
-
-
-1. <mark style="background-color:blue;">**Top Bar**</mark> - Highlighted by blue, mainly focuses on informative content which is personal to the user. Example would be changing your name or password or checking notifications.
-2. <mark style="background-color:red;">**Left Bar**</mark> - Highlighted by red, used for administrative purposes. Example would be importing students or creating classes with lesson plans.
+1. <mark style="background-color:blue;">**상단 바(Top Bar)**</mark> - 파란색으로 강조된 부분은 주로 사용자의 개인 정보와 관련된 정보 제공을 중점으로 합니다. 예를 들어, 이름이나 비밀번호를 변경하거나 알림을 확인하는 기능이 있습니다.
+2. <mark style="background-color:red;">**왼쪽 바(Left Bar)**</mark> - 빨간색으로 강조된 부분은 관리 목적에 사용됩니다. 예를 들어, 학생을 가져오거나 수업 계획을 통해 수업을 생성하는 기능이 있습니다.
 
 <figure><img src="../../.gitbook/assets/Untitled design(7).png" alt=""><figcaption></figcaption></figure>
-
