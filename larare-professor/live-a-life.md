@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/homeimage21 (1).jpg
 coverY: 79.66814159292035
 ---
 
-# Lev ett Liv
+# Leva ett liv
 
 RealLives är en spelifierad simulation som tar hem utmaningen att leva ett liv i alla dess prakt och komplexiteter. I simuleringen kommer du att pröva ditt mod mot de många oförutsägbara livsvillkor som uppstår under en livstid – från födsel till död.
 
@@ -11,7 +11,7 @@ Och i RealLives kan du spela miljarder sådana liv, i olika kulturer och natione
 
 Som lärare kan du spela spelet och födas i vilket liv du vill, genom att helt enkelt klicka på knappen "Lev ett Liv". Spela demospel nedan.
 
-{% @arcade/embed flowId="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
+{% embed url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
 
 {% embed url="https://reallivesworld.com/website/academic/" %}
 Gå till Webbplats

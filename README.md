@@ -13,7 +13,7 @@ Och i RealLives kan du spela miljarder sådana liv, i olika kulturer och natione
 
 Som skoladministratör kan du spela spelet och födas i vilket liv du vill genom att helt enkelt klicka på knappen "Live a Life". Spela demo-spelet nedan.
 
-{% @arcade/embed flowid="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
+{% embed url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
 
 {% embed url="https://reallivesworld.com/website/academic/" %}
 Gå till webbplatsen
