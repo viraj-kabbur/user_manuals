@@ -4,7 +4,7 @@ Denna sektion förklarar hur lärare/professorer kan skapa en klass integrerad m
 
 Om du är obekant med RealBoard, gå vidare till RealBoard-manualen -&#x20;
 
-{% embed url="https://realboardmanual.reallivesworld.com/teacher-en" %}
+{% embed url="https://realboardmanual.reallivesworld.com/teacher-sv" %}
 
 ## 1. Skapa en global medborgarskapsklass med RealBoard
 
