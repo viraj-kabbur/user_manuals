@@ -8,7 +8,7 @@ Om du är obekant med RealBoard, gå vidare till RealBoard-manualen -&#x20;
 
 ## 1. Skapa en global medborgarskapsklass med RealBoard
 
-![Screenshot 2024-10-04 104700](../.gitbook/assets/Screenshot 2024-10-04 104700.png)
+<figure><img src="../.gitbook/assets/Screenshot 2024-10-04 104700.png" alt=""><figcaption></figcaption></figure>
 
 ### - Navigera till 'Verktyg för klasskapande'
 
