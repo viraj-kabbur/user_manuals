@@ -1,6 +1,6 @@
-# Create a class with RealBoard
+# Create a Class with RealBoard
 
-This section explains how teachers can create a class integrated with RealBoard, allowing students to engage with RealLives and share their reflections and learning experiences in a private, school-only social network.
+This section explains how teachers/professors can create a class integrated with RealBoard, allowing students to engage with RealLives and share their reflections and learning experiences in a private, school-only social network.
 
 If you are unfamiliar with RealBoard, head on to the RealBoard Manual -&#x20;
 
@@ -18,7 +18,7 @@ If you are unfamiliar with RealBoard, head on to the RealBoard Manual -&#x20;
 ### **- Click on 'Creating a Global Citizenship Class with RealBoard'**
 
 * The prominent box titled **"Creating a Global Citizenship Class with RealBoard"** allows you to start the process of creating a new class focused on Global Citizenship.
-* **Total Classes:** Next to this title, teachers will also see a counter indicating how many classes are currently active (e.g., "Total Classes: 21").\
+* **Total Classes:** Next to this title, teacher/professor will also see a counter indicating how many classes are currently active (e.g., "Total Classes: 21").\
 
 
 ## **2. Selecting Class Types in RealLives**
@@ -68,7 +68,7 @@ Each class board comes with predefined sections that students will interact with
 
 ## **4. Creating a Class in RealBoard :-**&#x20;
 
-After choosing the class type and editing the board, this final page allows you to configure key details like the class name, description, students, teachers, and assignment dates.
+After choosing the class type and editing the board, this final page allows you to configure key details like the class name, description, students, teachers/professors, and assignment dates.
 
 <div>
 
@@ -123,21 +123,21 @@ In the **Class Description** field, you can provide an overview of what the clas
 
 
 
-**Step 6: Add Teachers**
+**Step 6: Add teacher/professor**
 
-**Select teachers:** You can also assign additional teachers to the class.
+**Select teacher/professors:** You can also assign additional teachers/professors to the class.
 
-* Scroll through or search for teachers under **Selectable**. Click on the names of the teachers who should be involved in this class.
-* The selected teachers will appear in the right-hand **Selected** column.
-* **Example:** Atharva Teacher, John Williams, Linda Jones, etc.
+* Scroll through or search for teachers/professors under **Selectable**. Click on the names of the teachers/professors who should be involved in this class.
+* The selected teacher/professor will appear in the right-hand **Selected** column.
+* **Example:** Atharva teacher, John Williams, Linda Jones, etc.
 
 
 
 **Step 7: Finalize Class Creation**
 
-Once you've added students, teachers, and finalized other details, click the **Create a Class** button at the bottom of the screen.
+Once you've added students, teachers/professors, and finalized other details, click the **Create a Class** button at the bottom of the screen.
 
-* This will create the class and automatically notify all selected students and teachers.
+* This will create the class and automatically notify all selected students and teachers/professors.
 * They can then log into RealBoard to access the class and complete their assignments.
 
 
@@ -171,11 +171,11 @@ Once a class is created, students who have been added to the class will automati
 * This notification informs them that they have been added to a new class (e.g., **Class 9A - Random Country**).
 * Students can click the notification to view the class and begin playing their assigned life simulation.
 
-### **- Accessing the Class Board for Teachers**
+### **- Accessing the Class Board for teacher/professors**
 
 <figure><img src="../.gitbook/assets/Untitled design(15).png" alt=""><figcaption></figcaption></figure>
 
-Teachers can easily access the board they’ve created by clicking the **RealBoard** button on the left sidebar of the dashboard.
+teachers/professors can easily access the board they’ve created by clicking the **RealBoard** button on the left sidebar of the dashboard.
 
 * From there, they can view and manage the board, interact with students' posts, provide feedback, and monitor the progress of assignments.
 
@@ -192,17 +192,17 @@ Note - Random Life was discussed above.
 
 <figure><img src="../.gitbook/assets/Untitled design(12).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** Teachers can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
+* **Description:** teachers/professors can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
 * **Purpose:** Ideal for lessons that require detailed exploration of a particular region.
 * **Action:** Click the **Create** button to begin setting up your Specific Country class.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-04 172413.png" alt=""><figcaption></figcaption></figure>
 
-In the **Specific Country** class, teachers can select a specific country where all students will be born. This allows for focused exploration of that country’s culture, economy, and societal issues.
+In the **Specific Country** class, teachers/professors can select a specific country where all students will be born. This allows for focused exploration of that country’s culture, economy, and societal issues.
 
 * **Choosing a Country:** After selecting **Specific Country** as the class type, use the dropdown menu to select the country for your students to be born in.
 
-Apart from selecting a country, the rest of the class creation flow remains the same as the **Random Life** process. Please refer to the **Random Life** flow above for detailed steps on setting up class details, editing board sections, and adding students and teachers.
+Apart from selecting a country, the rest of the class creation flow remains the same as the **Random Life** process. Please refer to the **Random Life** flow above for detailed steps on setting up class details, editing board sections, and adding students and teachers/professors.
 
 
 
@@ -217,13 +217,13 @@ Apart from selecting a country, the rest of the class creation flow remains the 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-04 174720.png" alt=""><figcaption></figcaption></figure>
 
-In the **Life with SDG** class, the teacher selects one of the 17 Sustainable Development Goals (SDGs) to guide the focus of the class. After choosing a goal (e.g., **Climate Action**, **No Poverty**), students can:
+In the **Life with SDG** class, the teacher/professor selects one of the 17 Sustainable Development Goals (SDGs) to guide the focus of the class. After choosing a goal (e.g., **Climate Action**, **No Poverty**), students can:
 
 * Select any country to live in.
 * Explore how the chosen SDG affects life in different regions.
 * Engage with global challenges in a structured yet flexible way.
 
-Once the teacher sets the main SDG, students can further customize their experience by:
+Once the teacher/professor sets the main SDG, students can further customize their experience by:
 
 * Choosing specific subgoals related to the main SDG (e.g., access to healthcare under **Good Health and Well-Being**).
 * Understanding how these challenges play out in various countries.
@@ -238,7 +238,7 @@ This class type combines real-world global issues with student freedom, allowing
 
 <figure><img src="../.gitbook/assets/Untitled design(13) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. Teachers can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
+* **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. teachers/professors can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
 * **Purpose:** Best for highly customizable learning experiences focused on specific curriculum requirements.
 * **Action:** Click the **Create** button to begin setting up your Assignment class.
 
@@ -254,8 +254,8 @@ This class type combines real-world global issues with student freedom, allowing
 
 For the **Assignments** class type, the process is as follows:
 
-* **Step 1: Choosing a Subject:** The teacher starts by selecting a subject from the available categories (e.g., **Human Geography**, **Economics**, **Environment & Ecology**). This subject will form the basis of the assignment and guide the learning focus.
-* **Step 2: Selecting an Assignment:** After selecting a subject, the teacher will choose a specific assignment from a list. These assignments are linked to particular countries based on the chosen subject (e.g., “Be born in a country with the largest population” or “Be born in a country with the lowest girl education”).
+* **Step 1: Choosing a Subject:** The teacher/professor starts by selecting a subject from the available categories (e.g., **Human Geography**, **Economics**, **Environment & Ecology**). This subject will form the basis of the assignment and guide the learning focus.
+* **Step 2: Selecting an Assignment:** After selecting a subject, the teacher/professor will choose a specific assignment from a list. These assignments are linked to particular countries based on the chosen subject (e.g., “Be born in a country with the largest population” or “Be born in a country with the lowest girl education”).
 * **Step 3: Students' Experience:** Once the assignment is set, students will experience life in the country linked to the selected assignment, enabling them to explore the challenges and dynamics specific to that country.
 
-This approach allows teachers to align assignments with learning objectives while offering students a focused, country-specific simulation. Rest of the class creation flow remains the same.
+This approach allows teacher/professors to align assignments with learning objectives while offering students a focused, country-specific simulation. Rest of the class creation flow remains the same.
