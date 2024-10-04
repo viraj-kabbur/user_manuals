@@ -1,99 +1,98 @@
 ---
 description: >-
-  This page describes about the various features and functionalities of the
-  Assignments available in the game.
+  이 페이지는 게임 내에서 제공되는 과제의 다양한 기능과 특징에 대해 설명합니다.
 ---
 
-# Class with Assignment + Lesson Plan
+# 과제 + 수업 계획이 포함된 수업
 
-### <mark style="background-color:blue;">What are Classes with Global Citizenship Assignment?</mark>
+### <mark style="background-color:blue;">글로벌 시민 과제가 포함된 수업이란 무엇인가요?</mark>
 
-A class with a global citizenship assignment that encompasses 14 subjects such as diseases, human geography, economics, and more is likely designed to provide students with a comprehensive understanding of the interconnectedness of various global issues and the role of individuals as global citizens.
+질병, 인간 지리, 경제 등 14개의 과목을 포함하는 글로벌 시민 과제가 포함된 수업은 학생들이 다양한 글로벌 문제들의 상호 연결성을 이해하고 개인이 글로벌 시민으로서의 역할을 이해할 수 있도록 설계되었습니다.
 
-Overall, a class with such a diverse range of subjects aims to equip students with the knowledge, skills, and perspectives necessary to understand and address complex global challenges as informed and engaged citizens of the world.
+이러한 다양한 과목이 포함된 수업은 학생들에게 복잡한 글로벌 도전을 이해하고 해결할 수 있는 지식, 기술 및 관점을 제공하는 것을 목표로 합니다.
 
-Also, there are more than 240 parameters with respect to the 14 subjects.
+또한, 14개 과목과 관련된 240개 이상의 매개변수가 있습니다.
 
-### <mark style="background-color:blue;">Lesson Plan -</mark>&#x20;
+### <mark style="background-color:blue;">수업 계획 -</mark>&#x20;
 
-**Lesson Plan is an additional feature which works on top of the classes.**
+**수업 계획은 수업 위에 추가적으로 작동하는 기능입니다.**
 
-A lesson plan is a detailed outline or guide designed by educators to structure and organize a teaching session or class period. It typically includes objectives, instructional materials, activities, assessments, and timelines, aiming to facilitate effective teaching and learning. Lesson plans serve as roadmaps for Teacher/Professors, helping them to deliver content in a structured and coherent manner while catering to the needs and abilities of their students.
-
-
-
-### <mark style="background-color:blue;">How to access?</mark>
-
-Class with Global Citizenship Assignment can be accessed by scrolling on the left bar of the dashboard and finding a tab named the same. Once you have clicked on the button saying Class with Global Citizenship Assignment, you will get these options.
-
-1. Create Class - allows you to create classes.
-2. List of Classes - shows you the list of classes that already exist (made by the Teacher/Professor)
-3. My Assignment + Lesson Plan Repository - Lesson Plans created by you will be shown here.
-4. My Assignment + Lesson Plan Repository (School/University) - Lesson Plans created by other Teachers/Professors will be shown here.
+수업 계획은 교육자들이 수업 시간 또는 수업 기간을 구조화하고 조직하는 데 도움을 주는 자세한 개요 또는 가이드입니다. 일반적으로 목표, 교육 자료, 활동, 평가 및 일정이 포함되어 있으며, 효과적인 교수 및 학습을 촉진하는 것을 목표로 합니다. 수업 계획은 교사/교수에게 체계적이고 일관된 방식으로 콘텐츠를 전달하고 학생들의 필요와 능력에 맞추어 교육하는 데 도움을 주는 로드맵 역할을 합니다.
 
 
 
-### <mark style="background-color:blue;">Create Class -</mark>&#x20;
+### <mark style="background-color:blue;">접근 방법</mark>
 
-### **Step 1 - Choose a Subject**
+글로벌 시민 과제가 포함된 수업은 대시보드 왼쪽 바에서 해당 탭을 찾아 클릭하면 접근할 수 있습니다. 글로벌 시민 과제가 포함된 수업 버튼을 클릭하면 다음과 같은 옵션이 나타납니다.
 
-Let's say we chose Human Geography. After choosing Human Geography we get the parameters which are included in it. These parameters can also be called as assignments. The Teacher/Professor can choose any 1 assignment they want to assign to the students. Human Geography has 26 assignments to choose from.
+1. 수업 만들기 - 수업을 만들 수 있습니다.
+2. 수업 목록 - 기존에 만들어진 수업 목록을 보여줍니다 (교사/교수가 만든 수업).
+3. 내 과제 + 수업 계획 저장소 - 내가 만든 수업 계획이 여기 표시됩니다.
+4. 내 과제 + 수업 계획 저장소 (학교/대학) - 다른 교사/교수가 만든 수업 계획이 여기 표시됩니다.
+
+
+
+### <mark style="background-color:blue;">수업 만들기 -</mark>&#x20;
+
+### **1단계 - 과목 선택하기**
+
+예를 들어 인간 지리를 선택한다고 가정합시다. 인간 지리를 선택하면 포함된 매개변수가 나타납니다. 이 매개변수는 과제라고도 할 수 있습니다. 교사/교수는 학생들에게 할당할 1개의 과제를 선택할 수 있습니다. 인간 지리에는 선택할 수 있는 26개의 과제가 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 112905 (1).png" alt=""><figcaption></figcaption></figure>
 
-### Step 2 - Choose an assignment
+### 2단계 - 과제 선택하기
 
-Suppose we chose <mark style="background-color:red;">Be born in a country with the smallest population</mark> (number 1 from top) In order to assign this assignment the Teacher/Professor has to press the + button located on the right side.
+예를 들어 <mark style="background-color:red;">가장 인구가 적은 나라에서 태어나기</mark>를 선택한다고 가정합시다(위에서 첫 번째). 이 과제를 할당하려면 교사/교수가 오른쪽에 있는 + 버튼을 눌러야 합니다.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Once clicked a page like the following will open up -
+버튼을 클릭하면 다음과 같은 페이지가 열립니다 -
 
-* Lesson name can be given
-* Images can be added for reference
-* Youtube video links can be added for reference
-* Overview and Objectives can be mentioned for the students to let them know what is expected from them
-* Procedures and Way of Assessment can be mentioned
+* 수업 이름을 입력할 수 있습니다.
+* 참고용 이미지를 추가할 수 있습니다.
+* 참고용 유튜브 비디오 링크를 추가할 수 있습니다.
+* 학생들에게 기대되는 내용이 무엇인지 알려주기 위해 개요와 목표를 기재할 수 있습니다.
+* 절차 및 평가 방법을 기재할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 113808.png" alt=""><figcaption></figcaption></figure>
 
-* You can save these Lesson Plans and create a class later or Save them and create a class immediately.
+* 이 수업 계획을 저장하고 나중에 수업을 만들거나 즉시 수업을 만들 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 113816.png" alt=""><figcaption></figcaption></figure>
 
-Done, that is how you can create a class with a lesson plan.
+이렇게 해서 수업 계획을 포함한 수업을 만들 수 있습니다.
 
 
 
 
 
-### <mark style="background-color:blue;">List of Classes -</mark>&#x20;
+### <mark style="background-color:blue;">수업 목록 -</mark>&#x20;
 
-After successfully creating a class, you can view the class by clicking on List of Classes under Class with Global Citizenship Assignment (left bar of the dashboard).&#x20;
+성공적으로 수업을 만든 후, 글로벌 시민 과제가 포함된 수업 아래에 있는 수업 목록(List of Classes)을 클릭하여 수업을 확인할 수 있습니다.&#x20;
 
-This is the preview of list of classes.
+다음은 수업 목록의 미리 보기입니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 115225.png" alt=""><figcaption></figcaption></figure>
 
 
 
-### <mark style="background-color:blue;">My Assignment + Lesson Plan Repository -</mark>
+### <mark style="background-color:blue;">내 과제 + 수업 계획 저장소 -</mark>
 
-This Repository shows the list of lesson plans created by you as the Teacher/Professor. If at any time the Teacher/Professor does not wish to create a class (adding students to an assignment) but wants to create a lesson plan and save it, so that in future with the help of that lesson plan they can create a class, they can do so by clicking on _'Save and create class later'_ while creating the class (mentioned above)
+이 저장소는 교사/교수로서 내가 만든 수업 계획 목록을 보여줍니다. 교사/교수가 수업을 만들고 싶지 않고(학생들에게 과제를 추가하는 것) 수업 계획만 만들고 저장한 후, 나중에 이 수업 계획을 사용해 수업을 만들고자 할 때 이 옵션을 사용할 수 있습니다. 수업을 만들 때 **'저장하고 나중에 수업 만들기(Save and create class later)'**를 클릭하여 저장할 수 있습니다.
 
-* Then whenever the need arises to use that lesson plan and create a class, they can come to this repository and click on create a class.&#x20;
-* Teacher/Professor can also View/Edit the lesson plan they had created by clicking on the yellow button.
+* 나중에 수업 계획을 사용하여 수업을 만들고자 할 때, 이 저장소에 가서 수업 만들기(Create a Class)를 클릭할 수 있습니다.
+* 교사/교수는 또한 노란색 버튼을 클릭하여 자신이 만든 수업 계획을 조회/수정할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 115925.png" alt=""><figcaption></figcaption></figure>
 
 ###
 
-### <mark style="background-color:blue;">My Assignment + Lesson Plan Repository (School/University) -</mark>
+### <mark style="background-color:blue;">내 과제 + 수업 계획 저장소 (학교/대학) -</mark>
 
-Shows the list of lesson plans created by other Teachers/Professors. Note that you as a Teacher/Professor can make changes to these lesson plans similar to how you made changes to your own lesson plans.
+이 저장소는 다른 교사/교수가 만든 수업 계획 목록을 보여줍니다. 교사/교수는 이러한 수업 계획을 자신의 것처럼 수정할 수 있습니다.
 
-* The lesson plans created by other Teachers/Professors can be used by you to create classes.&#x20;
-* You can make changes to the lesson plans, even if you do not wish to create classes with the help of them.
-* This Repository allows Teachers/Professors to collaborate and help each other out.&#x20;
+* 다른 교사/교수가 만든 수업 계획을 사용하여 수업을 만들 수 있습니다.&#x20;
+* 수업을 만들지 않더라도 수업 계획을 수정할 수 있습니다.
+* 이 저장소는 교사/교수들이 서로 협력하고 서로 도울 수 있도록 합니다.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 120107.png" alt=""><figcaption></figcaption></figure>
