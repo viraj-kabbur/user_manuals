@@ -10,10 +10,10 @@
 
 ### 홈 페이지는 학교/대학 관리자로서 사용할 수 있는 주요 기능에 대한 개요를 제공합니다.
 
-1. **수업 생성 도구 -** **RealBoard를 통한 글로벌 시민 과제 클래스:** 학생들에게 다양한 과제와 임무를 부여할 수 있습니다. RealBoard로 수업을 생성하는 방법에 대한 자세한 정보는 이 섹션을 참조하세요 -&#x20;
+1. **수업 생성 도구 -** **RealBoard를 통한 글로벌 시민 과제 클래스:** 학생들에게 다양한 과제와 임무를 부여할 수 있습니다. RealBoard로 수업을 생성하는 방법에 대한 자세한 정보는 이 섹션을 참조하세요 -
 
-{% content-ref url="../create-a-class-with-realboard.md" %}
-[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
+{% content-ref url="../../undefined-1/create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../../undefined-1/create-a-class-with-realboard.md)
 {% endcontent-ref %}
 
 2. **학교/대학 관리 및 데이터 -** 학생 수와 상태를 확인할 수 있습니다. 교사/교수의 수와 상태도 확인할 수 있습니다. 학교/대학 게임 데이터는 생성한 모든 수업에 대한 통계와 데이터를 포괄적으로 보여줍니다. 개인 게임 데이터는 사용자가 직접 참여한 게임에 대한 통계와 정보를 포함합니다.
