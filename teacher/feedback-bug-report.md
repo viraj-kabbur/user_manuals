@@ -1,5 +1,5 @@
-# Feedback / Bug Report
+# 피드백 / 버그 신고
 
-If a user is finding any problems or difficulties, they can let us know by going to the Feedback section in the left bar and describing what is the problem that they are facing. For easier understanding of the problem please attach a screenshot. We will try our best to resolve any problem and respond to any feedback.
+사용자가 문제나 어려움을 겪고 있다면, 왼쪽 바에 있는 피드백 섹션으로 이동하여 겪고 있는 문제를 설명할 수 있습니다. 문제를 더 쉽게 이해하기 위해 스크린샷을 첨부해 주시면 감사하겠습니다. 우리는 모든 문제를 해결하고 피드백에 응답하기 위해 최선을 다할 것입니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 132257.png" alt=""><figcaption></figcaption></figure>
