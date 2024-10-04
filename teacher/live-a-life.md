@@ -3,44 +3,42 @@ cover: ../.gitbook/assets/homeimage21 (1).jpg
 coverY: 79.66814159292035
 ---
 
-# Live a Life
+# 인생을 살아보기
 
-RealLives is a gamified simulation that brings home the challenge of life in its many splendors and complexities. In the simulation, you will test your mettle against the many unpredictable life conditions that occur in the course of a lifetime – from birth to death.
+RealLives는 삶의 다채로움과 복잡함 속에서 인생의 도전을 게임화한 시뮬레이션입니다. 이 시뮬레이션에서 여러분은 태어남부터 죽음까지, 인생에서 발생하는 수많은 예측 불가능한 조건들에 맞서며 자신의 능력을 시험하게 됩니다.
 
-And in RealLives, you can play billions of such lives, in different cultures and nations on earth - without ever repeating any lifetime!
+RealLives에서는 지구상의 다양한 문화와 국가에서 수십억 번의 삶을 살 수 있으며, 결코 같은 인생을 반복하지 않습니다!
 
-As a Teacher/Professor you can play the game and be born in any life you wish to, by simply clicking on the 'Live a Life' button. Play demo game below.
+교사/교수로서 '인생을 살아보기(Live a Life)' 버튼을 클릭하여 원하는 인생을 선택해 게임을 시작할 수 있습니다. 아래에서 데모 게임을 플레이해보세요.
 
 {% @arcade/embed flowId="EkCEv2nN5BHVG7qWnw80" url="https://app.arcade.software/share/EkCEv2nN5BHVG7qWnw80" %}
 
 {% embed url="https://reallivesworld.com/website/academic/" %}
-Go to Website
+웹사이트로 이동
 {% endembed %}
 
-Once clicked, you will be asked to choose a language, currently you can play RealLives in English and Korean with support for multiple languages coming soon.
+클릭하면 언어를 선택하라는 메시지가 표시됩니다. 현재 RealLives는 영어와 한국어로 플레이할 수 있으며, 곧 여러 언어에 대한 지원이 추가될 예정입니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 132854.png" alt=""><figcaption></figcaption></figure>
 
-We are extremely thrilled to announce a groundbreaking update to your RealLives experience. Our collaboration with ChatGPT is not just about leveraging AI; it's about enriching your gaming experience, making each life lived in RealLives more meaningful, and providing insights that extend beyond the game
+우리는 RealLives 경험을 한층 더 발전시키는 획기적인 업데이트를 발표하게 되어 매우 기쁩니다. 이번 ChatGPT와의 협력은 단순히 AI를 활용하는 것뿐만 아니라, 여러분의 게임 경험을 풍부하게 만들고 RealLives에서 살아가는 각 삶을 더 의미 있게 만들어 줄 것입니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 132903.png" alt=""><figcaption></figcaption></figure>
 
-When you enter the simulation, you can choose your character attributes (such as country of birth, gender, etc) by clicking on the 'Design a New Life', or you can allow the simulation to randomly allocate the attributes (by directly clicking on 'Live a Life'). All the previous data of your previous lives can also be accessed here.
+시뮬레이션에 들어가면 '새로운 삶을 설계하기'를 클릭하여 캐릭터 속성(출생 국가, 성별 등)을 선택할 수 있으며, 또는 '인생을 살아보기'를 바로 클릭하여 시뮬레이션이 무작위로 속성을 할당하도록 할 수 있습니다. 이전에 살아본 인생의 모든 데이터도 여기에서 확인할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 132923.png" alt=""><figcaption></figcaption></figure>
 
-Explore the interface to learn the various attributes of your new life. You will see Personal characteristics (like Happiness, Intelligence, Strength, wisdom, etc), as well as information about your family, and the resources possessed by your family.
+새로운 삶의 다양한 속성을 탐색해 보세요. 여러분의 인생에서 행복, 지능, 힘, 지혜와 같은 개인적 특성과 가족에 대한 정보 및 가족이 소유한 자원 등을 확인할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-11 133915.png" alt=""><figcaption></figcaption></figure>
 
-When you click on the circular ‘Age a Year’ button, you will advance in age and be updated with the latest life events that happen to you or your family. You will also need to take decisions in some life problems. (These events and life problems are calculated on the basis of statistically accurate data of the country that you are born in)
+'나이 먹기(Age a Year)'라는 원형 버튼을 클릭하면 나이가 한 살씩 먹으며 자신 또는 가족에게 발생한 최신 인생 사건이 업데이트됩니다. 또한 특정 인생 문제에 대해 결정을 내려야 할 때도 있습니다. (이러한 사건과 인생 문제는 여러분이 태어난 국가의 통계적으로 정확한 데이터를 기반으로 계산됩니다.)
 
-All such events are automatically added to your Life Journal, which is a summary of your life experience. You are encouraged to write your responses to these various events, and this will be added to your Life-Journal.
+모든 이러한 사건은 자동으로 여러분의 인생 저널에 추가되며, 이는 여러분의 인생 경험의 요약본입니다. 이러한 다양한 사건에 대한 여러분의 반응을 작성하도록 권장되며, 이는 인생 저널에 추가됩니다.
 
-As you advance in age, you will be able to handle the 6 aspects of your life; Education, Career, Finance, Relationships, Residence, and Leisure - to create a satisfactory life experience for yourself.
+나이를 먹어가며 여러분은 인생의 6가지 측면(교육, 경력, 재정, 관계, 거주지, 여가)을 관리하면서 자신의 만족스러운 인생 경험을 만들 수 있습니다.
 
-At the end of your life in the game, you can take stock of your entire life. At this point RealLives provides several tools for reflecting on your experience.
-
-
+게임에서의 인생이 끝나면, 자신의 전체 인생을 되돌아볼 수 있습니다. 이때 RealLives는 여러분의 경험을 반추할 수 있는 여러 도구를 제공합니다.
 
 ***
