@@ -1,5 +1,5 @@
 ---
-description: Acts like an Index for all the Pages that are in this user manual.
+description: 이 사용자 매뉴얼에 있는 모든 페이지의 색인 역할을 합니다.
 cover: ../.gitbook/assets/Logo (7).svg
 coverY: 0
 layout:
@@ -18,15 +18,15 @@ layout:
     visible: true
 ---
 
-# Home Page
+# 홈 페이지
 
-In order to save time, you will find links of specific pages that you might want to go to.&#x20;
+시간을 절약하기 위해, 가고자 하는 특정 페이지의 링크를 찾을 수 있습니다.&#x20;
 
-There are questions mentioned above every link which are common, and you may have them in your mind. If you find the question that you had in your mind, just click on the link associated with it.
+각 링크 위에는 일반적으로 자주 묻는 질문이 있으며, 여러분이 궁금해할 수 있는 질문일 수 있습니다. 만약 질문이 여러분이 생각했던 것이라면, 해당 질문과 관련된 링크를 클릭하세요.
 
 
 
-Link below will take you to the understanding of the functionalities of the Dashboard and how they work. Recommended for first time users.
+아래 링크는 대시보드의 기능 이해와 그 작동 방식을 설명합니다. 처음 사용자에게 권장됩니다.
 
 {% content-ref url="dashboard-layout/" %}
 [dashboard-layout](dashboard-layout/)
@@ -36,11 +36,11 @@ Link below will take you to the understanding of the functionalities of the Dash
 
 
 
-Link below will help Teacher/Professor understand about Lesson Plans -
+아래 링크는 교사/교수가 수업 계획에 대해 이해하는 데 도움을 줍니다 -
 
-* What are Lesson Plans?
-* How do they work?
-* Lesson Plan Features
+* 수업 계획이란 무엇인가요?
+* 수업 계획은 어떻게 작동하나요?
+* 수업 계획 기능
 
 {% content-ref url="class-with-assignment-+-lesson-plan.md" %}
 [class-with-assignment-+-lesson-plan.md](class-with-assignment-+-lesson-plan.md)
@@ -50,18 +50,15 @@ Link below will help Teacher/Professor understand about Lesson Plans -
 
 
 
-Link below will help Teacher/Professor understand about classes -
+아래 링크는 교사/교수가 수업에 대해 이해하는 데 도움을 줍니다 -
 
-* What are classes?
-* How do they work?
-* How can you create them?
-* View classes
+* 수업이란 무엇인가요?
+* 수업은 어떻게 작동하나요?
+* 수업을 어떻게 생성할 수 있나요?
+* 수업 보기
 
 {% content-ref url="class-with-global-citizenship-assignment.md" %}
 [class-with-global-citizenship-assignment.md](class-with-global-citizenship-assignment.md)
 {% endcontent-ref %}
 
 ***
-
-
-
