@@ -1,145 +1,145 @@
-# Adding Students
+# 학생 추가
 
-## <mark style="background-color:blue;">Adding/Importing Students</mark>
+## <mark style="background-color:blue;">학생 추가/가져오기</mark>
 
-We have three ways to Import Students into the game -
+학생을 게임에 가져오는 방법은 세 가지가 있습니다 -
 
-1. Importing with the help of E-mail (Recommended)
-2. Importing without E-mail
-3. Adding Single Student
+1. 이메일을 사용하여 가져오기 (권장)
+2. 이메일 없이 가져오기
+3. 단일 학생 추가
 
-Let's see how each method works.
+각 방법이 어떻게 작동하는지 살펴보겠습니다.
 
-### <mark style="background-color:blue;">1. Importing Students with the help of E-mail</mark>
+### <mark style="background-color:blue;">1. 이메일을 사용하여 학생 가져오기</mark>
 
-**For Schools/Universities that use email for students, it is recommended to provide the student's email address. Should be used when multiple students have to be added.**
+**학생들에게 이메일을 사용하는 학교/대학에서는 학생의 이메일 주소를 제공하는 것이 권장됩니다. 여러 학생을 추가해야 할 때 사용해야 합니다.**
 
-* When assignments and classes are created, students will receive notifications via email.
-* Students imported using emails have their usernames set as the email which is provided here.
+* 과제와 수업이 생성되면, 학생들은 이메일을 통해 알림을 받습니다.
+* 이메일을 사용하여 가져온 학생들의 사용자 이름은 여기에 제공된 이메일로 설정됩니다.
 
-Once you choose this option the following page will open up.
+이 옵션을 선택하면 다음 페이지가 열립니다.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105859.png" alt=""><figcaption><p>Import Students by E-mail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105859.png" alt=""><figcaption><p>이메일로 학생 가져오기</p></figcaption></figure>
 
-### Step 1 -
+### 1단계 -
 
-First click on the red button which will download a sample excel sheet like this -
+먼저 빨간색 버튼을 클릭하면 다음과 같은 샘플 엑셀 시트가 다운로드됩니다 -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>샘플 엑셀 시트</p></figcaption></figure>
 
-This is how the sample excel sheet will look like, as you can see there is a column which says username. For reference we have already added two e-mails. All you have to do is fill the e-mails of the students you wish to add to the game. Once you add their e-mails, save this excel sheet.
+샘플 엑셀 시트는 이렇게 보입니다. 여기에는 "username"이라는 열이 있으며, 참고로 이미 두 개의 이메일을 추가했습니다. 추가하고자 하는 학생들의 이메일을 이 열에 입력하기만 하면 됩니다. 이메일을 추가한 후, 이 엑셀 시트를 저장하세요.
 
-### Step 2 -
+### 2단계 -
 
-Click on the browse button which is highlighted by white colour just below the red button. After doing this a page like this will open up.
+빨간색 버튼 바로 아래에 있는 흰색으로 강조된 '탐색' 버튼을 클릭하세요. 그러면 다음과 같은 페이지가 열립니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 110657.png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the e-mails. Once done, then click on the Import button situated below the browse button. You will get Student Import Successful Prompt. Now the students who were in the list will recieve unique links on their e-mails, all they have to do is click those links and register themselves on realLives.
+학생들의 이메일 정보를 입력한 엑셀 파일을 선택하기만 하면 됩니다. 선택한 후에는 '가져오기' 버튼을 클릭하세요. 그러면 '학생 가져오기 성공' 메시지가 나타납니다. 이제 리스트에 있는 학생들은 이메일로 고유 링크를 받게 되며, 그 링크를 클릭하여 RealLives에 등록할 수 있습니다.
 
-### <mark style="background-color:blue;">Example of how an e-mail looks and how to register for the first time</mark>
+### <mark style="background-color:blue;">이메일과 처음으로 등록하는 방법의 예시</mark>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>E-mail recieved by the student</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>학생이 받은 이메일</p></figcaption></figure>
 
-#### Once the Student recieves the e-mail, they have to just click on the register button and a new tab will be opened like so -
+#### 학생이 이메일을 받으면, '등록' 버튼을 클릭하기만 하면 새 탭이 열립니다.
 
-<figure><img src="../../.gitbook/assets/99.png" alt=""><figcaption><p>Registration for the first time</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/99.png" alt=""><figcaption><p>처음 등록하기</p></figcaption></figure>
 
-#### The student has to fill in all the parameters mentioned, then click on the submit button. Now a new account will be created for the student which they can access by using their e-mail as the username and the password they have set while registering.
+#### 학생은 모든 필수 정보를 입력한 후 '제출' 버튼을 클릭해야 합니다. 이제 학생은 자신의 이메일을 사용자 이름으로 사용하고, 등록 시 설정한 비밀번호로 새 계정을 사용할 수 있습니다.
 
-### <mark style="background-color:red;">Note -</mark>
+### <mark style="background-color:red;">참고 사항 -</mark>
 
-Make sure you enter e-mails which have not been previously registered on realLives. If you enter e-mails which have already been registered, you will get such a prompt -
+RealLives에 이미 등록된 이메일을 입력하지 않도록 하세요. 이미 등록된 이메일을 입력하면 다음과 같은 메시지가 나타납니다 -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112343.png" alt=""><figcaption><p>Error prompt for already used e-mails</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112343.png" alt=""><figcaption><p>이미 사용된 이메일에 대한 오류 메시지</p></figcaption></figure>
 
-### <mark style="background-color:blue;">2. Importing Students without e-mail</mark>
+### <mark style="background-color:blue;">2. 이메일 없이 학생 가져오기</mark>
 
-**If your School/University doesn't provide e-mails to the students:**
+**학교/대학에서 학생들에게 이메일을 제공하지 않는 경우:**
 
-* Students will only receive notifications about new assignments and classes through their dashboards.
-* Students imported by selecting this option will have their usernames set by the system. They can later change the username from their dashboard.
+* 학생들은 새로운 과제와 수업에 대한 알림을 대시보드를 통해서만 받을 수 있습니다.
+* 이 옵션을 선택하여 가져온 학생들의 사용자 이름은 시스템에서 자동으로 설정됩니다. 이후 학생들은 대시보드에서 사용자 이름을 변경할 수 있습니다.
 
-Once you choose this option the following page will open up.
+이 옵션을 선택하면 다음 페이지가 열립니다.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114334.png" alt=""><figcaption><p>Import Students without e-mail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114334.png" alt=""><figcaption><p>이메일 없이 학생 가져오기</p></figcaption></figure>
 
-### Step 1 -
+### 1단계 -
 
-First click on the red button which will download a sample excel sheet like this -
+먼저 빨간색 버튼을 클릭하면 다음과 같은 샘플 엑셀 시트가 다운로드됩니다 -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>샘플 엑셀 시트</p></figcaption></figure>
 
-This is how the sample excel sheet will look like, as you can see there are 5 columns Firstname, Lastname, Age, Gender and Grade. For reference we have already added information of two students. All you have to do is fill the information of the students you wish to add to the game. Once you add their information, save this excel sheet.
+샘플 엑셀 시트는 이렇게 보이며, 5개의 열(이름, 성, 나이, 성별, 학년)이 있습니다. 참고로 두 명의 학생 정보를 이미 입력했습니다. 추가하고자 하는 학생들의 정보를 입력하고, 엑셀 시트를 저장하세요.
 
-### Step 2 -
+### 2단계 -
 
-Click on the browse button which is highlighted by white colour just below the red button. After doing so, a page like this will open up.
+빨간색 버튼 바로 아래에 있는 흰색으로 강조된 '탐색' 버튼을 클릭하세요. 그러면 다음과 같은 페이지가 열립니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 115300.png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the information about the students. Once done, then click on the Save button situated below the browse button. You will get Student Import Successful Prompt.
+학생 정보를 입력한 엑셀 파일을 선택한 후 '저장' 버튼을 클릭하세요. 그러면 '학생 가져오기 성공' 메시지가 나타납니다.
 
-### Step 3 -
+### 3단계 -
 
-You can check if the students have been added by going to the Students tab located in the Left Bar of the Dashboard and clicking on Allocated Students.
+대시보드의 왼쪽 바에 있는 '학생' 탭으로 이동하여 '할당된 학생'을 클릭하면 학생들이 추가되었는지 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 120102 (1).png" alt=""><figcaption></figcaption></figure>
 
-For reference we had added John's and Linda's information in the Excel sheet above and uploaded it on the game, hence John and Linda have been added as students into the system.
+참고로 위 엑셀 시트에서 John과 Linda의 정보를 입력했고, 게임에 업로드했으므로 John과 Linda가 시스템에 학생으로 추가되었습니다.
 
-### <mark style="background-color:red;">Note -</mark>
+### <mark style="background-color:red;">참고 사항 -</mark>
 
-Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system, to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.
+학생들의 이메일을 입력하지 않았기 때문에 학생들은 이메일을 사용하여 로그인할 수 없습니다. 따라서 학생들은 시스템에서 생성된 고유 사용자 이름을 사용하여 게임에 로그인해야 합니다. 또한 이메일 없이 추가된 학생들의 등록 과정은 다릅니다.
 
-The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)
+학생은 로그인 페이지 [https://reallivesworld.com/login](https://reallivesworld.com/login)로 이동해야 합니다.
 
-Once here, they will have to enter their unique username provided by the Teacher/Professor, and the default password which will be - 12345678
+여기에서 교사/교수가 제공한 고유 사용자 이름과 기본 비밀번호 12345678을 입력해야 합니다.
 
-Upon logging in the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
+게임에 로그인한 후, 학생은 프로필의 '내 계정'으로 이동하여 비밀번호를 변경하여 보안을 강화할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 123745 (1).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:blue;">3. Adding Single Student</mark>
+### <mark style="background-color:blue;">3. 단일 학생 추가</mark>
 
-**Add a single student by filling up the form manually. Should be used only when a single student is to be added. If there are multiple students, the Teacher/Professor can use the other two ways mentioned above which are less time consuming and much more efficient.**
+**단일 학생을 수동으로 양식을 작성하여 추가합니다. 단일 학생만 추가할 때 사용해야 합니다. 여러 학생이 있을 경우, 위에서 설명한 두 가지 방법을 사용하는 것이 시간이 덜 걸리고 훨씬 효율적입니다.**
 
-There are two ways you can add the student manually.
+학생을 수동으로 추가하는 방법은 두 가지가 있습니다.
 
-### <mark style="background-color:blue;">Scenario 1 -</mark>
+### <mark style="background-color:blue;">시나리오 1 -</mark>
 
-The first scenario would be where the student has a valid School/University e-mail. The Teacher/Professor can go ahead by entering all the necessary information and setting the password by themselves, which the student can change later on. The e-mail entered will act as the username for the student, and all updates will be sent on that e-mail. Once the Teacher/Professor has filled in all the details, they have to save it.
+첫 번째 시나리오는 학생이 유효한 학교/대학 이메일을 가지고 있는 경우입니다. 교사/교수는 필요한 모든 정보를 입력하고 학생이 나중에 변경할 수 있도록 비밀번호를 설정할 수 있습니다. 입력된 이메일은 학생의 사용자 이름으로 사용되며, 모든 업데이트는 해당 이메일로 전송됩니다. 교사/교수가 모든 세부 정보를 입력한 후 저장해야 합니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 124602.png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the Left Bar of the dashboard and then click on Allocated Students.
+이후, 학생이 게임에 추가되었는지 확인하려면 대시보드 왼쪽 바의 '학생' 섹션으로 이동하여 '할당된 학생'을 클릭하세요.
 
-As you can see Linda Jones has been successfully added.
+Linda Jones가 성공적으로 추가된 것을 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130858.png" alt=""><figcaption></figcaption></figure>
 
-After this the student can go to - [https://reallivesworld.com/login](https://reallivesworld.com/login)
+그 후 학생은 [https://reallivesworld.com/login](https://reallivesworld.com/login)로 이동해야 합니다.
 
-Here, they would enter their e-mail as the username and the password which is set by the Teacher/Professor.
+여기에서 이메일을 사용자 이름으로 입력하고 교사/교수가 설정한 비밀번호를 입력합니다.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Student login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>학생 로그인</p></figcaption></figure>
 
-### <mark style="background-color:blue;">Scenario 2 -</mark>
+### <mark style="background-color:blue;">시나리오 2 -</mark>
 
-The second scenario would be where the student does not have a valid School/University e-mail. In such a case the Teacher/Professor will fill all the necessary information except the e-mail and save it.
+두 번째 시나리오는 학생이 유효한 학교/대학 이메일을 가지고 있지 않은 경우입니다. 이 경우 교사/교수는 이메일을 제외한 모든 필요한 정보를 입력하고 저장합니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130500.png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the left part of the dashboard and then click on Allocated Students. As you can see Chuck Bass has been successfully added.
+이후, 학생이 게임에 추가되었는지 확인하려면 대시보드의 왼쪽 부분에 있는 '학생' 섹션으로 이동하여 '할당된 학생'을 클릭하세요. Chuck Bass가 성공적으로 추가된 것을 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130512.png" alt=""><figcaption></figcaption></figure>
 
-Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.
+학생들의 이메일을 입력하지 않았기 때문에 학생들은 이메일을 사용하여 로그인할 수 없습니다. 따라서 학생들은 시스템에서 생성된 고유 사용자 이름을 사용하여 게임에 로그인해야 합니다. 또한 이메일 없이 추가된 학생들의 등록 과정은 다릅니다.
 
-The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)
+학생은 로그인 페이지 [https://reallivesworld.com/login](https://reallivesworld.com/login)로 이동해야 합니다.
 
-Once here, they will have to enter their unique username (in this case chuckbass10000884 which is mentioned in the username column) provided by the Teacher/Professor, and the default password set by the Teacher/Professor.
+여기에서 교사/교수가 제공한 고유 사용자 이름(이 경우 'chuckbass10000884'은 사용자 이름 열에 표시됨)과 교사/교수가 설정한 기본 비밀번호를 입력해야 합니다.
 
-Upon logging in to the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
+게임에 로그인한 후, 학생은 프로필의 '내 계정'으로 이동하여 비밀번호를 변경하여 보안을 강화할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
