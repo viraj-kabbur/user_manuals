@@ -11,7 +11,7 @@
   * [Students](school-admin/dashboard-layout/students.md)
 * [Live a Life](<README (1).md>)
 * [Home Page](school-admin/home-page.md)
-* [Create a class with RealBoard](school-admin/create-a-class-with-realboard.md)
+* [Create a Class with RealBoard](school-admin/create-a-class-with-realboard.md)
 * [Managing Students](school-admin/managing-students/README.md)
   * [Adding Students](school-admin/managing-students/adding-students.md)
   * [Viewing Students](school-admin/managing-students/viewing-students.md)

@@ -1,4 +1,4 @@
-# Create a class with RealBoard
+# Create a Class with RealBoard
 
 This section explains how teachers/professors can create a class integrated with RealBoard, allowing students to engage with RealLives and share their reflections and learning experiences in a private, school-only social network.
 
@@ -38,31 +38,13 @@ You will see four different options to create a class, each serving a unique pur
 
 * **Description:** In this class, students are born into a random country, offering them an unpredictable experience of life. This class type encourages students to compare and contrast their lives with others, fostering critical thinking and promoting diversity of perspective.
 * **Purpose:** Best for promoting discussions on global diversity and enhancing empathy by placing students in unfamiliar life situations.
-* **Action:** Click the **Create** button to start setting up your Random Life class.\\
+* **Action:** Click the **Create** button to start setting up your Random Life class.
 
-## **3. Editing Your Class Board in RealBoard :-**
-
-After clicking **Create**, the **Edit Board** page allows you to customize and configure your class board by naming it and adding sections for students to engage with. Here’s how to use this page effectively
-
-<figure><img src="../.gitbook/assets/Untitled design(12).png" alt=""><figcaption></figcaption></figure>
-
-### **- Name your board**
-
-* At the top of the page, you will see a field titled **"Name your board:"**.
-* Enter a suitable name for your class board (e.g., **"Global Citizenship Board"**, **"Environmental Issues Class"**, or **"World Cultures Discussion"**).
-* Once you've entered the name, click the **checkmark** icon to save it.
-
-### **- Editing Board Sections and Descriptions**
-
-Each class board comes with predefined sections that students will interact with. These sections can be customized to fit the specific goals and learning outcomes of your class.
-
-**How to Edit:** Click on the **pencil icon** to the right of the section title to modify the name or description. Customize this section according to your class focus (e.g., students can research countries or reflect on national issues).
-
-## **4. Creating a Class in RealBoard :-**
+## **3. Creating a Class with RealBoard :-**
 
 After choosing the class type and editing the board, this final page allows you to configure key details like the class name, description, students, teachers/professors, and assignment dates.
 
-<div><figure><img src="../.gitbook/assets/Untitled design(13).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(15).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled design(13).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(27).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Step 1: Enter Class Name**
 
@@ -112,6 +94,24 @@ Once you've added students, teachers/professors, and finalized other details, cl
 * This will create the class and automatically notify all selected students and teachers/professors.
 * They can then log into RealBoard to access the class and complete their assignments.
 
+## **4. Editing Your Class Board with RealBoard :-**
+
+After clicking **Create**, the **Edit Board** page allows you to customize and configure your class board by naming it and adding sections for students to engage with. Here’s how to use this page effectively
+
+<figure><img src="../.gitbook/assets/Untitled design(28).png" alt=""><figcaption></figcaption></figure>
+
+### **- Name your board**
+
+* At the top of the page, you will see a field titled **"Name your board:"**.
+* Enter a suitable name for your class board (e.g., **"Global Citizenship Board"**, **"Environmental Issues Class"**, or **"World Cultures Discussion"**).
+* Once you've entered the name, click the **checkmark** icon to save it.
+
+### **- Editing Board Sections and Descriptions**
+
+Each class board comes with predefined sections that students will interact with. These sections can be customized to fit the specific goals and learning outcomes of your class.
+
+**How to Edit:** Click on the **pencil icon** to the right of the section title to modify the name or description. Customize this section according to your class focus (e.g., students can research countries or reflect on national issues).
+
 ## **5. Viewing and Managing Created Classes**
 
 After successfully creating your class, you will be directed to the **Create/View Classes with Global Citizenship Assignment** page. Here, you can manage and view all the classes you've created or are associated with.
@@ -135,9 +135,9 @@ Once a class is created, students who have been added to the class will automati
 
 ### **- Accessing the Class Board for teacher/professors**
 
-<figure><img src="../.gitbook/assets/Untitled design(15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(19).png" alt=""><figcaption></figcaption></figure>
 
-teachers/professors can easily access the board they’ve created by clicking the **RealBoard** button on the left sidebar of the dashboard.
+teachers/professors can easily access the board they’ve created by clicking the **RealBoard** button in the sidebar of the dashboard.
 
 * From there, they can view and manage the board, interact with students' posts, provide feedback, and monitor the progress of assignments.
 
@@ -150,13 +150,13 @@ Note - Random Life was discussed above.
 
 ## **Specific Country**
 
-<figure><img src="../.gitbook/assets/Untitled design(12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(20).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** teachers/professors can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
 * **Purpose:** Ideal for lessons that require detailed exploration of a particular region.
 * **Action:** Click the **Create** button to begin setting up your Specific Country class.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-04 172413.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-03 182221.png" alt=""><figcaption></figcaption></figure>
 
 In the **Specific Country** class, teachers/professors can select a specific country where all students will be born. This allows for focused exploration of that country’s culture, economy, and societal issues.
 
@@ -166,13 +166,13 @@ Apart from selecting a country, the rest of the class creation flow remains the 
 
 ## **Life with SDG**
 
-<figure><img src="../.gitbook/assets/Untitled design(14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(21).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** In this class, students choose a country but are tied to a specific **Sustainable Development Goal (SDG)**, such as poverty, inequality, or climate action.
 * **Purpose:** This is the most impactful class type for global citizenship, SDG-based learning, and encouraging solutions for global challenges.
-* **Action:** Click the **Create** button to start designing your SDG-based class.\\
+* **Action:** Click the **Create** button to start designing your SDG-based class.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-04 174720.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(22).png" alt=""><figcaption></figcaption></figure>
 
 In the **Life with SDG** class, the teacher/professor selects one of the 17 Sustainable Development Goals (SDGs) to guide the focus of the class. After choosing a goal (e.g., **Climate Action**, **No Poverty**), students can:
 
@@ -189,13 +189,13 @@ This class type combines real-world global issues with student freedom, allowing
 
 ## **Assignments**
 
-<figure><img src="../.gitbook/assets/Untitled design(13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(23).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. teachers/professors can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
 * **Purpose:** Best for highly customizable learning experiences focused on specific curriculum requirements.
 * **Action:** Click the **Create** button to begin setting up your Assignment class.
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2024-10-04 175741.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2024-10-04 175747.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Untitled design(25).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(26).png" alt=""><figcaption></figcaption></figure></div>
 
 For the **Assignments** class type, the process is as follows:
 

@@ -43,7 +43,6 @@ Provides a centralized view of all the classes you have created or are managing.
 Enables admins or students to join pre-existing classes.
 
 * **How It Works:**
-  * Click **"Join Class"** and enter the provided class code.
   * Access class content, assignments, and RealBoard discussions seamlessly.
 
 ***
