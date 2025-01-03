@@ -15,5 +15,5 @@ We have divided the dashboard into two parts for easy understanding&#x20;
 1. <mark style="background-color:blue;">**Top Bar**</mark> - Highlighted by blue, mainly focuses on informative content which is personal to the user. Example would be changing your name or password or checking notifications.
 2. <mark style="background-color:red;">**Left Bar**</mark> - Highlighted by red, used for administrative purposes. Example would be importing students or creating classes with lesson plans.
 
-<figure><img src="../../.gitbook/assets/Untitled design(7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design(7) (1).png" alt=""><figcaption></figcaption></figure>
 

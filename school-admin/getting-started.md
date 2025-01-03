@@ -1,0 +1,64 @@
+# Getting Started
+
+### **1. Logging into RealLives**
+
+To access the RealLives Simulation dashboard, follow these steps:
+
+1. **Visit the Login Page:** Go to the official RealLives Simulation website or the app provided by your institution.
+2. **Enter Your Credentials:** Use the administrator login details shared with you (email and password).
+3. **Access the Dashboard:** Click **“Log In”** to enter your personalized dashboard.
+
+> **Note:** If you experience issues logging in, ensure your credentials are correct or reset your password using the "Forgot Password" option.
+
+***
+
+### **2. Navigating the Dashboard**
+
+The Real Lives Simulation dashboard is designed to be intuitive and user-friendly. Here's an overview of its key components:
+
+* **Sidebar Menu:** Located on the left, the sidebar allows you to navigate between features like **My Journey**, **Manage Classes**, **Students**, and more.
+* **Top Bar:** Displays license availability, account settings, and notifications.
+* **Main Panel:** The central workspace where you interact with the selected feature.
+
+***
+
+### **3. Setting Up Your Profile**
+
+Once logged in, ensure your profile is set up correctly:
+
+1. **Access Account Settings:** Click your initials or profile icon in the top-right corner.
+2. **Update Information:** Add or update details like your name, email, and institution name.
+3. **Save Changes:** Ensure all changes are saved before exiting.
+
+***
+
+### **4. Verifying License Availability**
+
+Your dashboard displays the number of available licenses at the top of the page. Ensure you have enough licenses to accommodate your students:
+
+* **Available Licenses:** Shows the total and allocated licenses (e.g., 500/500).
+* **License Management:** Click on the sidebar to review or request additional licenses if needed.
+
+***
+
+### **5. Changing Language**
+
+The RealLives Simulation dashboard supports multiple languages to ensure accessibility for users from different regions. Follow these steps to change the language:
+
+**Select Your Preferred Language:** Choose from the available options (e.g., English, Korean, Swedish).
+
+> **Tip:** If a language you need is unavailable, contact support to request additional language options.
+
+***
+
+### **6. Managing Notifications**
+
+Stay updated on student progress, assignments, and system updates through the notification system. Here's how to manage notifications:
+
+1. **Access Notifications:** Click on the **bell icon** in the top-right corner of the dashboard to view recent notifications.
+2. **Read Notifications:** Notifications include updates on student activities, reminders for assignments, and system alerts.
+3. **Clear Notifications:** Mark notifications as read or clear them to keep your dashboard organized.
+
+***
+
+By completing these steps, you’re ready to use the RealLives Simulation dashboard to manage classes, track progress, and promote impactful learning experiences.

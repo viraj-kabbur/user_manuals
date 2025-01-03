@@ -2,11 +2,14 @@
 
 ## School Admin
 
-* [Live a Life](README.md)
+* [Introduction](README.md)
+* [Getting Started](school-admin/getting-started.md)
+* [Sidebar](school-admin/dashboard-layout/README.md)
+  * [Home](school-admin/dashboard-layout/left-bar.md)
+  * [My Journey](school-admin/dashboard-layout/my-journey.md)
+  * [Manage Classes](school-admin/dashboard-layout/manage-classes.md)
+* [Live a Life](<README (1).md>)
 * [Home Page](school-admin/home-page.md)
-* [Dashboard Layout](school-admin/dashboard-layout/README.md)
-  * [Top Bar](school-admin/dashboard-layout/top-bar.md)
-  * [Left Bar](school-admin/dashboard-layout/left-bar.md)
 * [Create a class with RealBoard](school-admin/create-a-class-with-realboard.md)
 * [Managing Students](school-admin/managing-students/README.md)
   * [Adding Students](school-admin/managing-students/adding-students.md)
