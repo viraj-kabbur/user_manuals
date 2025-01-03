@@ -10,7 +10,7 @@ description: >-
 
 This section provides a detailed overview of simulation activity, allowing school or university admins to monitor progress, gender distribution, and geographic diversity in RealLives simulations.
 
-<figure><img src="../../.gitbook/assets/Untitled design(12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design(12) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Lives in Progress:**&#x20;
 
@@ -33,7 +33,7 @@ Breakdown of the genders represented in simulated lives:
 
 The "Lives by Location" feature in your RealLives Simulation dashboard offers an interactive view of where simulations have been played worldwide. This tool helps you, as a school admin, track activity, analyze diversity, and encourage exploration among students.
 
-<figure><img src="../../.gitbook/assets/Untitled design(13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design(13) (1).png" alt=""><figcaption></figcaption></figure>
 
 i] **Map Interface**
 
