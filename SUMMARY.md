@@ -8,6 +8,7 @@
   * [Home](school-admin/dashboard-layout/left-bar.md)
   * [My Journey](school-admin/dashboard-layout/my-journey.md)
   * [Manage Classes](school-admin/dashboard-layout/manage-classes.md)
+  * [Students](school-admin/dashboard-layout/students.md)
 * [Live a Life](<README (1).md>)
 * [Home Page](school-admin/home-page.md)
 * [Create a class with RealBoard](school-admin/create-a-class-with-realboard.md)

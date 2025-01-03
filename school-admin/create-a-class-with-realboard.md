@@ -8,7 +8,7 @@ If you are unfamiliar with RealBoard, head on to the RealBoard Manual -
 
 ## 1. Creating a Global Citizenship Class with RealBoard
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-04 104700.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(8).png" alt=""><figcaption></figcaption></figure>
 
 ### - Navigating to 'Class Creation Tools'
 
@@ -22,7 +22,7 @@ If you are unfamiliar with RealBoard, head on to the RealBoard Manual -
 
 ## **2. Selecting Class Types in RealLives**
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-04 104708.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(9).png" alt=""><figcaption></figcaption></figure>
 
 ### **- Overview of Class Types**
 
@@ -34,7 +34,7 @@ You will see four different options to create a class, each serving a unique pur
 
 ## **Random Life -**
 
-<figure><img src="../.gitbook/assets/Untitled design(11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(10).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** In this class, students are born into a random country, offering them an unpredictable experience of life. This class type encourages students to compare and contrast their lives with others, fostering critical thinking and promoting diversity of perspective.
 * **Purpose:** Best for promoting discussions on global diversity and enhancing empathy by placing students in unfamiliar life situations.
@@ -44,7 +44,7 @@ You will see four different options to create a class, each serving a unique pur
 
 After clicking **Create**, the **Edit Board** page allows you to customize and configure your class board by naming it and adding sections for students to engage with. Here’s how to use this page effectively
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-10-04 104736.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(12).png" alt=""><figcaption></figcaption></figure>
 
 ### **- Name your board**
 
@@ -62,7 +62,7 @@ Each class board comes with predefined sections that students will interact with
 
 After choosing the class type and editing the board, this final page allows you to configure key details like the class name, description, students, teachers/professors, and assignment dates.
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2024-10-04 105030.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2024-10-04 105040.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Untitled design(13).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(15).png" alt=""><figcaption></figcaption></figure></div>
 
 **Step 1: Enter Class Name**
 
@@ -116,10 +116,11 @@ Once you've added students, teachers/professors, and finalized other details, cl
 
 After successfully creating your class, you will be directed to the **Create/View Classes with Global Citizenship Assignment** page. Here, you can manage and view all the classes you've created or are associated with.
 
-<figure><img src="../.gitbook/assets/Untitled design(5) (2).png" alt=""><figcaption></figcaption></figure>
+Alternately, you can view classes by going to Manage Classes in the sidebar and then clicking on the **My Class List** section.
 
-At the top, you will see a green confirmation bar that reads **"Classes saved successfully."** This confirms that your new class has been successfully created and saved in the system.\
-\\
+<figure><img src="../.gitbook/assets/Untitled design(16).png" alt=""><figcaption></figcaption></figure>
+
+At the top, you will see a green confirmation bar that reads **"Classes saved successfully."** This confirms that your new class has been successfully created and saved in the system.
 
 ## **6. Notifications and Access After Class Creation**
 
@@ -127,14 +128,14 @@ At the top, you will see a green confirmation bar that reads **"Classes saved su
 
 Once a class is created, students who have been added to the class will automatically receive a **notification** in their RealLives account.
 
-<div><figure><img src="../.gitbook/assets/Untitled design(8) (5).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(9) (5).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Untitled design(17).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(18).png" alt=""><figcaption></figcaption></figure></div>
 
 * This notification informs them that they have been added to a new class (e.g., **Class 9A - Random Country**).
 * Students can click the notification to view the class and begin playing their assigned life simulation.
 
 ### **- Accessing the Class Board for teacher/professors**
 
-<figure><img src="../.gitbook/assets/Untitled design(15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(15) (1).png" alt=""><figcaption></figcaption></figure>
 
 teachers/professors can easily access the board they’ve created by clicking the **RealBoard** button on the left sidebar of the dashboard.
 
@@ -149,7 +150,7 @@ Note - Random Life was discussed above.
 
 ## **Specific Country**
 
-<figure><img src="../.gitbook/assets/Untitled design(12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** teachers/professors can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
 * **Purpose:** Ideal for lessons that require detailed exploration of a particular region.
@@ -188,7 +189,7 @@ This class type combines real-world global issues with student freedom, allowing
 
 ## **Assignments**
 
-<figure><img src="../.gitbook/assets/Untitled design(13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. teachers/professors can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
 * **Purpose:** Best for highly customizable learning experiences focused on specific curriculum requirements.

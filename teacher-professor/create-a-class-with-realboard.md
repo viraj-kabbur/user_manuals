@@ -134,7 +134,7 @@ Once a class is created, students who have been added to the class will automati
 
 ### **- Accessing the Class Board for teacher/professors**
 
-<figure><img src="../.gitbook/assets/Untitled design(15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(15) (1).png" alt=""><figcaption></figcaption></figure>
 
 teachers/professors can easily access the board they’ve created by clicking the **RealBoard** button on the left sidebar of the dashboard.
 
@@ -149,7 +149,7 @@ Note - Random Life was discussed above.
 
 ## **Specific Country**
 
-<figure><img src="../.gitbook/assets/Untitled design(12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** teachers/professors can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
 * **Purpose:** Ideal for lessons that require detailed exploration of a particular region.
@@ -188,7 +188,7 @@ This class type combines real-world global issues with student freedom, allowing
 
 ## **Assignments**
 
-<figure><img src="../.gitbook/assets/Untitled design(13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. teachers/professors can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
 * **Purpose:** Best for highly customizable learning experiences focused on specific curriculum requirements.
