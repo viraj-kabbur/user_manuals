@@ -2,20 +2,10 @@
 description: An overview of the dashboard's layout and purpose.
 ---
 
-# Dashboard Layout
+# Sidebar
 
-This is how the dashboard looks like once you login and start the game. The Dashboard can be further divided into two parts for easy understanding.
+Here’s what the dashboard looks like after you log in and start the game. It includes a primary sidebar ( highlighted in orange), offering intuitive navigation to explore RealLives and its wide range of features.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-10-04 104700.png" alt=""><figcaption><p>Home Page of RealLives</p></figcaption></figure>
+Explore the functionalities of the sidebar in detail by navigating through the sub-pages.
 
-We have divided the dashboard into two parts for easy understanding&#x20;
-
-
-
-1. <mark style="background-color:blue;">**Top Bar**</mark> - Highlighted by blue, mainly focuses on informative content which is personal to the user. Example would be changing your name or password or checking notifications.
-2. <mark style="background-color:red;">**Left Bar**</mark> - Highlighted by red, used for administrative purposes. Example would be importing students or creating classes with lesson plans.
-
-
-
-<figure><img src="../../.gitbook/assets/Untitled design(7).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/Untitled design(5) (1).png" alt=""><figcaption><p>Home Page of RealLives</p></figcaption></figure>
