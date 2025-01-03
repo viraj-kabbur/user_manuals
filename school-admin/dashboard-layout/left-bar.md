@@ -6,7 +6,7 @@ description: >-
 
 # Home
 
-<figure><img src="../../.gitbook/assets/Untitled design(10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design(10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Untitled design(11).png" alt=""><figcaption><p>After scrolling down the home page</p></figcaption></figure>
 
