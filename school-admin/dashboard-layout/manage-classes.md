@@ -1,2 +1,48 @@
+---
+description: >-
+  The Manage Classes section is designed to help school administrators
+  efficiently create and manage Global Citizenship classes, integrating Real
+  Board for collaborative and impactful learning.
+---
+
 # Manage Classes
 
+<figure><img src="../../.gitbook/assets/Untitled design(6).png" alt=""><figcaption></figcaption></figure>
+
+### **1. Creating a Global Citizenship Class with RealBoard**
+
+This feature allows you to set up classes that leverage RealBoard for enhanced peer-to-peer learning and SDG-based assignments.
+
+* **Purpose:** Promote understanding of global citizenship through collaborative simulations.
+* **Steps:**
+  1. Click on **"Creating a Global Citizenship Class with RealBoard"** to begin.
+  2. Customize the class by aligning it with specific goals or assignments.
+  3. Invite students and assign tasks through RealBoard.
+
+For a detailed guide on how to create a class with RealBoard, check out the link below -&#x20;
+
+{% content-ref url="../create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
+{% endcontent-ref %}
+
+***
+
+### **2. My Class List**
+
+Provides a centralized view of all the classes you have created or are managing.
+
+* **Benefits:**
+  * Monitor student participation.
+  * Track the progress of assignments.
+  * Manage ongoing and completed classes.
+
+***
+
+### **3. Join Class**
+
+Enables admins or students to join pre-existing classes.
+
+* **How It Works:**
+  * Access class content, assignments, and RealBoard discussions seamlessly.
+
+***
