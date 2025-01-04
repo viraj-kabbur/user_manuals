@@ -40,7 +40,7 @@ Provides a centralized view of all the classes you have created or are managing.
 
 ### **3. Join Class**
 
-Enables admins or students to join pre-existing classes.
+Enables admins to join pre-existing classes.
 
 * **How It Works:**
   * Access class content, assignments, and RealBoard discussions seamlessly.
