@@ -1,64 +1,64 @@
-# Getting Started
+# 시작하기
 
-### **1. Logging into RealLives**
+### **1. RealLives 로그인하기**
 
-To access the RealLives Simulation dashboard, follow these steps:
+RealLives 시뮬레이션 대시보드에 액세스하려면 다음 단계를 따르세요:
 
-1. **Visit the Login Page:** Go to the official RealLives Simulation website or the app provided by your institution.
-2. **Enter Your Credentials:** Use the administrator login details shared with you (email and password).
-3. **Access the Dashboard:** Click **“Log In”** to enter your personalized dashboard.
+1. **로그인 페이지 방문:** 공식 RealLives 시뮬레이션 웹사이트 또는 기관에서 제공한 앱으로 이동하세요.
+2. **자격 증명 입력:** 관리자 로그인 정보(이메일 및 비밀번호)를 사용하세요.
+3. **대시보드에 액세스:** **“로그인”**을 클릭하여 개인화된 대시보드에 들어갑니다.
 
-> **Note:** If you experience issues logging in, ensure your credentials are correct or reset your password using the "Forgot Password" option.
-
-***
-
-### **2. Navigating the Dashboard**
-
-The Real Lives Simulation dashboard is designed to be intuitive and user-friendly. Here's an overview of its key components:
-
-* **Sidebar Menu:** Located on the left, the sidebar allows you to navigate between features like **My Journey**, **Manage Classes**, **Students**, and more.
-* **Top Bar:** Displays license availability, account settings, and notifications.
-* **Main Panel:** The central workspace where you interact with the selected feature.
+> **참고:** 로그인에 문제가 발생하면 자격 증명이 정확한지 확인하거나 **"비밀번호를 잊으셨나요"** 옵션을 사용하여 비밀번호를 재설정하세요.
 
 ***
 
-### **3. Setting Up Your Profile**
+### **2. 대시보드 탐색하기**
 
-Once logged in, ensure your profile is set up correctly:
+RealLives 시뮬레이션 대시보드는 직관적이고 사용자 친화적으로 설계되었습니다. 주요 구성 요소는 다음과 같습니다:
 
-1. **Access Account Settings:** Click your initials or profile icon in the top-right corner.
-2. **Update Information:** Add or update details like your name, email, and institution name.
-3. **Save Changes:** Ensure all changes are saved before exiting.
-
-***
-
-### **4. Verifying License Availability**
-
-Your dashboard displays the number of available licenses at the top of the page. Ensure you have enough licenses to accommodate your students:
-
-* **Available Licenses:** Shows the total and allocated licenses (e.g., 500/500).
-* **License Management:** Click on the sidebar to review or request additional licenses if needed.
+* **사이드바 메뉴:** 왼쪽에 위치하며 **내 여정(My Journey)**, **클래스 관리(Manage Classes)**, **학생(Students)** 등 다양한 기능으로 이동할 수 있습니다.
+* **상단 바:** 라이선스 사용 가능 여부, 계정 설정 및 알림을 표시합니다.
+* **메인 패널:** 선택한 기능과 상호작용하는 중앙 작업 공간입니다.
 
 ***
 
-### **5. Changing Language**
+### **3. 프로필 설정하기**
 
-The RealLives Simulation dashboard supports multiple languages to ensure accessibility for users from different regions. Follow these steps to change the language:
+로그인 후, 프로필이 올바르게 설정되어 있는지 확인하세요:
 
-**Select Your Preferred Language:** Choose from the available options (e.g., English, Korean, Swedish).
-
-> **Tip:** If a language you need is unavailable, contact support to request additional language options.
-
-***
-
-### **6. Managing Notifications**
-
-Stay updated on student progress, assignments, and system updates through the notification system. Here's how to manage notifications:
-
-1. **Access Notifications:** Click on the **bell icon** in the top-right corner of the dashboard to view recent notifications.
-2. **Read Notifications:** Notifications include updates on student activities, reminders for assignments, and system alerts.
-3. **Clear Notifications:** Mark notifications as read or clear them to keep your dashboard organized.
+1. **계정 설정 액세스:** 화면 오른쪽 상단의 이니셜 또는 프로필 아이콘을 클릭하세요.
+2. **정보 업데이트:** 이름, 이메일, 소속 기관 이름과 같은 세부 정보를 추가하거나 업데이트하세요.
+3. **변경 사항 저장:** 종료하기 전에 모든 변경 사항이 저장되었는지 확인하세요.
 
 ***
 
-By completing these steps, you’re ready to use the RealLives Simulation dashboard to manage classes, track progress, and promote impactful learning experiences.
+### **4. 라이선스 사용 가능 여부 확인**
+
+대시보드 상단에서 사용 가능한 라이선스 수를 확인할 수 있습니다. 학생들을 수용할 충분한 라이선스가 있는지 확인하세요:
+
+* **사용 가능한 라이선스:** 총 라이선스와 할당된 라이선스를 보여줍니다 (예: 500/500).
+* **라이선스 관리:** 사이드바를 클릭하여 라이선스를 검토하거나 추가 요청을 할 수 있습니다.
+
+***
+
+### **5. 언어 변경하기**
+
+RealLives 시뮬레이션 대시보드는 다양한 지역의 사용자를 위해 다국어를 지원합니다. 언어를 변경하려면 다음 단계를 따르세요:
+
+**선호하는 언어 선택:** 사용 가능한 옵션 중에서 선택하세요 (예: 영어, 한국어, 스웨덴어).
+
+> **팁:** 필요한 언어가 없을 경우, 지원팀에 추가 언어 옵션을 요청하세요.
+
+***
+
+### **6. 알림 관리하기**
+
+학생 진행 상황, 과제, 시스템 업데이트에 대한 알림 시스템을 통해 최신 정보를 유지하세요. 알림을 관리하는 방법은 다음과 같습니다:
+
+1. **알림 액세스:** 대시보드 오른쪽 상단의 **종 모양 아이콘**을 클릭하여 최근 알림을 확인하세요.
+2. **알림 읽기:** 알림에는 학생 활동 업데이트, 과제 알림, 시스템 알림이 포함됩니다.
+3. **알림 정리:** 알림을 읽음으로 표시하거나 삭제하여 대시보드를 깔끔하게 유지하세요.
+
+***
+
+이 단계를 완료하면 RealLives 시뮬레이션 대시보드를 사용하여 클래스를 관리하고 진행 상황을 추적하며 의미 있는 학습 경험을 촉진할 준비가 완료됩니다.
