@@ -17,34 +17,32 @@ layout:
     visible: true
 ---
 
-# Introduction
+# 소개
 
-### About RealLives Simulation
+### RealLives 시뮬레이션 소개
 
-RealLives is a gamified simulation that brings home the challenge of life in its many splendors and complexities. In the simulation, you will test your mettle against the many unpredictable life conditions that occur in the course of a lifetime – from birth to death.
+RealLives는 삶의 다양한 아름다움과 복잡성을 체험할 수 있는 게임화된 시뮬레이션입니다. 이 시뮬레이션에서 당신은 태어나서 죽을 때까지의 인생 동안 발생하는 예측할 수 없는 수많은 삶의 조건에 도전하게 됩니다.
 
-And in RealLives, you can play billions of such lives, in different cultures and nations on earth - without ever repeating any lifetime!
+그리고 RealLives에서는 서로 다른 문화와 국가에서 수십억 개의 삶을 살 수 있으며, 동일한 생애를 반복하지 않습니다!
 
-As a Teacher/Professor you can play the game and be born in any life you wish to, by simply clicking on the 'Live a Life' button. Play demo game below.
-
-***
-
-### Purpose of the Dashboard
-
-The RealLives Simulation dashboard is a powerful tool for Teacher/Professor. It provides a centralized interface to manage classes, monitor student progress, and align simulations with educational objectives such as the Sustainable Development Goals (SDGs). The dashboard bridges technology and learning, offering data-driven insights to enhance student engagement and global citizenship education.
+교사/교수로서, 원하는 삶을 선택하여 **‘Live a Life’** 버튼을 클릭함으로써 게임을 플레이하고 태어나 보세요. 아래 데모 게임을 즐기세요.
 
 ***
 
-### Key Features Overview
+### 대시보드의 목적
 
-The RealLives Simulation dashboard is equipped with a variety of features to streamline management and enhance learning outcomes:
-
-* **My Journey:** View gameplay data, track progress, and analyze geographic and gender-based simulation trends.
-* **RealBoard Integration:** Connect RealLives simulations with RealBoard, a collaborative platform for student interaction and shared reflections.
-* **Class Management:** Easily create, monitor, and manage global citizenship classes with tailored assignments.
-* **World Data + SDG Tools:** Access global datasets and link simulations to SDGs, enriching the educational experience.
-* **Feedback and Support:** Report bugs, provide feedback, and access user guides for seamless platform usage.
+RealLives 시뮬레이션 대시보드는 교사/교수를 위한 강력한 도구입니다. 이 대시보드는 클래스 관리, 학생 진행 상황 모니터링, 지속 가능한 개발 목표(SDG)와 같은 교육 목표와 시뮬레이션을 정렬할 수 있는 중앙화된 인터페이스를 제공합니다. 대시보드는 기술과 학습을 연결하며, 학생 참여와 글로벌 시민 교육을 강화하기 위한 데이터 기반 통찰을 제공합니다.
 
 ***
 
-&#x20;
+### 주요 기능 개요
+
+RealLives 시뮬레이션 대시보드는 관리 효율화와 학습 성과 향상을 위한 다양한 기능을 갖추고 있습니다:
+
+* **내 여정(My Journey):** 게임 플레이 데이터를 확인하고, 진행 상황을 추적하며, 지리적 및 성별 기반 시뮬레이션 경향을 분석합니다.
+* **RealBoard 통합:** RealLives 시뮬레이션을 RealBoard와 연결하여 학생 상호작용과 반성을 공유하는 협력 플랫폼을 제공합니다.
+* **클래스 관리:** 맞춤형 과제를 통해 글로벌 시민 클래스를 쉽게 생성, 모니터링 및 관리할 수 있습니다.
+* **세계 데이터 + SDG 도구:** 글로벌 데이터셋에 접근하고 시뮬레이션을 SDG와 연결하여 교육 경험을 풍부하게 합니다.
+* **피드백 및 지원:** 버그를 보고하고 피드백을 제공하며, 원활한 플랫폼 사용을 위한 사용자 가이드를 확인합니다.
+
+***
