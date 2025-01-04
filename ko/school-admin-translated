@@ -1,152 +1,151 @@
 ---
-description: Home gives you an overview of the all the major features that are available for you as a School/University Admin.
+description: The Students section allows school administrators to efficiently manage student accounts, import students into the system, and monitor registration status.
 ---
 
-# Home
+# Students
 
-<figure><img src="../../.gitbook/assets/Untitled design(10) (1).png" alt=""><figcaption></figcaption></figure>
+## <mark style="background-color:blue;">Adding/Importing Students</mark>
 
-<figure><img src="../../.gitbook/assets/Untitled design(11).png" alt=""><figcaption><p>After scrolling down the home page</p></figcaption></figure>
+We have three ways to Import Students into the game -
 
-### **1] Create a** **Global Citizenship Class with Real Board:**&#x20
+1. Importing with the help of E-mail (Recommended)
+2. Importing without E-mail
+3. Adding Single Student
 
-can be used to assign various tasks and assignments to students. For in-depth information on how to create a class with Real Board, check out this section -&#x20
+Let's see how each method works.
 
-{% content-ref url="../create-a-class-with-realboard.md" %}
-[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
-{% endcontent-ref %}
+### <mark style="background-color:blue;">1. Importing Students with the help of E-mail</mark>
 
-### **2] School/University Management and Data**&#x20
+**For Schools/Universities that use email for students, it is recommended to provide the student's email address. Should be used when multiple students have to be added.**
 
-allows you to check the number of Students and their status. Number of Teachers/Professors and their status can also be checked. School/University game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
+- When assignments and classes are created, students will receive notifications via email.
+- Students imported using emails have their usernames set as the email which is provided here.
 
-**Key Features -**&#x20
+Once you choose this option the following page will open up.
 
-### i] Students&#x20
+<figure><img src="../../../.gitbook/assets/Untitled design(29).png" alt=""><figcaption><p>Import Students by E-mail</p></figcaption></figure>
 
-The process of adding and managing students is explained in the section below -&#x20
+### Step 1 -
 
-{% content-ref url="students/" %}
-[students](students/)
-{% endcontent-ref %}
+First click on the red button which will download a sample excel sheet like this -
 
-{% content-ref url="students/view-students-list.md" %}
-[view-students-list.md](students/view-students-list.md)
-{% endcontent-ref %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
 
-***
+This is how the sample excel sheet will look like, as you can see there is a column which says username. For reference we have already added two e-mails. All you have to do is fill the e-mails of the students you wish to add to the game. Once you add their e-mails, save this excel sheet.
 
-### ii] Managing Teachers/Professors&#x20
+### Step 2 -
 
-The process of adding and managing Teachers/Professors is explained in the section below -&#x20
+Click on the browse button which is highlighted by white color just below the red button. After doing this a page like this will open up.
 
-{% content-ref url="../managing-teachers-and-viewing-them.md" %}
-[managing-teachers-and-viewing-them.md](../managing-teachers-and-viewing-them.md)
-{% endcontent-ref %}
+<figure><img src="../../../.gitbook/assets/Untitled design(30).png" alt=""><figcaption></figcaption></figure>
 
-***
+All you have to do is to select the Excel file in which you have filled the e-mails. Once done, then click on the Import button situated below the browse button. You will get Student Import Successful Prompt. Now the students who were in the list will recieve unique links on their e-mails, all they have to do is click those links and register themselves on realLives.
 
-### iii] School Game Data&#x20
+### <mark style="background-color:blue;">Example of how an e-mail looks and how to register for the first time</mark>
 
-The School Game Data section provides school administrators with a comprehensive overview of student and teacher activity, license usage, and game-play data.
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>E-mail recieved by the student</p></figcaption></figure>
 
-**1. Dashboard Overview**
+#### Once the Student recieves the e-mail, they have to just click on the register button and a new tab will be opened like so -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 130930.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/99.png" alt=""><figcaption><p>Registration for the first time</p></figcaption></figure>
 
-The dashboard presents high-level data on school-wide engagement:
+#### The student has to fill in all the parameters mentioned, then click on the submit button. Now a new account will be created for the student which they can access by using their e-mail as the username and the password they have set while registering.
 
-- **Total Students:** Displays the total number of students enrolled in RealLives (e.g., **349 students**).
-- **Allocated Students:** Shows the number of students actively using licenses (e.g., **317 students**).
-- **Total Teachers:** Reflects the number of active teacher accounts (e.g., **6 teachers**).
-- **Countries Covered:** Highlights the diversity of simulations based on the number of countries explored (e.g., **108 countries**).
-- **License Usage:** Provides a visual representation of used vs. total licenses (e.g., **64% of 500 licenses used**).
+### <mark style="background-color:red;">Note -</mark>
 
-***
+Make sure you enter e-mails which have not been previously registered on RealLives. If you enter e-mails which have already been registered, you will get such a prompt -
 
-**2. Weekly Report**
+<figure><img src="../../../.gitbook/assets/Untitled design(31).png" alt=""><figcaption><p>Error prompt for already used e-mails</p></figcaption></figure>
 
-- Displays a graphical representation of weekly student engagement and activity.
-- Use this data to track trends and identify peaks or lulls in simulation usage.
+### <mark style="background-color:blue;">2. Importing Students without e-mail</mark>
 
-***
+**If your School/University doesn't provide e-mails to the students:**
 
-**3. Teacher and Student Management**
+- Students will only receive notifications about new assignments and classes through their dashboards.
+- Students imported by selecting this option will have their usernames set by the system. They can later change the username from their dashboard.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 130945.png" alt=""><figcaption></figcaption></figure>
+Once you choose this option the following page will open up.
 
-- **Teachers Table:** Lists all registered teachers, showing their name, last login date, status (**Active** or **Inactive**), and an **Edit** option for managing profiles.
-- **Students Table:** Displays student names, last login date, status (**Active** or **Inactive**), and an **Edit** option for profile adjustments.
-- **Purpose:** Quickly identify inactive accounts and ensure all teachers and students have access to simulations.
+<figure><img src="../../../.gitbook/assets/Untitled design(33).png" alt=""><figcaption><p>Import Students without e-mail</p></figcaption></figure>
 
-***
+### Step 1 -
 
-**4. School Game Data**
+First click on the red button which will download a sample excel sheet like this -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131314.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
 
-**1. Lives Overview**
+This is how the sample excel sheet will look like, as you can see there are 5 columns Firstname, Lastname, Age, Gender and Grade. For reference we have already added information of two students. All you have to do is fill the information of the students you wish to add to the game. Once you add their information, save this excel sheet.
 
-- **Lives in Progress:** Displays the total number of active simulations currently being played by students (e.g., **173 lives**).
-- **Completed Lives:** Tracks the number of lives that have been fully simulated (e.g., **21 lives**).
+### Step 2 -
 
-**2. Gender Distribution**
+Click on the browse button which is highlighted by white colour just below the red button. After doing so, a page like this will open up.
 
-- Highlights the number of male and female lives simulated:
+<figure><img src="../../../.gitbook/assets/Untitled design(34).png" alt=""><figcaption></figcaption></figure>
 
-**3. Geographic Coverage**
+All you have to do is to select the Excel file in which you have filled the information about the students. Once done, then click on the Save button situated below the browse button. You will get Student Import Successful Prompt.
 
-- **Lives by Location:** Provides a world map visualization, showcasing the countries where lives have been simulated.
+### Step 3 -
 
-***
+You can check if the students have been added by going to the Students tab located in the Left Bar of the Dashboard and clicking on Allocated Students.
 
-#### **5. Life Distribution**
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 125311.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131319.png" alt=""><figcaption></figcaption></figure>
+For reference we had added John's and Linda's information in the Excel sheet above and uploaded it on the game, hence John and Linda have been added as students into the system.
 
-- **Distribution Types:** A pie chart breaks down life simulations by type, with a legend to identify categories such as:
-  - Random Life
-  - Design a Life
-  - SDG-Based Lives
-  - Life with Assignments
-  - Life Using Groups
-  - Age Skip Life
-- **Group Lives:** Tracks the number of lives simulated in group-based sessions (e.g., **105 group lives**).
+### <mark style="background-color:red;">Note -</mark>
 
-***
+Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system, to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.
 
-#### **6. Sustainable Development Goals (SDG) Data**
+The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131324.png" alt=""><figcaption></figcaption></figure>
+Once here, they will have to enter their unique username provided by the Teacher/Professor, and the default password which will be - 12345678
 
-- **Top 4 SDGs:** Highlights the most chosen SDGs by students during simulations (e.g., Goal 1: No Poverty, 5 instances).
-- **Complete SDG Breakdown:** Provides a comprehensive view of all SDGs chosen, encouraging focus on real-world challenges like:
-  - No Poverty (Goal 1)
-  - Zero Hunger (Goal 2)
-  - Good Health and Well-Being (Goal 3)
-  - Quality Education (Goal 4)
+Upon logging in the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
 
-***
+<figure><img src="../../../.gitbook/assets/Untitled design(35).png" alt=""><figcaption></figcaption></figure>
 
-#### **7. Leader board**
+### <mark style="background-color:blue;">3. Adding Single Student</mark>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131327.png" alt=""><figcaption></figcaption></figure>
+**Add a single student by filling up the form manually. Should be used only when a single student is to be added. If there are multiple students, the Teacher/Professor can use the other two ways mentioned above which are less time consuming and much more efficient.**
 
-- **Complete Lives Leaderboard:**
-  - Lists students ranked by the number of lives they have fully completed, promoting healthy competition.
-  - Includes student names, ranks, and the number of completed lives.
-- **Incomplete Lives Leaderboard:**
-  - Tracks students with simulations in progress, encouraging them to complete their lives.
-  - Displays names, ranks, and incomplete lives.
+There are two ways you can add the student manually.
 
-***
+### <mark style="background-color:blue;">Scenario 1 -</mark>
 
-### iv] Personal Game Data
+The first scenario would be where the student has a valid School/University e-mail. The Teacher/Professor can go ahead by entering all the necessary information and setting the password by themselves, which the student can change later on. The e-mail entered will act as the username for the student, and all updates will be sent on that e-mail. Once the Teacher/Professor has filled in all the details, they have to save it.
 
-This data is also displayed in the My Journey section in the sidebar, you can check it's functionality in the link below -
+<figure><img src="../../../.gitbook/assets/Untitled design(36).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="my-journey.md" %}
-[my-journey.md](my-journey.md)
-{% endcontent-ref %}
+Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the Left Bar of the dashboard and then click on Allocated Students.
+
+As you can see Linda Jones has been successfully added.
+
+<figure><img src="../../../.gitbook/assets/Untitled design(37).png" alt=""><figcaption></figcaption></figure>
+
+After this the student can go to - [https://reallivesworld.com/login](https://reallivesworld.com/login)
+
+Here, they would enter their e-mail as the username and the password which is set by the Teacher/Professor.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Student login</p></figcaption></figure>
+
+### <mark style="background-color:blue;">Scenario 2 -</mark>
+
+The second scenario would be where the student does not have a valid School/University e-mail. In such a case the Teacher/Professor will fill all the necessary information except the e-mail and save it.
+
+<figure><img src="../../../.gitbook/assets/Untitled design(38).png" alt=""><figcaption></figcaption></figure>
+
+Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the left part of the dashboard and then click on Allocated Students. As you can see Chuck Bass has been successfully added.
+
+<figure><img src="../../../.gitbook/assets/Untitled design(39).png" alt=""><figcaption></figcaption></figure>
+
+Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.
+
+The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)
+
+Once here, they will have to enter their unique username (in this case chuckbass10000884 which is mentioned in the username column) provided by the Teacher/Professor, and the default password set by the Teacher/Professor.
+
+Upon logging in to the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ***
