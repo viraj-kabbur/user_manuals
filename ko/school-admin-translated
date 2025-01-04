@@ -1,5 +1,19 @@
-# Device List
+---
+description: The Feedback / Bug Report section enables teachers and administrators to report issues or share their suggestions for improving the RealLives Simulation platform.
+---
 
-Gives you control over the devices where your account is logged in. RealLives allows Teachers/Professors to use their account on 3 different devices. If for any reason the Teacher/Professor wants to remove a device's access they can do so by clicking on the 'Remove Device' button.
+# Feedback
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 113033.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114715.png" alt=""><figcaption></figcaption></figure>
+
+### **1. Submitting Feedback or Bug Reports**
+
+- **Title:** Provide a brief and clear title summarizing your feedback or the issue (e.g., "Login Error" or "Feature Suggestion").
+- **Description:** Write a detailed explanation of the feedback or bug, including steps to reproduce the issue, if applicable.
+- **Type:** Select the appropriate category from the drop-down menu, such as **Bug**, **Feature Request**, or **General Feedback**.
+- **Attach Screenshots:** Optionally upload a screenshot of the specific page or issue to provide additional context.
+
+### **2. Actions:**
+
+- Click **Save** to submit your feedback or bug report.
+- Use **Cancel** to discard the input if necessary.
