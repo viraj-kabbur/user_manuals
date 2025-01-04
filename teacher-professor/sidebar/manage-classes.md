@@ -7,7 +7,7 @@ description: >-
 
 # Manage Classes
 
-<figure><img src="../../.gitbook/assets/Untitled design(6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design(41).png" alt=""><figcaption></figcaption></figure>
 
 ### **1. Creating a Global Citizenship Class with RealBoard**
 
@@ -40,7 +40,7 @@ Provides a centralized view of all the classes you have created or are managing.
 
 ### **3. Join Class**
 
-Enables admins to join pre-existing classes.
+Enables Teachers/Professors to join pre existing classes.
 
 * **How It Works:**
   * Access class content, assignments, and RealBoard discussions seamlessly.
