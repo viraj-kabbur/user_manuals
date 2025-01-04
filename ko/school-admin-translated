@@ -1,59 +1,33 @@
----
-description: The License Management section allows school/university admins to monitor, manage, and purchase licenses to ensure smooth access to RealLives Simulation for their students.
----
+# View Students List
 
-# License Management
+### <mark style="background-color:blue;">Viewing allocated students -</mark>&#x20
 
-### **1. Active Licenses**
+Once you click on **Allocated Students**, you can see the allocated students list like so -
 
-This page provides an overview of the current licenses associated with your school or institution.
+This is a list of students with active licenses.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114647.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112311.png" alt=""><figcaption><p>List of allocated students</p></figcaption></figure>
 
-- **Key Details Displayed:**
-  - **Purchase Date:** Date when the license was acquired.
-  - **Product Type:** Type of license purchased (e.g., Small School - Type 1).
-  - **Licenses:** Total number of licenses available.
-  - **Price Paid:** Amount paid for the licenses.
-  - **Expiry Date:** Date when the license expires.
-- **Actions:**
-  - Use the **Renew License** button to extend the validity of expiring licenses.
-  - Export license data for record-keeping or institutional reporting using the **Export** button.
+### <mark style="background-color:blue;">Viewing de-allocated students -</mark>
 
-***
+Once you click on **De-allocated Students**, you can see the de-allocated students list like so -
 
-### **2. Orders**
+This is a list of students with inactive licenses.
 
-The Orders page provides a detailed history of past license purchases.
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112319 (1).png" alt=""><figcaption><p>List of de-allocated students</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114659.png" alt=""><figcaption></figcaption></figure>
+### <mark style="background-color:blue;">How to De-allocate a Student?</mark>
 
-- **Key Details Displayed:**
-  - **Purchase Date:** The date of purchase.
-  - **User:** The account associated with the order.
-  - **Product:** The type of license purchased.
-  - **Licenses:** Number of licenses included in the order.
-  - **Price Paid:** Total cost of the order.
-  - **Status:** Displays whether the payment was successful (e.g., **Paid**).
-- **Purpose:**
-  - Keep track of license purchase history for budget and planning.
-  - Verify payment statuses for completed orders.
+Simply head on to Students section situated in the Left Bar of the Dashboard and look for allocated student button under it. If not seen make sure you have pressed the arrow next to Students section and you have the full list of functionalities.
 
-***
+Press the allocated student list button, once done a page like this will be shown -&#x20
 
-#### **3. Buy License**
+Note down the available licenses - <mark style="background-color:red;">246</mark>
 
-This page allows you to purchase new licenses for your school or institution.
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 163704.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114707.png" alt=""><figcaption></figcaption></figure>
+The 'X' can be pressed to de-allocate a student which was previously allocated.
 
-- **Licensing Plans:**
-  - **Small School:** $149 for 250 licenses (1-year validity, $49 renewal fee).
-  - **Medium School:** $299 for 500 licenses (1-year validity, $99 renewal fee).
-  - **Big School:** $599 for 1100 licenses (1-year validity, $199 renewal fee).
-- **Payment Options:**
-  - Choose from **PayPal**, **Apple Pay**, or **Google Pay** for secure transactions.
-- **Steps to Purchase:**
-  1. Select the appropriate plan based on your institution's needs.
-  2. Click **Buy Now** and complete the payment.
-  3. The licenses will be immediately available under the **Active Licenses** section.
+The student was de-allocated. Also, the number of licenses increased from <mark style="background-color:red;">246 to 247.</mark>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 164159.png" alt=""><figcaption></figcaption></figure>
