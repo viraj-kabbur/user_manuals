@@ -1,77 +1,77 @@
 ---
 description: >-
-  We previously saw how the Home Page functions and what features it provides.
-  Now, let's take a dive into all the features it has to offer, one by one.
+  이전에 홈 페이지가 어떻게 작동하며 어떤 기능을 제공하는지 살펴보았습니다.
+  이제 제공되는 모든 기능을 하나씩 자세히 살펴보겠습니다.
 cover: >-
   https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYW5hZ2V8ZW58MHx8fHwxNzA5MjA4Nzg4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Managing Teachers/Professors
+# 교사/교수 관리하기
 
-### Point to know - Adding or removing Teachers/Professors will not affect the Licenses. Teachers/Professors and School admins can use the game for free, they won't take up any licenses. Only students will take up licenses.
+### 알아두기 - 교사/교수를 추가하거나 제거해도 라이선스에 영향을 미치지 않습니다. 교사/교수 및 학교 관리자는 게임을 무료로 사용할 수 있으며 라이선스를 소모하지 않습니다. 오직 학생들만 라이선스를 소모합니다.
 
-Once on home page, you can scroll down to see the Teachers/Professors section under School Management and Data.
+홈 페이지에 접속한 후 아래로 스크롤하면 학교 관리 및 데이터 섹션 아래에 **교사/교수** 항목을 볼 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121407.png" alt=""><figcaption></figcaption></figure>
 
-When you click on **Teachers**, a page like this will open up -
+**교사**를 클릭하면 아래와 같은 페이지가 열립니다 -
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121510.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:blue;">1. Import Teachers/Professors -</mark>
+### <mark style="background-color:blue;">1. 교사/교수 일괄 추가 -</mark>
 
-Should be used when adding multiple Teachers/Professors.
+여러 교사/교수를 추가할 때 사용합니다.
 
-Once you click on it, a page like so will be opened -
+클릭하면 아래와 같은 페이지가 열립니다 -
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121620.png" alt=""><figcaption></figcaption></figure>
 
-### Step 1 -
+### 1단계 -
 
-First click on the red button which will download a sample excel sheet like this -
+먼저 빨간 버튼을 클릭하여 아래와 같은 샘플 엑셀 파일을 다운로드합니다 -
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-29 133549.png" alt=""><figcaption></figcaption></figure>
 
-This is how the sample excel sheet will look like, as you can see there are 6 columns Firstname, Lastname, Age, Gender, e-mail and Designation. For reference we have already added information of two Teachers/Professors. All you have to do is fill the information of the Teachers/Professors you wish to add to the game. Once you add their information, save this excel sheet.
+샘플 엑셀 파일은 위와 같이 보이며, 6개의 열(이름, 성, 나이, 성별, 이메일, 직책)이 포함되어 있습니다. 참고용으로 이미 두 명의 교사/교수 정보가 입력되어 있습니다. 추가하려는 교사/교수의 정보를 입력한 후 이 엑셀 파일을 저장하세요.
 
-### Step 2 -
+### 2단계 -
 
-Click on the Browse button which is highlighted by white colour just below the red button. After doing this a page like this will open up.
+빨간 버튼 바로 아래 흰색으로 강조된 **탐색** 버튼을 클릭하세요. 그러면 아래와 같은 페이지가 열립니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121748.png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the information about the Teachers/Professors. Once done, then click on the Save button situated below the browse button. You will get Teachers/Professor Import Successful Prompt.
+추가하려는 교사/교수의 정보를 입력한 엑셀 파일을 선택합니다. 파일 선택 후 **저장** 버튼을 클릭하세요. 그러면 교사/교수 추가 성공 메시지가 나타납니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122100.png" alt=""><figcaption></figcaption></figure>
 
-Now the Teachers/Professors who were in the list will receive unique links on their e-mails, all they have to do is click those links and register themselves on RealLives. Their e-mail would be the username. Their default password will be 'password' for logging in. Teachers/Professors are recommended to change their password by going to the My Account section in the top right corner.
+목록에 있는 교사/교수는 고유 링크가 포함된 이메일을 받게 됩니다. 해당 링크를 클릭하여 RealLives에 등록하면 됩니다. 이메일은 사용자 이름으로 사용되며, 초기 비밀번호는 'password'입니다. 교사/교수는 오른쪽 상단의 **내 계정** 섹션에서 비밀번호를 변경하는 것이 좋습니다.
 
-You can view the Teachers/Professors by going to the view Teachers/Professors tab. Refer to the last slide below.
+교사/교수를 보려면 **교사/교수 보기** 탭으로 이동하세요. 아래 마지막 슬라이드를 참조하세요.
 
-### <mark style="background-color:red;">Note -</mark>
+### <mark style="background-color:red;">참고 -</mark>
 
-Make sure you enter e-mails which have not been previously registered on RealLives. If you enter e-mails which have already been registered, you will get such a prompt -
+RealLives에 이미 등록된 이메일을 입력하지 않도록 주의하세요. 이미 등록된 이메일을 입력하면 아래와 같은 메시지가 나타납니다 -
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121942.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:blue;">2. Add Single Teacher/Professor -</mark>
+### <mark style="background-color:blue;">2. 단일 교사/교수 추가 -</mark>
 
-Once you click on this, you will get the following page, fill all necessary information and save it. The username will be used to log in. The password can be later on changed by the Teacher/Professor.
+이 옵션을 클릭하면 아래와 같은 페이지가 표시됩니다. 필요한 정보를 모두 입력하고 저장하세요. 사용자 이름은 로그인에 사용되며, 비밀번호는 교사/교수가 나중에 변경할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122214.png" alt=""><figcaption></figcaption></figure>
 
-You can view if the Teacher/Professor has been added by going to the view Teachers/Professors tab. Refer to the last slide below.
+추가된 교사/교수는 **교사/교수 보기** 탭에서 확인할 수 있습니다. 마지막 슬라이드를 참조하세요.
 
-### <mark style="background-color:blue;">3. View Teachers/Professors list -</mark>
+### <mark style="background-color:blue;">3. 교사/교수 목록 보기 -</mark>
 
-**You can view the Teachers/Professors list by clicking on this.**
+**이 옵션을 클릭하여 교사/교수 목록을 볼 수 있습니다.**
 
-**Special Features -**
+**특별 기능 -**
 
-1. You can make any Teacher/Professor a school admin by clicking on the hand icon in their specific row.
-2. You can edit the Teachers/Professor's information by clicking on the pen icon in their specific row.
-3. You can also check the assignments and classes given by the Teachers/Professor by clicking on the semi-circular icon in their specific row.
-4. You can also export the list. Button is situated at the top and also reload or refresh the page.
+1. 특정 행에서 **손 모양 아이콘**을 클릭하여 교사/교수를 학교 관리자로 지정할 수 있습니다.
+2. 특정 행에서 **펜 아이콘**을 클릭하여 교사/교수의 정보를 수정할 수 있습니다.
+3. 특정 행에서 **반원 아이콘**을 클릭하여 교사/교수가 생성한 과제 및 클래스를 확인할 수 있습니다.
+4. **목록 내보내기** 버튼은 상단에 위치하며, 페이지를 새로 고침하거나 다시 로드할 수도 있습니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122239.png" alt=""><figcaption></figcaption></figure>
