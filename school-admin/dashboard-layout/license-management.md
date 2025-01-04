@@ -1,62 +1,61 @@
 ---
 description: >-
-  The License Management section allows school/university admins to monitor,
-  manage, and purchase licenses to ensure smooth access to RealLives Simulation
-  for their students.
+  라이선스 관리 섹션은 학교/대학교 관리자들이 RealLives 시뮬레이션에 원활히 접근할 수 있도록
+  라이선스를 모니터링, 관리, 구매할 수 있도록 도와줍니다.
 ---
 
-# License Management
+# 라이선스 관리
 
-### **1. Active Licenses**
+### **1. 활성 라이선스**
 
-This page provides an overview of the current licenses associated with your school or institution.
+이 페이지에서는 학교나 기관과 관련된 현재 라이선스의 개요를 제공합니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114647.png" alt=""><figcaption></figcaption></figure>
 
-* **Key Details Displayed:**
-  * **Purchase Date:** Date when the license was acquired.
-  * **Product Type:** Type of license purchased (e.g., Small School - Type 1).
-  * **Licenses:** Total number of licenses available.
-  * **Price Paid:** Amount paid for the licenses.
-  * **Expiry Date:** Date when the license expires.
-* **Actions:**
-  * Use the **Renew License** button to extend the validity of expiring licenses.
-  * Export license data for record-keeping or institutional reporting using the **Export** button.
+* **주요 세부 사항 표시:**
+  * **구매 날짜:** 라이선스를 획득한 날짜.
+  * **제품 유형:** 구매한 라이선스의 유형 (예: Small School - Type 1).
+  * **라이선스:** 사용 가능한 총 라이선스 수.
+  * **지불 금액:** 라이선스에 지불된 금액.
+  * **만료 날짜:** 라이선스가 만료되는 날짜.
+* **조치:**
+  * **라이선스 갱신** 버튼을 사용하여 만료 예정 라이선스의 유효 기간을 연장할 수 있습니다.
+  * **내보내기** 버튼을 사용하여 기록 보관 또는 기관 보고를 위해 라이선스 데이터를 내보낼 수 있습니다.
 
 ***
 
-### **2. Orders**
+### **2. 주문**
 
-The Orders page provides a detailed history of past license purchases.
+주문 페이지에서는 과거 라이선스 구매 내역을 자세히 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114659.png" alt=""><figcaption></figcaption></figure>
 
-* **Key Details Displayed:**
-  * **Purchase Date:** The date of purchase.
-  * **User:** The account associated with the order.
-  * **Product:** The type of license purchased.
-  * **Licenses:** Number of licenses included in the order.
-  * **Price Paid:** Total cost of the order.
-  * **Status:** Displays whether the payment was successful (e.g., **Paid**).
-* **Purpose:**
-  * Keep track of license purchase history for budget and planning.
-  * Verify payment statuses for completed orders.
+* **주요 세부 사항 표시:**
+  * **구매 날짜:** 구매한 날짜.
+  * **사용자:** 주문과 연결된 계정.
+  * **제품:** 구매한 라이선스 유형.
+  * **라이선스:** 주문에 포함된 라이선스 수.
+  * **지불 금액:** 주문의 총 비용.
+  * **상태:** 지불이 성공적으로 완료되었는지 표시 (예: **Paid**).
+* **목적:**
+  * 예산 및 계획을 위해 라이선스 구매 기록을 추적합니다.
+  * 완료된 주문의 지불 상태를 확인합니다.
 
 ***
 
-#### **3. Buy License**
+#### **3. 라이선스 구매**
 
-This page allows you to purchase new licenses for your school or institution.
+이 페이지에서는 학교나 기관을 위해 새 라이선스를 구매할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114707.png" alt=""><figcaption></figcaption></figure>
 
-* **Licensing Plans:**
-  * **Small School:** $149 for 250 licenses (1-year validity, $49 renewal fee).
-  * **Medium School:** $299 for 500 licenses (1-year validity, $99 renewal fee).
-  * **Big School:** $599 for 1100 licenses (1-year validity, $199 renewal fee).
-* **Payment Options:**
-  * Choose from **PayPal**, **Apple Pay**, or **Google Pay** for secure transactions.
-* **Steps to Purchase:**
-  1. Select the appropriate plan based on your institution's needs.
-  2. Click **Buy Now** and complete the payment.
-  3. The licenses will be immediately available under the **Active Licenses** section.
+* **라이선스 플랜:**
+  * **소규모 학교:** $149로 250 라이선스 (1년 유효, 갱신 비용 $49).
+  * **중규모 학교:** $299로 500 라이선스 (1년 유효, 갱신 비용 $99).
+  * **대규모 학교:** $599로 1100 라이선스 (1년 유효, 갱신 비용 $199).
+* **결제 옵션:**
+  * **PayPal**, **Apple Pay**, **Google Pay**를 통해 안전한 거래를 진행하세요.
+* **구매 단계:**
+  1. 기관의 요구 사항에 맞는 적절한 플랜을 선택하세요.
+  2. **구매하기** 버튼을 클릭하고 결제를 완료하세요.
+  3. 라이선스는 즉시 **활성 라이선스** 섹션에서 확인할 수 있습니다.
