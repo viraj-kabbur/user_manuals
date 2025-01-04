@@ -21,6 +21,10 @@
 
 ## Teacher/Professor
 
+* [Introduction](teacher-professor/introduction.md)
+* [Getting Started](teacher-professor/getting-started.md)
+* [Sidebar](teacher-professor/sidebar/README.md)
+  * [Home](teacher-professor/sidebar/home.md)
 * [Live a Life](teacher-professor/live-a-life.md)
 * [Home Page](teacher-professor/home-page.md)
 * [Dashboard Layout](teacher-professor/dashboard-layout/README.md)
