@@ -1,4 +1,13 @@
-# Adding Students
+---
+description: >-
+  The Students section allows school administrators to efficiently manage
+  student accounts, import students into the system, and monitor registration
+  status.
+---
+
+# Students
+
+
 
 ## <mark style="background-color:blue;">Adding/Importing Students</mark>
 
@@ -19,13 +28,13 @@ Let's see how each method works.
 
 Once you choose this option the following page will open up.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105859.png" alt=""><figcaption><p>Import Students by E-mail</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 105859.png" alt=""><figcaption><p>Import Students by E-mail</p></figcaption></figure>
 
 ### Step 1 -
 
 First click on the red button which will download a sample excel sheet like this -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
 
 This is how the sample excel sheet will look like, as you can see there is a column which says username. For reference we have already added two e-mails. All you have to do is fill the e-mails of the students you wish to add to the game. Once you add their e-mails, save this excel sheet.
 
@@ -33,17 +42,17 @@ This is how the sample excel sheet will look like, as you can see there is a col
 
 Click on the browse button which is highlighted by white colour just below the red button. After doing this a page like this will open up.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 110657.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 110657.png" alt=""><figcaption></figcaption></figure>
 
 All you have to do is to select the Excel file in which you have filled the e-mails. Once done, then click on the Import button situated below the browse button. You will get Student Import Successful Prompt. Now the students who were in the list will recieve unique links on their e-mails, all they have to do is click those links and register themselves on realLives.
 
 ### <mark style="background-color:blue;">Example of how an e-mail looks and how to register for the first time</mark>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>E-mail recieved by the student</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>E-mail recieved by the student</p></figcaption></figure>
 
 #### Once the Student recieves the e-mail, they have to just click on the register button and a new tab will be opened like so -
 
-<figure><img src="../../.gitbook/assets/99.png" alt=""><figcaption><p>Registration for the first time</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/99.png" alt=""><figcaption><p>Registration for the first time</p></figcaption></figure>
 
 #### The student has to fill in all the parameters mentioned, then click on the submit button. Now a new account will be created for the student which they can access by using their e-mail as the username and the password they have set while registering.
 
@@ -51,7 +60,7 @@ All you have to do is to select the Excel file in which you have filled the e-ma
 
 Make sure you enter e-mails which have not been previously registered on realLives. If you enter e-mails which have already been registered, you will get such a prompt -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 112343.png" alt=""><figcaption><p>Error prompt for already used e-mails</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 112343.png" alt=""><figcaption><p>Error prompt for already used e-mails</p></figcaption></figure>
 
 ### <mark style="background-color:blue;">2. Importing Students without e-mail</mark>
 
@@ -62,13 +71,13 @@ Make sure you enter e-mails which have not been previously registered on realLiv
 
 Once you choose this option the following page will open up.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114334.png" alt=""><figcaption><p>Import Students without e-mail</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 114334.png" alt=""><figcaption><p>Import Students without e-mail</p></figcaption></figure>
 
 ### Step 1 -
 
 First click on the red button which will download a sample excel sheet like this -
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
 
 This is how the sample excel sheet will look like, as you can see there are 5 columns Firstname, Lastname, Age, Gender and Grade. For reference we have already added information of two students. All you have to do is fill the information of the students you wish to add to the game. Once you add their information, save this excel sheet.
 
@@ -76,7 +85,7 @@ This is how the sample excel sheet will look like, as you can see there are 5 co
 
 Click on the browse button which is highlighted by white colour just below the red button. After doing so, a page like this will open up.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 115300.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 115300.png" alt=""><figcaption></figcaption></figure>
 
 All you have to do is to select the Excel file in which you have filled the information about the students. Once done, then click on the Save button situated below the browse button. You will get Student Import Successful Prompt.
 
@@ -84,7 +93,7 @@ All you have to do is to select the Excel file in which you have filled the info
 
 You can check if the students have been added by going to the Students tab located in the Left Bar of the Dashboard and clicking on Allocated Students.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 120102 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 120102 (1).png" alt=""><figcaption></figcaption></figure>
 
 For reference we had added John's and Linda's information in the Excel sheet above and uploaded it on the game, hence John and Linda have been added as students into the system.
 
@@ -98,7 +107,7 @@ Once here, they will have to enter their unique username provided by the Teacher
 
 Upon logging in the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 123745 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 123745 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="background-color:blue;">3. Adding Single Student</mark>
 
@@ -110,29 +119,29 @@ There are two ways you can add the student manually.
 
 The first scenario would be where the student has a valid School/University e-mail. The Teacher/Professor can go ahead by entering all the necessary information and setting the password by themselves, which the student can change later on. The e-mail entered will act as the username for the student, and all updates will be sent on that e-mail. Once the Teacher/Professor has filled in all the details, they have to save it.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 124602.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 124602.png" alt=""><figcaption></figcaption></figure>
 
 Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the Left Bar of the dashboard and then click on Allocated Students.
 
 As you can see Linda Jones has been successfully added.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130858.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 130858.png" alt=""><figcaption></figcaption></figure>
 
 After this the student can go to - [https://reallivesworld.com/login](https://reallivesworld.com/login)
 
 Here, they would enter their e-mail as the username and the password which is set by the Teacher/Professor.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Student login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Student login</p></figcaption></figure>
 
 ### <mark style="background-color:blue;">Scenario 2 -</mark>
 
 The second scenario would be where the student does not have a valid School/University e-mail. In such a case the Teacher/Professor will fill all the necessary information except the e-mail and save it.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130500.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 130500.png" alt=""><figcaption></figcaption></figure>
 
 Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the left part of the dashboard and then click on Allocated Students. As you can see Chuck Bass has been successfully added.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-29 130512.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 130512.png" alt=""><figcaption></figcaption></figure>
 
 Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.
 
@@ -142,4 +151,24 @@ Once here, they will have to enter their unique username (in this case chuckbass
 
 Upon logging in to the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+
+
+### <mark style="background-color:blue;">Viewing allocated students -</mark>&#x20;
+
+Once you click on **Allocated Students**, you can see the allocated students like so -
+
+This is a list of students with active licenses.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 131939.png" alt=""><figcaption><p>List of allocated students</p></figcaption></figure>
+
+### <mark style="background-color:blue;">Viewing de-allocated students -</mark>
+
+Once you click on **De-allocated Students**, you can see the de-allocated students like so -
+
+This is a list of students with inactive licenses.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 131954.png" alt=""><figcaption><p>List of de-allocated students</p></figcaption></figure>
