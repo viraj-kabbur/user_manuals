@@ -1,74 +1,152 @@
 ---
-description: We previously saw how the Home Page functions and what features it provides. Now, let's take a dive into all the features it has to offer, one by one.
-cover: https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYW5hZ2V8ZW58MHx8fHwxNzA5MjA4Nzg4fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
+description: Home gives you an overview of the all the major features that are available for you as a School/University Admin.
 ---
 
-# Managing Teachers/Professors
+# Home
 
-### Point to know - Adding or removing Teachers/Professors will not affect the Licenses. Teachers/Professors and School admins can use the game for free, they won't take up any licenses. Only students will take up licenses.
+<figure><img src="../../.gitbook/assets/Untitled design(10) (1).png" alt=""><figcaption></figcaption></figure>
 
-Once on home page, you can scroll down to see the Teachers/Professors section under School Management and Data.
+<figure><img src="../../.gitbook/assets/Untitled design(11).png" alt=""><figcaption><p>After scrolling down the home page</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121407.png" alt=""><figcaption></figcaption></figure>
+### **1] Create a** **Global Citizenship Class with Real Board:**&#x20
 
-When you click on **Teachers**, a page like this will open up -
+can be used to assign various tasks and assignments to students. For in-depth information on how to create a class with Real Board, check out this section -&#x20
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121510.png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="../create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
+{% endcontent-ref %}
 
-### <mark style="background-color:blue;">1. Import Teachers/Professors -</mark>
+### **2] School/University Management and Data**&#x20
 
-Should be used when adding multiple Teachers/Professors.
+allows you to check the number of Students and their status. Number of Teachers/Professors and their status can also be checked. School/University game data gives you a comprehensive view of the statistics and data of all the classes you have created. Personal game data comprises of statistics and information about the games you personally participated in.
 
-Once you click on it, a page like so will be opened -
+**Key Features -**&#x20
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121620.png" alt=""><figcaption></figcaption></figure>
+### i] Students&#x20
 
-### Step 1 -
+The process of adding and managing students is explained in the section below -&#x20
 
-First click on the red button which will download a sample excel sheet like this -
+{% content-ref url="students/" %}
+[students](students/)
+{% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-29 133549.png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="students/view-students-list.md" %}
+[view-students-list.md](students/view-students-list.md)
+{% endcontent-ref %}
 
-This is how the sample excel sheet will look like, as you can see there are 6 columns Firstname, Lastname, Age, Gender, e-mail and Designation. For reference we have already added information of two Teachers/Professors. All you have to do is fill the information of the Teachers/Professors you wish to add to the game. Once you add their information, save this excel sheet.
+***
 
-### Step 2 -
+### ii] Managing Teachers/Professors&#x20
 
-Click on the Browse button which is highlighted by white colour just below the red button. After doing this a page like this will open up.
+The process of adding and managing Teachers/Professors is explained in the section below -&#x20
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121748.png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="../managing-teachers-and-viewing-them.md" %}
+[managing-teachers-and-viewing-them.md](../managing-teachers-and-viewing-them.md)
+{% endcontent-ref %}
 
-All you have to do is to select the Excel file in which you have filled the information about the Teachers/Professors. Once done, then click on the Save button situated below the browse button. You will get Teachers/Professor Import Successful Prompt.
+***
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122100.png" alt=""><figcaption></figcaption></figure>
+### iii] School Game Data&#x20
 
-Now the Teachers/Professors who were in the list will receive unique links on their e-mails, all they have to do is click those links and register themselves on RealLives. Their e-mail would be the username. Their default password will be 'password' for logging in. Teachers/Professors are recommended to change their password by going to the My Account section in the top right corner.
+The School Game Data section provides school administrators with a comprehensive overview of student and teacher activity, license usage, and game-play data.
 
-You can view the Teachers/Professors by going to the view Teachers/Professors tab. Refer to the last slide below.
+**1. Dashboard Overview**
 
-### <mark style="background-color:red;">Note -</mark>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 130930.png" alt=""><figcaption></figcaption></figure>
 
-Make sure you enter e-mails which have not been previously registered on RealLives. If you enter e-mails which have already been registered, you will get such a prompt -
+The dashboard presents high-level data on school-wide engagement:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121942.png" alt=""><figcaption></figcaption></figure>
+- **Total Students:** Displays the total number of students enrolled in RealLives (e.g., **349 students**).
+- **Allocated Students:** Shows the number of students actively using licenses (e.g., **317 students**).
+- **Total Teachers:** Reflects the number of active teacher accounts (e.g., **6 teachers**).
+- **Countries Covered:** Highlights the diversity of simulations based on the number of countries explored (e.g., **108 countries**).
+- **License Usage:** Provides a visual representation of used vs. total licenses (e.g., **64% of 500 licenses used**).
 
-### <mark style="background-color:blue;">2. Add Single Teacher/Professor -</mark>
+***
 
-Once you click on this, you will get the following page, fill all necessary information and save it. The username will be used to log in. The password can be later on changed by the Teacher/Professor.
+**2. Weekly Report**
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122214.png" alt=""><figcaption></figcaption></figure>
+- Displays a graphical representation of weekly student engagement and activity.
+- Use this data to track trends and identify peaks or lulls in simulation usage.
 
-You can view if the Teacher/Professor has been added by going to the view Teachers/Professors tab. Refer to the last slide below.
+***
 
-### <mark style="background-color:blue;">3. View Teachers/Professors list -</mark>
+**3. Teacher and Student Management**
 
-**You can view the Teachers/Professors list by clicking on this.**
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 130945.png" alt=""><figcaption></figcaption></figure>
 
-**Special Features -**
+- **Teachers Table:** Lists all registered teachers, showing their name, last login date, status (**Active** or **Inactive**), and an **Edit** option for managing profiles.
+- **Students Table:** Displays student names, last login date, status (**Active** or **Inactive**), and an **Edit** option for profile adjustments.
+- **Purpose:** Quickly identify inactive accounts and ensure all teachers and students have access to simulations.
 
-1. You can make any Teacher/Professor a school admin by clicking on the hand icon in their specific row.
-2. You can edit the Teachers/Professor's information by clicking on the pen icon in their specific row.
-3. You can also check the assignments and classes given by the Teachers/Professor by clicking on the semi-circular icon in their specific row.
-4. You can also export the list. Button is situated at the top and also reload or refresh the page.
+***
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122239.png" alt=""><figcaption></figcaption></figure>
+**4. School Game Data**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131314.png" alt=""><figcaption></figcaption></figure>
+
+**1. Lives Overview**
+
+- **Lives in Progress:** Displays the total number of active simulations currently being played by students (e.g., **173 lives**).
+- **Completed Lives:** Tracks the number of lives that have been fully simulated (e.g., **21 lives**).
+
+**2. Gender Distribution**
+
+- Highlights the number of male and female lives simulated:
+
+**3. Geographic Coverage**
+
+- **Lives by Location:** Provides a world map visualization, showcasing the countries where lives have been simulated.
+
+***
+
+#### **5. Life Distribution**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131319.png" alt=""><figcaption></figcaption></figure>
+
+- **Distribution Types:** A pie chart breaks down life simulations by type, with a legend to identify categories such as:
+  - Random Life
+  - Design a Life
+  - SDG-Based Lives
+  - Life with Assignments
+  - Life Using Groups
+  - Age Skip Life
+- **Group Lives:** Tracks the number of lives simulated in group-based sessions (e.g., **105 group lives**).
+
+***
+
+#### **6. Sustainable Development Goals (SDG) Data**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131324.png" alt=""><figcaption></figcaption></figure>
+
+- **Top 4 SDGs:** Highlights the most chosen SDGs by students during simulations (e.g., Goal 1: No Poverty, 5 instances).
+- **Complete SDG Breakdown:** Provides a comprehensive view of all SDGs chosen, encouraging focus on real-world challenges like:
+  - No Poverty (Goal 1)
+  - Zero Hunger (Goal 2)
+  - Good Health and Well-Being (Goal 3)
+  - Quality Education (Goal 4)
+
+***
+
+#### **7. Leader board**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131327.png" alt=""><figcaption></figcaption></figure>
+
+- **Complete Lives Leaderboard:**
+  - Lists students ranked by the number of lives they have fully completed, promoting healthy competition.
+  - Includes student names, ranks, and the number of completed lives.
+- **Incomplete Lives Leaderboard:**
+  - Tracks students with simulations in progress, encouraging them to complete their lives.
+  - Displays names, ranks, and incomplete lives.
+
+***
+
+### iv] Personal Game Data
+
+This data is also displayed in the My Journey section in the sidebar, you can check it's functionality in the link below -
+
+{% content-ref url="my-journey.md" %}
+[my-journey.md](my-journey.md)
+{% endcontent-ref %}
+
+***
