@@ -15,7 +15,6 @@
   * [User Guides](school-admin/dashboard-layout/user-guides.md)
   * [License Management](school-admin/dashboard-layout/license-management.md)
   * [Feedback](school-admin/dashboard-layout/feedback.md)
-* [Live a Life](<README (1).md>)
 * [Create a Class with RealBoard](school-admin/create-a-class-with-realboard.md)
 * [Managing Teachers/Professors](school-admin/managing-teachers-and-viewing-them.md)
 * [Feedback for this manual](school-admin/feedback-for-this-manual.md)
