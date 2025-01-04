@@ -1,206 +1,206 @@
-# Create a class with RealBoard
+# RealBoard로 클래스 생성하기
 
-This section explains how teachers/professors can create a class integrated with RealBoard, allowing students to engage with RealLives and share their reflections and learning experiences in a private, school-only social network.
+이 섹션에서는 RealBoard와 통합된 클래스를 생성하는 방법을 설명합니다. 이를 통해 학생들은 RealLives에 참여하고, 자신들의 반성 및 학습 경험을 학교 전용 소셜 네트워크에서 공유할 수 있습니다.
 
-If you are unfamiliar with RealBoard, head on to the RealBoard Manual -
+RealBoard에 익숙하지 않다면 아래 RealBoard 매뉴얼을 참고하세요 -
 
-{% embed url="https://realboardmanual.reallivesworld.com/teacher-en" %}
+{% embed url="https://realboardmanual.reallivesworld.com/teacher-ko" %}
 
-## 1. Creating a Global Citizenship Class with RealBoard
+## 1. RealBoard로 글로벌 시민 클래스 생성
 
 <figure><img src="../.gitbook/assets/Untitled design(43).png" alt=""><figcaption></figcaption></figure>
 
-### - Navigating to 'Class Creation Tools'
+### - '클래스 생성 도구'로 이동
 
-* **Class Creation Tools Section:** Upon logging in, the first page visible under the **RealBoard** tab is the **Class Creation Tools** dashboard.
-* This page shows relevant options for managing classes and student progress.
+* **클래스 생성 도구 섹션:** 로그인 후 **RealBoard** 탭 아래의 첫 번째 페이지는 **클래스 생성 도구** 대시보드입니다.
+* 이 페이지는 클래스를 관리하고 학생들의 진행 상황을 추적하는 관련 옵션을 제공합니다.
 
-### **- Click on 'Creating a Global Citizenship Class with RealBoard'**
+### **- 'RealBoard로 글로벌 시민 클래스 생성' 클릭**
 
-* The prominent box titled **"Creating a Global Citizenship Class with RealBoard"** allows you to start the process of creating a new class focused on Global Citizenship.
-* **Total Classes:** Next to this title, teacher/professor will also see a counter indicating how many classes are currently active (e.g., "Total Classes: 21").\\
+* **"RealBoard로 글로벌 시민 클래스 생성"** 제목의 박스를 클릭하면 글로벌 시민 교육에 초점을 맞춘 새 클래스를 생성할 수 있습니다.
+* **총 클래스 수:** 제목 옆에 현재 활성 클래스의 개수를 표시하는 카운터가 있습니다 (예: "총 클래스: 21").
 
-## **2. Selecting Class Types in RealLives**
+## **2. RealLives의 클래스 유형 선택**
 
 <figure><img src="../.gitbook/assets/Untitled design(44).png" alt=""><figcaption></figcaption></figure>
 
-### **- Overview of Class Types**
+### **- 클래스 유형 개요**
 
-After selecting **Create a Class**, you are taken to the **Class Types** page. Here, you can choose from four distinct types of classes, each tailored to different educational goals and learning journeys.
+**클래스 생성**을 선택한 후 **클래스 유형** 페이지로 이동합니다. 여기에서 네 가지 서로 다른 클래스 유형 중 하나를 선택할 수 있으며, 각 유형은 특정 학습 목표와 학습 여정에 맞게 설계되었습니다.
 
-### **- Choose the Class Type that Fits Your Lesson Plan**
+### **- 수업 계획에 맞는 클래스 유형 선택**
 
-You will see four different options to create a class, each serving a unique purpose:
+클래스를 생성하기 위해 선택할 수 있는 네 가지 옵션이 표시되며, 각 옵션은 고유한 목적을 제공합니다.
 
-## **Random Life -**
+## **랜덤 라이프 -**
 
 <figure><img src="../.gitbook/assets/Untitled design(45).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** In this class, students are born into a random country, offering them an unpredictable experience of life. This class type encourages students to compare and contrast their lives with others, fostering critical thinking and promoting diversity of perspective.
-* **Purpose:** Best for promoting discussions on global diversity and enhancing empathy by placing students in unfamiliar life situations.
-* **Action:** Click the **Create** button to start setting up your Random Life class.
+* **설명:** 이 클래스에서는 학생들이 랜덤한 국가에서 태어나며, 예측할 수 없는 삶을 경험합니다. 이 클래스 유형은 학생들이 자신의 삶과 다른 삶을 비교하고 대조하며 비판적 사고와 다양한 관점을 장려합니다.
+* **목적:** 글로벌 다양성에 대한 논의를 촉진하고, 학생들이 낯선 상황에 놓이도록 하여 공감을 높이는 데 가장 적합합니다.
+* **조치:** **생성(Create)** 버튼을 클릭하여 랜덤 라이프 클래스를 설정하세요.
 
-## **3. Creating a Class with RealBoard :-**
+## **3. RealBoard로 클래스 생성**
 
-After choosing the class type and editing the board, this final page allows you to configure key details like the class name, description, students, teachers/professors, and assignment dates.
+클래스 유형을 선택하고 보드를 편집한 후, 마지막 페이지에서 클래스 이름, 설명, 학생, 교사/교수, 과제 날짜와 같은 주요 세부 정보를 설정할 수 있습니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/Untitled design(46).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(47).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**Step 1: Enter Class Name**
+**단계 1: 클래스 이름 입력**
 
-At the top of the page, you will see a field labeled **"Class Name:"**
+페이지 상단에 **"클래스 이름"** 필드가 표시됩니다.
 
-* Enter the appropriate name for your class (e.g., **Class 9A - Random Country**).
-* This name will help both you and your students easily identify the class.
+* 클래스의 적절한 이름을 입력하세요 (예: **Class 9A - 랜덤 국가**).
+* 이 이름은 교사와 학생 모두가 클래스를 쉽게 식별할 수 있도록 도와줍니다.
 
-**Step 2: Set the End Date**
+**단계 2: 종료 날짜 설정**
 
-Below the class name, you can set an **End Date** for the class.
+클래스 이름 아래에서 클래스 과제나 작업이 완료될 적절한 날짜를 설정할 수 있습니다.
 
-* Click the calendar icon to select the appropriate date by which the class assignments or tasks should be completed.
-* Once selected, click the check-mark to confirm the date.
+* 캘린더 아이콘을 클릭하여 날짜를 선택합니다.
+* 선택한 후 체크마크를 클릭하여 날짜를 확인합니다.
 
-**Step 3: Specify Age Group**
+**단계 3: 연령 그룹 지정**
 
-In the **Age Group** field, enter the relevant age group for the students participating in the class (e.g., 16).
+**연령 그룹** 필드에 클래스에 참여하는 학생들의 관련 연령 그룹을 입력하세요 (예: 16).
 
-**Step 4: Add Class Description**
+**단계 4: 클래스 설명 추가**
 
-In the **Class Description** field, you can provide an overview of what the class entails.
+**클래스 설명** 필드에서 클래스가 무엇을 포함하는지 개요를 제공할 수 있습니다.
 
-* **Example:** “This class will explore life simulations in random countries, encouraging critical thinking and global awareness.”
-* The description will be visible to students before they begin the simulation. Instructions or objectives can also be provided here to guide students on what they should focus on during the simulation.
+* **예시:** "이 클래스는 랜덤한 국가에서의 삶을 탐구하며 비판적 사고와 글로벌 인식을 장려합니다."
+* 설명은 학생들이 시뮬레이션을 시작하기 전에 표시됩니다. 학생들이 시뮬레이션 동안 집중해야 할 지침이나 목표를 여기에 제공할 수도 있습니다.
 
-**Step 5: Add Students**
+**단계 5: 학생 추가**
 
-**Select students:** In the **Students** section, you can choose which students to include in the class.
+**학생 선택:** **학생** 섹션에서 클래스에 포함할 학생을 선택할 수 있습니다.
 
-* On the left side, under **Selectable**, you’ll see a list of students enrolled in the system. You can search or scroll to find specific students.
-* Click on a student's name to add them to the class. Their name will move to the **Selected** column on the right.
-* **Example:** Eleanor Roberts, Mia Taylor, Harper Thomas, etc.
+* 왼쪽의 **선택 가능** 영역에서 시스템에 등록된 학생 목록을 확인할 수 있습니다. 특정 학생을 찾기 위해 검색하거나 스크롤하세요.
+* 학생 이름을 클릭하여 클래스로 추가하세요. 이름이 오른쪽의 **선택됨** 열로 이동합니다.
+* **예시:** Eleanor Roberts, Mia Taylor, Harper Thomas 등.
 
-**Step 6: Add teacher/professor**
+**단계 6: 교사/교수 추가**
 
-**Select teacher/professors:** You can also assign additional teachers/professors to the class.
+**교사/교수 선택:** 클래스에 추가적인 교사/교수를 지정할 수도 있습니다.
 
-* Scroll through or search for teachers/professors under **Selectable**. Click on the names of the teachers/professors who should be involved in this class.
-* The selected teacher/professor will appear in the right-hand **Selected** column.
-* **Example:** Atharva teacher, John Williams, Linda Jones, etc.
+* **선택 가능** 아래에서 교사/교수를 검색하거나 스크롤하여 찾습니다. 클래스에 포함할 교사/교수의 이름을 클릭하세요.
+* 선택된 교사/교수는 오른쪽 **선택됨** 열에 나타납니다.
+* **예시:** Atharva 교사, John Williams, Linda Jones 등.
 
-**Step 7: Finalize Class Creation**
+**단계 7: 클래스 생성 완료**
 
-Once you've added students, teachers/professors, and finalized other details, click the **Create a Class** button at the bottom of the screen.
+학생, 교사/교수를 추가하고 다른 세부 사항을 완료한 후 페이지 하단의 **클래스 생성(Create a Class)** 버튼을 클릭합니다.
 
-* This will create the class and automatically notify all selected students and teachers/professors.
-* They can then log into RealBoard to access the class and complete their assignments.
+* 클래스를 생성하면 선택한 모든 학생과 교사/교수에게 자동으로 알림이 전송됩니다.
+* 그들은 RealBoard에 로그인하여 클래스에 접근하고 과제를 완료할 수 있습니다.
 
-## **4. Editing Your Class Board with RealBoard :-**
+## **4. RealBoard에서 클래스 보드 편집**
 
-After clicking **Create**, the **Edit Board** page allows you to customize and configure your class board by naming it and adding sections for students to engage with. Here’s how to use this page effectively
+**생성(Create)**을 클릭한 후 **보드 편집** 페이지에서 클래스 보드의 이름을 지정하고, 학생들이 참여할 섹션을 추가하며 구성할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Untitled design(48).png" alt=""><figcaption></figcaption></figure>
 
-### **- Name your board**
+### **- 보드 이름 지정**
 
-* At the top of the page, you will see a field titled **"Name your board:"**.
-* Enter a suitable name for your class board (e.g., **"Global Citizenship Board"**, **"Environmental Issues Class"**, or **"World Cultures Discussion"**).
-* Once you've entered the name, click the **checkmark** icon to save it.
+* 페이지 상단에서 **"보드 이름"** 필드가 표시됩니다.
+* 클래스 보드의 적절한 이름을 입력하세요 (예: **"글로벌 시민 보드"**, **"환경 문제 클래스"**, 또는 **"세계 문화 토론"**).
+* 이름을 입력한 후 체크마크 아이콘을 클릭하여 저장하세요.
 
-### **- Editing Board Sections and Descriptions**
+### **- 보드 섹션 및 설명 편집**
 
-Each class board comes with predefined sections that students will interact with. These sections can be customized to fit the specific goals and learning outcomes of your class.
+각 클래스 보드는 학생들이 상호작용할 미리 정의된 섹션과 함께 제공됩니다. 이러한 섹션은 클래스의 특정 목표와 학습 결과에 맞게 사용자 정의할 수 있습니다.
 
-**How to Edit:** Click on the **pencil icon** to the right of the section title to modify the name or description. Customize this section according to your class focus (e.g., students can research countries or reflect on national issues).
+**편집 방법:** 섹션 제목 오른쪽의 **연필 아이콘**을 클릭하여 이름이나 설명을 수정하세요. 학생들이 국가를 조사하거나 국가적 문제를 반성할 수 있도록 이 섹션을 사용자 정의하세요.
 
-## **5. Viewing and Managing Created Classes**
+## **5. 생성된 클래스 보기 및 관리**
 
-After successfully creating your class, you will be directed to the **Create/View Classes with Global Citizenship Assignment** page. Here, you can manage and view all the classes you've created or are associated with.
+클래스를 성공적으로 생성한 후 **글로벌 시민 과제와 함께 클래스 생성/보기(Create/View Classes with Global Citizenship Assignment)** 페이지로 리디렉션됩니다. 여기에서 생성한 모든 클래스 또는 관련된 클래스를 관리하고 볼 수 있습니다.
 
-Alternately, you can view classes by going to Manage Classes in the sidebar and then clicking on the **My Class List** section.
+대체로, 사이드바의 **클래스 관리**로 이동한 후 **내 클래스 목록(My Class List)** 섹션을 클릭하여 클래스를 확인할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/Untitled design(49).png" alt=""><figcaption></figcaption></figure>
 
-At the top, you will see a green confirmation bar that reads **"Classes saved successfully."** This confirms that your new class has been successfully created and saved in the system.
+페이지 상단에는 **"클래스가 성공적으로 저장되었습니다."**라는 초록색 확인 메시지가 표시됩니다. 이는 새 클래스가 시스템에 성공적으로 생성 및 저장되었음을 확인합니다.
 
-## **6. Notifications and Access After Class Creation**
+## **6. 클래스 생성 후 알림 및 접근**
 
-### **- Student Notifications**
+### **- 학생 알림**
 
-Once a class is created, students who have been added to the class will automatically receive a **notification** in their RealLives account.
+클래스가 생성되면 클래스에 추가된 학생들은 RealLives 계정에서 자동으로 **알림**을 받습니다.
 
 <div><figure><img src="../.gitbook/assets/Untitled design(50).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(51).png" alt=""><figcaption></figcaption></figure></div>
 
-* This notification informs them that they have been added to a new class (e.g., **Class 9A - Random Country**).
-* Students can click the notification to view the class and begin playing their assigned life simulation.
+* 이 알림은 학생들에게 새로운 클래스에 추가되었음을 알립니다 (예: **Class 9A - 랜덤 국가**).
+* 학생들은 알림을 클릭하여 클래스를 확인하고 할당된 삶의 시뮬레이션을 시작할 수 있습니다.
 
-### **- Accessing the Class Board for teacher/professors**
+### **- 교사/교수를 위한 클래스 보드 접근**
 
 <figure><img src="../.gitbook/assets/Untitled design(52).png" alt=""><figcaption></figcaption></figure>
 
-teachers/professors can easily access the board they’ve created by clicking the **RealBoard** button in the sidebar of the dashboard.
+교사/교수는 대시보드의 사이드바에 있는 **RealBoard** 버튼을 클릭하여 생성한 보드에 쉽게 접근할 수 있습니다.
 
-* From there, they can view and manage the board, interact with students' posts, provide feedback, and monitor the progress of assignments.
+* 여기에서 보드를 확인하고 관리하며, 학생들의 게시물에 상호작용하거나 피드백을 제공하며, 과제 진행 상황을 모니터링할 수 있습니다.
 
-## Class Types in RealLives and Their Unique Features
+## RealLives 클래스 유형과 고유한 기능
 
-While the overall process of creating a class in RealLives remains consistent—adding a board name, editing sections, and entering class details—the class type you choose introduces unique features that tailor the learning experience to different objectives. Let’s explore how each class type differs and what specific opportunities they offer -
+RealLives에서 클래스를 생성하는 전체 과정은 보드 이름 추가, 섹션 편집, 클래스 세부 정보 입력 등으로 일관되지만, 선택한 클래스 유형에 따라 학습 경험이 다르게 조정됩니다. 각 클래스 유형의 차이점과 고유한 기회를 살펴보겠습니다:
 
 \
-Note - Random Life was discussed above.
+**참고:** 랜덤 라이프(Random Life)는 위에서 설명되었습니다.
 
-## **Specific Country**
+## **특정 국가(Specific Country)**
 
 <figure><img src="../.gitbook/assets/Untitled design(53).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** teachers/professors can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
-* **Purpose:** Ideal for lessons that require detailed exploration of a particular region.
-* **Action:** Click the **Create** button to begin setting up your Specific Country class.
+* **설명:** 교사/교수는 모든 학생이 특정 국가에서 태어나도록 설정할 수 있습니다. 이는 해당 국가의 문화, 경제, 사회 문제를 심층적으로 탐구하기에 적합합니다. 이 클래스 유형은 지리, 경제학, 사회학 수업에 이상적인 심층 연구를 지원합니다.
+* **목적:** 특정 지역에 대한 상세한 탐구가 필요한 수업에 적합합니다.
+* **조치:** **생성(Create)** 버튼을 클릭하여 특정 국가 클래스를 설정하세요.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 153355.png" alt=""><figcaption></figcaption></figure>
 
-In the **Specific Country** class, teachers/professors can select a specific country where all students will be born. This allows for focused exploration of that country’s culture, economy, and societal issues.
+**특정 국가** 클래스에서는 교사/교수가 모든 학생이 태어날 특정 국가를 선택할 수 있습니다. 이는 해당 국가의 문화, 경제 및 사회적 문제를 심층적으로 탐구하는 데 도움이 됩니다.
 
-* **Choosing a Country:** After selecting **Specific Country** as the class type, use the drop-down menu to select the country for your students to be born in.
+* **국가 선택:** **특정 국가**를 클래스 유형으로 선택한 후 드롭다운 메뉴를 사용하여 학생들이 태어날 국가를 선택하세요.
 
-Apart from selecting a country, the rest of the class creation flow remains the same as the **Random Life** process. Please refer to the **Random Life** flow above for detailed steps on setting up class details, editing board sections, and adding students and teachers/professors.
+국가를 선택하는 것 외에는, 나머지 클래스 생성 과정은 **랜덤 라이프(Random Life)** 과정과 동일합니다. 자세한 설정 단계는 위의 랜덤 라이프 과정을 참조하세요.
 
-## **Life with SDG**
+## **SDG와 함께하는 삶(Life with SDG)**
 
 <figure><img src="../.gitbook/assets/Untitled design(54).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** In this class, students choose a country but are tied to a specific **Sustainable Development Goal (SDG)**, such as poverty, inequality, or climate action.
-* **Purpose:** This is the most impactful class type for global citizenship, SDG-based learning, and encouraging solutions for global challenges.
-* **Action:** Click the **Create** button to start designing your SDG-based class.
+* **설명:** 이 클래스에서는 학생들이 특정 국가를 선택하지만, 특정 **지속 가능한 개발 목표(SDG)**, 예를 들어 빈곤, 불평등 또는 기후 행동에 초점을 맞춥니다.
+* **목적:** 글로벌 시민 교육, SDG 기반 학습, 글로벌 도전 과제 해결을 장려하는 데 가장 영향력 있는 클래스 유형입니다.
+* **조치:** **생성(Create)** 버튼을 클릭하여 SDG 기반 클래스를 설계하세요.
 
 <figure><img src="../.gitbook/assets/Untitled design(55).png" alt=""><figcaption></figcaption></figure>
 
-In the **Life with SDG** class, the teacher/professor selects one of the 17 Sustainable Development Goals (SDGs) to guide the focus of the class. After choosing a goal (e.g., **Climate Action**, **No Poverty**), students can:
+**SDG와 함께하는 삶** 클래스에서 교사/교수는 클래스의 초점을 안내하기 위해 17개의 지속 가능한 개발 목표(SDG) 중 하나를 선택합니다. 목표를 선택한 후 (예: **기후 행동**, **빈곤 퇴치**), 학생들은 다음을 수행할 수 있습니다:
 
-* Select any country to live in.
-* Explore how the chosen SDG affects life in different regions.
-* Engage with global challenges in a structured yet flexible way.
+* 살 국가를 선택합니다.
+* 선택한 SDG가 다양한 지역에서 삶에 어떤 영향을 미치는지 탐구합니다.
+* 구조적이지만 유연한 방식으로 글로벌 도전에 참여합니다.
 
-Once the teacher/professor sets the main SDG, students can further customize their experience by:
+교사/교수가 주요 SDG를 설정한 후, 학생들은 경험을 더욱 맞춤화할 수 있습니다:
 
-* Choosing specific subgoals related to the main SDG (e.g., access to healthcare under **Good Health and Well-Being**).
-* Understanding how these challenges play out in various countries.
+* 주요 SDG와 관련된 특정 하위 목표를 선택 (예: **좋은 건강과 웰빙** 아래의 의료 접근성).
+* 이러한 도전 과제가 다양한 국가에서 어떻게 전개되는지 이해.
 
-This class type combines real-world global issues with student freedom, allowing them to explore the impact of SDGs in different contexts. Rest of the class creation flow remains the same.
+이 클래스 유형은 실제 글로벌 문제와 학생의 자유를 결합하여, SDG가 다양한 맥락에서 미치는 영향을 탐구할 수 있습니다. 나머지 클래스 생성 과정은 동일합니다.
 
-## **Assignments**
+## **과제(Assignments)**
 
 <figure><img src="../.gitbook/assets/Untitled design(57).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. teachers/professors can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
-* **Purpose:** Best for highly customizable learning experiences focused on specific curriculum requirements.
-* **Action:** Click the **Create** button to begin setting up your Assignment class.
+* **설명:** 경제, 문화, 역사 또는 선택한 다른 주제를 기반으로 맞춤형 과제를 생성합니다. 교사/교수는 특정 목표를 할당하여 학생들이 커리큘럼 요구 사항에 따라 RealLives를 활용하도록 수업 경험을 맞춤화할 수 있습니다.
+* **목적:** 특정 커리큘럼 요구 사항에 초점을 맞춘 고도로 맞춤화된 학습 경험에 가장 적합합니다.
+* **조치:** **생성(Create)** 버튼을 클릭하여 과제 클래스를 설정하세요.
 
 <div><figure><img src="../.gitbook/assets/Untitled design(58).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(56).png" alt=""><figcaption></figcaption></figure></div>
 
-For the **Assignments** class type, the process is as follows:
+**과제** 클래스 유형의 과정은 다음과 같습니다:
 
-* **Step 1: Choosing a Subject:** The teacher/professor starts by selecting a subject from the available categories (e.g., **Human Geography**, **Economics**, **Environment & Ecology**). This subject will form the basis of the assignment and guide the learning focus.
-* **Step 2: Selecting an Assignment:** After selecting a subject, the teacher/professor will choose a specific assignment from a list. These assignments are linked to particular countries based on the chosen subject (e.g., “Be born in a country with the largest population” or “Be born in a country with the lowest girl education”).
-* **Step 3: Students' Experience:** Once the assignment is set, students will experience life in the country linked to the selected assignment, enabling them to explore the challenges and dynamics specific to that country.
+* **단계 1: 주제 선택:** 교사/교수는 사용 가능한 카테고리에서 주제를 선택 (예: **인문 지리학**, **경제학**, **환경 및 생태학**). 이 주제는 과제의 기초가 되며 학습 초점을 안내합니다.
+* **단계 2: 과제 선택:** 주제를 선택한 후 교사/교수는 목록에서 특정 과제를 선택합니다. 이러한 과제는 선택한 주제에 따라 특정 국가와 연결됩니다 (예: "가장 인구가 많은 국가에서 태어나기" 또는 "소녀 교육률이 가장 낮은 국가에서 태어나기").
+* **단계 3: 학생들의 경험:** 과제가 설정되면 학생들은 선택된 과제와 연결된 국가에서의 삶을 경험하며, 해당 국가의 도전 과제와 역학을 탐구할 수 있습니다.
 
-This approach allows teacher/professors to align assignments with learning objectives while offering students a focused, country-specific simulation. Rest of the class creation flow remains the same.
+이 접근 방식은 교사/교수가 학습 목표와 과제를 일치시키는 동시에, 학생들에게 집중적이고 국가별 시뮬레이션을 제공합니다. 나머지 클래스 생성 과정은 동일합니다.
