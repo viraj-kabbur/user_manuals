@@ -1,21 +1,20 @@
 ---
 description: >-
-  피드백 / 버그 보고 섹션은 교사와 교수가 RealLives 시뮬레이션 플랫폼을 개선하기 위해
-  문제를 보고하거나 제안을 공유할 수 있도록 합니다.
+  Sektionen för Feedback / Buggrapport låter lärare och professorer rapportera problem eller dela förslag för att förbättra RealLives Simulation-plattformen.
 ---
 
-# 피드백
+# Feedback
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 150606.png" alt=""><figcaption></figcaption></figure>
 
-### **1. 피드백 또는 버그 보고 제출하기**
+### **1. Skicka in Feedback eller Buggrapporter**
 
-* **제목:** 피드백이나 문제를 간단하고 명확하게 요약하는 제목을 입력하세요 (예: "로그인 오류" 또는 "기능 제안").
-* **설명:** 피드백 또는 버그에 대한 상세한 설명을 작성하세요. 문제가 재현될 경우, 그 단계를 포함하세요.
-* **유형:** 드롭다운 메뉴에서 **버그(Bug)**, **기능 요청(Feature Request)** 또는 **일반 피드백(General Feedback)**과 같은 적절한 범주를 선택하세요.
-* **스크린샷 첨부:** 선택적으로 특정 페이지나 문제에 대한 추가적인 맥락을 제공하기 위해 스크린샷을 업로드할 수 있습니다.
+* **Titel:** Ange en kort och tydlig titel som sammanfattar feedbacken eller problemet (t.ex. "Inloggningsfel" eller "Förslag på funktion").
+* **Beskrivning:** Ge en detaljerad förklaring av feedbacken eller buggen. Om problemet går att återskapa, inkludera stegen för att återskapa det.
+* **Typ:** Välj lämplig kategori från rullgardinsmenyn, såsom **Bug**, **Förfrågan om funktion** eller **Allmän feedback**.
+* **Bifoga skärmdumpar:** Ladda upp skärmdumpar för att ge ytterligare kontext för en specifik sida eller problem.
 
-### **2. 조치:**
+### **2. Åtgärder:**
 
-* **저장(Save):** 피드백 또는 버그 보고서를 제출하려면 클릭하세요.
-* **취소(Cancel):** 필요시 입력한 내용을 취소하려면 클릭하세요.
+* **Spara:** Klicka för att skicka in din feedback eller buggrapport.
+* **Avbryt:** Klicka för att kasta bort den inmatade informationen om det behövs.
