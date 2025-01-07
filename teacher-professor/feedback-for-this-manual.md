@@ -1,10 +1,10 @@
 ---
 description: >-
-  이 매뉴얼을 개선할 수 있는 방법을 아래 구글 폼을 통해 알려주세요.
+  Låt oss veta hur vi kan förbättra denna manual genom Google Formuläret nedan.
 ---
 
-# 매뉴얼 피드백
+# Manual Feedback
 
-여러분의 의견을 소중히 생각합니다! 이 매뉴얼을 개선할 수 있는 제안이나 문제를 보고하려면 아래 링크를 클릭하여 피드백 폼에 접속하세요:
+Vi värdesätter din feedback! Om du har förslag på hur vi kan förbättra denna manual eller om du vill rapportera ett problem, klicka på länken nedan för att komma åt feedbackformuläret:
 
 {% embed url="https://forms.gle/2FWURwdY1uuEbqNy7" %}
