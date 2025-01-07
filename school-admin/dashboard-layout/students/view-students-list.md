@@ -1,33 +1,33 @@
-# View Students List
+# Visa studentlista
 
-### <mark style="background-color:blue;">Viewing allocated students -</mark>&#x20;
+### <mark style="background-color:blue;">Visa tilldelade studenter -</mark>&#x20;
 
-Once you click on **Allocated Students**, you can see the allocated students list like so -
+När du klickar på **Tilldelade studenter** kan du se listan över tilldelade studenter som ser ut så här:
 
-This is a list of students with active licenses.
+Detta är en lista över studenter med aktiva licenser.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112311.png" alt=""><figcaption><p>List of allocated students</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112311.png" alt=""><figcaption><p>Lista över tilldelade studenter</p></figcaption></figure>
 
-### <mark style="background-color:blue;">Viewing de-allocated students -</mark>
+### <mark style="background-color:blue;">Visa av-tilldelade studenter -</mark>
 
-Once you click on **De-allocated Students**, you can see the de-allocated students list like so -
+När du klickar på **Av-tilldelade studenter** kan du se listan över av-tilldelade studenter som ser ut så här:
 
-This is a list of students with inactive licenses.
+Detta är en lista över studenter med inaktiva licenser.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112319 (1).png" alt=""><figcaption><p>List of de-allocated students</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112319 (1).png" alt=""><figcaption><p>Lista över av-tilldelade studenter</p></figcaption></figure>
 
-### <mark style="background-color:blue;">How to De-allocate a Student?</mark>
+### <mark style="background-color:blue;">Hur av-tilldelar man en student?</mark>
 
-Simply head on to Students section situated in the Left Bar of the Dashboard and look for allocated student button under it. If not seen make sure you have pressed the arrow next to Students section and you have the full list of functionalities.
+Gå helt enkelt till avsnittet **Studenter** i vänstra menyn på instrumentpanelen och leta efter knappen för tilldelade studenter under det. Om det inte visas, se till att du har tryckt på pilen bredvid avsnittet **Studenter** för att visa hela listan med funktioner.
 
-Press the allocated student list button, once done a page like this will be shown -&#x20;
+Tryck på knappen för listan över tilldelade studenter, när det är gjort visas en sida som ser ut så här:&#x20;
 
-Note down the available licenses - <mark style="background-color:red;">246</mark>
+Notera de tillgängliga licenserna: <mark style="background-color:red;">246</mark>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 163704.png" alt=""><figcaption></figcaption></figure>
 
-The 'X' can be pressed to de-allocate a student which was previously allocated.
+'X' kan tryckas för att av-tilldela en student som tidigare var tilldelad.
 
-The student was de-allocated. Also, the number of licenses increased from <mark style="background-color:red;">246 to 247.</mark>
+Studenten av-tilldelades. Dessutom ökade antalet licenser från <mark style="background-color:red;">246 till 247.</mark>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 164159.png" alt=""><figcaption></figcaption></figure>
