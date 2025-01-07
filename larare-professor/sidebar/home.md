@@ -1,6 +1,7 @@
 ---
 description: >-
-  Hem sidan ger en översikt över viktiga funktioner för skol-/universitetsadministratörer.
+  Hem sidan ger en översikt över viktiga funktioner för
+  skol-/universitetsadministratörer.
 ---
 
 # Hem
@@ -13,8 +14,8 @@ description: >-
 
 Du kan använda denna funktion för att tilldela olika uppgifter och aktiviteter till elever. För detaljerad information om hur du skapar klasser med RealBoard, se sektionen nedan:
 
-{% content-ref url="../../school-admin/create-a-class-with-realboard.md" %}
-[create-a-class-with-realboard.md](../../school-admin/create-a-class-with-realboard.md)
+{% content-ref url="../../skol-universitetsadministrator/create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../../skol-universitetsadministrator/create-a-class-with-realboard.md)
 {% endcontent-ref %}
 
 ### **2] Hantera Skol-/Universitetsdata**
@@ -138,8 +139,8 @@ Instrumentpanelen ger deltagardata för hela skolan:
 
 Denna data är också tillgänglig under sektionen **Min resa** i sidomenyn. För detaljer, se länken nedan:
 
-{% content-ref url="../../school-admin/dashboard-layout/my-journey.md" %}
-[my-journey.md](../../school-admin/dashboard-layout/my-journey.md)
+{% content-ref url="../../skol-universitetsadministrator/dashboard-layout/my-journey.md" %}
+[my-journey.md](../../skol-universitetsadministrator/dashboard-layout/my-journey.md)
 {% endcontent-ref %}
 
 ***

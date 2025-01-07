@@ -1,9 +1,11 @@
 ---
 description: >-
-  Sektionen för Klasshantering är utformad för att hjälpa skoladministratörer att effektivt skapa och hantera Global Citizenship-klasser genom att integrera RealBoard för samarbetsinlärning och meningsfullt lärande.
+  Sektionen för Klasshantering är utformad för att hjälpa skoladministratörer
+  att effektivt skapa och hantera Global Citizenship-klasser genom att integrera
+  RealBoard för samarbetsinlärning och meningsf
 ---
 
-# Klasshantering
+# Hantera klasser
 
 <figure><img src="../../.gitbook/assets/Untitled design(41).png" alt=""><figcaption></figcaption></figure>
 

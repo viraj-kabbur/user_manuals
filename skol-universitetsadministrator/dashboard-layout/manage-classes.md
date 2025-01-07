@@ -2,7 +2,7 @@
 description: >-
   Avsnittet Hantera klasser är utformat för att hjälpa skoladministratörer att
   effektivt skapa och hantera Global Citizenship-klasser genom att integrera
-  RealBoard för samarbetsinriktat och meningsfullt lärande.
+  RealBoard för samarbetsinriktat och meningsfullt
 ---
 
 # Hantera klasser
@@ -19,7 +19,7 @@ Denna funktion låter dig skapa klasser som använder RealBoard för förbättra
   2. Anpassa klassen genom att anpassa den till specifika mål eller uppdrag.
   3. Bjud in elever och tilldela uppgifter genom RealBoard.
 
-För en detaljerad guide om hur du skapar en klass med RealBoard, kolla in länken nedan -&#x20;
+För en detaljerad guide om hur du skapar en klass med RealBoard, kolla in länken nedan -
 
 {% content-ref url="../create-a-class-with-realboard.md" %}
 [create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
