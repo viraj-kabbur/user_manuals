@@ -17,32 +17,32 @@ layout:
     visible: true
 ---
 
-# 소개
+# Introduktion
 
-### RealLives 시뮬레이션 소개
+### Introduktion till RealLives-simuleringen
 
-RealLives는 인생의 다채로운 모습과 복잡성을 체험할 수 있는 게임화된 시뮬레이션입니다. 이 시뮬레이션에서는 태어날 때부터 죽음에 이르기까지 평생 동안 발생할 수 있는 수많은 예측 불가능한 상황에 도전할 수 있습니다.
+RealLives är en spelifierad simulering som låter dig uppleva livets mångfald och komplexitet. I denna simulering kan du utmana otaliga oförutsägbara scenarier som kan uppstå under en livstid, från födsel till död.
 
-RealLives에서는 전 세계의 다양한 문화와 국가에서 반복되지 않는 수십억 개의 인생을 플레이할 수 있습니다!
+I RealLives kan du spela miljarder unika liv över olika kulturer och länder världen över!
 
-교사/교수로서 원하시는 인생을 선택하여 '인생 체험(Live a Life)' 버튼을 클릭하면 게임을 시작할 수 있습니다. 아래에서 데모 게임을 체험해보세요.
-
-***
-
-### 대시보드의 목적
-
-RealLives 시뮬레이션 대시보드는 교사/교수를 위한 강력한 도구입니다. 이 대시보드는 클래스를 관리하고, 학생의 진행 상황을 모니터링하며, 지속 가능한 개발 목표(SDG)와 같은 교육 목표에 시뮬레이션을 정렬하는 중앙 인터페이스를 제공합니다. 이 대시보드는 기술과 학습을 연결하며, 데이터 기반의 통찰을 통해 학생 참여와 글로벌 시민 교육을 강화합니다.
+Som lärare/professor kan du välja det liv du vill uppleva och starta spelet genom att klicka på knappen 'Lev ett liv'. Prova demo-spelet nedan.
 
 ***
 
-### 주요 기능 개요
+### Syftet med instrumentpanelen
 
-RealLives 시뮬레이션 대시보드는 관리를 간소화하고 학습 결과를 향상하기 위한 다양한 기능을 제공합니다:
+RealLives Simulation Dashboard är ett kraftfullt verktyg för lärare/professorer. Denna instrumentpanel fungerar som ett centralt gränssnitt för att hantera klasser, följa studenternas framsteg och anpassa simuleringar till utbildningsmål som de globala målen för hållbar utveckling (SDG). Instrumentpanelen förenar teknologi och lärande och förbättrar studentengagemang och global medborgarskapsutbildning genom datadrivna insikter.
 
-* **내 여정(My Journey):** 게임 데이터 보기, 진행 상황 추적, 지리적 및 성별 기반 시뮬레이션 경향 분석.
-* **RealBoard 통합:** RealLives 시뮬레이션을 RealBoard와 연결하여 학생 상호작용과 공유 반영을 위한 협업 플랫폼 제공.
-* **클래스 관리:** 글로벌 시민 클래스를 쉽게 생성, 모니터링, 관리하며 맞춤형 과제를 배정.
-* **세계 데이터 + SDG 도구:** 글로벌 데이터셋에 접근하고 SDG와 시뮬레이션을 연결하여 교육 경험을 풍부하게 만듦.
-* **피드백 및 지원:** 버그 보고, 피드백 제공, 사용자 가이드 접근으로 플랫폼 사용을 원활히 지원.
+***
+
+### Översikt över viktiga funktioner
+
+RealLives Simulation Dashboard erbjuder en mängd funktioner för att effektivisera hantering och förbättra läranderesultat:
+
+* **Min resa:** Visa speldata, följ framsteg och analysera trender i simuleringarna baserat på geografi och kön.
+* **RealBoard-integration:** Koppla RealLives Simulation till RealBoard för att skapa en samarbetsplattform för studentinteraktion och delade reflektioner.
+* **Klasshantering:** Skapa, övervaka och hantera klasser för globalt medborgarskap medan du tilldelar skräddarsydda uppgifter.
+* **Världsdata + SDG-verktyg:** Få tillgång till globala datasätt och berika utbildningserfarenheter genom att koppla simuleringar till SDG-målen.
+* **Feedback och support:** Rapportera buggar, ge feedback och få tillgång till användarguider för en smidig användning av plattformen.
 
 ***
