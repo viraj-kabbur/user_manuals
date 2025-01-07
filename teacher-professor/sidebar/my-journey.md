@@ -1,114 +1,114 @@
-# 내 여정(My Journey)
+# Min resa
 
-### **1. 내 게임 플레이 데이터: 진행 상황과 통찰**
+### **1. Min Speldata: Framsteg och Insikter**
 
-이 섹션은 시뮬레이션 활동에 대한 자세한 개요를 제공하며, 교사/교수가 진행 상황, 성별 분포 및 RealLives 시뮬레이션의 지리적 다양성을 모니터링할 수 있도록 돕습니다.
+Denna sektion ger en detaljerad översikt över simuleringens aktiviteter, vilket hjälper lärare/professorer att övervaka framsteg, könsfördelning och geografisk mångfald inom RealLives simuleringar.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 144808.png" alt=""><figcaption></figcaption></figure>
 
-**진행 중인 삶:**&#x20;
+**Pågående liv:**  
 
-현재 사용자가 진행 중인 시뮬레이션의 총 수를 표시합니다 (예: **67개**).
+Visar det totala antalet simuleringar som för närvarande pågår för användaren (t.ex. **67 pågående**).
 
-**완료된 삶:**&#x20;
+**Slutförda liv:**  
 
-완료된 시뮬레이션의 수를 나타냅니다 (예: **7개**).
+Visar antalet slutförda simuleringar (t.ex. **7 slutförda**).
 
-**성별 분포:**&#x20;
+**Könsfördelning:**  
 
-시뮬레이션에서 표현된 성별의 분포를 보여줍니다:
+Visar könsfördelningen av de liv som simuleras:
 
-* **남성 삶:** 시뮬레이션된 남성 캐릭터의 수를 표시합니다 (예: **41개**).
-* **여성 삶:** 시뮬레이션된 여성 캐릭터의 수를 표시합니다 (예: **33개**).
+* **Manliga liv:** Antalet manliga karaktärer som simuleras (t.ex. **41 manliga liv**).
+* **Kvinnliga liv:** Antalet kvinnliga karaktärer som simuleras (t.ex. **33 kvinnliga liv**).
 
 ***
 
-### **2. 위치별 삶: 지리적 참여 모니터링**
+### **2. Liv baserat på plats: Övervakning av geografiskt deltagande**
 
-"위치별 삶(Lives by Location)" 기능은 RealLives 시뮬레이션 대시보드에서 전 세계적으로 실행된 시뮬레이션 위치를 상호작용 방식으로 제공합니다. 이 도구는 교사/교수에게 활동을 추적하고, 다양성을 분석하며, 학생들이 새로운 지역을 탐구하도록 장려하는 데 도움을 줍니다.
+Funktionen "Liv baserat på plats" erbjuder en interaktiv visualisering av simuleringens platser världen över från RealLives Simulation Dashboard. Den hjälper lärare/professorer att spåra aktiviteter, analysera mångfald och uppmuntra elever att utforska nya regioner.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 145026.png" alt=""><figcaption></figcaption></figure>
 
-**i] 지도 인터페이스**
+**i] Kartgränssnitt**
 
-세계 지도는 시뮬레이션된 삶의 종합적인 시각화를 제공합니다:
+Världskartan ger en omfattande visualisering av simulerade liv:
 
-* **파란색 숫자 마커:** 특정 지역의 삶 클러스터를 나타냅니다. 예를 들어, **인도**에서 4개의 시뮬레이션이 실행되었고 **중동**에서 9개의 시뮬레이션이 실행되었습니다.
-* **빨간 핀:** 특정 국가에서 실행된 개별 시뮬레이션을 표시합니다 (예: **캐나다** 및 **러시아**).
+* **Blå nummermarkörer:** Representerar kluster av liv i ett specifikt område. Till exempel, **4 simuleringar** genomfördes i **Indien**, och **9 simuleringar** i **Mellanöstern**.
+* **Röda nålar:** Anger individuella simuleringar i specifika länder (t.ex. **Kanada** och **Ryssland**).
 
-이 마커를 검토하면 시뮬레이션이 집중된 위치와 추가 탐험이 필요한 지역을 빠르게 식별할 수 있습니다.
+Genom att granska dessa markörer kan du snabbt identifiera koncentrerade simuleringsplatser och regioner som behöver vidare utforskning.
 
-**ii] 데이터 요약**
+**ii] Dataöversikt**
 
-지도 아래에는 글로벌 참여를 요약한 주요 통계가 표시됩니다:
+Under kartan sammanfattar nyckelstatistik globalt deltagande:
 
-* **탐험된 국가:** 학생들이 시뮬레이션 중 탐험한 **193개 국가 중 55개**를 보여주며, 시뮬레이션의 글로벌 다양성을 강조합니다.
-* **진행률 막대:** 시뮬레이션을 통해 **세계의 28%**가 탐험되었음을 나타내며, 학생들이 덜 알려진 지역을 탐구하도록 장려할 필요성을 강조합니다.
+* **Utforskade länder:** Visar **55 av 193 länder** som utforskats under simuleringar, vilket framhäver global mångfald.
+* **Framstegsbar:** Indikerar att **28% av världen** har utforskats genom simuleringar, vilket betonar behovet att uppmuntra elever att upptäcka mindre kända regioner.
 
 ***
 
-### **3. 분포 및 SDG 통찰: 삶 유형과 목표 모니터링**
+### **3. Distribution och SDG-insikter: Övervakning av livstyper och mål**
 
-이 섹션은 교사와 교수가 시뮬레이션된 삶의 유형과 지속 가능한 개발 목표(SDG)와의 정렬을 분석하는 데 도움을 줍니다. 삶 유형, 그룹 활동 및 가장 자주 다뤄지는 SDG에 대한 개요를 제공합니다.
+Denna sektion hjälper lärare och professorer att analysera simulerade livstyper och deras koppling till de globala målen för hållbar utveckling (SDG). Den ger en översikt över livstyper, gruppaktiviteter och de mest frekvent adresserade SDG-målen.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 145300.png" alt=""><figcaption></figcaption></figure>
 
-**주요 기능:**
+**Nyckelfunktioner:**
 
-**i] 삶 유형의 분포**
+**i] Distribution av livstyper**
 
-원형 차트는 삶의 시뮬레이션을 유형에 따라 시각적으로 나타냅니다:
+Ett cirkeldiagram visualiserar simulerade liv efter typ:
 
-* **그룹 삶(강조됨):** 그룹을 사용하여 시뮬레이션된 삶의 수를 표시합니다 (예: **52개**).
-* **삶 유형 범례:**
-  * 주황색 (랜덤 라이프): 랜덤하게 생성된 삶.
-  * 노란색 (삶 설계): 학생들이 커스터마이징한 삶.
-  * 녹색 (SDG): SDG와 정렬된 삶.
-  * 짙은 녹색 (과제가 포함된 삶): 교실 과제의 일환으로 생성된 삶.
-  * 연한 녹색 (그룹을 사용하는 삶): 그룹에서 협력적으로 시뮬레이션된 삶.
-  * 파란색 (나이 건너뛰기 삶): 연령 이정표를 건너뛰어 삶의 다양한 단계를 빠르게 탐험.
+* **Grupp-liv (Framhävda):** Antalet liv simulerade tillsammans i grupper (t.ex. **52 grupp-liv**).
+* **Livstyp Legend:**
+  * Orange (Random Life): Slumpmässigt genererade liv.
+  * Gul (Designa ett liv): Anpassade liv skapade av elever.
+  * Grön (SDG): Liv kopplade till SDG.
+  * Mörkgrön (Liv med uppgifter): Liv skapade som en del av klassuppgifter.
+  * Ljusgrön (Liv med grupper): Samarbetsliv som simulerats i grupp.
+  * Blå (Ålder hoppa liv): Liv som hoppar över åldersmilstenar för snabb utforskning av livsstadier.
 
-**ii] 상위 4개 SDG**
+**ii] Topp 4 SDG**
 
-가장 자주 선택된 SDG와 각 목표에 연결된 삶의 수를 표시합니다:
+Visar de mest frekvent valda SDG-målen och antalet liv kopplade till varje mål:
 
-* **목표 1 (빈곤 퇴치):** 빈곤 문제를 다루는 삶 (예: **4개**).
-* **목표 2 (기아 해소):** 식량 안보를 탐구하는 삶 (예: **4개**).
-* **목표 3 (성평등):** 성평등을 촉진하는 삶 (예: **4개**).
-* **목표 13 (기후 행동):** 기후 문제에 초점을 맞춘 삶 (예: **4개**).
+* **Mål 1 (Ingen fattigdom):** Liv som adresserar fattigdomsfrågor (t.ex. **4 liv**).
+* **Mål 2 (Ingen hunger):** Liv som utforskar livsmedelssäkerhet (t.ex. **4 liv**).
+* **Mål 3 (Jämställdhet):** Liv som främjar jämställdhet (t.ex. **4 liv**).
+* **Mål 13 (Klimatåtgärder):** Liv som fokuserar på klimatutmaningar (t.ex. **4 liv**).
 
 ***
 
-### **4. SDG 개요: 목표 정렬 추적**
+### **4. SDG-översikt: Spåra målens anpassning**
 
-이 섹션은 학생들이 RealLives 시뮬레이션에서 삶을 생성할 때 선택한 지속 가능한 개발 목표(SDG)에 대한 상세 요약을 제공합니다. 이를 통해 교사와 교수가 시뮬레이션이 글로벌 과제 및 교육 우선순위와 어떻게 정렬되는지 이해할 수 있습니다.
+Denna sektion ger en detaljerad sammanfattning av de globala målen för hållbar utveckling (SDG) som valts av elever under skapandet av liv i RealLives simuleringar. Det hjälper lärare/professorer att förstå hur simuleringarna kopplas till globala utmaningar och utbildningsprioriteringar.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 145459.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### **5. 장기기증 및 표현: 기여 추적**
+### **5. Organ Donation och Uttryck: Spåra bidrag**
 
-이 섹션은 교사와 교수가 플레이어의 장기 기증 기여와 RealLives 시뮬레이션에서의 주요 삶 이벤트 및 표현을 추적할 수 있도록 합니다.
+Denna sektion gör det möjligt för lärare/professorer att spåra spelares organdonationsbidrag och viktiga livshändelser eller uttryck i RealLives simuleringar.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 145506.png" alt=""><figcaption></figcaption></figure>
 
-**i] 장기 기증 개요**
+**i] Översikt över Organdonation**
 
-플레이어가 한 다양한 장기 기증의 상태를 아이콘으로 나타냅니다:
+Ikoner representerar statusen för olika organdonationer som spelarna gjort:
 
-* **간, 눈, 심장, 신장, 폐, 피부:** 기증이 이루어지지 않은 경우 **"아직 기증하지 않음"**으로 표시됩니다.
-* **혈액 기증:** 기증한 혈액의 양을 추적합니다 (예: **1병 기증**).
+* **Lever, ögon, hjärta, njurar, lungor, hud:** Markeras som **"Ej donerat än"** om donationer inte har gjorts.
+* **Bloddonation:** Spårar mängden blod som donerats (t.ex. **1 pint donerat**).
 
-이 데이터는 플레이어의 건강 및 사회적 기여를 강조합니다.
+Denna data framhäver spelares hälsa och sociala bidrag.
 
-**ii] 플레이어 표현**
+**ii] Spelaruttryck**
 
-플레이어의 상호작용이나 주목할 만한 이벤트의 요약을 표시합니다:
+Sammanfattar spelares interaktioner eller anmärkningsvärda händelser:
 
-* **기록된 표현:** 주요 삶 이벤트와 플레이어의 반응 또는 의견을 보여줍니다.
-  * 예시: **"당신은 오늘 사망 상태로 태어났습니다."**
-  * **표현:** 플레이어가 표현한 의견 또는 생각 (예: **"OMG, I am dead already"**).
-  * **세부 정보:** 플레이어의 이름 (**Adao Faisao**) 및 국가 (**Micronesia**)를 포함합니다.
+* **Inspelade uttryck:** Framlyser viktiga livshändelser och spelarens reaktioner eller tankar.
+  * Exempel: **"Du föddes död idag."**
+  * **Spelaruttryck:** Åsikter eller tankar som delats av spelaren (t.ex. **"OMG, jag är redan död"**).
+  * **Detaljer:** Inkluderar spelarens namn (**Adao Faisao**) och land (**Mikronesiens**).
 
 ***
