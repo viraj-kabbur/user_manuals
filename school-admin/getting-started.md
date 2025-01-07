@@ -1,64 +1,64 @@
-# Getting Started
+# Komma igång
 
-### **1. Logging into RealLives**
+### **1. Logga in på RealLives**
 
-To access the RealLives Simulation dashboard, follow these steps:
+För att få åtkomst till RealLives Simulationsdashboard, följ dessa steg:
 
-1. **Visit the Login Page:** Go to the official RealLives Simulation website or the app provided by your institution.
-2. **Enter Your Credentials:** Use the administrator login details shared with you (email and password).
-3. **Access the Dashboard:** Click **“Log In”** to enter your personalized dashboard.
+1. **Besök inloggningssidan:** Gå till den officiella RealLives Simulationswebbplatsen eller appen som tillhandahålls av din institution.
+2. **Ange dina inloggningsuppgifter:** Använd administratörsinloggningsuppgifterna som delats med dig (e-post och lösenord).
+3. **Öppna dashboarden:** Klicka på **"Logga in"** för att gå in på din personliga dashboard.
 
-> **Note:** If you experience issues logging in, ensure your credentials are correct or reset your password using the "Forgot Password" option.
-
-***
-
-### **2. Navigating the Dashboard**
-
-The Real Lives Simulation dashboard is designed to be intuitive and user-friendly. Here's an overview of its key components:
-
-* **Sidebar Menu:** Located on the left, the sidebar allows you to navigate between features like **My Journey**, **Manage Classes**, **Students**, and more.
-* **Top Bar:** Displays license availability, account settings, and notifications.
-* **Main Panel:** The central workspace where you interact with the selected feature.
+> **Obs:** Om du upplever problem med att logga in, kontrollera att dina inloggningsuppgifter är korrekta eller återställ ditt lösenord med alternativet "Glömt lösenord".
 
 ***
 
-### **3. Setting Up Your Profile**
+### **2. Navigera i dashboarden**
 
-Once logged in, ensure your profile is set up correctly:
+RealLives Simulationsdashboard är designad för att vara intuitiv och användarvänlig. Här är en översikt över dess huvudsakliga komponenter:
 
-1. **Access Account Settings:** Click your initials or profile icon in the top-right corner.
-2. **Update Information:** Add or update details like your name, email, and institution name.
-3. **Save Changes:** Ensure all changes are saved before exiting.
-
-***
-
-### **4. Verifying License Availability**
-
-Your dashboard displays the number of available licenses at the top of the page. Ensure you have enough licenses to accommodate your students:
-
-* **Available Licenses:** Shows the total and allocated licenses (e.g., 500/500).
-* **License Management:** Click on the sidebar to review or request additional licenses if needed.
+* **Sidomeny:** Ligger till vänster och låter dig navigera mellan funktioner som **Min resa**, **Hantera klasser**, **Studenter** och mer.
+* **Toppmeny:** Visar licenstillgänglighet, kontoinställningar och aviseringar.
+* **Huvudpanel:** Den centrala arbetsytan där du interagerar med den valda funktionen.
 
 ***
 
-### **5. Changing Language**
+### **3. Ställ in din profil**
 
-The RealLives Simulation dashboard supports multiple languages to ensure accessibility for users from different regions. Follow these steps to change the language:
+När du är inloggad, se till att din profil är korrekt inställd:
 
-**Select Your Preferred Language:** Choose from the available options (e.g., English, Korean, Swedish).
-
-> **Tip:** If a language you need is unavailable, contact support to request additional language options.
-
-***
-
-### **6. Managing Notifications**
-
-Stay updated on student progress, assignments, and system updates through the notification system. Here's how to manage notifications:
-
-1. **Access Notifications:** Click on the **bell icon** in the top-right corner of the dashboard to view recent notifications.
-2. **Read Notifications:** Notifications include updates on student activities, reminders for assignments, and system alerts.
-3. **Clear Notifications:** Mark notifications as read or clear them to keep your dashboard organized.
+1. **Gå till kontoinställningar:** Klicka på dina initialer eller profilikonen uppe till höger.
+2. **Uppdatera information:** Lägg till eller uppdatera detaljer som ditt namn, din e-postadress och ditt institutionsnamn.
+3. **Spara ändringar:** Se till att alla ändringar sparas innan du avslutar.
 
 ***
 
-By completing these steps, you’re ready to use the RealLives Simulation dashboard to manage classes, track progress, and promote impactful learning experiences.
+### **4. Kontrollera licenstillgänglighet**
+
+Din dashboard visar antalet tillgängliga licenser högst upp på sidan. Kontrollera att du har tillräckligt med licenser för att täcka dina studenter:
+
+* **Tillgängliga licenser:** Visar det totala antalet och tilldelade licenser (t.ex. 500/500).
+* **Licenshantering:** Klicka i sidomenyn för att granska eller begära fler licenser vid behov.
+
+***
+
+### **5. Ändra språk**
+
+RealLives Simulationsdashboard stöder flera språk för att säkerställa tillgänglighet för användare från olika regioner. Följ dessa steg för att ändra språk:
+
+**Välj ditt föredragna språk:** Välj bland de tillgängliga alternativen (t.ex. engelska, koreanska, svenska).
+
+> **Tips:** Om ett språk du behöver inte är tillgängligt, kontakta supporten för att begära ytterligare språkval.
+
+***
+
+### **6. Hantera aviseringar**
+
+Håll dig uppdaterad om studentframsteg, uppgifter och systemuppdateringar via aviseringar. Så här hanterar du aviseringar:
+
+1. **Öppna aviseringar:** Klicka på **klockikonen** uppe till höger på dashboarden för att se senaste aviseringar.
+2. **Läs aviseringar:** Aviseringar inkluderar uppdateringar om studentaktiviteter, påminnelser för uppgifter och systemmeddelanden.
+3. **Rensa aviseringar:** Markera aviseringar som lästa eller rensa dem för att hålla din dashboard organiserad.
+
+***
+
+Genom att genomföra dessa steg är du redo att använda RealLives Simulationsdashboard för att hantera klasser, följa upp framsteg och främja lärorika och effektfulla upplevelser.
