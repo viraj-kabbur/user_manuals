@@ -1,6 +1,5 @@
 ---
-description: >-
-  홈 섹션은 학교/대학교 관리자에게 제공되는 주요 기능에 대한 개요를 제공합니다.
+description: 홈 섹션은 학교/대학교 관리자에게 제공되는 주요 기능에 대한 개요를 제공합니다.
 ---
 
 # 홈
@@ -9,21 +8,21 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Untitled design(11).png" alt=""><figcaption><p>홈 페이지 스크롤 후 모습</p></figcaption></figure>
 
-### **1] Real Board를 활용한 글로벌 시민 클래스 생성:**&#x20;
+### **1] Real Board를 활용한 글로벌 시민 클래스 생성:**
 
-학생들에게 다양한 과제와 할당을 지정하는 데 사용할 수 있습니다. Real Board를 사용하여 클래스를 생성하는 방법에 대한 자세한 내용은 아래 섹션을 확인하세요 -&#x20;
+학생들에게 다양한 과제와 할당을 지정하는 데 사용할 수 있습니다. Real Board를 사용하여 클래스를 생성하는 방법에 대한 자세한 내용은 아래 섹션을 확인하세요 -
 
-{% content-ref url="../../school-admin/create-a-class-with-realboard.md" %}
-[create-a-class-with-realboard.md](../../school-admin/create-a-class-with-realboard.md)
+{% content-ref url="../../undefined/create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../../undefined/create-a-class-with-realboard.md)
 {% endcontent-ref %}
 
-### **2] 학교/대학교 관리 및 데이터**&#x20;
+### **2] 학교/대학교 관리 및 데이터**
 
 학생 수와 상태를 확인할 수 있습니다. 교사/교수의 수와 상태도 확인할 수 있습니다. 학교/대학교 게임 데이터는 생성된 모든 클래스의 통계와 데이터를 종합적으로 보여줍니다. 개인 게임 데이터는 사용자가 직접 참여한 게임에 대한 통계와 정보를 포함합니다.
 
-**주요 기능 -**&#x20;
+**주요 기능 -**
 
-### i] 학생&#x20;
+### i] 학생
 
 **할당된 학생**과 **할당 해제된 학생** 목록을 확인할 수 있습니다.
 
@@ -31,7 +30,7 @@ description: >-
 
 ***
 
-### ii] 교사/교수 보기&#x20;
+### ii] 교사/교수 보기
 
 동료 목록을 확인하세요.
 
@@ -39,7 +38,7 @@ description: >-
 
 ***
 
-### iii] 학교 게임 데이터&#x20;
+### iii] 학교 게임 데이터
 
 학교 게임 데이터 섹션은 학생 및 교사 활동, 라이선스 사용, 게임 플레이 데이터를 종합적으로 보여줍니다.
 
@@ -138,8 +137,8 @@ description: >-
 
 이 데이터는 사이드바의 **내 여정(My Journey)** 섹션에서도 표시되며, 해당 기능에 대한 내용은 아래 링크에서 확인할 수 있습니다 -
 
-{% content-ref url="../../school-admin/dashboard-layout/my-journey.md" %}
-[my-journey.md](../../school-admin/dashboard-layout/my-journey.md)
+{% content-ref url="../../undefined/dashboard-layout/my-journey.md" %}
+[my-journey.md](../../undefined/dashboard-layout/my-journey.md)
 {% endcontent-ref %}
 
 ***
