@@ -1,22 +1,22 @@
 ---
 description: >-
-  The Feedback / Bug Report section enables teachers and administrators to
-  report issues or share their suggestions for improving the RealLives
-  Simulation platform.
+  Avsnittet Feedback / Felrapportering gör det möjligt för lärare och administratörer
+  att rapportera problem eller dela sina förslag för att förbättra RealLives
+  Simulationsplattformen.
 ---
 
 # Feedback
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114715.png" alt=""><figcaption></figcaption></figure>
 
-### **1. Submitting Feedback or Bug Reports**
+### **1. Skicka in feedback eller felrapporter**
 
-* **Title:** Provide a brief and clear title summarizing your feedback or the issue (e.g., "Login Error" or "Feature Suggestion").
-* **Description:** Write a detailed explanation of the feedback or bug, including steps to reproduce the issue, if applicable.
-* **Type:** Select the appropriate category from the drop-down menu, such as **Bug**, **Feature Request**, or **General Feedback**.
-* **Attach Screenshots:** Optionally upload a screenshot of the specific page or issue to provide additional context.
+* **Titel:** Ange en kort och tydlig titel som sammanfattar din feedback eller problemet (t.ex. "Inloggningsfel" eller "Funktionsförslag").
+* **Beskrivning:** Skriv en detaljerad förklaring av feedbacken eller felet, inklusive steg för att återskapa problemet, om tillämpligt.
+* **Typ:** Välj rätt kategori från rullgardinsmenyn, till exempel **Fel**, **Funktionsförslag** eller **Allmän feedback**.
+* **Bifoga skärmdumpar:** Valfritt, ladda upp en skärmdump av den specifika sidan eller problemet för att ge ytterligare kontext.
 
-### **2. Actions:**
+### **2. Åtgärder:**
 
-* Click **Save** to submit your feedback or bug report.
-* Use **Cancel** to discard the input if necessary.
+* Klicka på **Spara** för att skicka in din feedback eller felrapport.
+* Använd **Avbryt** för att radera inmatningen om det behövs.
