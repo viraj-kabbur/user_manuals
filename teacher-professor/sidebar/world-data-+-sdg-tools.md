@@ -1,34 +1,34 @@
 ---
 description: >-
-  세계 데이터 + SDG 도구를 탐색하여 글로벌 통찰력을 얻고 시뮬레이션을 현실 세계의 과제와 연결하세요. 이 기능은 학생들이 비판적 사고와 글로벌 인식을 기를 수 있도록 지원합니다.
+  Explore the World Data + SDG Tools to gain global insights and connect simulations with real-world challenges. These features support students in developing critical thinking and global awareness.
 ---
 
-# 세계 데이터 + SDG 도구
+# World Data + SDG Tools
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 150505.png" alt=""><figcaption></figcaption></figure>
 
-### 1. UN 지속 가능한 개발 목표(SDG) 도구 <img src="../../.gitbook/assets/sdggoalstoolicon.svg" alt="" data-size="original">
+### 1. UN Sustainable Development Goals (SDG) Tool <img src="../../.gitbook/assets/sdggoalstoolicon.svg" alt="" data-size="original">
 
-**설명:**
+**Description:**
 
-1\. 국가별 SDG 상태 학습.\
-2\. SDG 국가 점수 및 순위 비교.\
-3\. SDG 국가 비교 문구 생성기.
+1. Learn about the SDG status of different countries.  
+2. Compare SDG scores and rankings between countries.  
+3. Use the SDG country comparison phrase generator.
 
-### 2. 국가 격차 학습 도구 및 데이터 시각화 <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+### 2. Country Gap Learning Tool and Data Visualization <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
 
-**설명:**
+**Description:**
 
-두 국가를 비교하여 사회경제적, 건강, 인구통계 데이터의 격차를 이해하고 데이터 시각화와 동적 문구 생성기를 활용하세요.
+Compare two countries to understand disparities in socioeconomic, health, and demographic data. Utilize data visualizations and a dynamic phrase generator for deeper insights.
 
-### 3. 국가 데이터 비교 ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
+### 3. Country Data Comparison Tool ![](https://dev.reallivesworld.com/assets/images/tools/countrylearningtoolicon.svg)
 
-**설명:**
+**Description:**
 
-Lorenz 곡선, 깨진 사다리 척도, SDG 과제 및 국가 그룹을 포함하여 국가 데이터를 비교할 수 있는 완전한 도구.
+A comprehensive tool for comparing country data, including Lorenz curves, Broken Ladder scale, SDG challenges, and groups of countries.
 
-### 4. 국가 그룹 비교 ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
+### 4. Country Group Comparison Tool ![](https://dev.reallivesworld.com/assets/images/tools/sdggoalstoolicon.svg)
 
-**설명:**
+**Description:**
 
-100개 이상의 국가 그룹을 경험하세요. 국가 그룹 내 국가들 간의 격차를 학습하세요.
+Explore over 100 country groups. Learn about disparities among countries within these groups.
