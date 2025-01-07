@@ -17,33 +17,33 @@ layout:
     visible: true
 ---
 
-# Introduction
+# Introduktion
 
-### **About RealLives Simulation**
+### **Om RealLives-simuleringen**
 
-RealLives is a gamified simulation that brings home the challenge of life in its many splendors and complexities. In the simulation, you will test your mettle against the many unpredictable life conditions that occur in the course of a lifetime – from birth to death.
+RealLives är en spelifierad simulering som fångar livets utmaningar i dess många former och komplexiteter. I simuleringen testar du din styrka mot de många oförutsägbara livssituationer som kan uppstå under en livstid – från födsel till död.
 
-And in RealLives, you can play billions of such lives, in different cultures and nations on earth - without ever repeating any lifetime!
+I RealLives kan du spela miljarder av sådana liv, i olika kulturer och nationer världen över – utan att någonsin upprepa ett liv!
 
-As a School/University Admin you can play the game and be born in any life you wish to, by simply clicking on the 'Live a Life' button. Play demo game below.
-
-***
-
-### **Purpose of the Dashboard**
-
-The RealLives Simulation dashboard is a powerful tool for school and university administrators. It provides a centralized interface to manage classes, monitor student progress, and align simulations with educational objectives such as the Sustainable Development Goals (SDGs). The dashboard bridges technology and learning, offering data-driven insights to enhance student engagement and global citizenship education.
+Som administratör för en skola eller universitet kan du spela spelet och födas in i vilket liv du vill, genom att helt enkelt klicka på knappen "Lev ett liv". Spela demon nedan.
 
 ***
 
-### **Key Features Overview**
+### **Syfte med instrumentpanelen**
 
-The RealLives Simulation dashboard is equipped with a variety of features to streamline management and enhance learning outcomes:
+RealLives-simuleringspanelen är ett kraftfullt verktyg för skol- och universitetsadministratörer. Den tillhandahåller ett centraliserat gränssnitt för att hantera klasser, övervaka studenternas framsteg och anpassa simuleringar till utbildningsmål, såsom de globala målen för hållbar utveckling (SDG). Panelen förenar teknik och lärande och erbjuder datadrivna insikter för att förbättra studentengagemang och utbildning i globalt medborgarskap.
 
-* **My Journey:** View gameplay data, track progress, and analyze geographic and gender-based simulation trends.
-* **RealBoard Integration:** Connect RealLives simulations with RealBoard, a collaborative platform for student interaction and shared reflections.
-* **Class Management:** Easily create, monitor, and manage global citizenship classes with tailored assignments.
-* **World Data + SDG Tools:** Access global datasets and link simulations to SDGs, enriching the educational experience.
-* **License Management:** Efficiently manage available licenses for your institution.
-* **Feedback and Support:** Report bugs, provide feedback, and access user guides for seamless platform usage.
+***
+
+### **Översikt över viktiga funktioner**
+
+RealLives-simuleringspanelen är utrustad med en mängd funktioner för att effektivisera hantering och förbättra läranderesultat:
+
+* **Min resa:** Visa speldata, följ framsteg och analysera geografiska och könsbaserade trender i simuleringarna.
+* **RealBoard-integration:** Koppla RealLives-simuleringar till RealBoard, en samarbetsplattform för studentinteraktion och delade reflektioner.
+* **Klasshantering:** Skapa, övervaka och hantera klasser för globalt medborgarskap med skräddarsydda uppgifter.
+* **Världsdata + SDG-verktyg:** Få tillgång till globala datasätt och koppla simuleringar till SDG-målen för att berika den pedagogiska upplevelsen.
+* **Licenshantering:** Hantera tillgängliga licenser för din institution på ett effektivt sätt.
+* **Feedback och support:** Rapportera buggar, ge feedback och få tillgång till användarhandböcker för smidig användning av plattformen.
 
 ***
