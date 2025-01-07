@@ -1,21 +1,20 @@
 ---
 description: >-
-  피드백 / 버그 보고 섹션은 교사와 교수가 RealLives 시뮬레이션 플랫폼을 개선하기 위해
-  문제를 보고하거나 제안을 공유할 수 있도록 합니다.
+  The Feedback / Bug Report section allows teachers and professors to report issues or share suggestions to improve the RealLives Simulation platform.
 ---
 
-# 피드백
+# Feedback
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 150606.png" alt=""><figcaption></figcaption></figure>
 
-### **1. 피드백 또는 버그 보고 제출하기**
+### **1. Submitting Feedback or Bug Reports**
 
-* **제목:** 피드백이나 문제를 간단하고 명확하게 요약하는 제목을 입력하세요 (예: "로그인 오류" 또는 "기능 제안").
-* **설명:** 피드백 또는 버그에 대한 상세한 설명을 작성하세요. 문제가 재현될 경우, 그 단계를 포함하세요.
-* **유형:** 드롭다운 메뉴에서 **버그(Bug)**, **기능 요청(Feature Request)** 또는 **일반 피드백(General Feedback)**과 같은 적절한 범주를 선택하세요.
-* **스크린샷 첨부:** 선택적으로 특정 페이지나 문제에 대한 추가적인 맥락을 제공하기 위해 스크린샷을 업로드할 수 있습니다.
+* **Title:** Enter a concise and clear title summarizing the feedback or issue (e.g., "Login Error" or "Feature Suggestion").
+* **Description:** Provide a detailed explanation of the feedback or bug. If the issue is reproducible, include the steps to recreate it.
+* **Type:** Select the appropriate category from the dropdown menu, such as **Bug**, **Feature Request**, or **General Feedback**.
+* **Attach Screenshots:** Optionally, upload screenshots to provide additional context for a specific page or issue.
 
-### **2. 조치:**
+### **2. Actions:**
 
-* **저장(Save):** 피드백 또는 버그 보고서를 제출하려면 클릭하세요.
-* **취소(Cancel):** 필요시 입력한 내용을 취소하려면 클릭하세요.
+* **Save:** Click to submit your feedback or bug report.
+* **Cancel:** Click to discard the input if necessary.
