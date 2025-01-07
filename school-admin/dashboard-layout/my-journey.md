@@ -1,124 +1,120 @@
 ---
 description: >-
-  The My Journey section offers an overview of game-play data, progress, and key
-  insights from simulations.
+  Avsnittet Min Resa erbjuder en översikt över speldata, framsteg och viktiga
+  insikter från simuleringar.
 ---
 
-# My Journey
+# Min Resa
 
-### **1. My Gameplay Data: Progress and Insights**
+### **1. Min speldata: Framsteg och insikter**
 
-This section provides a detailed overview of simulation activity, allowing school or university admins to monitor progress, gender distribution, and geographic diversity in RealLives simulations.
+Det här avsnittet ger en detaljerad översikt över simuleringsaktiviteten och låter skol- eller universitetsadministratörer övervaka framsteg, könsfördelning och geografisk mångfald i RealLives-simuleringar.
 
 <figure><img src="../../.gitbook/assets/Untitled design(12) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Lives in Progress:**&#x20;
+**Pågående liv:**&#x20;
 
-Shows the total number of active simulations currently being played by users (e.g., **67**).
+Visar det totala antalet aktiva simuleringar som för närvarande spelas av användare (t.ex. **67**).
 
-**Complete Lives:**
+**Fullständiga liv:**
 
-Indicates the number of simulations that have been fully completed (e.g., **7**).
+Anger antalet simuleringar som har avslutats helt (t.ex. **7**).
 
-**Gender Distribution:**
+**Könsfördelning:**
 
-Breakdown of the genders represented in simulated lives:
+Fördelning av könen som representeras i simulerade liv:
 
-* **Male Lives:** Displays the number of male characters in simulations (e.g., **41**).
-* **Female Lives:** Displays the number of female characters in simulations (e.g., **33**).
+* **Manliga liv:** Visar antalet manliga karaktärer i simuleringar (t.ex. **41**).
+* **Kvinnliga liv:** Visar antalet kvinnliga karaktärer i simuleringar (t.ex. **33**).
 
 ***
 
-### **2. Lives by Location: Monitoring Geographic Engagement**
+### **2. Liv efter plats: Övervaka geografisk engagemang**
 
-The "Lives by Location" feature in your RealLives Simulation dashboard offers an interactive view of where simulations have been played worldwide. This tool helps you, as a school admin, track activity, analyze diversity, and encourage exploration among students.
+Funktionen "Liv efter plats" i din RealLives-simuleringspanel erbjuder en interaktiv vy av var simuleringar har spelats världen över. Detta verktyg hjälper dig som skoladministratör att spåra aktivitet, analysera mångfald och uppmuntra utforskning bland elever.
 
 <figure><img src="../../.gitbook/assets/Untitled design(13) (1).png" alt=""><figcaption></figcaption></figure>
 
-i] **Map Interface**
+i] **Kartgränssnitt**
 
-The world map provides a comprehensive visual of simulated lives:
+Världskartan ger en omfattande visuell överblick av simulerade liv:
 
-* **Blue Markers with Numbers:** These represent clusters of lives in specific regions. For instance, there are **13 simulations in Italy** and **7 in South Africa.**
-* **Red Pins:** These denote individual simulated lives in specific countries, such as **Canada** and **Papua New Guinea.**
+* **Blå markörer med siffror:** Dessa representerar kluster av liv i specifika regioner. Till exempel finns det **13 simuleringar i Italien** och **7 i Sydafrika.**
+* **Röda nålar:** Dessa anger individuella simulerade liv i specifika länder, såsom **Kanada** och **Papua Nya Guinea.**
 
-By examining these markers, you can quickly identify where simulations are concentrated and areas that may require more exploration.
+Genom att granska dessa markörer kan du snabbt identifiera var simuleringar är koncentrerade och områden som kan kräva mer utforskning.
 
+**ii] Datasammanfattning**
 
+Nedanför kartan sammanfattar viktiga statistik globalt engagemang:
 
-**ii] Data Summary**
-
-Below the map, key statistics summarize global engagement:
-
-* **Countries Covered:** Students have explored **61 out of 193 possible countries**, showcasing global diversity in their simulations.
-* **Progress Bar:** This indicates that **32% of the world** has been covered through simulations, highlighting the need to encourage students to explore lesser-known regions.
+* **Länder täckta:** Elever har utforskat **61 av 193 möjliga länder**, vilket visar global mångfald i deras simuleringar.
+* **Framstegsmätare:** Detta indikerar att **32% av världen** har täckts genom simuleringar, vilket understryker behovet av att uppmuntra elever att utforska mindre kända regioner.
 
 ***
 
-### **3. Distribution and SDG Insights: Monitoring Life Types and Goals**
+### **3. Fördelning och SDG-insikter: Övervaka livstyper och mål**
 
-This section of the RealLives Simulation dashboard helps school and university admins analyze the types of simulated lives and their alignment with SDGs (Sustainable Development Goals). It provides an overview of life types, group activities, and the most frequently addressed SDGs.
+Detta avsnitt i RealLives-simuleringspanelen hjälper skol- och universitetsadministratörer att analysera typerna av simulerade liv och deras anpassning till SDG (hållbara utvecklingsmål). Det ger en översikt över livstyper, gruppaktiviteter och de mest adresserade SDG-målen.
 
 <figure><img src="../../.gitbook/assets/Untitled design(14).png" alt=""><figcaption></figcaption></figure>
 
-**Key Features:**
+**Viktiga funktioner:**
 
-**i] Distribution of Life Types**
+**i] Fördelning av livstyper**
 
-A circular chart visually represents the distribution of simulated lives based on their type:
+Ett cirkeldiagram visar visuellt fördelningen av simulerade liv baserat på deras typ:
 
-* Group Lives (Highlighted): Shows the number of lives simulated using groups (e.g., 35).
-* **Legend for Life Types:**
-  * Orange (Random Life): Lives generated randomly.
-  * Yellow (Design a Life): Lives customized by students.
-  * Green (SDG): Lives aligned with SDGs.
-  * Dark Green (Life with Assignments): Lives created as part of classroom assignments.
-  * Light Green (Life Using Groups): Lives simulated collaboratively in groups.
-  * Blue (Age Skip Life): Lives where players skip age milestones to explore different life stages quickly.
+* Gruppliv (markerat): Visar antalet liv som simulerats i grupper (t.ex. 35).
+* **Legend för livstyper:**
+  * Orange (Slumpmässigt liv): Liv som genereras slumpmässigt.
+  * Gul (Designa ett liv): Liv som anpassas av elever.
+  * Grön (SDG): Liv som anpassas till SDG-mål.
+  * Mörkgrön (Liv med uppdrag): Liv som skapats som en del av klassuppdrag.
+  * Ljusgrön (Liv med grupper): Liv som simulerats i samarbete i grupper.
+  * Blå (Åldershopp-liv): Liv där spelare hoppar över åldersstadier för att snabbt utforska olika livsfaser.
 
-**ii] Top 4 SDGs**
+**ii] Topp 4 SDG-mål**
 
-Displays the most frequently selected SDGs and the number of lives associated with each goal:
+Visar de mest frekvent valda SDG-målen och antalet liv kopplade till varje mål:
 
-* Goal 1 (No Poverty): Lives addressing poverty challenges (e.g., 2 lives).
-* Goal 2 (Zero Hunger): Lives exploring food security (e.g., 2 lives).
-* Goal 5 (Gender Equality): Lives promoting gender equality (e.g., 2 lives).
-* Goal 3 (Good Health and Well-Being): Lives focusing on health challenges (e.g., 0 lives).
+* Mål 1 (Ingen fattigdom): Liv som hanterar fattigdomsutmaningar (t.ex. 2 liv).
+* Mål 2 (Ingen hunger): Liv som utforskar livsmedelssäkerhet (t.ex. 2 liv).
+* Mål 5 (Jämställdhet): Liv som främjar jämställdhet (t.ex. 2 liv).
+* Mål 3 (God hälsa och välbefinnande): Liv som fokuserar på hälsoutmaningar (t.ex. 0 liv).
 
 ***
 
-### **4. SDG Overview: Tracking Goal Alignment**
+### **4. SDG-översikt: Spåra måluppfyllelse**
 
-This section provides a detailed summary of Sustainable Development Goals (SDGs) selected by students while creating lives in RealLives Simulation. It helps school and university admins understand how simulations align with global challenges and educational priorities
+Detta avsnitt ger en detaljerad sammanfattning av hållbara utvecklingsmål (SDG) som valts av elever när de skapar liv i RealLives-simulering. Det hjälper skol- och universitetsadministratörer att förstå hur simuleringar anpassas till globala utmaningar och utbildningsprioriteringar.
 
 <figure><img src="../../.gitbook/assets/Untitled design(1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### **5. Organ Donation and Expressions: Tracking Contributions**
+### **5. Organdonation och uttryck: Spåra bidrag**
 
-This section allows school and university admins to monitor players' contributions to organ donation and track their key life events and expressions within the RealLives Simulation.
+Detta avsnitt låter skol- och universitetsadministratörer övervaka spelarnas bidrag till organdonation och spåra deras viktiga livshändelser och uttryck inom RealLives-simuleringen.
 
 <figure><img src="../../.gitbook/assets/Untitled design(2) (1).png" alt=""><figcaption></figcaption></figure>
 
-**i] Organ Donation Overview**
+**i] Översikt över organdonation**
 
-Icons represent the status of different organ donations made by the player:
+Ikoner representerar statusen för olika organdonationer som spelaren har gjort:
 
-* **Liver, Eyes, Heart, Kidney, Lungs, Skin:** Marked as **"Not yet donated"** if no donations have occurred.
-* **Blood Donation:** Tracks the number of blood donations made (e.g., **Donated 1 bottle**).
+* **Lever, Ögon, Hjärta, Njure, Lungor, Hud:** Markerad som **"Inte donerat ännu"** om inga donationer har gjorts.
+* **Bloddonation:** Spårar antalet bloddonationer som gjorts (t.ex. **Donerat 1 flaska**).
 
-This data highlights the player’s contributions to health and societal causes.
+Denna data belyser spelarens bidrag till hälsa och samhällsfrågor.
 
+**ii] Spelaruttryck**
 
+Visar en sammanfattning av spelarens interaktioner eller anmärkningsvärda händelser:
 
-**ii] Player Expressions**
-
-Displays a summary of player interactions or notable events:
-
-* **Expression Recorded:** Shows a key life event and the player’s reaction or comment.
-  * Example: **"You were born today, a girl, in Syria."**
-  * **Expression:** A comment or thought expressed by the player (e.g., **"niceee"**).
-  * **Details:** Includes the player's name (**Adelmira Alfagaari**) and country (**Syria**).
+* **Registrerat uttryck:** Visar en viktig livshändelse och spelarens reaktion eller kommentar.
+  * Exempel: **"Du föddes idag, en flicka, i Syrien."**
+  * **Uttryck:** En kommentar eller tanke uttryckt av spelaren (t.ex. **"niceee"**).
+  * **Detaljer:** Innehåller spelarens namn (**Adelmira Alfagaari**) och land (**Syrien**).
 
 ***
