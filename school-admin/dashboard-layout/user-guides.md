@@ -1,18 +1,18 @@
 ---
 description: >-
-  Access the User Guides for step-by-step instructions and detailed
-  documentation to help you navigate and utilize all the features of RealLives
-  Simulation seamlessly.
+  Få tillgång till användarguider för steg-för-steg-instruktioner och detaljerad
+  dokumentation som hjälper dig att navigera och använda alla funktioner i
+  RealLives Simulation smidigt.
 ---
 
-# User Guides
+# Användarguider
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 113840.png" alt=""><figcaption></figcaption></figure>
 
-#### **User Guides: Game Dashboard**
+#### **Användarguider: Speldashboard**
 
-Explore the **Fame Dashboard User Guide** for comprehensive instructions on managing simulations, tracking progress, and utilizing data-driven insights effectively.
+Utforska **Användarguiden för speldashboarden** för omfattande instruktioner om hur du hanterar simuleringar, spårar framsteg och effektivt använder datadrivna insikter.
 
-#### **User Guides: RealBoard**
+#### **Användarguider: RealBoard**
 
-Access the **RealBoard User Guide** to learn how to foster collaboration, manage class boards, and integrate RealBoard with RealLives simulations for enhanced learning.
+Få tillgång till **Användarguiden för RealBoard** för att lära dig hur du främjar samarbete, hanterar klassbrädor och integrerar RealBoard med RealLives-simuleringar för förbättrad inlärning.
