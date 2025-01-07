@@ -1,23 +1,23 @@
 ---
 description: >-
-  클래스 관리 섹션은 학교 관리자가 협력적이고 영향력 있는 학습을 위해 RealBoard를 통합하여 글로벌 시민 클래스를 효율적으로 생성하고 관리할 수 있도록 설계되었습니다.
+  The Class Management section is designed to help school administrators efficiently create and manage Global Citizenship classes by integrating RealBoard for collaborative and impactful learning.
 ---
 
-# 클래스 관리
+# Class Management
 
 <figure><img src="../../.gitbook/assets/Untitled design(41).png" alt=""><figcaption></figcaption></figure>
 
-### **1. RealBoard를 활용한 글로벌 시민 클래스 생성**
+### **1. Creating Global Citizenship Classes with RealBoard**
 
-이 기능을 통해 RealBoard를 활용하여 피어 투 피어 학습과 SDG 기반 과제를 강화하는 클래스를 설정할 수 있습니다.
+This feature allows you to set up classes that enhance peer-to-peer learning and SDG-based assignments using RealBoard.
 
-* **목적:** 협력적 시뮬레이션을 통해 글로벌 시민에 대한 이해를 증진합니다.
-* **단계:**
-  1. **"RealBoard를 활용한 글로벌 시민 클래스 생성(Creating a Global Citizenship Class with RealBoard)"**을 클릭하여 시작합니다.
-  2. 특정 목표 또는 과제에 따라 클래스를 맞춤화합니다.
-  3. 학생들을 초대하고 RealBoard를 통해 과제를 할당합니다.
+* **Purpose:** Promote understanding of global citizenship through collaborative simulations.
+* **Steps:**
+  1. Click **"Creating a Global Citizenship Class with RealBoard"** to begin.
+  2. Customize the class based on specific goals or assignments.
+  3. Invite students and assign tasks via RealBoard.
 
-RealBoard로 클래스를 생성하는 방법에 대한 자세한 가이드는 아래 링크를 참조하세요 -&#x20;
+For a detailed guide on creating classes with RealBoard, refer to the link below:
 
 {% content-ref url="../create-a-class-with-realboard.md" %}
 [create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
@@ -25,22 +25,22 @@ RealBoard로 클래스를 생성하는 방법에 대한 자세한 가이드는 �
 
 ***
 
-### **2. 내 클래스 목록**
+### **2. My Class List**
 
-생성하거나 관리 중인 모든 클래스를 중앙에서 확인할 수 있습니다.
+Access a centralized view of all classes you’ve created or are managing.
 
-* **장점:**
-  * 학생 참여도를 모니터링합니다.
-  * 과제 진행 상황을 추적합니다.
-  * 진행 중이거나 완료된 클래스를 관리합니다.
+* **Advantages:**
+  * Monitor student engagement.
+  * Track assignment progress.
+  * Manage ongoing or completed classes.
 
 ***
 
-### **3. 클래스 참여**
+### **3. Class Participation**
 
-교사/교수가 기존 클래스에 참여할 수 있도록 지원합니다.
+Facilitates teacher/professor participation in existing classes.
 
-* **작동 방식:**
-  * 클래스 콘텐츠, 과제, RealBoard 토론에 원활히 접근할 수 있습니다.
+* **How it works:**
+  * Enables seamless access to class content, assignments, and RealBoard discussions.
 
 ***
