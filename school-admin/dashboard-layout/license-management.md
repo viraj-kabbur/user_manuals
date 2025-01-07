@@ -1,62 +1,62 @@
 ---
 description: >-
-  The License Management section allows school/university admins to monitor,
-  manage, and purchase licenses to ensure smooth access to RealLives Simulation
-  for their students.
+  Avsnittet Licenshantering låter skol-/universitetsadministratörer övervaka,
+  hantera och köpa licenser för att säkerställa smidig åtkomst till RealLives
+  Simulation för sina studenter.
 ---
 
-# License Management
+# Licenshantering
 
-### **1. Active Licenses**
+### **1. Aktiva licenser**
 
-This page provides an overview of the current licenses associated with your school or institution.
+Den här sidan ger en översikt över de aktuella licenserna som är kopplade till din skola eller institution.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114647.png" alt=""><figcaption></figcaption></figure>
 
-* **Key Details Displayed:**
-  * **Purchase Date:** Date when the license was acquired.
-  * **Product Type:** Type of license purchased (e.g., Small School - Type 1).
-  * **Licenses:** Total number of licenses available.
-  * **Price Paid:** Amount paid for the licenses.
-  * **Expiry Date:** Date when the license expires.
-* **Actions:**
-  * Use the **Renew License** button to extend the validity of expiring licenses.
-  * Export license data for record-keeping or institutional reporting using the **Export** button.
+* **Viktiga detaljer som visas:**
+  * **Inköpsdatum:** Datum då licensen köptes.
+  * **Produkttyp:** Typ av licens som köptes (t.ex., Small School - Typ 1).
+  * **Licenser:** Totalt antal tillgängliga licenser.
+  * **Betalat pris:** Belopp som betalades för licenserna.
+  * **Utgångsdatum:** Datum då licensen går ut.
+* **Åtgärder:**
+  * Använd knappen **Förnya licens** för att förlänga giltigheten för licenser som håller på att löpa ut.
+  * Exportera licensdata för arkivering eller institutionell rapportering med hjälp av knappen **Exportera**.
 
 ***
 
-### **2. Orders**
+### **2. Beställningar**
 
-The Orders page provides a detailed history of past license purchases.
+Sidan Beställningar ger en detaljerad historik över tidigare licensköp.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114659.png" alt=""><figcaption></figcaption></figure>
 
-* **Key Details Displayed:**
-  * **Purchase Date:** The date of purchase.
-  * **User:** The account associated with the order.
-  * **Product:** The type of license purchased.
-  * **Licenses:** Number of licenses included in the order.
-  * **Price Paid:** Total cost of the order.
-  * **Status:** Displays whether the payment was successful (e.g., **Paid**).
-* **Purpose:**
-  * Keep track of license purchase history for budget and planning.
-  * Verify payment statuses for completed orders.
+* **Viktiga detaljer som visas:**
+  * **Inköpsdatum:** Datum för köpet.
+  * **Användare:** Kontot kopplat till beställningen.
+  * **Produkt:** Typ av licens som köptes.
+  * **Licenser:** Antal licenser som ingår i beställningen.
+  * **Betalat pris:** Total kostnad för beställningen.
+  * **Status:** Visar om betalningen lyckades (t.ex., **Betald**).
+* **Syfte:**
+  * Håll koll på licensköphistoriken för budget och planering.
+  * Verifiera betalningsstatus för slutförda beställningar.
 
 ***
 
-#### **3. Buy License**
+#### **3. Köp licens**
 
-This page allows you to purchase new licenses for your school or institution.
+Den här sidan låter dig köpa nya licenser för din skola eller institution.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114707.png" alt=""><figcaption></figcaption></figure>
 
-* **Licensing Plans:**
-  * **Small School:** $149 for 250 licenses (1-year validity, $49 renewal fee).
-  * **Medium School:** $299 for 500 licenses (1-year validity, $99 renewal fee).
-  * **Big School:** $599 for 1100 licenses (1-year validity, $199 renewal fee).
-* **Payment Options:**
-  * Choose from **PayPal**, **Apple Pay**, or **Google Pay** for secure transactions.
-* **Steps to Purchase:**
-  1. Select the appropriate plan based on your institution's needs.
-  2. Click **Buy Now** and complete the payment.
-  3. The licenses will be immediately available under the **Active Licenses** section.
+* **Licensplaner:**
+  * **Small School:** $149 för 250 licenser (1 års giltighet, $49 förnyelseavgift).
+  * **Medium School:** $299 för 500 licenser (1 års giltighet, $99 förnyelseavgift).
+  * **Big School:** $599 för 1100 licenser (1 års giltighet, $199 förnyelseavgift).
+* **Betalningsalternativ:**
+  * Välj mellan **PayPal**, **Apple Pay** eller **Google Pay** för säkra transaktioner.
+* **Steg för att köpa:**
+  1. Välj den lämpliga planen baserat på din institutions behov.
+  2. Klicka på **Köp nu** och slutför betalningen.
+  3. Licenserna blir omedelbart tillgängliga under avsnittet **Aktiva licenser**.
