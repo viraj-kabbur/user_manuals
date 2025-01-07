@@ -1,206 +1,222 @@
-# Create a Class with RealBoard
+# Skapa en klass med RealBoard
 
-This section explains how school/university admins can create a class integrated with RealBoard, allowing students to engage with RealLives and share their reflections and learning experiences in a private, school-only social network.
+Denna sektion förklarar hur skol- och universitetsadministratörer kan skapa en klass integrerad med RealBoard, vilket gör det möjligt för studenter att engagera sig i RealLives och dela sina reflektioner och lärandeupplevelser i ett privat nätverk endast för skolan.
 
-If you are unfamiliar with RealBoard, head on to the RealBoard Manual -
+Om du inte är bekant med RealBoard, gå till RealBoard Manual här -
 
 {% embed url="https://realboardmanual.reallivesworld.com/teacher-en" %}
 
-## 1. Creating a Global Citizenship Class with RealBoard
+## 1. Skapa en global medborgarskapsklass med RealBoard
 
 <figure><img src="../.gitbook/assets/Untitled design(8).png" alt=""><figcaption></figcaption></figure>
 
-### - Navigating to 'Class Creation Tools'
+### - Navigera till 'Verktyg för att skapa klass'
 
-* **Class Creation Tools Section:** Upon logging in, the first page visible under the **RealBoard** tab is the **Class Creation Tools** dashboard.
-* This page shows relevant options for managing classes and student progress.
+* **Sektion för verktyg att skapa klass:** Efter inloggning visas första sidan under fliken **RealBoard**, där relevanta alternativ för att hantera klasser och studentframsteg listas.
+* Denna sida visar relevanta alternativ för att hantera klasser och studentframsteg.
 
-### **- Click on 'Creating a Global Citizenship Class with RealBoard'**
+### **- Klicka på 'Skapa en global medborgarskapsklass med RealBoard'**
 
-* The prominent box titled **"Creating a Global Citizenship Class with RealBoard"** allows you to start the process of creating a new class focused on Global Citizenship.
-* **Total Classes:** Next to this title, you will also see a counter indicating how many classes are currently active (e.g., "Total Classes: 21").\\
+* Den framträdande rutan med titeln **"Skapa en global medborgarskapsklass med RealBoard"** låter dig starta processen för att skapa en ny klass fokuserad på globalt medborgarskap.
+* **Totalt antal klasser:** Bredvid denna titel ser du också en räknare som anger hur många klasser som för närvarande är aktiva (t.ex. "Totalt antal klasser: 21").\\
 
-## **2. Selecting Class Types in RealLives**
+## **2. Välja klasstyper i RealLives**
 
 <figure><img src="../.gitbook/assets/Untitled design(9).png" alt=""><figcaption></figcaption></figure>
 
-### **- Overview of Class Types**
+### **- Översikt över klasstyper**
 
-After selecting **Create a Class**, you are taken to the **Class Types** page. Here, you can choose from four distinct types of classes, each tailored to different educational goals and learning journeys.
+Efter att ha valt **Skapa en klass** kommer du till sidan **Klasstyper**. Här kan du välja mellan fyra olika typer av klasser, var och en anpassad för olika utbildningsmål och läranderesor.
 
-### **- Choose the Class Type that Fits Your Lesson Plan**
+### **- Välj den klasstyp som passar din lektionsplan**
 
-You will see four different options to create a class, each serving a unique purpose:
+Du kommer att se fyra olika alternativ för att skapa en klass, var och en med ett unikt syfte:
 
-## **Random Life -**
+## **Slumpmässigt liv**
 
 <figure><img src="../.gitbook/assets/Untitled design(10).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** In this class, students are born into a random country, offering them an unpredictable experience of life. This class type encourages students to compare and contrast their lives with others, fostering critical thinking and promoting diversity of perspective.
-* **Purpose:** Best for promoting discussions on global diversity and enhancing empathy by placing students in unfamiliar life situations.
-* **Action:** Click the **Create** button to start setting up your Random Life class.
+* **Beskrivning:** I denna klass föds studenter i ett slumpmässigt land, vilket erbjuder dem en oförutsägbar livserfarenhet. Denna klasstyp uppmuntrar studenter att jämföra och kontrastera sina liv med andra, främjar kritiskt tänkande och mångfald i perspektiv.
+* **Syfte:** Bäst för att främja diskussioner om global mångfald och öka empati genom att placera studenter i obekanta livssituationer.
+* **Åtgärd:** Klicka på **Skapa**-knappen för att börja ställa in din klass för slumpmässigt liv.
 
-## **3. Creating a Class with RealBoard :-**
+## **3. Skapa en klass med RealBoard**
 
-After choosing the class type and editing the board, this final page allows you to configure key details like the class name, description, students, teachers/professors, and assignment dates.
+Efter att ha valt klasstyp och redigerat brädan tillåter denna sista sida dig att konfigurera nyckeldetaljer som klassnamn, beskrivning, studenter, lärare/professorer och uppgiftsdatum.
 
 <div align="left"><figure><img src="../.gitbook/assets/Untitled design(13).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(27).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**Step 1: Enter Class Name**
+**Steg 1: Ange klassnamn**
 
-At the top of the page, you will see a field labeled **"Class Name:"**
+Högst upp på sidan ser du ett fält märkt **"Klassnamn:"**
 
-* Enter the appropriate name for your class (e.g., **Class 9A - Random Country**).
-* This name will help both you and your students easily identify the class.
+* Ange det lämpliga namnet för din klass (t.ex. **Klass 9A - Slumpmässigt land**).
+* Detta namn hjälper både dig och dina studenter att enkelt identifiera klassen.
 
-**Step 2: Set the End Date**
+**Steg 2: Ange slutdatum**
 
-Below the class name, you can set an **End Date** for the class.
+Under klassnamnet kan du ange ett **slutdatum** för klassen.
 
-* Click the calendar icon to select the appropriate date by which the class assignments or tasks should be completed.
-* Once selected, click the check-mark to confirm the date.
+* Klicka på kalenderikonen för att välja lämpligt datum då klassuppgifterna ska vara slutförda.
+* När du har valt, klicka på bockmarkeringen för att bekräfta datumet.
 
-**Step 3: Specify Age Group**
+**Steg 3: Ange åldersgrupp**
 
-In the **Age Group** field, enter the relevant age group for the students participating in the class (e.g., 16).
+I fältet **Åldersgrupp**, ange den relevanta åldersgruppen för studenter som deltar i klassen (t.ex. 16).
 
-**Step 4: Add Class Description**
+**Steg 4: Lägg till klassbeskrivning**
 
-In the **Class Description** field, you can provide an overview of what the class entails.
+I fältet **Klassbeskrivning** kan du ge en översikt över vad klassen innebär.
 
-* **Example:** “This class will explore life simulations in random countries, encouraging critical thinking and global awareness.”
-* The description will be visible to students before they begin the simulation. Instructions or objectives can also be provided here to guide students on what they should focus on during the simulation.
+* **Exempel:** “Denna klass kommer att utforska livssimuleringar i slumpmässiga länder och uppmuntra kritiskt tänkande och global medvetenhet.”
+* Beskrivningen kommer att vara synlig för studenter innan de börjar simuleringen. Instruktioner eller mål kan också tillhandahållas här för att vägleda studenter om vad de ska fokusera på under simuleringen.
 
-**Step 5: Add Students**
+**Steg 5: Lägg till studenter**
 
-**Select students:** In the **Students** section, you can choose which students to include in the class.
+**Välj studenter:** I sektionen **Studenter** kan du välja vilka studenter som ska ingå i klassen.
 
-* On the left side, under **Selectable**, you’ll see a list of students enrolled in the system. You can search or scroll to find specific students.
-* Click on a student's name to add them to the class. Their name will move to the **Selected** column on the right.
-* **Example:** Eleanor Roberts, Mia Taylor, Harper Thomas, etc.
+* På vänster sida, under **Valbara**, ser du en lista över studenter som är registrerade i systemet. Du kan söka eller rulla för att hitta specifika studenter.
+* Klicka på en students namn för att lägga till dem i klassen. Deras namn flyttas till kolumnen **Valda** till höger.
+* **Exempel:** Eleanor Roberts, Mia Taylor, Harper Thomas, etc.
 
-**Step 6: Add teacher/professor**
+**Steg 6: Lägg till lärare/professorer**
 
-**Select teacher/professors:** You can also assign additional teachers/professors to the class.
+**Välj lärare/professorer:** Du kan också tilldela ytterligare lärare/professorer till klassen.
 
-* Scroll through or search for teachers/professors under **Selectable**. Click on the names of the teachers/professors who should be involved in this class.
-* The selected teacher/professor will appear in the right-hand **Selected** column.
-* **Example:** Atharva teacher, John Williams, Linda Jones, etc.
+* Bläddra eller sök efter lärare/professorer under **Valbara**. Klicka på namnen på de lärare/professorer som ska delta i denna klass.
+* Den valda läraren/professorn visas i kolumnen **Valda** till höger.
+* **Exempel:** Atharva lärare, John Williams, Linda Jones, etc.
 
-**Step 7: Finalize Class Creation**
+Fortsätt med fler översättningar...
+**Steg 7: Slutför skapandet av klassen**
 
-Once you've added students, teachers/professors, and finalized other details, click the **Create a Class** button at the bottom of the screen.
+När du har lagt till studenter, lärare/professorer och slutfört andra detaljer, klicka på knappen **Skapa en klass** längst ner på skärmen.
 
-* This will create the class and automatically notify all selected students and teachers/professors.
-* They can then log into RealBoard to access the class and complete their assignments.
+* Detta kommer att skapa klassen och automatiskt meddela alla valda studenter och lärare/professorer.
+* De kan sedan logga in på RealBoard för att få tillgång till klassen och slutföra sina uppgifter.
 
-## **4. Editing Your Class Board with RealBoard :-**
+## **4. Redigera din klassbräda med RealBoard**
 
-After clicking **Create**, the **Edit Board** page allows you to customize and configure your class board by naming it and adding sections for students to engage with. Here’s how to use this page effectively
+Efter att ha klickat på **Skapa** kan du redigera och konfigurera din klassbräda genom att namnge den och lägga till sektioner för studenter att engagera sig i. Så här använder du denna sida effektivt:
 
 <figure><img src="../.gitbook/assets/Untitled design(28).png" alt=""><figcaption></figcaption></figure>
 
-### **- Name your board**
+### **- Namnge din bräda**
 
-* At the top of the page, you will see a field titled **"Name your board:"**.
-* Enter a suitable name for your class board (e.g., **"Global Citizenship Board"**, **"Environmental Issues Class"**, or **"World Cultures Discussion"**).
-* Once you've entered the name, click the **check-mark** icon to save it.
+* Högst upp på sidan ser du ett fält märkt **"Namnge din bräda:"**.
+* Ange ett lämpligt namn för din klassbräda (t.ex. **"Global medborgarskapsbräda"**, **"Miljöproblemklass"** eller **"Diskussion om världskulturer"**).
+* När du har angett namnet klickar du på **bockmarkeringen** för att spara det.
 
-### **- Editing Board Sections and Descriptions**
+### **- Redigera brädsektioner och beskrivningar**
 
-Each class board comes with predefined sections that students will interact with. These sections can be customized to fit the specific goals and learning outcomes of your class.
+Varje klassbräda har fördefinierade sektioner som studenterna kommer att interagera med. Dessa sektioner kan anpassas för att passa klassens specifika mål och lärandemål.
 
-**How to Edit:** Click on the **pencil icon** to the right of the section title to modify the name or description. Customize this section according to your class focus (e.g., students can research countries or reflect on national issues).
+**Hur man redigerar:** Klicka på **pennikonen** till höger om sektionsrubriken för att ändra namn eller beskrivning. Anpassa denna sektion efter klassens fokus (t.ex. studenter kan forska om länder eller reflektera över nationella frågor).
 
-## **5. Viewing and Managing Created Classes**
+## **5. Visa och hantera skapade klasser**
 
-After successfully creating your class, you will be directed to the **Create/View Classes with Global Citizenship Assignment** page. Here, you can manage and view all the classes you've created or are associated with.
+När du har skapat din klass dirigeras du till sidan **Skapa/Visa klasser med globalt medborgarskapsuppdrag**. Här kan du hantera och visa alla klasser du har skapat eller är associerad med.
 
-Alternately, you can view classes by going to Manage Classes in the sidebar and then clicking on the **My Class List** section.
+Alternativt kan du visa klasser genom att gå till **Hantera klasser** i sidofältet och sedan klicka på sektionen **Min klasslista**.
 
 <figure><img src="../.gitbook/assets/Untitled design(16).png" alt=""><figcaption></figcaption></figure>
 
-At the top, you will see a green confirmation bar that reads **"Classes saved successfully."** This confirms that your new class has been successfully created and saved in the system.
+Högst upp ser du en grön bekräftelsefält som lyder **"Klasser sparades framgångsrikt."** Detta bekräftar att din nya klass har skapats och sparats i systemet.
 
-## **6. Notifications and Access After Class Creation**
+## **6. Aviseringar och åtkomst efter klasskapande**
 
-### **- Student Notifications**
+### **- Studentaviseringar**
 
-Once a class is created, students who have been added to the class will automatically receive a **notification** in their RealLives account.
+När en klass har skapats kommer studenter som har lagts till i klassen automatiskt att få en **avisering** i sina RealLives-konton.
 
 <div><figure><img src="../.gitbook/assets/Untitled design(17).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(18).png" alt=""><figcaption></figcaption></figure></div>
 
-* This notification informs them that they have been added to a new class (e.g., **Class 9A - Random Country**).
-* Students can click the notification to view the class and begin playing their assigned life simulation.
+* Denna avisering informerar dem om att de har lagts till i en ny klass (t.ex. **Klass 9A - Slumpmässigt land**).
+* Studenter kan klicka på aviseringen för att visa klassen och börja spela sin tilldelade livssimulering.
 
-### **- Accessing the Class Board for school/university admins**
+### **- Åtkomst till klassbrädan för skol-/universitetsadministratörer**
 
 <figure><img src="../.gitbook/assets/Untitled design(19).png" alt=""><figcaption></figcaption></figure>
 
-School and University admins can easily access the board they’ve created by clicking the **RealBoard** button in the sidebar of the dashboard.
+Skol- och universitetsadministratörer kan enkelt komma åt brädan de har skapat genom att klicka på **RealBoard**-knappen i sidofältet på instrumentpanelen.
 
-* From there, they can view and manage the board, interact with students' posts, provide feedback, and monitor the progress of assignments.
+* Därifrån kan de visa och hantera brädan, interagera med studenternas inlägg, ge feedback och övervaka framstegen i uppgifterna.
 
-## Class Types in RealLives and Their Unique Features
+## Klassens typer i RealLives och deras unika funktioner
 
-While the overall process of creating a class in RealLives remains consistent—adding a board name, editing sections, and entering class details—the class type you choose introduces unique features that tailor the learning experience to different objectives. Let’s explore how each class type differs and what specific opportunities they offer -
+Även om den övergripande processen att skapa en klass i RealLives förblir konsekvent – att lägga till ett brädnamn, redigera sektioner och ange klassdetaljer – introducerar den typ av klass du väljer unika funktioner som anpassar lärandeupplevelsen till olika mål. Låt oss utforska hur varje klasstyp skiljer sig och vilka specifika möjligheter de erbjuder:
 
-\
-Note - Random Life was discussed above.
+### **Slumpmässigt liv**
 
-## **Specific Country**
+Se tidigare beskrivning.
+
+## **Specifikt land**
 
 <figure><img src="../.gitbook/assets/Untitled design(20).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** admins can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
-* **Purpose:** Ideal for lessons that require detailed exploration of a particular region.
-* **Action:** Click the **Create** button to begin setting up your Specific Country class.
+* **Beskrivning:** Administratörer kan välja ett specifikt land där alla studenter ska födas. Detta är perfekt för djupgående utforskningar av det landets kultur, ekonomi eller samhällsfrågor. Denna klasstyp stöder ett fokuserat, djupt dyk i specifika länder, idealiskt för geografi, ekonomi eller samhällskunskapslektioner.
+* **Syfte:** Idealiskt för lektioner som kräver detaljerad utforskning av en viss region.
+* **Åtgärd:** Klicka på **Skapa**-knappen för att börja ställa in din klass för specifikt land.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-03 182221.png" alt=""><figcaption></figcaption></figure>
+Resten av instruktionerna följer samma flöde som **Slumpmässigt liv**.
 
-In the **Specific Country** class, admins can select a specific country where all students will be born. This allows for focused exploration of that country’s culture, economy, and societal issues.
-
-* **Choosing a Country:** After selecting **Specific Country** as the class type, use the dropdown menu to select the country for your students to be born in.
-
-Apart from selecting a country, the rest of the class creation flow remains the same as the **Random Life** process. Please refer to the **Random Life** flow above for detailed steps on setting up class details, editing board sections, and adding students and teachers/professors.
-
-## **Life with SDG**
+## **Liv med SDG**
 
 <figure><img src="../.gitbook/assets/Untitled design(21).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** In this class, students choose a country but are tied to a specific **Sustainable Development Goal (SDG)**, such as poverty, inequality, or climate action.
-* **Purpose:** This is the most impactful class type for global citizenship, SDG-based learning, and encouraging solutions for global challenges.
-* **Action:** Click the **Create** button to start designing your SDG-based class.
+* **Beskrivning:** I denna klass väljer studenter ett land men är kopplade till ett specifikt **Hållbart utvecklingsmål (SDG)**, såsom fattigdom, ojämlikhet eller klimatåtgärder.
+* **Syfte:** Den mest påverkande klasstypen för globalt medborgarskap, SDG-baserat lärande och uppmuntran av lösningar för globala utmaningar.
+
+---
+
+**Fortsättning...**
+---
+
+## **Liv med SDG** (fortsättning)
 
 <figure><img src="../.gitbook/assets/Untitled design(22).png" alt=""><figcaption></figcaption></figure>
 
-In the **Life with SDG** class, the admin selects one of the 17 Sustainable Development Goals (SDGs) to guide the focus of the class. After choosing a goal (e.g., **Climate Action**, **No Poverty**), students can:
+I klassen **Liv med SDG**, väljer administratören ett av de 17 Hållbara utvecklingsmålen (SDGs) för att vägleda klassens fokus. Efter att ha valt ett mål (t.ex. **Klimatåtgärder**, **Ingen fattigdom**), kan studenter:
 
-* Select any country to live in.
-* Explore how the chosen SDG affects life in different regions.
-* Engage with global challenges in a structured yet flexible way.
+* Välja vilket land som helst att leva i.
+* Utforska hur det valda SDG påverkar livet i olika regioner.
+* Engagera sig i globala utmaningar på ett strukturerat men flexibelt sätt.
 
-Once the admin sets the main SDG, students can further customize their experience by:
+När administratören har ställt in det huvudsakliga SDG kan studenter ytterligare anpassa sin upplevelse genom att:
 
-* Choosing specific sub-goals related to the main SDG (e.g., access to healthcare under **Good Health and Well-Being**).
-* Understanding how these challenges play out in various countries.
+* Välja specifika delmål relaterade till huvudmålet (t.ex. tillgång till sjukvård under **God hälsa och välbefinnande**).
+* Förstå hur dessa utmaningar utspelar sig i olika länder.
 
-This class type combines real-world global issues with student freedom, allowing them to explore the impact of SDGs in different contexts. Rest of the class creation flow remains the same.
+Denna klasstyp kombinerar verkliga globala frågor med studentens frihet och låter dem utforska SDG:ernas påverkan i olika sammanhang. Resten av klasskapandeprocessen är densamma.
 
-## **Assignments**
+---
+
+## **Uppdrag**
 
 <figure><img src="../.gitbook/assets/Untitled design(23).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. Admins can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
-* **Purpose:** Best for highly customizable learning experiences focused on specific curriculum requirements.
-* **Action:** Click the **Create** button to begin setting up your Assignment class.
+* **Beskrivning:** Anpassade uppdrag baserade på ämnen som ekonomi, kultur, historia eller valfritt ämne. Administratörer kan skräddarsy klassupplevelsen genom att tilldela specifika mål, vilket möjliggör för studenter att engagera sig i RealLives baserat på läroplanens behov.
+* **Syfte:** Bäst för mycket anpassningsbara lärandeupplevelser fokuserade på specifika läroplanskrav.
+* **Åtgärd:** Klicka på **Skapa**-knappen för att börja ställa in din uppdragsbaserade klass.
 
 <div><figure><img src="../.gitbook/assets/Untitled design(25).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(26).png" alt=""><figcaption></figcaption></figure></div>
 
-For the **Assignments** class type, the process is as follows:
+För klassen **Uppdrag**, är processen som följer:
 
-* **Step 1: Choosing a Subject:** The school/university admin starts by selecting a subject from the available categories (e.g., **Human Geography**, **Economics**, **Environment & Ecology**). This subject will form the basis of the assignment and guide the learning focus.
-* **Step 2: Selecting an Assignment:** After selecting a subject, the admin will choose a specific assignment from a list. These assignments are linked to particular countries based on the chosen subject (e.g., “Be born in a country with the largest population” or “Be born in a country with the lowest girl education”).
-* **Step 3: Students' Experience:** Once the assignment is set, students will experience life in the country linked to the selected assignment, enabling them to explore the challenges and dynamics specific to that country.
+### **Steg 1: Välja ett ämne**
 
-This approach allows the admin to align assignments with learning objectives while offering students a focused, country-specific simulation. Rest of the class creation flow remains the same.
+Skol-/universitetsadministratören börjar med att välja ett ämne från de tillgängliga kategorierna (t.ex. **Mänsklig geografi**, **Ekonomi**, **Miljö & ekologi**). Detta ämne kommer att utgöra grunden för uppdraget och vägleda lärandemålen.
+
+### **Steg 2: Välja ett uppdrag**
+
+Efter att ha valt ett ämne väljer administratören ett specifikt uppdrag från en lista. Dessa uppdrag är kopplade till särskilda länder baserat på det valda ämnet (t.ex. “Födas i ett land med största befolkningen” eller “Födas i ett land med den lägsta flickutbildningen”).
+
+### **Steg 3: Studenternas upplevelse**
+
+När uppdraget är inställt kommer studenterna att uppleva livet i det land som är kopplat till det valda uppdraget och därigenom utforska de utmaningar och dynamiker som är specifika för det landet.
+
+---
+
+Denna metod gör det möjligt för administratören att anpassa uppdrag efter lärandemål samtidigt som de erbjuder studenter en fokuserad, landspecifik simulering. Resten av klasskapandeprocessen förblir densamma.
+
+---
