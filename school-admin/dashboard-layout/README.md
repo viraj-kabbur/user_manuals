@@ -1,11 +1,11 @@
 ---
-description: An overview of the dashboard's layout and purpose.
+description: En översikt över instrumentpanelens layout och syfte.
 ---
 
-# Sidebar
+# Sidomeny
 
-Here’s what the dashboard looks like after you log in and start the game. It includes a primary sidebar ( highlighted in orange), offering intuitive navigation to explore RealLives and its wide range of features.
+Här är vad instrumentpanelen ser ut som efter att du loggat in och startat spelet. Den innehåller en primär sidomeny (markerad i orange) som erbjuder intuitiv navigering för att utforska RealLives och dess breda utbud av funktioner.
 
-Explore the functionalities of the sidebar in detail by navigating through the sub-pages.
+Utforska sidomenyns funktioner i detalj genom att navigera genom undersidorna.
 
-<figure><img src="../../.gitbook/assets/Untitled design(5) (1).png" alt=""><figcaption><p>Home Page of RealLives</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design(5) (1).png" alt=""><figcaption><p>Startsidan för RealLives</p></figcaption></figure>
