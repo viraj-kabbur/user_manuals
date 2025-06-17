@@ -17,33 +17,34 @@ layout:
     visible: true
 ---
 
-# Introduction
+# Einführung
 
-### **About RealLives Simulation**
+### **Über die RealLives Simulation**
 
-RealLives is a gamified simulation that brings home the challenge of life in its many splendors and complexities. In the simulation, you will test your mettle against the many unpredictable life conditions that occur in the course of a lifetime – from birth to death.
+RealLives ist eine spielerische Simulation, die die Herausforderungen des Lebens in all seinen Facetten und seiner Komplexität erlebbar macht. In der Simulation stellen Sie sich den vielen unvorhersehbaren Lebensumständen, die im Laufe eines Lebens – von der Geburt bis zum Tod – auftreten können.
 
-And in RealLives, you can play billions of such lives, in different cultures and nations on earth - without ever repeating any lifetime!
+In RealLives können Sie Milliarden von Leben in unterschiedlichen Kulturen und Ländern dieser Welt erleben – ohne jemals ein Leben zu wiederholen!
 
-As a School/University Admin you can play the game and be born in any life you wish to, by simply clicking on the 'Live a Life' button. Play demo game below.
-
-***
-
-### **Purpose of the Dashboard**
-
-The RealLives Simulation dashboard is a powerful tool for school and university administrators. It provides a centralized interface to manage classes, monitor student progress, and align simulations with educational objectives such as the Sustainable Development Goals (SDGs). The dashboard bridges technology and learning, offering data-driven insights to enhance student engagement and global citizenship education.
+Als Schul- oder Universitätsadministrator*in können Sie das Spiel spielen und in jedes beliebige Leben hineingeboren werden, indem Sie einfach auf den Button „Lebe ein Leben“ klicken. Spielen Sie unten eine Demoversion.
 
 ***
 
-### **Key Features Overview**
+### **Zweck des Dashboards**
 
-The RealLives Simulation dashboard is equipped with a variety of features to streamline management and enhance learning outcomes:
+Das RealLives-Simulations-Dashboard ist ein leistungsstarkes Werkzeug für Schul- und Universitätsleitungen. Es bietet eine zentrale Benutzeroberfläche zur Verwaltung von Klassen, zur Überwachung des Lernfortschritts der Schüler*innen sowie zur Ausrichtung der Simulationen an Bildungszielen wie den Zielen für nachhaltige Entwicklung (SDGs).
+Das Dashboard schlägt eine Brücke zwischen Technologie und Lernen und liefert datengestützte Erkenntnisse zur Förderung von Schülerengagement und globaler Bildung für verantwortungsvolle Weltbürgerschaft.
 
-* **My Journey:** View gameplay data, track progress, and analyze geographic and gender-based simulation trends.
-* **RealBoard Integration:** Connect RealLives simulations with RealBoard, a collaborative platform for student interaction and shared reflections.
-* **Class Management:** Easily create, monitor, and manage global citizenship classes with tailored assignments.
-* **World Data + SDG Tools:** Access global datasets and link simulations to SDGs, enriching the educational experience.
-* **License Management:** Efficiently manage available licenses for your institution.
-* **Feedback and Support:** Report bugs, provide feedback, and access user guides for seamless platform usage.
+***
+
+### **Übersicht der Hauptfunktionen**
+
+Das RealLives-Simulations-Dashboard bietet eine Vielzahl an Funktionen, um die Verwaltung zu vereinfachen und die Lernergebnisse zu optimieren:
+
+* **My Journey:** VSpieldaten einsehen, Fortschritte verfolgen und geografische sowie geschlechtsspezifische Trends in der Simulation analysieren.
+* **RealBoard Integration:** Verknüpfen Sie RealLives-Simulationen mit RealBoard – einer kollaborativen Plattform für den Austausch und gemeinsame Reflexion der Lernenden.
+* **Class Management:** Erstellen, überwachen und verwalten Sie Kurse zur globalen Bürgerschaft mit individuell anpassbaren Aufgabenstellungen.
+* **World Data + SDG Tools:** Greifen Sie auf globale Datensätze zu und verknüpfen Sie Simulationen mit den Zielen für nachhaltige Entwicklung (SDGs), um das Bildungserlebnis zu vertiefen.
+* **License Management:** Verwalten Sie die verfügbaren Lizenzen Ihrer Bildungseinrichtung effizient.
+* **Feedback and Support:** Melden Sie Fehler, geben Sie Feedback und greifen Sie auf Benutzerhandbücher zu – für eine reibungslose Nutzung der Plattform.
 
 ***
