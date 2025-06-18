@@ -1,33 +1,33 @@
-# View Students List
+# Teilnehmerliste anzeigen
 
-### <mark style="background-color:blue;">Viewing allocated students -</mark>&#x20;
+### <mark style="background-color:blue;">Zugeordnete Teilnehmer anzeigen -</mark>
 
-Once you click on **Allocated Students**, you can see the allocated students list like so -
+Nachdem Sie auf **Zugeordnete Teilnehmer** geklickt haben, wird die Liste der zugewiesenen Teilnehmer wie folgt angezeigt:
 
-This is a list of students with active licenses.
+Dies ist eine Liste der Teilnehmer mit aktiven Lizenzen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112311.png" alt=""><figcaption><p>List of allocated students</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112311.png" alt=""><figcaption><p>Liste der zugewiesenen Teilnehmer</p></figcaption></figure>
 
-### <mark style="background-color:blue;">Viewing de-allocated students -</mark>
+### <mark style="background-color:blue;">Zugeordnete Teilnehmer anzeigen -</mark>
 
-Once you click on **De-allocated Students**, you can see the de-allocated students list like so -
+Nachdem Sie auf **Zugeordnete Teilnehmer** geklickt haben, wird die Liste der zugewiesenen Teilnehmer wie folgt angezeigt:
 
-This is a list of students with inactive licenses.
+Dies ist eine Liste der Teilnehmer mit inaktiven Lizenzen.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112319 (1).png" alt=""><figcaption><p>List of de-allocated students</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 112319 (1).png" alt=""><figcaption><p>Liste der freigegebenen Studierenden</p></figcaption></figure>
 
-### <mark style="background-color:blue;">How to De-allocate a Student?</mark>
+### <mark style="background-color:blue;">Wie lösche ich die Zuordnung eines Studierenden?</mark>
 
-Simply head on to Students section situated in the Left Bar of the Dashboard and look for allocated student button under it. If not seen make sure you have pressed the arrow next to Students section and you have the full list of functionalities.
+Gehen Sie einfach in der linken Leiste des Dashboards zum Bereich „Studierende“ und suchen Sie darunter nach der Schaltfläche „Zugeordnete Studierende“. Falls diese nicht angezeigt wird, vergewissern Sie sich, dass Sie den Pfeil neben dem Bereich „Studierende“ angeklickt haben. Dadurch wird die vollständige Liste der Funktionen angezeigt.
 
-Press the allocated student list button, once done a page like this will be shown -&#x20;
+Klicken Sie auf die Schaltfläche „Liste der zugewiesenen Studierenden“. Daraufhin wird eine Seite wie diese angezeigt:
 
-Note down the available licenses - <mark style="background-color:red;">246</mark>
+Notieren Sie die verfügbaren Lizenzen. - <mark style="background-color:red;">246</mark>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 163704.png" alt=""><figcaption></figcaption></figure>
 
-The 'X' can be pressed to de-allocate a student which was previously allocated.
+Mit dem „X“ können Sie die Zuweisung eines zuvor zugewiesenen Studenten aufheben.
 
-The student was de-allocated. Also, the number of licenses increased from <mark style="background-color:red;">246 to 247.</mark>
+Die Zuweisung des Studenten wurde aufgehoben. Außerdem wurde die Anzahl der Lizenzen von <mark style="background-color:red;">246 auf 247 erhöht.</mark>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 164159.png" alt=""><figcaption></figcaption></figure>
