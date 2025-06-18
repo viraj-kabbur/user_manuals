@@ -1,23 +1,23 @@
 ---
-description: >-
-  The Class Management section is designed to help school administrators efficiently create and manage Global Citizenship classes by integrating RealBoard for collaborative and impactful learning.
+Beschreibung: >-
+ Der Bereich Klassenverwaltung unterstützt Schulleitungen bei der effizienten Erstellung und Verwaltung von Global Citizenship-Kursen durch die Integration von RealBoard für kollaboratives und effektives Lernen.
 ---
 
-# Class Management
+# Klassenverwaltung
 
 <figure><img src="../../.gitbook/assets/Untitled design(41).png" alt=""><figcaption></figcaption></figure>
 
-### **1. Creating Global Citizenship Classes with RealBoard**
+### **1. Global Citizenship-Kurse mit RealBoard erstellen**
 
-This feature allows you to set up classes that enhance peer-to-peer learning and SDG-based assignments using RealBoard.
+Mit dieser Funktion können Sie Kurse einrichten, die Peer-to-Peer-Lernen und SDG-basierte Aufgaben mit RealBoard fördern.
 
-* **Purpose:** Promote understanding of global citizenship through collaborative simulations.
-* **Steps:**
-  1. Click **"Creating a Global Citizenship Class with RealBoard"** to begin.
-  2. Customize the class based on specific goals or assignments.
-  3. Invite students and assign tasks via RealBoard.
+* **Zweck:** Förderung des Verständnisses für Global Citizenship durch kollaborative Simulationen.
+* **Schritte:**
+1. Klicken Sie auf **„Global Citizenship-Kurs mit RealBoard erstellen“**, um zu beginnen.
+2. Passen Sie den Kurs anhand spezifischer Ziele oder Aufgaben an.
+3. Laden Sie Schüler ein und weisen Sie Aufgaben über RealBoard zu.
 
-For a detailed guide on creating classes with RealBoard, refer to the link below:
+Eine ausführliche Anleitung zum Erstellen von Kursen mit RealBoard finden Sie unter folgendem Link:
 
 {% content-ref url="../create-a-class-with-realboard.md" %}
 [create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
@@ -25,22 +25,22 @@ For a detailed guide on creating classes with RealBoard, refer to the link below
 
 ***
 
-### **2. My Class List**
+### **2. Meine Klassenliste**
 
-Access a centralized view of all classes you’ve created or are managing.
+Greifen Sie auf eine zentrale Ansicht aller von Ihnen erstellten oder verwalteten Klassen zu.
 
-* **Advantages:**
-  * Monitor student engagement.
-  * Track assignment progress.
-  * Manage ongoing or completed classes.
+* **Vorteile:**
+* Überwachung des Schülerengagements.
+* Verfolgen Sie den Aufgabenfortschritt.
+* Verwalten Sie laufende oder abgeschlossene Klassen.
 
 ***
 
-### **3. Class Participation**
+### **3. Klassenbeteiligung**
 
-Facilitates teacher/professor participation in existing classes.
+Erleichtert die Teilnahme von Lehrkräften/Professoren an bestehenden Klassen.
 
-* **How it works:**
-  * Enables seamless access to class content, assignments, and RealBoard discussions.
+* **So funktioniert es:**
+* Ermöglicht nahtlosen Zugriff auf Unterrichtsinhalte, Aufgaben und RealBoard-Diskussionen.
 
 ***
