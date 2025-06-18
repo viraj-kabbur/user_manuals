@@ -1,20 +1,20 @@
 ---
-description: >-
-  The Feedback / Bug Report section allows teachers and professors to report issues or share suggestions to improve the RealLives Simulation platform.
+Beschreibung: >-
+  Im Abschnitt „Feedback/Fehlerbericht“ können Lehrer und Professoren Probleme melden oder Vorschläge zur Verbesserung der RealLives-Simulationsplattform teilen.
 ---
 
-# Feedback
+# Rückmeldung
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 150606.png" alt=""><figcaption></figcaption></figure>
 
-### **1. Submitting Feedback or Bug Reports**
+### **1. Feedback oder Fehlerberichte senden**
 
-* **Title:** Enter a concise and clear title summarizing the feedback or issue (e.g., "Login Error" or "Feature Suggestion").
-* **Description:** Provide a detailed explanation of the feedback or bug. If the issue is reproducible, include the steps to recreate it.
-* **Type:** Select the appropriate category from the dropdown menu, such as **Bug**, **Feature Request**, or **General Feedback**.
-* **Attach Screenshots:** Optionally, upload screenshots to provide additional context for a specific page or issue.
+* **Titel:** Geben Sie einen prägnanten und eindeutigen Titel ein, der das Feedback oder Problem zusammenfasst (z. B. „Anmeldefehler“ oder „Funktionsvorschlag“).
+* **Beschreibung:** Geben Sie eine detaillierte Erklärung des Feedbacks oder Fehlers an. Falls das Problem reproduzierbar ist, beschreiben Sie die Schritte zur Reproduzierung.
+* **Typ:** Wählen Sie die entsprechende Kategorie aus dem Dropdown-Menü aus, z. B. **Fehler**, **Funktionsanfrage** oder **Allgemeines Feedback**.
+* **Screenshots anhängen:** Laden Sie optional Screenshots hoch, um zusätzlichen Kontext zu einer bestimmten Seite oder einem bestimmten Problem bereitzustellen.
 
-### **2. Actions:**
+### **2. Aktionen:**
 
-* **Save:** Click to submit your feedback or bug report.
-* **Cancel:** Click to discard the input if necessary.
+* **Speichern:** Klicken Sie hier, um Ihr Feedback oder Ihren Fehlerbericht zu senden.
+* **Abbrechen:** Klicken Sie hier, um die Eingabe gegebenenfalls zu verwerfen.
