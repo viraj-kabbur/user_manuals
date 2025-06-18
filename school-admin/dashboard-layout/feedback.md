@@ -1,22 +1,20 @@
 ---
-description: >-
-  The Feedback / Bug Report section enables teachers and administrators to
-  report issues or share their suggestions for improving the RealLives
-  Simulation platform.
+Beschreibung: >-
+  Im Bereich „Feedback/Fehlerberichte“ können Lehrkräfte und Administratoren Probleme melden oder Verbesserungsvorschläge für die RealLives-Simulationsplattform teilen.
 ---
 
 # Feedback
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114715.png" alt=""><figcaption></figcaption></figure>
 
-### **1. Submitting Feedback or Bug Reports**
+### **1. Feedback oder Fehlerberichte einreichen**
 
-* **Title:** Provide a brief and clear title summarizing your feedback or the issue (e.g., "Login Error" or "Feature Suggestion").
-* **Description:** Write a detailed explanation of the feedback or bug, including steps to reproduce the issue, if applicable.
-* **Type:** Select the appropriate category from the drop-down menu, such as **Bug**, **Feature Request**, or **General Feedback**.
-* **Attach Screenshots:** Optionally upload a screenshot of the specific page or issue to provide additional context.
+* **Titel:** Geben Sie einen kurzen und klaren Titel an, der Ihr Feedback oder das Problem zusammenfasst (z. B. „Anmeldefehler“ oder „Funktionsvorschlag“).
+* **Beschreibung:** Geben Sie eine detaillierte Erklärung des Feedbacks oder Fehlers an, einschließlich der Schritte zur Reproduktion des Problems, falls zutreffend.
+* **Typ:** Wählen Sie die entsprechende Kategorie aus dem Dropdown-Menü aus, z. B. **Fehler**, **Funktionswunsch** oder **Allgemeines Feedback**.
+* **Screenshots anhängen:** Laden Sie optional einen Screenshot der jeweiligen Seite oder des Problems hoch, um zusätzlichen Kontext bereitzustellen.
 
-### **2. Actions:**
+### **2. Aktionen:**
 
-* Click **Save** to submit your feedback or bug report.
-* Use **Cancel** to discard the input if necessary.
+* Klicken Sie auf **Speichern**, um Ihr Feedback oder Ihren Fehlerbericht abzusenden.
+* Verwenden Sie bei Bedarf **Abbrechen**, um die Eingabe zu verwerfen.
