@@ -1,142 +1,143 @@
 ---
-description: >-
-  The home page provides an overview of key features for school/university administrators.
+Beschreibung: >-
+Die Startseite bietet einen Überblick über die wichtigsten Funktionen für Schul-/Universitätsadministratoren.
 ---
 
-# Home
+# Startseite
 
 <figure><img src="../../.gitbook/assets/Untitled design(10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Untitled design(11).png" alt=""><figcaption><p>After scrolling down on the home page</p></figcaption></figure>
 
-### **1] Creating Global Citizenship Classes with RealBoard**
+### **1 Erstellen von Global Citizenship-Klassen mit RealBoard**
 
-You can use this feature to assign various tasks and activities to students. For detailed information on creating classes with RealBoard, refer to the section below:
+Mit dieser Funktion können Sie Schülern verschiedene Aufgaben und Aktivitäten zuweisen. Detaillierte Informationen zum Erstellen von Klassen mit RealBoard finden Sie im folgenden Abschnitt:
 
 {% content-ref url="../../school-admin/create-a-class-with-realboard.md" %}
 [create-a-class-with-realboard.md](../../school-admin/create-a-class-with-realboard.md)
 {% endcontent-ref %}
 
-### **2] Managing School/University Data**
+### **2 Schul-/Universitätsdaten verwalten**
 
-Monitor the number and status of students as well as teachers/professors. The school/university game data provides comprehensive statistics and data for all created classes. Personal game data includes statistics and insights for games participated in directly by the user.
+Überwachen Sie die Anzahl und den Status von Studierenden sowie Lehrkräften/Professoren. Die Schul-/Universitätsspieldaten bieten umfassende Statistiken und Daten zu allen erstellten Klassen. Persönliche Spieldaten umfassen Statistiken und Einblicke zu Spielen, an denen der Nutzer direkt teilgenommen hat.
 
-**Key Features -**
+**Wichtige Funktionen**
 
-### i] Managing Students
+### i Schülerverwaltung
 
-View lists of **Allocated Students** and **De-allocated Students**.
+Listen der **zugewiesenen** und **abgewiesenen** Schüler anzeigen.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134129.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134139.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ***
 
-### ii] Viewing Teachers/Professors
+### ii Lehrer/Professoren anzeigen
 
-Check the list of peers.
+Liste der Mitschüler einsehen.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134038.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### iii] School Game Data
+### iii Schulspieldaten
 
-The school game data section enables administrators to comprehensively monitor student and teacher activities, license usage, and game data.
+Der Bereich „Schulspieldaten“ ermöglicht Administratoren eine umfassende Überwachung der Aktivitäten von Schülern und Lehrern, der Lizenznutzung und der Spieldaten.
 
-**1. Dashboard Overview**
+**1. Dashboard-Übersicht**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134458.png" alt=""><figcaption></figcaption></figure>
 
-The dashboard provides participation data for the entire school:
+Das Dashboard bietet Teilnahmedaten für die gesamte Schule:
 
-* **Total Students:** Displays the number of students registered in RealLives (e.g., **349 students**).
-* **Allocated Students:** Shows the number of students with active licenses (e.g., **317 students**).
-* **Total Teachers:** Reflects the number of active teacher accounts (e.g., **6 teachers**).
-* **Explored Countries:** Highlights the diversity of simulations based on the number of countries explored (e.g., **108 countries**).
-* **License Usage:** Visual representation of licenses used versus total licenses (e.g., **64% of 500 licenses used**).
-
-***
-
-**2. Weekly Reports**
-
-* Displays weekly student activity and engagement in graph form.
-* Use this data to track increases or decreases in usage.
+* **Gesamtzahl der Studierenden:** Zeigt die Anzahl der in RealLives registrierten Studierenden an (z. B. **349 Studierende**).
+* **Zugeordnete Studierende:** Zeigt die Anzahl der Studierenden mit aktiven Lizenzen an (z. B. **317 Studierende**).
+* **Lehrkräfte gesamt:** Gibt die Anzahl der aktiven Lehrkräftekonten an (z. B. **6 Lehrkräfte**).
+* **Untersuchte Länder:** Hebt die Vielfalt der Simulationen basierend auf der Anzahl der untersuchten Länder hervor (z. B. **108 Länder**).
+* **Lizenznutzung:** Visuelle Darstellung der verwendeten Lizenzen im Vergleich zur Gesamtzahl der Lizenzen (z. B. **64 % von 500 Lizenzen verwendet**).
 
 ***
 
-**3. Teacher and Student Management**
+**2. Wöchentliche Berichte**
+
+* Zeigt die wöchentliche Schüleraktivität und das Engagement in einem Diagramm an.
+* Nutzen Sie diese Daten, um Nutzungszuwächse oder -abnahmen zu verfolgen.
+
+***
+
+**3. Lehrer- und Schülerverwaltung**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134524.png" alt=""><figcaption></figcaption></figure>
 
-* **Teacher Table:** Lists all registered teachers, including names, last login dates, statuses (**Active/Inactive**), and an **Edit** option for profile management.
-* **Student Table:** Displays student names, last login dates, statuses (**Active/Inactive**), and an **Edit** option for profile adjustments.
-* **Purpose:** Quickly identify inactive accounts and ensure all teachers and students can access simulations.
+* **Lehrertabelle:** Listet alle registrierten Lehrer auf, einschließlich Namen, Datum der letzten Anmeldung, Status (**Aktiv/Inaktiv**) und einer **Bearbeiten**-Option zur Profilverwaltung.
+* **Schülertabelle:** Zeigt Schülernamen, Datum der letzten Anmeldung, Status (**Aktiv/Inaktiv**) und einer **Bearbeiten**-Option zur Profilanpassung.
+* **Zweck:** Schnelle Identifizierung inaktiver Konten und Sicherstellung des Zugriffs aller Lehrer und Schüler auf Simulationen.
 
 ***
 
-**4. School Game Data**
+**4. Schulspieldaten**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134535.png" alt=""><figcaption></figcaption></figure>
 
-**1. Life Overview**
+**1. Lebensübersicht**
 
-* **Ongoing Lives:** Displays the total number of simulations currently being played by students (e.g., **173 lives**).
-* **Completed Lives:** Tracks the number of completed simulations (e.g., **21 lives**).
+* **Laufende Leben**: Zeigt die Gesamtzahl der aktuell von Schülern gespielten Simulationen an (z. B. **173 Leben**).
+* **Abgeschlossene Leben**: Zeigt die Anzahl der abgeschlossenen Simulationen an (z. B. **21 Leben**).
 
-**2. Gender Distribution**
+**2. Geschlechterverteilung**
 
-* Highlights the number of male and female lives simulated.
+* Zeigt die Anzahl der simulierten männlichen und weiblichen Leben an.
 
-**3. Geographic Scope**
+**3. Geografischer Umfang**
 
-* **Location-Based Lives:** Provides a world map visualization of countries where simulations have been conducted.
+* **Standortbasierte Leben:** Bietet eine Weltkartenvisualisierung der Länder, in denen Simulationen durchgeführt wurden.
 
 ***
 
-#### **5. Distribution of Lives**
+#### **5. Verteilung der Leben**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134544.png" alt=""><figcaption></figcaption></figure>
 
-* **Types of Distribution:** Offers a pie chart categorizing simulated lives. The legend identifies the following categories:
-  * Random Life
-  * Design a Life
-  * SDG-Based Lives
-  * Life with Assignments
-  * Life Using Groups
-  * Age Skip Life
-* **Group Lives:** Tracks the number of lives simulated in group-based sessions (e.g., **105 group lives**).
+* **Verteilungsarten:** Bietet ein Kreisdiagramm zur Kategorisierung der simulierten Leben. Die Legende identifiziert die folgenden Kategorien:
+* Zufallsbasiertes Leben
+* Gestaltetes Leben
+* SDG-basiertes Leben
+* Leben mit Aufgaben
+* Leben mit Gruppen
+* Alter überspringendes Leben
+
+* **Gruppenleben:** Zeigt die Anzahl der in gruppenbasierten Sitzungen simulierten Leben an (z. B. **105 Gruppenleben**).
 
 ***
 
-#### **6. Sustainable Development Goal (SDG) Data**
+#### **6. Daten zu den Zielen für nachhaltige Entwicklung (SDGs)**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134551.png" alt=""><figcaption></figcaption></figure>
 
-* **Top 4 SDGs:** Highlights the SDGs most frequently selected by students during simulations (e.g., Goal 1: No Poverty, selected 5 times).
-* **Overall SDG Analysis:** Provides a comprehensive view of all selected SDGs, focusing on real-world challenges such as:
-  * No Poverty (Goal 1)
-  * Zero Hunger (Goal 2)
-  * Good Health and Well-Being (Goal 3)
-  * Quality Education (Goal 4)
+* **Top 4 SDGs:** Hebt die SDGs hervor, die von den Schülerinnen und Schülern in Simulationen am häufigsten gewählt wurden (z. B. Ziel 1: Keine Armut, fünfmal gewählt).
+* **Gesamtanalyse der SDGs:** Bietet einen umfassenden Überblick über alle ausgewählten SDGs und konzentriert sich dabei auf reale Herausforderungen wie:
+  * Keine Armut (Ziel 1)
+* Kein Hunger (Ziel 2)
+* Gesundheit und Wohlbefinden (Ziel 3)
+* Hochwertige Bildung (Ziel 4)
 
 ***
 
-#### **7. Leaderboard**
+#### **7. Rangliste**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 134603.png" alt=""><figcaption></figcaption></figure>
 
-* **Completed Lives Leaderboard:**
-  * Ranks students based on the number of completed lives, fostering healthy competition.
-  * Includes student names, ranks, and completed lives.
-* **Incomplete Lives Leaderboard:**
-  * Tracks students with ongoing simulations and encourages them to complete lives.
-  * Displays names, ranks, and the number of incomplete lives.
+* **Rangliste abgeschlossener Leben:**
+* Die Schüler werden nach der Anzahl ihrer abgeschlossenen Leben eingestuft, was einen gesunden Wettbewerb fördert.
+* Enthält Schülernamen, Ränge und abgeschlossene Leben.
+* **Bestenliste unvollständiger Leben:**
+* Verfolgt Schüler in laufenden Simulationen und ermutigt sie, Leben abzuschließen.
+* Zeigt Namen, Ränge und die Anzahl unvollständiger Leben an.
 
 ***
 
-### iv] Personal Game Data
+### iv Persönliche Spieldaten
 
-This data is also accessible under the **My Journey** section of the sidebar. Refer to the link below for details:
+Diese Daten sind auch im Bereich **Meine Reise** in der Seitenleiste verfügbar. Weitere Informationen finden Sie unter folgendem Link:
 
 {% content-ref url="../../school-admin/dashboard-layout/my-journey.md" %}
 [my-journey.md](../../school-admin/dashboard-layout/my-journey.md)
