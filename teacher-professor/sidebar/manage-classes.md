@@ -1,9 +1,4 @@
----
-Beschreibung: >-
- Der Bereich Klassenverwaltung unterstützt Schulleitungen bei der effizienten Erstellung und Verwaltung von Global Citizenship-Kursen durch die Integration von RealBoard für kollaboratives und effektives Lernen.
----
-
-# Klassenverwaltung
+# Klassen Verwalten
 
 <figure><img src="../../.gitbook/assets/Untitled design(41).png" alt=""><figcaption></figcaption></figure>
 
@@ -13,6 +8,7 @@ Mit dieser Funktion können Sie Kurse einrichten, die Peer-to-Peer-Lernen und SD
 
 * **Zweck:** Förderung des Verständnisses für Global Citizenship durch kollaborative Simulationen.
 * **Schritte:**
+
 1. Klicken Sie auf **„Global Citizenship-Kurs mit RealBoard erstellen“**, um zu beginnen.
 2. Passen Sie den Kurs anhand spezifischer Ziele oder Aufgaben an.
 3. Laden Sie Schüler ein und weisen Sie Aufgaben über RealBoard zu.

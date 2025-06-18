@@ -1,9 +1,4 @@
----
-Beschreibung: >-
- Im Bereich „Schüler“ können Schuladministratoren Schülerkonten effizient verwalten, Schüler in das System importieren und den Registrierungsstatus überwachen.
----
-
-# Schüler
+# Students
 
 ## <mark style="background-color:blue;">Studenten hinzufügen/importieren</mark>
 

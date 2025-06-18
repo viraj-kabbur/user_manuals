@@ -9,6 +9,7 @@ So greifen Sie auf das RealLives Simulation Dashboard zu:
 3. **Dashboard aufrufen:** Klicken Sie auf die Schaltfläche **„Anmelden“**, um Ihr personalisiertes Dashboard zu öffnen.
 
 > **Hinweis:** Sollten Sie Probleme bei der Anmeldung haben, überprüfen Sie bitte Ihre Anmeldedaten oder setzen Sie Ihr Passwort über die Option „Passwort vergessen“ zurück.
+
 ***
 
 ### **2. Das Dashboard erkunden**
@@ -18,6 +19,7 @@ Das RealLives Simulation Dashboard ist intuitiv und benutzerfreundlich gestaltet
 * **Seitenleistenmenü**: Auf der linken Seite ermöglicht es die Navigation zwischen Funktionen wie **Meine Reise** und **Klasse verwalten**.
 * **Obere Leiste**: Zeigt Lizenzverfügbarkeit, Kontoeinstellungen und Benachrichtigungen an.
 * **Hauptbereich**: Der zentrale Arbeitsbereich, in dem Sie mit der ausgewählten Funktion interagieren.
+
 ***
 
 ### **3. Profil einrichten**
@@ -27,9 +29,10 @@ Stellen Sie nach der Anmeldung sicher, dass Ihr Profil korrekt eingerichtet ist:
 1. **Kontoeinstellungen aufrufen:** Klicken Sie oben rechts auf Ihre Initialen oder Ihr Profilsymbol.
 2. **Informationen aktualisieren:** Fügen Sie Angaben wie Name, E-Mail-Adresse und Name der Institution hinzu oder aktualisieren Sie diese.
 3. **Änderungen speichern:** Speichern Sie alle Änderungen, bevor Sie das Konto verlassen.
+
 ***
 
-###**4. Lizenzverfügbarkeit prüfen**
+\###**4. Lizenzverfügbarkeit prüfen**
 
 Die Anzahl der verfügbaren Lizenzen wird oben im Dashboard angezeigt. Stellen Sie sicher, dass genügend Lizenzen für Ihre Studierenden vorhanden sind:
 
@@ -45,6 +48,7 @@ Das RealLives Simulation Dashboard unterstützt mehrere Sprachen, um einer vielf
 **Bevorzugte Sprache auswählen:** Wählen Sie aus den verfügbaren Optionen (z. B. Englisch, Koreanisch, Schwedisch).
 
 > **Tipp:** Sollte Ihre bevorzugte Sprache nicht verfügbar sein, wenden Sie sich bitte an das Support-Team, um weitere Sprachoptionen anzufordern.
+
 ***
 
 ### **6. Benachrichtigungen verwalten**

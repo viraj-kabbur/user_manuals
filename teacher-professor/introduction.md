@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Introduction
+# Einführung
 
 ### Introduction to RealLives Simulation
 

@@ -1,9 +1,3 @@
----
-Beschreibung: >-
-  The My Journey section offers an overview of game-play data, progress, and key
-  insights from simulations.
----
-
 # Meine Reise
 
 ### **1. Meine Spieldaten: Fortschritt und Einblicke**
@@ -12,7 +6,7 @@ Dieser Abschnitt bietet einen detaillierten Überblick über die Simulationsakti
 
 <figure><img src="../../.gitbook/assets/Untitled design(12) (1).png" alt=""><figcaption></figcaption></figure>
 
-**LLaufende Leben:**&#x20;
+**LLaufende Leben:**
 
 Zeigt die Gesamtzahl der aktiven Simulationen an, die aktuell von Nutzern gespielt werden (z. B. **67**).
 

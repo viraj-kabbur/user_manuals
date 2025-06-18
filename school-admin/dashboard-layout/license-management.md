@@ -1,9 +1,4 @@
----
-Beschreibung: >-
-  Im Bereich „Lizenzverwaltung“ können Schul-/Universitätsadministratoren Lizenzen überwachen, verwalten und erwerben, um ihren Studierenden einen reibungslosen Zugriff auf RealLives Simulation zu gewährleisten.
----
-
-# Lizensverwaltung
+# Lizenzverwaltung
 
 ### **1. Aktive Lizenzen**
 
@@ -26,6 +21,7 @@ Diese Seite bietet eine Übersicht über die aktuellen Lizenzen Ihrer Schule ode
 ### **2. Bestellungen**
 
 Die Seite „Bestellungen“ bietet eine detaillierte Übersicht über Ihre bisherigen Lizenzkäufe.
+
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114659.png" alt=""><figcaption></figcaption></figure>
 
 * **Angezeigte Schlüsseldetails:**
@@ -54,6 +50,7 @@ Auf dieser Seite können Sie neue Lizenzen für Ihre Schule oder Institution erw
 * **Zahlungsoptionen:**
 * Wählen Sie zwischen **PayPal**, **Apple Pay** oder **Google Pay** für sichere Transaktionen.
 * **Kaufabwicklung:**
+
 1. Wählen Sie den passenden Plan entsprechend den Anforderungen Ihrer Einrichtung.
 2. Klicken Sie auf **Jetzt kaufen** und schließen Sie die Zahlung ab.
 3. Die Lizenzen sind sofort im Bereich **Aktive Lizenzen** verfügbar.

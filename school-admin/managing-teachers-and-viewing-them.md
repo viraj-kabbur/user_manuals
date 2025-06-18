@@ -1,14 +1,13 @@
 ---
 description: >-
-  Wir haben bereits gesehen, wie die Startseite funktioniert und welche Funktionen sie bietet.
-  Sehen wir uns nun alle Funktionen einzeln an.
+  Wir haben bereits gesehen, wie die Startseite funktioniert und welche
+  Funktionen sie bietet. Sehen wir uns nun alle Funktionen einzeln an.
 cover: >-
   https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYW5hZ2V8ZW58MHx8fHwxNzA5MjA4Nzg4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-
-# Leitung von Lehrkräften/Professoren
+# Lehrkräfte verwalten
 
 ### Wichtig: Das Hinzufügen oder Entfernen von Lehrkräften/Professoren hat keine Auswirkungen auf die Lizenzen. Lehrkräfte/Professoren und Schuladministratoren können das Spiel kostenlos nutzen und benötigen keine Lizenzen. Nur Schüler benötigen Lizenzen.
 
@@ -68,7 +67,7 @@ Sie können sehen, ob der Lehrer/Professor hinzugefügt wurde, indem Sie auf die
 
 **Durch Anklicken können Sie die Liste der Lehrer/Professoren einsehen.**
 
-**Besonderheiten  -**
+**Besonderheiten -**
 
 1. Sie können jeden Lehrer/Professor zum Schuladministrator machen, indem Sie auf das Handsymbol in der entsprechenden Zeile klicken.
 2. Sie können die Informationen des Lehrers/Professors bearbeiten, indem Sie auf das Stiftsymbol in der entsprechenden Zeile klicken.

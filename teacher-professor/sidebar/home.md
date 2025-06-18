@@ -14,8 +14,8 @@ description: >-
 
 Mit dieser Funktion können Sie Schülern verschiedene Aufgaben und Aktivitäten zuweisen. Detaillierte Informationen zum Erstellen von Klassen mit RealBoard finden Sie im folgenden Abschnitt:
 
-{% content-ref url="../../schul-universitat-verwaltung/create-a-class-with-realboard/" %}
-[create-a-class-with-realboard](../../schul-universitat-verwaltung/create-a-class-with-realboard/)
+{% content-ref url="../../school-admin/create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../../school-admin/create-a-class-with-realboard.md)
 {% endcontent-ref %}
 
 ### **2 Schul-/Universitätsdaten verwalten**
@@ -139,8 +139,8 @@ Das Dashboard bietet Teilnahmedaten für die gesamte Schule:
 
 Diese Daten sind auch im Bereich **Meine Reise** in der Seitenleiste verfügbar. Weitere Informationen finden Sie unter folgendem Link:
 
-{% content-ref url="../../schul-universitat-verwaltung/dashboard-layout/my-journey.md" %}
-[my-journey.md](../../schul-universitat-verwaltung/dashboard-layout/my-journey.md)
+{% content-ref url="../../school-admin/dashboard-layout/my-journey.md" %}
+[my-journey.md](../../school-admin/dashboard-layout/my-journey.md)
 {% endcontent-ref %}
 
 ***

@@ -1,7 +1,3 @@
----
-Beschreibung: Eine Übersicht über das Layout und den Zweck des Dashboards.
----
-
 # Sidebar
 
 So sieht das Dashboard nach dem Anmelden und Starten des Spiels aus. Es enthält eine primäre Seitenleiste (orange hervorgehoben), die eine intuitive Navigation bietet, um RealLives und seine vielfältigen Funktionen zu erkunden.

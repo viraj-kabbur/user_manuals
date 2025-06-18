@@ -1,9 +1,4 @@
----
-Beschreibung: >-
-  Entdecken Sie die Weltdaten- und SDG-Tools, um globale Erkenntnisse zu gewinnen und Simulationen mit realen Herausforderungen zu verknüpfen. Diese Funktionen unterstützen Schülerinnen und Schüler dabei, kritisches Denken und globales Bewusstsein zu entwickeln.
----
-
-# Weltdaten- und SDG-Tools
+# Weltdaten + SDG Tools
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 150505.png" alt=""><figcaption></figcaption></figure>
 

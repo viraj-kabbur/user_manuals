@@ -1,4 +1,4 @@
-# Teilnehmerliste anzeigen
+# Studentenliste anzeigen
 
 ### <mark style="background-color:blue;">Zugeordnete Teilnehmer anzeigen -</mark>
 

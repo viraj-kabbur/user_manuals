@@ -1,10 +1,3 @@
----
-Beschreibung: >-
-  The Manage Classes section is designed to help school administrators
-  efficiently create and manage Global Citizenship classes, integrating Real
-  Board for collaborative and impactful learning.
----
-
 # Klassen Verwalten
 
 <figure><img src="../../.gitbook/assets/Untitled design(6).png" alt=""><figcaption></figcaption></figure>
@@ -22,8 +15,8 @@ Mit dieser Funktion können Sie Kurse einrichten, die RealBoard für verbesserte
 
 Eine detaillierte Anleitung zum Erstellen eines Kurses mit RealBoard finden Sie unter dem folgenden Link. -
 
-{% content-ref url="../create-a-class-with-realboard/" %}
-[create-a-class-with-realboard](../create-a-class-with-realboard/)
+{% content-ref url="../create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
 {% endcontent-ref %}
 
 ***

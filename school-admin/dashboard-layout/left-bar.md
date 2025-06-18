@@ -1,9 +1,3 @@
----
-Beschreibung: >-
-  Die Startseite bietet Ihnen einen Überblick über alle wichtigen Funktionen,
-  die Ihnen als Schul-/Universitätsadministrator zur Verfügung stehen.
----
-
 # Startseite
 
 <figure><img src="../../.gitbook/assets/Untitled design(10) (1).png" alt=""><figcaption></figcaption></figure>
@@ -14,8 +8,8 @@ Beschreibung: >-
 
 Mit Real Board können Sie Schülern verschiedene Aufgaben zuweisen. Ausführliche Informationen zum Erstellen einer Klasse mit Real Board finden Sie in diesem Abschnitt.
 
-{% content-ref url="../create-a-class-with-realboard/" %}
-[create-a-class-with-realboard](../create-a-class-with-realboard/)
+{% content-ref url="../create-a-class-with-realboard.md" %}
+[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
 {% endcontent-ref %}
 
 ### **2] Schul-/Universitätsverwaltung und -daten**

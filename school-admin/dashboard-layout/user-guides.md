@@ -1,8 +1,3 @@
----
-Beschreibung: >-
-  Greifen Sie auf die Benutzerhandbücher zu, um Schritt-für-Schritt-Anleitungen und detaillierte Dokumentationen zu erhalten, die Ihnen helfen, alle Funktionen der RealLives-Simulation nahtlos zu navigieren und zu nutzen.
----
-
 # Benutzerhandbücher
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 113840.png" alt=""><figcaption></figcaption></figure>

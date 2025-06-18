@@ -1,4 +1,4 @@
-# Getting Started
+# Erste Schritte
 
 ### **1. Logging into RealLives**
 

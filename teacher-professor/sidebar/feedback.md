@@ -1,8 +1,3 @@
----
-Beschreibung: >-
-  Im Abschnitt „Feedback/Fehlerbericht“ können Lehrer und Professoren Probleme melden oder Vorschläge zur Verbesserung der RealLives-Simulationsplattform teilen.
----
-
 # Rückmeldung
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 150606.png" alt=""><figcaption></figcaption></figure>
