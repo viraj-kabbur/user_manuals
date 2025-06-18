@@ -1,18 +1,16 @@
 ---
-description: >-
-  Access the User Guides for step-by-step instructions and detailed
-  documentation to help you navigate and utilize all the features of RealLives
-  Simulation seamlessly.
+Beschreibung: >-
+  Greifen Sie auf die Benutzerhandbücher zu, um Schritt-für-Schritt-Anleitungen und detaillierte Dokumentationen zu erhalten, die Ihnen helfen, alle Funktionen der RealLives-Simulation nahtlos zu navigieren und zu nutzen.
 ---
 
-# User Guides
+# Benutzerhandbücher
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 113840.png" alt=""><figcaption></figcaption></figure>
 
-#### **User Guides: Game Dashboard**
+#### **Benutzerhandbücher: Spiel-Dashboard**
 
-Explore the **Fame Dashboard User Guide** for comprehensive instructions on managing simulations, tracking progress, and utilizing data-driven insights effectively.
+Im **Fame Dashboard-Benutzerhandbuch** finden Sie umfassende Anleitungen zur Verwaltung von Simulationen, zur Fortschrittsverfolgung und zur effektiven Nutzung datenbasierter Erkenntnisse.
 
-#### **User Guides: RealBoard**
+#### **Benutzerhandbücher: RealBoard**
 
-Access the **RealBoard User Guide** to learn how to foster collaboration, manage class boards, and integrate RealBoard with RealLives simulations for enhanced learning.
+Im **RealBoard-Benutzerhandbuch** erfahren Sie, wie Sie die Zusammenarbeit fördern, Klassentafeln verwalten und RealBoard in RealLives-Simulationen integrieren, um das Lernen zu verbessern.
