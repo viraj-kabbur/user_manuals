@@ -1,6 +1,6 @@
 ---
-Beschreibung: >-
-Die Startseite bietet einen Überblick über die wichtigsten Funktionen für Schul-/Universitätsadministratoren.
+description: >-
+ Die Startseite bietet einen Überblick über die wichtigsten Funktionen für Schul-/Universitätsadministratoren.
 ---
 
 # Startseite
