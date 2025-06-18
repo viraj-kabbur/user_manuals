@@ -1,124 +1,120 @@
 ---
-description: >-
+Beschreibung: >-
   The My Journey section offers an overview of game-play data, progress, and key
   insights from simulations.
 ---
 
-# My Journey
+# Meine Reise
 
-### **1. My Gameplay Data: Progress and Insights**
+### **1. Meine Spieldaten: Fortschritt und Einblicke**
 
-This section provides a detailed overview of simulation activity, allowing school or university admins to monitor progress, gender distribution, and geographic diversity in RealLives simulations.
+Dieser Abschnitt bietet einen detaillierten Überblick über die Simulationsaktivitäten und ermöglicht es Schul- oder Universitätsadministratoren, den Fortschritt, die Geschlechterverteilung und die geografische Vielfalt in RealLives-Simulationen zu überwachen.
 
 <figure><img src="../../.gitbook/assets/Untitled design(12) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Lives in Progress:**&#x20;
+**LLaufende Leben:**&#x20;
 
-Shows the total number of active simulations currently being played by users (e.g., **67**).
+Zeigt die Gesamtzahl der aktiven Simulationen an, die aktuell von Nutzern gespielt werden (z. B. **67**).
 
-**Complete Lives:**
+**Abgeschlossene Leben:**
 
-Indicates the number of simulations that have been fully completed (e.g., **7**).
+Zeigt die Anzahl der vollständig abgeschlossenen Simulationen an (z. B. **7**).
 
-**Gender Distribution:**
+**Geschlechterverteilung:**
 
-Breakdown of the genders represented in simulated lives:
+Aufschlüsselung der in simulierten Leben vertretenen Geschlechter:
 
-* **Male Lives:** Displays the number of male characters in simulations (e.g., **41**).
-* **Female Lives:** Displays the number of female characters in simulations (e.g., **33**).
+* **Männliche Leben:** Zeigt die Anzahl der männlichen Charaktere in Simulationen an (z. B. **41**).
+* **Weibliche Leben:** Zeigt die Anzahl der weiblichen Charaktere in Simulationen an (z. B. **33**).
 
 ***
 
-### **2. Lives by Location: Monitoring Geographic Engagement**
+### **2. Leben nach Standort: Überwachung des geografischen Engagements**
 
-The "Lives by Location" feature in your RealLives Simulation dashboard offers an interactive view of where simulations have been played worldwide. This tool helps you, as a school admin, track activity, analyze diversity, and encourage exploration among students.
+Die Funktion „Leben nach Standort“ in Ihrem RealLives Simulation-Dashboard bietet eine interaktive Ansicht der Orte, an denen Simulationen weltweit gespielt wurden. Dieses Tool hilft Ihnen als Schuladministrator, Aktivitäten zu verfolgen, Diversität zu analysieren und die Entdeckungsfreude der Schüler zu fördern.
 
 <figure><img src="../../.gitbook/assets/Untitled design(13) (1).png" alt=""><figcaption></figcaption></figure>
 
-i] **Map Interface**
+i] **Kartenoberfläche**
 
-The world map provides a comprehensive visual of simulated lives:
+Die Weltkarte bietet eine umfassende Darstellung der simulierten Leben:
 
-* **Blue Markers with Numbers:** These represent clusters of lives in specific regions. For instance, there are **13 simulations in Italy** and **7 in South Africa.**
-* **Red Pins:** These denote individual simulated lives in specific countries, such as **Canada** and **Papua New Guinea.**
+* **Blaue Markierungen mit Zahlen:** Diese stellen Cluster von Leben in bestimmten Regionen dar. Beispielsweise gibt es **13 Simulationen in Italien** und **7 in Südafrika**.
+* **Rote Stecknadeln:** Diese kennzeichnen einzelne simulierte Leben in bestimmten Ländern wie **Kanada** und **Papua-Neuguinea**.
 
-By examining these markers, you can quickly identify where simulations are concentrated and areas that may require more exploration.
+Anhand dieser Markierungen können Sie schnell erkennen, wo Simulationen konzentriert sind und welche Bereiche möglicherweise einer genaueren Untersuchung bedürfen.
 
+**ii] Datenzusammenfassung**
 
+Unter der Karte fassen wichtige Statistiken das globale Engagement zusammen:
 
-**ii] Data Summary**
-
-Below the map, key statistics summarize global engagement:
-
-* **Countries Covered:** Students have explored **61 out of 193 possible countries**, showcasing global diversity in their simulations.
-* **Progress Bar:** This indicates that **32% of the world** has been covered through simulations, highlighting the need to encourage students to explore lesser-known regions.
+* **Abgedeckte Länder:** Die Schüler haben **61 von 193 möglichen Ländern** erkundet und so die globale Vielfalt ihrer Simulationen verdeutlicht.
+* **Fortschrittsbalken:** Dies zeigt an, dass **32 % der Welt** durch Simulationen abgedeckt wurden. Dies unterstreicht die Notwendigkeit, Schüler zu ermutigen, weniger bekannte Regionen zu erkunden.
 
 ***
 
-### **3. Distribution and SDG Insights: Monitoring Life Types and Goals**
+### **3. Einblicke in Verteilung und SDGs: Überwachung von Lebenstypen und Zielen**
 
-This section of the RealLives Simulation dashboard helps school and university admins analyze the types of simulated lives and their alignment with SDGs (Sustainable Development Goals). It provides an overview of life types, group activities, and the most frequently addressed SDGs.
+Dieser Bereich des RealLives Simulation-Dashboards unterstützt Schul- und Universitätsadministratoren bei der Analyse der simulierten Lebenstypen und ihrer Übereinstimmung mit den SDGs (Ziele für nachhaltige Entwicklung). Er bietet einen Überblick über Lebenstypen, Gruppenaktivitäten und die am häufigsten angesprochenen SDGs.
 
 <figure><img src="../../.gitbook/assets/Untitled design(14).png" alt=""><figcaption></figcaption></figure>
 
-**Key Features:**
+**Hauptmerkmale:**
 
-**i] Distribution of Life Types**
+**i] Verteilung der Lebenstypen**
 
-A circular chart visually represents the distribution of simulated lives based on their type:
+Ein Kreisdiagramm stellt die Verteilung der simulierten Leben nach Typ visuell dar:
 
-* Group Lives (Highlighted): Shows the number of lives simulated using groups (e.g., 35).
-* **Legend for Life Types:**
-  * Orange (Random Life): Lives generated randomly.
-  * Yellow (Design a Life): Lives customized by students.
-  * Green (SDG): Lives aligned with SDGs.
-  * Dark Green (Life with Assignments): Lives created as part of classroom assignments.
-  * Light Green (Life Using Groups): Lives simulated collaboratively in groups.
-  * Blue (Age Skip Life): Lives where players skip age milestones to explore different life stages quickly.
+* Gruppenleben (hervorgehoben): Zeigt die Anzahl der in Gruppen simulierten Leben (z. B. 35).
+* **Legende für Lebenstypen:**
+* Orange (Zufälliges Leben): Zufällig generierte Leben.
+* Gelb (Leben gestalten): Von Schülern individuell gestaltete Leben.
+* Grün (SDG): An den SDGs ausgerichtete Leben.
+* Dunkelgrün (Leben mit Aufgaben): Im Rahmen von Klassenaufgaben erstellte Leben.
+* Hellgrün (Leben mit Gruppen): Gemeinsam in Gruppen simulierte Leben.
+* Blau (Leben mit Altersübersprung): Leben, in denen Spieler Altersmeilensteine ​​überspringen, um schnell verschiedene Lebensabschnitte zu erkunden.
 
 **ii] Top 4 SDGs**
 
-Displays the most frequently selected SDGs and the number of lives associated with each goal:
+Zeigt die am häufigsten ausgewählten SDGs und die Anzahl der mit jedem Ziel verbundenen Leben an:
 
-* Goal 1 (No Poverty): Lives addressing poverty challenges (e.g., 2 lives).
-* Goal 2 (Zero Hunger): Lives exploring food security (e.g., 2 lives).
-* Goal 5 (Gender Equality): Lives promoting gender equality (e.g., 2 lives).
-* Goal 3 (Good Health and Well-Being): Lives focusing on health challenges (e.g., 0 lives).
+* Ziel 1 (Keine Armut): Leben, die sich mit Armutsproblemen befassen (z. B. 2 Leben).
+* Ziel 2 (Kein Hunger): Leben, die sich mit Ernährungssicherheit befassen (z. B. 2 Leben).
+* Ziel 5 (Gleichstellung der Geschlechter): Leben, die sich für die Gleichstellung der Geschlechter einsetzen (z. B. 2 Leben).
+* Ziel 3 (Gesundheit und Wohlbefinden): Leben, die sich mit gesundheitlichen Herausforderungen befassen (z. B. 0 Leben).
 
 ***
 
-### **4. SDG Overview: Tracking Goal Alignment**
+### **4. SDG-Übersicht: Zielausrichtung verfolgen**
 
-This section provides a detailed summary of Sustainable Development Goals (SDGs) selected by students while creating lives in RealLives Simulation. It helps school and university admins understand how simulations align with global challenges and educational priorities
+Dieser Abschnitt bietet eine detaillierte Zusammenfassung der Ziele für nachhaltige Entwicklung (SDGs), die von Schülern beim Erstellen von Leben in RealLives Simulation ausgewählt wurden. Er hilft Schul- und Universitätsadministratoren zu verstehen, wie Simulationen mit globalen Herausforderungen und Bildungsprioritäten übereinstimmen.
 
 <figure><img src="../../.gitbook/assets/Untitled design(1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### **5. Organ Donation and Expressions: Tracking Contributions**
+### **5. Organspende und Äußerungen: Beiträge verfolgen**
 
-This section allows school and university admins to monitor players' contributions to organ donation and track their key life events and expressions within the RealLives Simulation.
+Dieser Bereich ermöglicht es Schul- und Universitätsadministratoren, die Beiträge der Spieler zur Organspende zu überwachen und ihre wichtigsten Lebensereignisse und Äußerungen in der RealLives-Simulation zu verfolgen.
 
 <figure><img src="../../.gitbook/assets/Untitled design(2) (1).png" alt=""><figcaption></figcaption></figure>
 
-**i] Organ Donation Overview**
+**i] Organspende-Übersicht**
 
-Icons represent the status of different organ donations made by the player:
+Symbole zeigen den Status verschiedener Organspenden des Spielers an:
 
-* **Liver, Eyes, Heart, Kidney, Lungs, Skin:** Marked as **"Not yet donated"** if no donations have occurred.
-* **Blood Donation:** Tracks the number of blood donations made (e.g., **Donated 1 bottle**).
+* **Leber, Augen, Herz, Niere, Lunge, Haut:** Markiert als **"Noch nicht gespendet"**, wenn noch keine Spenden erfolgt sind.
+* **Blutspende:** Zeigt die Anzahl der durchgeführten Blutspenden an (z. B. **1 Flasche gespendet**).
 
-This data highlights the player’s contributions to health and societal causes.
+Diese Daten zeigen das Engagement des Spielers für Gesundheit und soziale Belange.
 
+**ii] Spielerausdrücke**
 
+Zeigt eine Zusammenfassung der Spielerinteraktionen oder wichtiger Ereignisse an:
 
-**ii] Player Expressions**
-
-Displays a summary of player interactions or notable events:
-
-* **Expression Recorded:** Shows a key life event and the player’s reaction or comment.
-  * Example: **"You were born today, a girl, in Syria."**
-  * **Expression:** A comment or thought expressed by the player (e.g., **"niceee"**).
-  * **Details:** Includes the player's name (**Adelmira Alfagaari**) and country (**Syria**).
+* **Aufgezeichneter Ausdruck:** Zeigt ein wichtiges Lebensereignis und die Reaktion oder den Kommentar des Spielers.
+* Beispiel: **"Du wurdest heute als Mädchen in Syrien geboren."**
+* **Ausdruck:** Ein Kommentar oder Gedanke des Spielers (z. B. **"Schön"**).
+* **Details:** Beinhaltet den Namen des Spielers (**Adelmira Alfagaari**) und sein Land (**Syrien**).
 
 ***
