@@ -1,62 +1,59 @@
 ---
-description: >-
-  The License Management section allows school/university admins to monitor,
-  manage, and purchase licenses to ensure smooth access to RealLives Simulation
-  for their students.
+Beschreibung: >-
+  Im Bereich „Lizenzverwaltung“ können Schul-/Universitätsadministratoren Lizenzen überwachen, verwalten und erwerben, um ihren Studierenden einen reibungslosen Zugriff auf RealLives Simulation zu gewährleisten.
 ---
 
-# License Management
+# Lizensverwaltung
 
-### **1. Active Licenses**
+### **1. Aktive Lizenzen**
 
-This page provides an overview of the current licenses associated with your school or institution.
+Diese Seite bietet eine Übersicht über die aktuellen Lizenzen Ihrer Schule oder Institution.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114647.png" alt=""><figcaption></figcaption></figure>
 
-* **Key Details Displayed:**
-  * **Purchase Date:** Date when the license was acquired.
-  * **Product Type:** Type of license purchased (e.g., Small School - Type 1).
-  * **Licenses:** Total number of licenses available.
-  * **Price Paid:** Amount paid for the licenses.
-  * **Expiry Date:** Date when the license expires.
-* **Actions:**
-  * Use the **Renew License** button to extend the validity of expiring licenses.
-  * Export license data for record-keeping or institutional reporting using the **Export** button.
+* **Angezeigte Schlüsseldetails:**
+* **Kaufdatum:** Datum des Lizenzerwerbs.
+* **Produkttyp:** Art der erworbenen Lizenz (z. B. Kleine Schule – Typ 1).
+* **Lizenzen:** Gesamtzahl der verfügbaren Lizenzen.
+* **Bezahlter Preis:** Für die Lizenzen gezahlter Betrag.
+* **Ablaufdatum:** Datum des Lizenzablaufs.
+* **Aktionen:**
+* Mit der Schaltfläche **Lizenz verlängern** können Sie die Gültigkeit ablaufender Lizenzen verlängern.
+* Exportieren Sie Lizenzdaten für die Dokumentation oder das institutionelle Reporting mit der Schaltfläche **Exportieren**.
 
 ***
 
-### **2. Orders**
+### **2. Bestellungen**
 
-The Orders page provides a detailed history of past license purchases.
-
+Die Seite „Bestellungen“ bietet eine detaillierte Übersicht über Ihre bisherigen Lizenzkäufe.
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114659.png" alt=""><figcaption></figcaption></figure>
 
-* **Key Details Displayed:**
-  * **Purchase Date:** The date of purchase.
-  * **User:** The account associated with the order.
-  * **Product:** The type of license purchased.
-  * **Licenses:** Number of licenses included in the order.
-  * **Price Paid:** Total cost of the order.
-  * **Status:** Displays whether the payment was successful (e.g., **Paid**).
-* **Purpose:**
-  * Keep track of license purchase history for budget and planning.
-  * Verify payment statuses for completed orders.
+* **Angezeigte Schlüsseldetails:**
+* **Kaufdatum:** Das Kaufdatum.
+* **Benutzer:** Das mit der Bestellung verknüpfte Konto.
+* **Produkt:** Die Art der erworbenen Lizenz.
+* **Lizenzen:** Anzahl der in der Bestellung enthaltenen Lizenzen.
+* **Bezahlter Preis:** Gesamtkosten der Bestellung.
+* **Status:** Zeigt an, ob die Zahlung erfolgreich war (z. B. **Bezahlt**).
+* **Zweck:**
+* Verfolgen Sie den Lizenzkaufverlauf für Budget und Planung.
+* Überprüfen Sie den Zahlungsstatus abgeschlossener Bestellungen.
 
 ***
 
-#### **3. Buy License**
+#### **3. Lizenz kaufen**
 
-This page allows you to purchase new licenses for your school or institution.
+Auf dieser Seite können Sie neue Lizenzen für Ihre Schule oder Institution erwerben.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 114707.png" alt=""><figcaption></figcaption></figure>
 
-* **Licensing Plans:**
-  * **Small School:** $149 for 250 licenses (1-year validity, $49 renewal fee).
-  * **Medium School:** $299 for 500 licenses (1-year validity, $99 renewal fee).
-  * **Big School:** $599 for 1100 licenses (1-year validity, $199 renewal fee).
-* **Payment Options:**
-  * Choose from **PayPal**, **Apple Pay**, or **Google Pay** for secure transactions.
-* **Steps to Purchase:**
-  1. Select the appropriate plan based on your institution's needs.
-  2. Click **Buy Now** and complete the payment.
-  3. The licenses will be immediately available under the **Active Licenses** section.
+* **Lizenzpläne:**
+* **Kleine Schule:** 149 $ für 250 Lizenzen (1 Jahr Gültigkeit, 49 $ Verlängerungsgebühr).
+* **Mittlere Schule:** 299 $ für 500 Lizenzen (1 Jahr Gültigkeit, 99 $ Verlängerungsgebühr).
+* **Große Schule:** 599 $ für 1100 Lizenzen (1 Jahr Gültigkeit, 199 $ Verlängerungsgebühr).
+* **Zahlungsoptionen:**
+* Wählen Sie zwischen **PayPal**, **Apple Pay** oder **Google Pay** für sichere Transaktionen.
+* **Kaufabwicklung:**
+1. Wählen Sie den passenden Plan entsprechend den Anforderungen Ihrer Einrichtung.
+2. Klicken Sie auf **Jetzt kaufen** und schließen Sie die Zahlung ab.
+3. Die Lizenzen sind sofort im Bereich **Aktive Lizenzen** verfügbar.
