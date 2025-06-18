@@ -1,8 +1,8 @@
 ---
-Beschreibung: >-
+description: >-
   Wir haben bereits gesehen, wie die Startseite funktioniert und welche Funktionen sie bietet.
 Sehen wir uns nun alle Funktionen einzeln an.
-Cover: >-
+cover: >-
   https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYW5hZ2V8ZW58MHx8fHwxNzA5MjA4Nzg4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
