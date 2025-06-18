@@ -1,6 +1,7 @@
 ---
 Beschreibung: >-
-  Die Startseite bietet Ihnen einen Überblick über alle wichtigen Funktionen, die Ihnen als Schul-/Universitätsadministrator zur Verfügung stehen.
+  Die Startseite bietet Ihnen einen Überblick über alle wichtigen Funktionen,
+  die Ihnen als Schul-/Universitätsadministrator zur Verfügung stehen.
 ---
 
 # Startseite
@@ -9,19 +10,19 @@ Beschreibung: >-
 
 <figure><img src="../../.gitbook/assets/Untitled design(11).png" alt=""><figcaption><p>After scrolling down the home page</p></figcaption></figure>
 
-### **1] Erstellen Sie eine Global Citizenship-Klasse mit Real Board:
+### \*\*1] Erstellen Sie eine Global Citizenship-Klasse mit Real Board:
 
 Mit Real Board können Sie Schülern verschiedene Aufgaben zuweisen. Ausführliche Informationen zum Erstellen einer Klasse mit Real Board finden Sie in diesem Abschnitt.
 
-{% content-ref url="../create-a-class-with-realboard.md" %}
-[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
+{% content-ref url="../create-a-class-with-realboard/" %}
+[create-a-class-with-realboard](../create-a-class-with-realboard/)
 {% endcontent-ref %}
 
 ### **2] Schul-/Universitätsverwaltung und -daten**
 
 Hier können Sie die Anzahl der Schüler und deren Status einsehen. Auch die Anzahl der Lehrer/Professoren und deren Status können überprüft werden. Die Schul-/Universitätsspieldaten bieten Ihnen einen umfassenden Überblick über die Statistiken und Daten aller von Ihnen erstellten Klassen. Persönliche Spieldaten umfassen Statistiken und Informationen zu den Spielen, an denen Sie persönlich teilgenommen haben.
 
-**Hauptfunktionen -**&#x20;
+**Hauptfunktionen -**
 
 ### i] Studierende
 
@@ -39,7 +40,7 @@ Das Hinzufügen und Verwalten von Studierenden wird im folgenden Abschnitt erlä
 
 ### ii] Lehrkräfte/Professoren verwalten
 
-Das Hinzufügen und Verwalten von Lehrkräften/Professoren wird im folgenden Abschnitt erläutert. -&#x20;
+Das Hinzufügen und Verwalten von Lehrkräften/Professoren wird im folgenden Abschnitt erläutert. -
 
 {% content-ref url="../managing-teachers-and-viewing-them.md" %}
 [managing-teachers-and-viewing-them.md](../managing-teachers-and-viewing-them.md)
@@ -58,7 +59,7 @@ Der Bereich „Schulspieldaten“ bietet Schuladministratoren einen umfassenden 
 Das Dashboard präsentiert umfassende Daten zum schulweiten Engagement:
 
 * **Schüler gesamt**: Zeigt die Gesamtzahl der bei RealLives angemeldeten Schüler an (z. B. **349 Schüler**).
-* **Zugewiesene Schüler: Zeigt die Anzahl der Schüler an, die Lizenzen aktiv nutzen (z. B. **317 Schüler**).
+* \*\*Zugewiesene Schüler: Zeigt die Anzahl der Schüler an, die Lizenzen aktiv nutzen (z. B. **317 Schüler**).
 * **Lehrkräfte gesamt**: Zeigt die Anzahl der aktiven Lehrkräftekonten an (z. B. **6 Lehrkräfte**).
 * **Abgedeckte Länder**: Zeigt die Vielfalt der Simulationen anhand der Anzahl der untersuchten Länder (z. B. **108 Länder**).
 * **Lizenznutzung**: Bietet eine visuelle Darstellung der genutzten Lizenzen im Vergleich zur Gesamtzahl (z. B. **64 % von 500 genutzten Lizenzen**).
@@ -100,6 +101,7 @@ Das Dashboard präsentiert umfassende Daten zum schulweiten Engagement:
 * **Leben nach Standort:** Bietet eine Weltkartenvisualisierung mit den Ländern, in denen Leben simuliert wurden.
 
 ***
+
 #### **5. Lebensverteilung**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131319.png" alt=""><figcaption></figcaption></figure>
@@ -132,8 +134,6 @@ Das Dashboard präsentiert umfassende Daten zum schulweiten Engagement:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 131327.png" alt=""><figcaption></figcaption></figure>
 
-
-
 * **Rangliste für abgeschlossene Leben:**
 * Listet die Schüler nach der Anzahl ihrer abgeschlossenen Leben auf und fördert so einen gesunden Wettbewerb.
 * Enthält Schülernamen, Ränge und die Anzahl der abgeschlossenen Leben.
@@ -152,4 +152,3 @@ Diese Daten werden auch im Bereich „Meine Reise“ in der Seitenleiste angezei
 {% endcontent-ref %}
 
 ***
-

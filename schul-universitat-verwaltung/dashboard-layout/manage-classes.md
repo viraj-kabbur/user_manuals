@@ -5,7 +5,7 @@ Beschreibung: >-
   Board for collaborative and impactful learning.
 ---
 
-# Klassen verwalten
+# Klassen Verwalten
 
 <figure><img src="../../.gitbook/assets/Untitled design(6).png" alt=""><figcaption></figcaption></figure>
 
@@ -15,14 +15,15 @@ Mit dieser Funktion können Sie Kurse einrichten, die RealBoard für verbesserte
 
 * **Zweck:** Förderung des Verständnisses für Weltbürgerschaft durch kollaborative Simulationen.
 * **Schritte:**
+
 1. Klicken Sie auf **„Erstellen eines Kurses zum Thema Weltbürgerschaft mit RealBoard“**, um zu beginnen.
 2. Passen Sie den Kurs an, indem Sie ihn auf bestimmte Ziele oder Aufgaben ausrichten.
 3. Laden Sie Schüler ein und weisen Sie ihnen Aufgaben über RealBoard zu.
 
-Eine detaillierte Anleitung zum Erstellen eines Kurses mit RealBoard finden Sie unter dem folgenden Link. -&#x20;
+Eine detaillierte Anleitung zum Erstellen eines Kurses mit RealBoard finden Sie unter dem folgenden Link. -
 
-{% content-ref url="../create-a-class-with-realboard.md" %}
-[create-a-class-with-realboard.md](../create-a-class-with-realboard.md)
+{% content-ref url="../create-a-class-with-realboard/" %}
+[create-a-class-with-realboard](../create-a-class-with-realboard/)
 {% endcontent-ref %}
 
 ***
