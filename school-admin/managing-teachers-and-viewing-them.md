@@ -1,7 +1,7 @@
 ---
 description: >-
-  We previously saw how the Home Page functions and what features it provides.
-  Now, let's take a dive into all the features it has to offer, one by one.
+Wir haben bereits gesehen, wie die Startseite funktioniert und welche Funktionen sie bietet.
+Sehen wir uns nun alle Funktionen einzeln an.
 cover: >-
   https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYW5hZ2V8ZW58MHx8fHwxNzA5MjA4Nzg4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
