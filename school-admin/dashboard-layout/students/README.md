@@ -1,153 +1,151 @@
 ---
-description: >-
-  The Students section allows school administrators to efficiently manage
-  student accounts, import students into the system, and monitor registration
-  status.
+Beschreibung: >-
+ Im Bereich „Schüler“ können Schuladministratoren Schülerkonten effizient verwalten, Schüler in das System importieren und den Registrierungsstatus überwachen.
 ---
 
-# Students
+# Schüler
 
-## <mark style="background-color:blue;">Adding/Importing Students</mark>
+## <mark style="background-color:blue;">Studenten hinzufügen/importieren</mark>
 
-We have three ways to Import Students into the game -
+Es gibt drei Möglichkeiten, Schüler ins Spiel zu importieren:
 
-1. Importing with the help of E-mail (Recommended)
-2. Importing without E-mail
-3. Adding Single Student
+1. Importieren per E-Mail (empfohlen)
+2. Importieren ohne E-Mail
+3. Einzelnen Schüler hinzufügen
 
-Let's see how each method works.
+Sehen wir uns an, wie die einzelnen Methoden funktionieren.
 
-### <mark style="background-color:blue;">1. Importing Students with the help of E-mail</mark>
+### <mark style="background-color:blue;">1. Schüler per E-Mail importieren</mark>
 
-**For Schools/Universities that use email for students, it is recommended to provide the student's email address. Should be used when multiple students have to be added.**
+**Schulen/Universitäten, die E-Mail für Schüler verwenden, empfehlen die Angabe der E-Mail-Adresse des Schülers. Diese Option sollte verwendet werden, wenn mehrere Schüler hinzugefügt werden sollen.**
 
-* When assignments and classes are created, students will receive notifications via email.
-* Students imported using emails have their usernames set as the email which is provided here.
+* Schüler erhalten Benachrichtigungen per E-Mail, wenn Aufgaben und Kurse erstellt werden.
+* Bei Schülern, die per E-Mail importiert werden, wird der Benutzername auf die hier angegebene E-Mail-Adresse festgelegt.
 
-Once you choose this option the following page will open up.
+Sobald Sie diese Option wählen, öffnet sich die folgende Seite.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(29).png" alt=""><figcaption><p>Import Students by E-mail</p></figcaption></figure>
 
-### Step 1 -
+### Schritt 1 -
 
-First click on the red button which will download a sample excel sheet like this -
+Klicken Sie zunächst auf den roten Button, um eine Beispiel-Excel-Tabelle wie diese herunterzuladen:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 105947.png" alt=""><figcaption><p>Beispiel-Excel-Tabelle</p></figcaption></figure>
 
-This is how the sample excel sheet will look like, as you can see there is a column which says username. For reference we have already added two e-mails. All you have to do is fill the e-mails of the students you wish to add to the game. Once you add their e-mails, save this excel sheet.
+So sieht die Beispiel-Excel-Tabelle aus. Wie Sie sehen, gibt es eine Spalte mit dem Namen „Benutzername“. Zur Orientierung haben wir bereits zwei E-Mail-Adressen hinzugefügt. Tragen Sie nun die E-Mail-Adressen der Schüler ein, die Sie zum Spiel hinzufügen möchten. Speichern Sie anschließend die Excel-Tabelle.
 
-### Step 2 -
+### Schritt 2 -
 
-Click on the browse button which is highlighted by white color just below the red button. After doing this a page like this will open up.
+Klicken Sie auf den weiß hervorgehobenen „Durchsuchen“-Button direkt unter dem roten Button. Daraufhin öffnet sich eine Seite wie diese.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(30).png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the e-mails. Once done, then click on the Import button situated below the browse button. You will get Student Import Successful Prompt. Now the students who were in the list will recieve unique links on their e-mails, all they have to do is click those links and register themselves on realLives.
+Wählen Sie einfach die Excel-Datei aus, in die Sie die E-Mails eingegeben haben. Klicken Sie anschließend auf die Schaltfläche „Importieren“ unterhalb der Schaltfläche „Durchsuchen“. Sie erhalten die Meldung „Studentenimport erfolgreich“. Die Studierenden in der Liste erhalten nun individuelle Links in ihren E-Mails. Klicken Sie einfach auf diese Links und registrieren Sie sich bei realLives.
 
-### <mark style="background-color:blue;">Example of how an e-mail looks and how to register for the first time</mark>
+### <mark style="background-color:blue;">Beispiel für das Aussehen einer E-Mail und die erstmalige Registrierung</mark>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>E-mail recieved by the student</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 112655.png" alt=""><figcaption><p>Vom Studierenden erhaltene E-Mail</p></figcaption></figure>
 
-#### Once the Student recieves the e-mail, they have to just click on the register button and a new tab will be opened like so -
+#### Sobald der Studierende die E-Mail erhalten hat, muss er nur noch auf „Registrieren“ klicken. Daraufhin öffnet sich ein neuer Tab.
 
-<figure><img src="../../../.gitbook/assets/99.png" alt=""><figcaption><p>Registration for the first time</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/99.png" alt=""><figcaption><p>Erstmalige Registrierung</p></figcaption></figure>
 
-#### The student has to fill in all the parameters mentioned, then click on the submit button. Now a new account will be created for the student which they can access by using their e-mail as the username and the password they have set while registering.
+#### Der Studierende muss alle genannten Parameter ausfüllen und anschließend auf „Senden“ klicken. Anschließend wird ein neues Konto für den Studierenden erstellt, auf das er mit seiner E-Mail-Adresse als Benutzernamen und dem bei der Registrierung festgelegten Passwort zugreifen kann.
 
-### <mark style="background-color:red;">Note -</mark>
+### <mark style="background-color:red;">Hinweis -</mark>
 
-Make sure you enter e-mails which have not been previously registered on RealLives. If you enter e-mails which have already been registered, you will get such a prompt -
+Bitte geben Sie E-Mail-Adressen ein, die noch nicht bei RealLives registriert sind. Bei bereits registrierten E-Mail-Adressen erhalten Sie folgende Eingabeaufforderung:
 
-<figure><img src="../../../.gitbook/assets/Untitled design(31).png" alt=""><figcaption><p>Error prompt for already used e-mails</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled design(31).png" alt=""><figcaption><p>Fehlermeldung bei bereits verwendeten E-Mail-Adressen</p></figcaption></figure>
 
-### <mark style="background-color:blue;">2. Importing Students without e-mail</mark>
+### <mark style="background-color:blue;">2. Studierende ohne E-Mail-Adresse importieren</mark>
 
-**If your School/University doesn't provide e-mails to the students:**
+**Falls Ihre Schule/Universität den Studierenden keine E-Mail-Adressen zur Verfügung stellt:**
 
-* Students will only receive notifications about new assignments and classes through their dashboards.
-* Students imported by selecting this option will have their usernames set by the system. They can later change the username from their dashboard.
+* Studierende erhalten Benachrichtigungen über neue Aufgaben und Kurse nur über ihr Dashboard.
+* Studierende, die mit dieser Option importiert werden, erhalten ihren Benutzernamen vom System. Sie können diesen später im Dashboard ändern.
 
-Once you choose this option the following page will open up.
+Sobald Sie diese Option wählen, öffnet sich die folgende Seite:
 
-<figure><img src="../../../.gitbook/assets/Untitled design(33).png" alt=""><figcaption><p>Import Students without e-mail</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled design(33).png" alt=""><figcaption><p>Studierende ohne E-Mail importieren</p></figcaption></figure>
 
-### Step 1 -
+### Schritt 1 -
 
-First click on the red button which will download a sample excel sheet like this -
+Klicken Sie zunächst auf den roten Button, um eine Beispiel-Excel-Tabelle wie diese herunterzuladen:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Sample Excel Sheet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 114824.png" alt=""><figcaption><p>Beispiel-Excel-Tabelle</p></figcaption></figure>
 
-This is how the sample excel sheet will look like, as you can see there are 5 columns Firstname, Lastname, Age, Gender and Grade. For reference we have already added information of two students. All you have to do is fill the information of the students you wish to add to the game. Once you add their information, save this excel sheet.
+So sieht die Beispiel-Excel-Tabelle aus: Sie enthält fünf Spalten: Vorname, Nachname, Alter, Geschlecht und Klasse. Zur Referenz haben wir bereits die Informationen von zwei Studierenden hinzugefügt. Geben Sie einfach die Informationen der Schüler ein, die Sie zum Spiel hinzufügen möchten. Speichern Sie anschließend die Excel-Tabelle.
 
-### Step 2 -
+### Schritt 2 -
 
-Click on the browse button which is highlighted by white colour just below the red button. After doing so, a page like this will open up.
+Klicken Sie auf die weiß hervorgehobene Schaltfläche „Durchsuchen“ direkt unter der roten Schaltfläche. Daraufhin öffnet sich die folgende Seite.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(34).png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the information about the students. Once done, then click on the Save button situated below the browse button. You will get Student Import Successful Prompt.
+Wählen Sie einfach die Excel-Datei aus, in die Sie die Informationen zu den Schülern eingetragen haben. Klicken Sie anschließend auf „Speichern“ unterhalb der Schaltfläche „Durchsuchen“. Sie erhalten die Meldung „Schülerimport erfolgreich“.
 
-### Step 3 -
+### Schritt 3 -
 
-You can check if the students have been added by going to the Students tab located in the Left Bar of the Dashboard and clicking on Allocated Students.
+Sie können überprüfen, ob die Schüler hinzugefügt wurden, indem Sie im Dashboard links auf „Schüler“ klicken und auf „Zugewiesene Schüler“ klicken.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-01-04 125311.png" alt=""><figcaption></figcaption></figure>
 
-For reference we had added John's and Linda's information in the Excel sheet above and uploaded it on the game, hence John and Linda have been added as students into the system.
+Zur Information: Wir haben die Informationen von John und Linda in der obigen Excel-Tabelle eingetragen und im Spiel hochgeladen. Daher wurden John und Linda als Studierende im System hinzugefügt.
 
 ### <mark style="background-color:red;">Note -</mark>
 
-Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system, to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.
+Da wir die E-Mail-Adressen der Studierenden nicht hinzugefügt haben, können sich diese nicht mit ihren E-Mails anmelden. Sie müssen daher die vom System generierten eindeutigen Benutzernamen verwenden, um sich im Spiel anzumelden. Der Registrierungsprozess für Studierende, die ohne ihre E-Mail-Adresse zum Spiel hinzugefügt wurden, unterscheidet sich.
 
-The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)
+Der Schüler muss die Anmeldeseite [https://reallivesworld.com/login](https://reallivesworld.com/login) aufrufen.
 
-Once here, they will have to enter their unique username provided by the Teacher/Professor, and the default password which will be - 12345678
+Dort muss er seinen vom Lehrer/Professor bereitgestellten Benutzernamen und das Standardpasswort 12345678 eingeben.
 
-Upon logging in the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
+Nach der Anmeldung im Spiel kann der Schüler sein Passwort ändern, indem er sein Profil unter „Mein Konto“ besucht, um die Privatsphäre zu schützen.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(35).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="background-color:blue;">3. Adding Single Student</mark>
 
-**Add a single student by filling up the form manually. Should be used only when a single student is to be added. If there are multiple students, the Teacher/Professor can use the other two ways mentioned above which are less time consuming and much more efficient.**
+**Fügen Sie einen einzelnen Schüler hinzu, indem Sie das Formular manuell ausfüllen. Nur verwenden, wenn ein einzelner Schüler hinzugefügt werden soll. Bei mehreren Studierenden kann der/die Lehrende/Professor/in die beiden oben genannten Möglichkeiten nutzen, die weniger zeitaufwändig und deutlich effizienter sind.**
 
-There are two ways you can add the student manually.
+Es gibt zwei Möglichkeiten, Studierende manuell hinzuzufügen.
 
 ### <mark style="background-color:blue;">Scenario 1 -</mark>
 
-The first scenario would be where the student has a valid School/University e-mail. The Teacher/Professor can go ahead by entering all the necessary information and setting the password by themselves, which the student can change later on. The e-mail entered will act as the username for the student, and all updates will be sent on that e-mail. Once the Teacher/Professor has filled in all the details, they have to save it.
+Im ersten Fall verfügt der Studierende über eine gültige E-Mail-Adresse der Schule/Universität. Der Dozent/Professor kann alle notwendigen Informationen eingeben und das Passwort selbst festlegen. Der Studierende kann dieses Passwort später ändern. Die eingegebene E-Mail-Adresse dient als Benutzername des Studierenden, und alle Aktualisierungen werden an diese E-Mail-Adresse gesendet. Sobald der Dozent/Professor alle Angaben eingegeben hat, muss er/sie diese speichern.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(36).png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the Left Bar of the dashboard and then click on Allocated Students.
+Um dann zu überprüfen, ob der Schüler zum Spiel hinzugefügt wurde, kann der Lehrer/Professor zum Abschnitt „Schüler“ in der linken Leiste des Dashboards gehen und dann auf „Zugewiesene Schüler“ klicken.
 
-As you can see Linda Jones has been successfully added.
+Wie Sie sehen, wurde Linda Jones erfolgreich hinzugefügt.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(37).png" alt=""><figcaption></figcaption></figure>
 
-After this the student can go to - [https://reallivesworld.com/login](https://reallivesworld.com/login)
+Anschließend können Studierende zu [https://reallivesworld.com/login](https://reallivesworld.com/login) gehen.
 
-Here, they would enter their e-mail as the username and the password which is set by the Teacher/Professor.
+Hier geben sie ihre E-Mail-Adresse als Benutzernamen und das vom Dozenten/Professor festgelegte Passwort ein.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Student login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-02-29 125926.png" alt=""><figcaption><p>Studenten-Login</p></figcaption></figure>
 
 ### <mark style="background-color:blue;">Scenario 2 -</mark>
 
-The second scenario would be where the student does not have a valid School/University e-mail. In such a case the Teacher/Professor will fill all the necessary information except the e-mail and save it.
+Das zweite Szenario wäre, wenn der Student keine gültige E-Mail-Adresse der Schule/Universität hat. In diesem Fall füllt der Dozent/Professor alle erforderlichen Informationen außer der E-Mail-Adresse aus und speichert sie.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(38).png" alt=""><figcaption></figcaption></figure>
 
-Then, to check if the student has been added to the game, the Teacher/Professor can go to the Students section of the left part of the dashboard and then click on Allocated Students. As you can see Chuck Bass has been successfully added.
+Um zu überprüfen, ob der Student zum Spiel hinzugefügt wurde, kann der Dozent/Professor im linken Bereich des Dashboards im Bereich „Studenten“ auf „Zugeordnete Studenten“ klicken. Wie Sie sehen, wurde Chuck Bass erfolgreich hinzugefügt.
 
 <figure><img src="../../../.gitbook/assets/Untitled design(39).png" alt=""><figcaption></figcaption></figure>
 
-Because we did not add e-mails of students, the students cannot use their e-mails to log in. Hence, the students will have to use the unique usernames that have been generated by the system to log in to the game. Also, the registration process for students who have been added to the game without their e-mail is different.
+Da wir die E-Mail-Adressen der Studierenden nicht hinzugefügt haben, können sich diese nicht mit ihren E-Mails anmelden. Sie müssen daher die vom System generierten Benutzernamen verwenden, um sich im Spiel anzumelden. Der Registrierungsprozess für Studierende, die ohne E-Mail-Adresse zum Spiel hinzugefügt wurden, unterscheidet sich.
 
-The student will have to go to the login page [https://reallivesworld.com/login](https://reallivesworld.com/login)
+Die Studierenden müssen die Anmeldeseite [https://reallivesworld.com/login](https://reallivesworld.com/login) aufrufen.
 
-Once here, they will have to enter their unique username (in this case chuckbass10000884 which is mentioned in the username column) provided by the Teacher/Professor, and the default password set by the Teacher/Professor.
+Dort müssen sie ihren vom Dozenten/Professor bereitgestellten Benutzernamen (in diesem Fall chuckbass10000884, der in der Spalte „Benutzername“ aufgeführt ist) und das vom Dozenten/Professor festgelegte Standardpasswort eingeben.
 
-Upon logging in to the game the Student can change their password by visiting their profile and going to My Account for enhanced privacy.
+Nach der Anmeldung im Spiel können Studierende ihr Passwort ändern, indem sie ihr Profil aufrufen und dort „Mein Konto“ aufrufen, um ihre Privatsphäre zu schützen.
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
