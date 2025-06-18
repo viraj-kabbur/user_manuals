@@ -1,5 +1,5 @@
-# Device List
+# Geräteliste
 
-Gives you control over the devices where your account is logged in. RealLives allows school and university admins to use their account on 3 different devices. If for any reason the admin wants to remove a device's access they can do so by clicking on the 'Remove Device' button.
+Ermöglicht Ihnen die Kontrolle über die Geräte, auf denen Ihr Konto angemeldet ist. RealLives ermöglicht Schul- und Universitätsadministratoren die Nutzung ihres Kontos auf drei verschiedenen Geräten. Wenn der Administrator den Zugriff eines Geräts aus irgendeinem Grund entfernen möchte, kann er dies durch Klicken auf die Schaltfläche „Gerät entfernen“ tun.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-01-04 113033.png" alt=""><figcaption></figcaption></figure>
