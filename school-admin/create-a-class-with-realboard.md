@@ -1,206 +1,205 @@
-# Create a Class with RealBoard
+# Erstellen Sie eine Klasse mit RealBoard
 
-This section explains how school/university admins can create a class integrated with RealBoard, allowing students to engage with RealLives and share their reflections and learning experiences in a private, school-only social network.
+In diesem Abschnitt wird erläutert, wie Schul-/Universitätsadministratoren einen in RealBoard integrierten Klasse erstellen können. Schüler können so mit RealLives interagieren und ihre Reflexionen und Lernerfahrungen in einem privaten, schulinternen sozialen Netzwerk teilen.
 
-If you are unfamiliar with RealBoard, head on to the RealBoard Manual -
+Wenn Sie RealBoard noch nicht kennen, lesen Sie bitte das RealBoard-Handbuch.
 
 {% embed url="https://realboardmanual.reallivesworld.com/teacher-en" %}
 
-## 1. Creating a Global Citizenship Class with RealBoard
+## 1. Erstellen eines der Klasse  zum Thema Weltbürgerschaft mit RealBoard
 
 <figure><img src="../.gitbook/assets/Untitled design(8).png" alt=""><figcaption></figcaption></figure>
 
-### - Navigating to 'Class Creation Tools'
+### - Navigieren zu „Tools zur Klassenerstellung“
 
-* **Class Creation Tools Section:** Upon logging in, the first page visible under the **RealBoard** tab is the **Class Creation Tools** dashboard.
-* This page shows relevant options for managing classes and student progress.
+* **Abschnitt „Tools zur Klassenerstellung“.:** Nach der Anmeldung ist die erste unter der Registerkarte **RealBoard** sichtbare Seite das Dashboard **Tools zur Klassenerstellung**.
+* Auf dieser Seite werden relevante Optionen zum Verwalten von Klassen und Lernfortschritten angezeigt.
+### **- Klicken Sie auf „Erstellen eines der Klasse  zum Thema Weltbürgerschaft mit RealBoard“.**
 
-### **- Click on 'Creating a Global Citizenship Class with RealBoard'**
+* Über das hervorgehobene Feld mit dem Titel  **„Erstellen eines der Klasse  zum Thema Weltbürgertum mit RealBoard“** können Sie mit der Erstellung eines neuen der Klasse  zum Thema Weltbürgertum beginnen.
+* **Gesamtklassen:** Neben diesem Titel wird Ihnen außerdem ein Zähler angezeigt, der angibt, wie viele Kurse derzeit aktiv sind (z. B. „Klassen gesamt: 21“).\\
 
-* The prominent box titled **"Creating a Global Citizenship Class with RealBoard"** allows you to start the process of creating a new class focused on Global Citizenship.
-* **Total Classes:** Next to this title, you will also see a counter indicating how many classes are currently active (e.g., "Total Classes: 21").\\
-
-## **2. Selecting Class Types in RealLives**
+## **2. Auswählen von Klassentypen in RealLives**
 
 <figure><img src="../.gitbook/assets/Untitled design(9).png" alt=""><figcaption></figcaption></figure>
 
-### **- Overview of Class Types**
+### **- Übersicht der Klassentypen**
 
-After selecting **Create a Class**, you are taken to the **Class Types** page. Here, you can choose from four distinct types of classes, each tailored to different educational goals and learning journeys.
+Nachdem Sie **Klasse erstellen** ausgewählt haben, gelangen Sie zur Seite **Klassentypen**. Hier können Sie aus vier verschiedenen Kursarten wählen, die jeweils auf unterschiedliche Lernziele und Lernwege zugeschnitten sind.
 
-### **- Choose the Class Type that Fits Your Lesson Plan**
+### **- Wählen Sie den Unterrichtstyp, der zu Ihrem Unterrichtsplan passt**
 
-You will see four different options to create a class, each serving a unique purpose:
-
-## **Random Life -**
+Ihnen werden vier verschiedene Optionen zum Erstellen einer Klasse angezeigt, die jeweils einem bestimmten Zweck dienen:
+## **Zufälliges Leben -**
 
 <figure><img src="../.gitbook/assets/Untitled design(10).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** In this class, students are born into a random country, offering them an unpredictable experience of life. This class type encourages students to compare and contrast their lives with others, fostering critical thinking and promoting diversity of perspective.
-* **Purpose:** Best for promoting discussions on global diversity and enhancing empathy by placing students in unfamiliar life situations.
-* **Action:** Click the **Create** button to start setting up your Random Life class.
+* **Beschreibung:** In diesem Klasse werden die Schüler in einem zufälligen Land geboren, was ihnen eine unvorhersehbare Lebenserfahrung bietet. Dieser Kurstyp ermutigt die Schüler, ihr Leben mit dem anderer zu vergleichen und gegenüberzustellen, was kritisches Denken und die Vielfalt der Perspektiven fördert.
+* **Zweckse:** Am besten geeignet, um Diskussionen über globale Vielfalt zu fördern und Empathie zu stärken, indem Schüler in ungewohnte Lebenssituationen versetzt werden.
+* **Aktion:** Klicken Sie auf die Schaltfläche **Erstellen**, um mit der Einrichtung Ihrer Random Life-Klasse zu beginnen.
 
-## **3. Creating a Class with RealBoard :-**
+## **3. Erstellen einer Klasse mit RealBoard :-**
 
-After choosing the class type and editing the board, this final page allows you to configure key details like the class name, description, students, teachers/professors, and assignment dates.
+Nachdem Sie den Kurstyp ausgewählt und das Board bearbeitet haben, können Sie auf dieser letzten Seite wichtige Details wie den Kursnamen, die Beschreibung, die Schüler, die Lehrer/Professoren und die Abgabetermine konfigurieren.
 
 <div align="left"><figure><img src="../.gitbook/assets/Untitled design(13).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(27).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**Step 1: Enter Class Name**
+**Schritt 1: Klassennamen eingeben**
 
-At the top of the page, you will see a field labeled **"Class Name:"**
+Oben auf der Seite sehen Sie ein Feld mit der Bezeichnung **"Klassenname:"**
 
-* Enter the appropriate name for your class (e.g., **Class 9A - Random Country**).
-* This name will help both you and your students easily identify the class.
+* Geben Sie den entsprechenden Namen für Ihre Klasse ein (z. B. **Klasse 9A – Zufälliges Land**).
+* Dieser Name hilft Ihnen und Ihren Schülern dabei, die Klasse leicht zu identifizieren.
 
-**Step 2: Set the End Date**
+**Schritt 2: Enddatum festlegen**
 
-Below the class name, you can set an **End Date** for the class.
+Unter dem Kursnamen können Sie ein **Enddatum** für den Klasse festlegen.
 
-* Click the calendar icon to select the appropriate date by which the class assignments or tasks should be completed.
-* Once selected, click the check-mark to confirm the date.
+* Klicken Sie auf das Kalendersymbol, um das gewünschte Datum auszuwählen, bis zu dem die Kursaufgaben erledigt sein sollen.
+* Klicken Sie anschließend auf das Häkchen, um das Datum zu bestätigen.
 
-**Step 3: Specify Age Group**
+**Schritt 3: Altersgruppe festlegen**
 
-In the **Age Group** field, enter the relevant age group for the students participating in the class (e.g., 16).
+Geben Sie im Feld **Altersgruppe** die entsprechende Altersgruppe der am Klasse teilnehmenden Schüler ein (z. B. 16).
 
-**Step 4: Add Class Description**
+**Schritt 4: Kursbeschreibung hinzufügen**
 
-In the **Class Description** field, you can provide an overview of what the class entails.
+Im Feld **Kursbeschreibung** können Sie einen Überblick über den Kursinhalt geben.
 
-* **Example:** “This class will explore life simulations in random countries, encouraging critical thinking and global awareness.”
-* The description will be visible to students before they begin the simulation. Instructions or objectives can also be provided here to guide students on what they should focus on during the simulation.
+* **Beispiel:** „Dieser Klasse untersucht Lebenssimulationen in ausgewählten Ländern und fördert kritisches Denken und globales Bewusstsein.“
+* Die Beschreibung wird den Schülern vor Beginn der Simulation angezeigt. Hier können auch Anweisungen oder Ziele angegeben werden, um den Schülern Orientierung zu geben, worauf sie sich während der Simulation konzentrieren sollten.
 
-**Step 5: Add Students**
+**Schritt 5: Schüler hinzufügen**
 
-**Select students:** In the **Students** section, you can choose which students to include in the class.
+**Schüler auswählen:** Im Bereich **Schüler** können Sie auswählen, welche Schüler in den Klasse aufgenommen werden sollen.
 
-* On the left side, under **Selectable**, you’ll see a list of students enrolled in the system. You can search or scroll to find specific students.
-* Click on a student's name to add them to the class. Their name will move to the **Selected** column on the right.
-* **Example:** Eleanor Roberts, Mia Taylor, Harper Thomas, etc.
+* Links unter **Auswählbar** sehen Sie eine Liste der im System angemeldeten Schüler. Sie können suchen oder scrollen, um bestimmte Schüler zu finden.
+* Klicken Sie auf den Namen eines Schülers, um ihn dem Klasse hinzuzufügen. Ihr Name wird in die Spalte **Ausgewählt** rechts verschoben.
+* **Beispiel:** Eleanor Roberts, Mia Taylor, Harper Thomas usw.
 
-**Step 6: Add teacher/professor**
+**Schritt 6: Lehrer/Professor hinzufügen**
 
-**Select teacher/professors:** You can also assign additional teachers/professors to the class.
+**Lehrer/Professoren auswählen:** Sie können der Klasse auch weitere Lehrer/Professoren zuweisen.
 
-* Scroll through or search for teachers/professors under **Selectable**. Click on the names of the teachers/professors who should be involved in this class.
-* The selected teacher/professor will appear in the right-hand **Selected** column.
-* **Example:** Atharva teacher, John Williams, Linda Jones, etc.
+* Blättern Sie durch die Liste oder suchen Sie unter **Auswählbar** nach Lehrern/Professoren. Klicken Sie auf die Namen der Lehrer/Professoren, die an dieser Klasse beteiligt sein sollen.
+* Der ausgewählte Lehrer/Professor wird in der rechten Spalte **Ausgewählt** angezeigt.
+* **Beispiel:** Atharva-Lehrer, John Williams, Linda Jones usw.
 
-**Step 7: Finalize Class Creation**
+**Schritt 7: Klassenerstellung abschließen**
 
-Once you've added students, teachers/professors, and finalized other details, click the **Create a Class** button at the bottom of the screen.
+Nachdem Sie Schüler, Lehrer/Professoren hinzugefügt und weitere Details festgelegt haben, klicken Sie unten auf dem Bildschirm auf die Schaltfläche **Klasse erstellen**.
 
-* This will create the class and automatically notify all selected students and teachers/professors.
-* They can then log into RealBoard to access the class and complete their assignments.
+* Dadurch wird die Klasse erstellt und alle ausgewählten Schüler und Lehrer/Professoren werden automatisch benachrichtigt.
+* Sie können sich dann bei RealBoard anmelden, um auf die Klasse zuzugreifen und ihre Aufgaben zu erledigen.
 
-## **4. Editing Your Class Board with RealBoard :-**
+## **4. Bearbeiten Ihres Klassenboards mit RealBoard:
 
-After clicking **Create**, the **Edit Board** page allows you to customize and configure your class board by naming it and adding sections for students to engage with. Here’s how to use this page effectively
+Nachdem Sie auf **Erstellen** geklickt haben, können Sie Ihr Klassenboard auf der Seite **Board bearbeiten** anpassen und konfigurieren, indem Sie ihm einen Namen geben und Bereiche hinzufügen, mit denen sich die Schüler beschäftigen können. So nutzen Sie diese Seite effektiv.
 
 <figure><img src="../.gitbook/assets/Untitled design(28).png" alt=""><figcaption></figcaption></figure>
 
-### **- Name your board**
+### **- Benennen Sie Ihr Board**
 
-* At the top of the page, you will see a field titled **"Name your board:"**.
-* Enter a suitable name for your class board (e.g., **"Global Citizenship Board"**, **"Environmental Issues Class"**, or **"World Cultures Discussion"**).
-* Once you've entered the name, click the **check-mark** icon to save it.
+* Oben auf der Seite finden Sie ein Feld mit der Überschrift **„Benennen Sie Ihr Board:“**.
+* Geben Sie einen passenden Namen für Ihr Klassenboard ein (z. B. **„Global Citizenship Board“**, **„Umweltthemen-Kurs“** oder **„Diskussion Weltkulturen“**).
+* Klicken Sie nach der Eingabe des Namens auf das **Häkchen**, um ihn zu speichern.
 
-### **- Editing Board Sections and Descriptions**
+### **- Bearbeiten von Boardabschnitten und -beschreibungen**
 
-Each class board comes with predefined sections that students will interact with. These sections can be customized to fit the specific goals and learning outcomes of your class.
+Jedes Klassenboard enthält vordefinierte Abschnitte, mit denen die Schüler interagieren können. Diese Abschnitte können an die spezifischen Ziele und Lernergebnisse Ihrer Klasse angepasst werden.
 
-**How to Edit:** Click on the **pencil icon** to the right of the section title to modify the name or description. Customize this section according to your class focus (e.g., students can research countries or reflect on national issues).
+**So bearbeiten Sie den Abschnitt:** Klicken Sie auf das **Bleistiftsymbol** rechts neben dem Abschnittstitel, um den Namen oder die Beschreibung zu ändern. Passen Sie diesen Abschnitt an den Schwerpunkt Ihrer Klasse an (z. B. können die Schüler Länder recherchieren oder über nationale Themen nachdenken).
 
-## **5. Viewing and Managing Created Classes**
+## **5. Angelegte Kurse anzeigen und verwalten**
 
-After successfully creating your class, you will be directed to the **Create/View Classes with Global Citizenship Assignment** page. Here, you can manage and view all the classes you've created or are associated with.
+Nachdem Sie Ihren Klasse erfolgreich erstellt haben, werden Sie zur Seite **Kurse mit Global Citizenship-Aufgabe erstellen/anzeigen** weitergeleitet. Hier können Sie alle von Ihnen erstellten oder zugeordneten Kurse verwalten und anzeigen.
 
-Alternately, you can view classes by going to Manage Classes in the sidebar and then clicking on the **My Class List** section.
+Alternativ können Sie Kurse anzeigen, indem Sie in der Seitenleiste auf „Kurse verwalten“ und dann auf „Meine Kursliste“ klicken.
 
 <figure><img src="../.gitbook/assets/Untitled design(16).png" alt=""><figcaption></figcaption></figure>
 
-At the top, you will see a green confirmation bar that reads **"Classes saved successfully."** This confirms that your new class has been successfully created and saved in the system.
+Oben sehen Sie eine grüne Bestätigungsleiste mit der Meldung „Klasse erfolgreich gespeichert“. Dies bestätigt, dass Ihre neue Klasse erfolgreich erstellt und im System gespeichert wurde.
 
-## **6. Notifications and Access After Class Creation**
+## **6. Benachrichtigungen und Zugriff nach Kurserstellung**
 
-### **- Student Notifications**
+### **- Schülerbenachrichtigungen**
 
-Once a class is created, students who have been added to the class will automatically receive a **notification** in their RealLives account.
+Sobald eine Klasse erstellt wurde, erhalten die hinzugefügten Schüler automatisch eine **Benachrichtigung** in ihrem RealLives-Konto.
 
 <div><figure><img src="../.gitbook/assets/Untitled design(17).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(18).png" alt=""><figcaption></figcaption></figure></div>
 
-* This notification informs them that they have been added to a new class (e.g., **Class 9A - Random Country**).
-* Students can click the notification to view the class and begin playing their assigned life simulation.
+* Diese Benachrichtigung informiert sie darüber, dass sie einer neuen Klasse hinzugefügt wurden (z. B. **Klasse 9A – Zufälliges Land**).
+* Schüler können auf die Benachrichtigung klicken, um die Klasse anzuzeigen und mit der ihnen zugewiesenen Lebenssimulation zu beginnen.
 
-### **- Accessing the Class Board for school/university admins**
+### **- Zugriff auf das Class Board für Schul-/Universitätsadministratoren**
 
 <figure><img src="../.gitbook/assets/Untitled design(19).png" alt=""><figcaption></figcaption></figure>
 
-School and University admins can easily access the board they’ve created by clicking the **RealBoard** button in the sidebar of the dashboard.
+Schul- und Universitätsadministratoren können ganz einfach auf das von ihnen erstellte Board zugreifen, indem sie in der Seitenleiste des Dashboards auf die Schaltfläche **RealBoard** klicken.
 
-* From there, they can view and manage the board, interact with students' posts, provide feedback, and monitor the progress of assignments.
+* Von dort aus können sie das Board einsehen und verwalten, mit den Beiträgen der Studierenden interagieren, Feedback geben und den Fortschritt der Aufgaben verfolgen.
 
-## Class Types in RealLives and Their Unique Features
+## Kursarten in RealLives und ihre einzigartigen Funktionen
 
-While the overall process of creating a class in RealLives remains consistent—adding a board name, editing sections, and entering class details—the class type you choose introduces unique features that tailor the learning experience to different objectives. Let’s explore how each class type differs and what specific opportunities they offer -
+Obwohl der allgemeine Prozess der Kurserstellung in RealLives – Hinzufügen eines Boardnamens, Bearbeiten von Abschnitten und Eingeben von Kursdetails – gleich bleibt, bietet die gewählte Kursart einzigartige Funktionen, die das Lernerlebnis an unterschiedliche Ziele anpassen. Sehen wir uns an, wie sich die einzelnen Kursarten unterscheiden und welche spezifischen Möglichkeiten sie bieten.
 
 \
-Note - Random Life was discussed above.
+Hinweis: Random Life wurde bereits besprochen.
 
-## **Specific Country**
+## **Spezifisches Land**
 
 <figure><img src="../.gitbook/assets/Untitled design(20).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** admins can select a specific country for all students to be born in. This is perfect for in-depth explorations of that country’s culture, economy, or societal issues. This class type supports a focused, deep dive into specific countries, ideal for geography, economics, or social studies lessons.
-* **Purpose:** Ideal for lessons that require detailed exploration of a particular region.
-* **Action:** Click the **Create** button to begin setting up your Specific Country class.
+* **Beschreibung:** Administratoren können für alle Schüler ein bestimmtes Geburtsland auswählen. Dies eignet sich ideal für eine eingehende Auseinandersetzung mit der Kultur, Wirtschaft oder gesellschaftlichen Themen dieses Landes. Dieser Unterrichtstyp ermöglicht eine fokussierte, tiefgehende Auseinandersetzung mit bestimmten Ländern und eignet sich ideal für den Geographie-, Wirtschafts- oder Sozialkundeunterricht.
+* **Zweck:** Ideal für Unterrichtseinheiten, die eine detaillierte Erkundung einer bestimmten Region erfordern.
+* **Aktion:** Klicken Sie auf die Schaltfläche **Erstellen**, um mit der Einrichtung Ihres Länderder Klasse  zu beginnen.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-03 182221.png" alt=""><figcaption></figcaption></figure>
 
-In the **Specific Country** class, admins can select a specific country where all students will be born. This allows for focused exploration of that country’s culture, economy, and societal issues.
+Im Klasse **Bestimmtes Land** können Administratoren ein bestimmtes Land auswählen, in dem alle Schüler geboren werden. Dies ermöglicht eine gezielte Auseinandersetzung mit der Kultur, Wirtschaft und den gesellschaftlichen Themen dieses Landes.
 
-* **Choosing a Country:** After selecting **Specific Country** as the class type, use the dropdown menu to select the country for your students to be born in.
+* **Land auswählen:** Nachdem Sie **Bestimmtes Land** als Kurstyp ausgewählt haben, wählen Sie über das Dropdown-Menü das Land aus, in dem Ihre Schüler geboren werden sollen.
 
-Apart from selecting a country, the rest of the class creation flow remains the same as the **Random Life** process. Please refer to the **Random Life** flow above for detailed steps on setting up class details, editing board sections, and adding students and teachers/professors.
+Abgesehen von der Länderauswahl entspricht der restliche Ablauf der Kurserstellung dem von **Random Life**. Detaillierte Schritte zum Einrichten der Kursdetails, Bearbeiten von Board-Abschnitten und Hinzufügen von Schülern und Lehrkräften/Professoren finden Sie oben im **Random Life**-Ablauf.
 
-## **Life with SDG**
+## **Leben mit SDG**
 
 <figure><img src="../.gitbook/assets/Untitled design(21).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** In this class, students choose a country but are tied to a specific **Sustainable Development Goal (SDG)**, such as poverty, inequality, or climate action.
-* **Purpose:** This is the most impactful class type for global citizenship, SDG-based learning, and encouraging solutions for global challenges.
-* **Action:** Click the **Create** button to start designing your SDG-based class.
+* **Beschreibung:** In diesem Klasse wählen die Schüler ein Land, sind aber an ein bestimmtes **Nachhaltiges Entwicklungsziel (SDG)** gebunden, wie z. B. Armut, Ungleichheit oder Klimaschutz.
+* **Zweck:** Dies ist die wirkungsvollste Kursart für Weltbürgertum, SDG-basiertes Lernen und die Förderung von Lösungen für globale Herausforderungen.
+* **Aktion:** Klicken Sie auf die Schaltfläche **Erstellen**, um mit der Gestaltung Ihres SDG-basierten der Klasse  zu beginnen.
 
 <figure><img src="../.gitbook/assets/Untitled design(22).png" alt=""><figcaption></figcaption></figure>
 
-In the **Life with SDG** class, the admin selects one of the 17 Sustainable Development Goals (SDGs) to guide the focus of the class. After choosing a goal (e.g., **Climate Action**, **No Poverty**), students can:
+Im Klasse „Leben mit den SDGs“ wählt die Schulleitung eines der 17 Ziele für nachhaltige Entwicklung (SDGs) aus, um den Fokus des der Klasse  zu bestimmen. Nach der Wahl eines Ziels (z. B. „Maßnahmen zum Klimaschutz“ oder „Keine Armut“) können die Schüler:
 
-* Select any country to live in.
-* Explore how the chosen SDG affects life in different regions.
-* Engage with global challenges in a structured yet flexible way.
+* ein beliebiges Land auswählen, in dem sie leben möchten.
+* untersuchen, wie sich das gewählte SDG auf das Leben in verschiedenen Regionen auswirkt.
+* sich strukturiert und dennoch flexibel mit globalen Herausforderungen auseinandersetzen.
 
-Once the admin sets the main SDG, students can further customize their experience by:
+Nachdem die Schulleitung das Haupt-SDG festgelegt hat, können die Schüler ihre Lernerfahrung weiter anpassen, indem sie:
 
-* Choosing specific sub-goals related to the main SDG (e.g., access to healthcare under **Good Health and Well-Being**).
-* Understanding how these challenges play out in various countries.
+* spezifische Unterziele im Zusammenhang mit dem Haupt-SDG auswählen (z. B. Zugang zur Gesundheitsversorgung im Rahmen von „Gesundheit und Wohlbefinden“);
+* verstehen, wie sich diese Herausforderungen in verschiedenen Ländern auswirken.
 
-This class type combines real-world global issues with student freedom, allowing them to explore the impact of SDGs in different contexts. Rest of the class creation flow remains the same.
+Dieser Kurstyp verbindet reale globale Probleme mit der Freiheit der Schüler und ermöglicht ihnen, die Auswirkungen der SDGs in verschiedenen Kontexten zu untersuchen. Der restliche Ablauf der Kurserstellung bleibt unverändert.
 
-## **Assignments**
+## **Aufgaben**
 
 <figure><img src="../.gitbook/assets/Untitled design(23).png" alt=""><figcaption></figcaption></figure>
 
-* **Description:** Custom assignments based on topics like economics, culture, history, or any subject of choice. Admins can tailor the class experience by assigning specific objectives, allowing students to engage with RealLives based on curriculum needs.
-* **Purpose:** Best for highly customizable learning experiences focused on specific curriculum requirements.
-* **Action:** Click the **Create** button to begin setting up your Assignment class.
+* **Beschreibung:** Individuelle Aufgaben zu Themen wie Wirtschaft, Kultur, Geschichte oder einem beliebigen Fach. Administratoren können das Unterrichtserlebnis durch die Zuweisung spezifischer Ziele anpassen, sodass die Schüler RealLives je nach Lehrplanbedarf nutzen können.
+* **Zweck:** Ideal für individuell anpassbare Lernerfahrungen, die auf spezifische Lehrplananforderungen ausgerichtet sind.
+* **Aktion:** Klicken Sie auf die Schaltfläche **Erstellen**, um mit der Einrichtung Ihres Aufgabender Klasse  zu beginnen.
 
 <div><figure><img src="../.gitbook/assets/Untitled design(25).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Untitled design(26).png" alt=""><figcaption></figcaption></figure></div>
 
-For the **Assignments** class type, the process is as follows:
 
-* **Step 1: Choosing a Subject:** The school/university admin starts by selecting a subject from the available categories (e.g., **Human Geography**, **Economics**, **Environment & Ecology**). This subject will form the basis of the assignment and guide the learning focus.
-* **Step 2: Selecting an Assignment:** After selecting a subject, the admin will choose a specific assignment from a list. These assignments are linked to particular countries based on the chosen subject (e.g., “Be born in a country with the largest population” or “Be born in a country with the lowest girl education”).
-* **Step 3: Students' Experience:** Once the assignment is set, students will experience life in the country linked to the selected assignment, enabling them to explore the challenges and dynamics specific to that country.
+Für den Kurstyp „Aufgaben“ läuft der Ablauf wie folgt ab:
 
-This approach allows the admin to align assignments with learning objectives while offering students a focused, country-specific simulation. Rest of the class creation flow remains the same.
+* **Schritt 1: Fachauswahl:** Die Schul-/Universitätsleitung wählt zunächst ein Fach aus den verfügbaren Kategorien aus (z. B. **Humangeographie**, **Wirtschaft**, **Umwelt & Ökologie**). Dieses Fach bildet die Grundlage der Aufgabe und gibt den Lernschwerpunkt vor.
+* **Schritt 2: Aufgabenauswahl:** Nach der Fachauswahl wählt die Leitung eine spezifische Aufgabe aus einer Liste aus. Diese Aufgaben sind je nach gewähltem Thema mit bestimmten Ländern verknüpft (z. B. „In einem Land mit der größten Bevölkerung geboren werden“ oder „In einem Land mit der niedrigsten Mädchenbildung geboren werden“).
+* **Schritt 3: Schülererfahrung:** Sobald die Aufgabe festgelegt ist, erleben die Schüler das Leben in dem mit der ausgewählten Aufgabe verknüpften Land und können so die landesspezifischen Herausforderungen und Dynamiken erkunden.
+
+Dieser Ansatz ermöglicht es der Leitung, die Aufgaben an den Lernzielen auszurichten und den Schülern gleichzeitig eine zielgerichtete, länderspezifische Simulation zu bieten. Der restliche Ablauf der Kurserstellung bleibt unverändert.
