@@ -1,77 +1,77 @@
 ---
-description: >-
-  We previously saw how the Home Page functions and what features it provides.
-  Now, let's take a dive into all the features it has to offer, one by one.
-cover: >-
+Beschreibung: >-
+  Wir haben bereits gesehen, wie die Startseite funktioniert und welche Funktionen sie bietet.
+Sehen wir uns nun alle Funktionen einzeln an.
+Cover: >-
   https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYW5hZ2V8ZW58MHx8fHwxNzA5MjA4Nzg4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Managing Teachers/Professors
+# Leitung von Lehrkräften/Professoren
 
-### Point to know - Adding or removing Teachers/Professors will not affect the Licenses. Teachers/Professors and School admins can use the game for free, they won't take up any licenses. Only students will take up licenses.
+### Wichtig: Das Hinzufügen oder Entfernen von Lehrkräften/Professoren hat keine Auswirkungen auf die Lizenzen. Lehrkräfte/Professoren und Schuladministratoren können das Spiel kostenlos nutzen und benötigen keine Lizenzen. Nur Schüler benötigen Lizenzen.
 
-Once on home page, you can scroll down to see the Teachers/Professors section under School Management and Data.
+Auf der Startseite finden Sie unter „Schulverwaltung und Daten“ den Bereich „Lehrkräfte/Professoren“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121407.png" alt=""><figcaption></figcaption></figure>
 
-When you click on **Teachers**, a page like this will open up -
+Wenn Sie auf **Lehrer** klicken, öffnet sich eine Seite wie diese -
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121510.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:blue;">1. Import Teachers/Professors -</mark>
+### <mark style="background-color:blue;">1. Lehrer/Professoren importieren -</mark>
 
-Should be used when adding multiple Teachers/Professors.
+Sollte verwendet werden, wenn mehrere Lehrer/Professoren hinzugefügt werden.
 
-Once you click on it, a page like so will be opened -
+Nach dem Anklicken öffnet sich eine Seite wie diese:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121620.png" alt=""><figcaption></figcaption></figure>
 
-### Step 1 -
+### Schritt 1 -
 
-First click on the red button which will download a sample excel sheet like this -
+Klicken Sie zunächst auf den roten Button, um eine Beispiel-Excel-Tabelle wie diese herunterzuladen:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-29 133549.png" alt=""><figcaption></figcaption></figure>
 
-This is how the sample excel sheet will look like, as you can see there are 6 columns Firstname, Lastname, Age, Gender, e-mail and Designation. For reference we have already added information of two Teachers/Professors. All you have to do is fill the information of the Teachers/Professors you wish to add to the game. Once you add their information, save this excel sheet.
+So sieht die Beispiel-Excel-Tabelle aus: Sie enthält sechs Spalten: Vorname, Nachname, Alter, Geschlecht, E-Mail-Adresse und Berufsbezeichnung. Zur Orientierung haben wir bereits die Informationen von zwei Lehrern/Professoren hinzugefügt. Tragen Sie nun die Informationen der Lehrer/Professoren ein, die Sie zum Spiel hinzufügen möchten. Speichern Sie anschließend die Excel-Tabelle.
 
-### Step 2 -
+### Schritt 2 -
 
-Click on the Browse button which is highlighted by white colour just below the red button. After doing this a page like this will open up.
+Klicken Sie auf die weiß hervorgehobene Schaltfläche „Durchsuchen“ direkt unter dem roten Button. Daraufhin öffnet sich eine Seite wie diese.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121748.png" alt=""><figcaption></figcaption></figure>
 
-All you have to do is to select the Excel file in which you have filled the information about the Teachers/Professors. Once done, then click on the Save button situated below the browse button. You will get Teachers/Professor Import Successful Prompt.
+Wählen Sie einfach die Excel-Datei aus, in die Sie die Informationen zu den Lehrkräften/Professoren eingetragen haben. Klicken Sie anschließend auf „Speichern“ unter der Schaltfläche „Durchsuchen“. Sie erhalten die Meldung „Import der Lehrkräfte/Professoren erfolgreich“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122100.png" alt=""><figcaption></figcaption></figure>
 
-Now the Teachers/Professors who were in the list will receive unique links on their e-mails, all they have to do is click those links and register themselves on RealLives. Their e-mail would be the username. Their default password will be 'password' for logging in. Teachers/Professors are recommended to change their password by going to the My Account section in the top right corner.
+Die in der Liste aufgeführten Lehrkräfte/Professoren erhalten nun individuelle Links per E-Mail. Klicken Sie einfach auf diese Links und registrieren Sie sich bei RealLives. Ihre E-Mail-Adresse ist Ihr Benutzername. Ihr Standardpasswort für die Anmeldung lautet „Passwort“. Wir empfehlen Lehrkräften/Professoren, ihr Passwort im Bereich „Mein Konto“ oben rechts zu ändern.
 
-You can view the Teachers/Professors by going to the view Teachers/Professors tab. Refer to the last slide below.
+Sie können die Lehrkräfte/Professoren unter „Lehrkräfte/Professoren anzeigen“ einsehen. Siehe letzte Folie unten.
 
 ### <mark style="background-color:red;">Note -</mark>
 
-Make sure you enter e-mails which have not been previously registered on RealLives. If you enter e-mails which have already been registered, you will get such a prompt -
+Stellen Sie sicher, dass Sie E-Mails eingeben, die noch nicht bei RealLives registriert sind. Wenn Sie bereits registrierte E-Mails eingeben, erhalten Sie eine solche Eingabeaufforderung -
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 121942.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="background-color:blue;">2. Add Single Teacher/Professor -</mark>
+### <mark style="background-color:blue;">2. Einzelnen Lehrer/Professor hinzufügen-</mark>
 
-Once you click on this, you will get the following page, fill all necessary information and save it. The username will be used to log in. The password can be later on changed by the Teacher/Professor.
+Sobald Sie darauf klicken, gelangen Sie zur folgenden Seite. Füllen Sie alle erforderlichen Informationen aus und speichern Sie diese. Der Benutzername dient zur Anmeldung. Das Passwort kann später vom Dozenten/Professor geändert werden.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122214.png" alt=""><figcaption></figcaption></figure>
 
-You can view if the Teacher/Professor has been added by going to the view Teachers/Professors tab. Refer to the last slide below.
+Sie können sehen, ob der Lehrer/Professor hinzugefügt wurde, indem Sie auf die Registerkarte „Lehrer/Professoren anzeigen“ gehen. Siehe letzte Folie unten.
 
 ### <mark style="background-color:blue;">3. View Teachers/Professors list -</mark>
 
-**You can view the Teachers/Professors list by clicking on this.**
+**Durch Anklicken können Sie die Liste der Lehrer/Professoren einsehen.**
 
-**Special Features -**
+**Besonderheiten  -**
 
-1. You can make any Teacher/Professor a school admin by clicking on the hand icon in their specific row.
-2. You can edit the Teachers/Professor's information by clicking on the pen icon in their specific row.
-3. You can also check the assignments and classes given by the Teachers/Professor by clicking on the semi-circular icon in their specific row.
-4. You can also export the list. Button is situated at the top and also reload or refresh the page.
+1. Sie können jeden Lehrer/Professor zum Schuladministrator machen, indem Sie auf das Handsymbol in der entsprechenden Zeile klicken.
+2. Sie können die Informationen des Lehrers/Professors bearbeiten, indem Sie auf das Stiftsymbol in der entsprechenden Zeile klicken.
+3. Sie können die von den Lehrern/Professoren erteilten Aufgaben und Kurse einsehen, indem Sie auf das halbrunde Symbol in der entsprechenden Zeile klicken.
+4. Sie können die Liste auch exportieren. Die Schaltfläche befindet sich oben und ermöglicht das Neuladen oder Aktualisieren der Seite.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-04 122239.png" alt=""><figcaption></figcaption></figure>
