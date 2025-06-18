@@ -19,30 +19,30 @@ layout:
 
 # Einführung
 
-### Introduction to RealLives Simulation
+### Einführung in die RealLives-Simulation
 
-RealLives is a gamified simulation that allows you to experience the diversity and complexity of life. In this simulation, you can challenge countless unpredictable scenarios that may occur throughout a lifetime, from birth to death.
+RealLives ist eine spielerische Simulation, die Ihnen die Vielfalt und Komplexität des Lebens näherbringt. In dieser Simulation können Sie unzählige unvorhersehbare Szenarien erleben, die im Laufe eines Lebens – von der Geburt bis zum Tod – auftreten können.
 
-In RealLives, you can play billions of unique lives across various cultures and countries worldwide!
+In RealLives können Sie Milliarden einzigartiger Leben aus verschiedenen Kulturen und Ländern weltweit spielen!
 
-As a teacher/professor, you can select the life you wish to experience and start the game by clicking the 'Live a Life' button. Try the demo game below.
-
-***
-
-### Purpose of the Dashboard
-
-The RealLives Simulation Dashboard is a powerful tool for teachers/professors. This dashboard serves as a central interface to manage classes, monitor student progress, and align simulations with educational goals like the Sustainable Development Goals (SDGs). The dashboard bridges technology and learning, enhancing student engagement and global citizenship education through data-driven insights.
+Als Lehrkraft/Professor/in können Sie das gewünschte Leben auswählen und das Spiel mit einem Klick auf „Leben erleben“ starten. Testen Sie die Demo unten.
 
 ***
 
-### Key Features Overview
+### Zweck des Dashboards
 
-The RealLives Simulation Dashboard offers a variety of features to streamline management and improve learning outcomes:
+Das RealLives-Simulations-Dashboard ist ein leistungsstarkes Tool für Lehrkräfte/Professor/innen. Es dient als zentrale Schnittstelle zur Verwaltung von Lehrveranstaltungen, zur Überwachung des Lernfortschritts und zur Ausrichtung der Simulationen an Bildungszielen wie den Zielen für nachhaltige Entwicklung (SDGs). Das Dashboard verbindet Technologie und Lernen und fördert das Engagement der Studierenden sowie die Förderung globaler Bürgerschaft durch datenbasierte Erkenntnisse.
 
-* **My Journey:** View game data, track progress, and analyze simulation trends based on geography and gender.
-* **RealBoard Integration:** Connect RealLives Simulation with RealBoard to provide a collaborative platform for student interaction and shared reflections.
-* **Class Management:** Easily create, monitor, and manage global citizenship classes while assigning customized tasks.
-* **World Data + SDG Tools:** Access global datasets and enrich educational experiences by linking simulations with SDGs.
-* **Feedback & Support:** Report bugs, provide feedback, and access user guides for seamless platform use.
+***
+
+### Übersicht der wichtigsten Funktionen
+
+Das RealLives Simulation Dashboard bietet eine Vielzahl von Funktionen zur Optimierung des Managements und zur Verbesserung der Lernergebnisse:
+
+* **Meine Reise:** Sehen Sie sich Spieldaten an, verfolgen Sie Ihren Lernfortschritt und analysieren Sie Simulationstrends basierend auf geografischer Lage und Geschlecht.
+* **RealBoard-Integration:** Verbinden Sie RealLives Simulation mit RealBoard, um eine kollaborative Plattform für die Interaktion und gemeinsame Reflexion der Schüler zu schaffen.
+* **Klassenverwaltung:** Erstellen, überwachen und verwalten Sie ganz einfach Kurse zum Thema Weltbürgerschaft und weisen Sie individuelle Aufgaben zu.
+* **Weltdaten- und SDG-Tools:** Greifen Sie auf globale Datensätze zu und bereichern Sie Lernerlebnisse, indem Sie Simulationen mit den SDGs verknüpfen.
+* **Feedback und Support:** Melden Sie Fehler, geben Sie Feedback und greifen Sie auf Benutzerhandbücher zu, um die Plattform reibungslos nutzen zu können.
 
 ***
