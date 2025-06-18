@@ -1,10 +1,8 @@
 ---
-description: >-
-  Let us know how we can improve this manual through the Google Form below.
+Beschreibung: >-
+  Teilen Sie uns mit, wie wir dieses Handbuch verbessern können, indem Sie das untenstehende Google-Formular ausfüllen.
 ---
 
-# Manual Feedback
+# Feedback zu diesem Handbuch
 
-We value your feedback! If you have suggestions for improving this manual or wish to report an issue, please click the link below to access the feedback form:
-
-{% embed url="https://forms.gle/2FWURwdY1uuEbqNy7" %}
+{% embed url="https://forms.gle/YQUz55Aou7m4JpHX6" %}
